@@ -1,7 +1,7 @@
-# Product Scope — OLAA Language
+# Product Scope — Olaa Language
 
 ## Purpose
-Define the exact ownership and boundaries of OLAA Language.
+Define the exact ownership and boundaries of Olaa Language.
 
 ## IN SCOPE
 - Language curriculum
@@ -27,13 +27,13 @@ Define the exact ownership and boundaries of OLAA Language.
 - Shared identity provider implementation
 
 ## INTEGRATIONS
-- OLAA ID for authentication
-- OLAA Note for linked learning notes
-- OLAA Habit for study habit tracking
+- Olaa Identity (`olaa-platform`, branch 00.03) for authentication
+- Olaa TakeNote for linked learning notes
+- Olaa Habits for study habit tracking
 
 ## BOUNDARY RULE
-OLAA Language owns language-learning domain data.
-Other applications must not directly modify OLAA Language data.
+Olaa Language owns language-learning domain data.
+Other applications must not directly modify Olaa Language data.
 
 ## CHANGE CONTROL
 Any scope expansion must be documented and approved before implementation.

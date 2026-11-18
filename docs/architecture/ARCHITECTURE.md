@@ -1,4 +1,4 @@
-# Architecture — OLAA Language
+# Architecture — Olaa Language
 
 ## 1. Architecture Principles
 - Independent application
@@ -39,7 +39,7 @@ Persistence must be accessed through repository abstractions.
 Components must not access database storage directly.
 
 ## 7. Authentication
-Authentication is delegated to OLAA ID through approved integration contracts.
+Authentication is delegated to Olaa Identity (`olaa-platform`, branch 00.03) through approved integration contracts.
 
 ## 8. Failure Isolation
 Optional integrations must not prevent core application usage.

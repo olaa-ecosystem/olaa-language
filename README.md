@@ -1,7 +1,7 @@
-# OLAA Language
+# Olaa Language
 
 ## 1. Overview
-OLAA Language is an independent language-learning application within the OLAA ecosystem.
+Olaa Language is an independent language-learning application within the Olaa ecosystem.
 
 ## 2. Mission
 Provide a structured, measurable, and comprehensive language-learning environment.
@@ -20,13 +20,13 @@ Provide a structured, measurable, and comprehensive language-learning environmen
 - Progress tracking and analytics
 
 ## 4. Repository Independence
-OLAA Language must remain independently buildable, testable, deployable, and maintainable.
+Olaa Language must remain independently buildable, testable, deployable, and maintainable.
 
 ## 5. Ecosystem Integration
-- OLAA ID: shared identity
-- OLAA API: shared platform access
-- OLAA Note: optional note integration
-- OLAA Habit: optional habit integration
+- Olaa Identity (`olaa-platform`, branch 00.03): shared identity
+- Olaa Platform API (`olaa-platform`): shared platform access
+- Olaa TakeNote: optional note integration
+- Olaa Habits: optional habit integration
 
 ## 6. Technology Stack
 See docs/architecture/TECH_STACK.md
@@ -42,3 +42,6 @@ See SECURITY.md and docs/security/
 
 ## 10. Status
 Pre-development foundation stage.
+
+## Olaa ecosystem
+Kiến trúc 22 nhánh, ADR, Module Registry và contract dùng chung nằm ở [`olaa-platform`](https://github.com/olaa-ecosystem/olaa-platform). Hướng dẫn cho Claude Code: `CLAUDE.md`.
