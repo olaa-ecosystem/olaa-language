@@ -1,21 +1,39 @@
 # Product Scope — OLAA Language
 
 ## Purpose
-Independent language-learning platform
+Define the exact ownership and boundaries of OLAA Language.
 
-## In scope
-Curriculum, lessons, vocabulary, grammar, skills practice, flashcards/SRS, assessments, revision, learning progress and analytics.
+## IN SCOPE
+- Language curriculum
+- Lesson delivery
+- Vocabulary
+- Grammar
+- Language skills
+- Exercises and assessments
+- Flashcards and SRS
+- Learning progress
+- Study sessions
+- Learning analytics
+- Mistake review
+- Learning preferences
 
-## Out of scope
-Full notebook editor, freeform canvas/PDF annotation, general-purpose habit tracker.
+## OUT OF SCOPE
+- Full notebook editor
+- Freeform handwriting canvas
+- PDF annotation workspace
+- General-purpose habit tracking
+- General-purpose routine planner
+- Cross-app account management
+- Shared identity provider implementation
 
-## Integrations
-- OLAA ID: shared authentication (contract pending).
-- OLAA API/Core: shared platform services (contracts pending).
-- Other OLAA products: optional integrations only through approved contracts.
+## INTEGRATIONS
+- OLAA ID for authentication
+- OLAA Note for linked learning notes
+- OLAA Habit for study habit tracking
 
-## Boundary rule
-This repository owns its product domain. Other products must not directly modify its data or import its internal implementation.
+## BOUNDARY RULE
+OLAA Language owns language-learning domain data.
+Other applications must not directly modify OLAA Language data.
 
-## Scope change process
-Changes to scope must be reviewed and documented before implementation.
+## CHANGE CONTROL
+Any scope expansion must be documented and approved before implementation.

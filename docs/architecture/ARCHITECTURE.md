@@ -1,35 +1,48 @@
-# Architecture
+# Architecture — OLAA Language
 
-## Status
-Draft — foundation only; no implementation is implied.
+## 1. Architecture Principles
+- Independent application
+- Domain-driven module boundaries
+- Type-safe code
+- API-first integration
+- Offline-aware
+- Secure by default
+- Testable
+- Accessible
+- Maintainable
+- Incremental migration
 
-## Principles
-- Independent build, test, deployment, and release.
-- Domain-owned modules; no feature-to-feature internal coupling.
-- Typed contracts for API and cross-product integration.
-- Secure by default, accessible, observable, testable.
-- Local/offline behavior and sync semantics are explicitly designed, not assumed.
+## 2. Application Layers
 
-## System context
-Describe actors, app boundaries, external systems, and OLAA shared-platform responsibilities.
+Presentation Layer
+    ↓
+Feature Layer
+    ↓
+Application Services
+    ↓
+Domain Logic
+    ↓
+Infrastructure / API / Persistence
 
-## Application layers
-Presentation → Feature/Application logic → Domain → Infrastructure adapters.
+## 3. Domain Boundaries
+Each feature owns its components, types, services, state, and tests.
 
-## Module boundaries
-See `MODULES.md`.
+## 4. Cross-feature Communication
+Features communicate through explicit interfaces.
+Direct access to internal feature state is prohibited.
 
-## Data and persistence
-See `docs/data/DATA_OWNERSHIP.md`. No production schema or migration is defined yet.
+## 5. External Integration
+All external communication is performed through typed service adapters.
 
-## API and integrations
-See `docs/api/API_CONTRACTS.md`. Integrations must be optional where possible and failure-isolated.
+## 6. Persistence
+Persistence must be accessed through repository abstractions.
+Components must not access database storage directly.
 
-## Security
-See `docs/security/SECURITY_BASELINE.md`.
+## 7. Authentication
+Authentication is delegated to OLAA ID through approved integration contracts.
 
-## Deployment and environments
-See `docs/operations/ENVIRONMENTS.md`.
+## 8. Failure Isolation
+Optional integrations must not prevent core application usage.
 
-## Decisions
-Architecture changes require ADRs in `docs/decisions/`.
+## 9. Architecture Changes
+Breaking or major architecture changes require an Architecture Decision Record.

@@ -1,42 +1,43 @@
 # OLAA Language
 
-Independent language-learning platform — bite-sized, gamified lessons with ten animal
-study buddies.
+## 1. Overview
+OLAA Language is an independent language-learning application within the OLAA ecosystem.
+Bite-sized, gamified lessons guided by ten animal study buddies (bear, cat, dog, elephant,
+fish, frog, giraffe, rabbit, turtle, whale).
 
-## Product scope
-- **In scope:** Curriculum, lessons, vocabulary, grammar, skills practice, flashcards/SRS, assessments, revision, learning progress and analytics.
-- **Out of scope:** Full notebook editor, freeform canvas/PDF annotation, general-purpose habit tracker.
+## 2. Mission
+Provide a structured, measurable, and comprehensive language-learning environment.
 
-## Repository status
-MVP web app (pre-release). Progress is stored locally in the browser; accounts and sync
-are not implemented yet. See `docs/decisions/ADR-001-mvp-web-stack.md`.
+## 3. Product Scope
+- Structured curriculum
+- Lessons and learning pathways
+- Vocabulary management
+- Grammar
+- Listening
+- Reading
+- Speaking
+- Writing
+- Flashcards and spaced repetition
+- Assessment and revision
+- Progress tracking and analytics
 
-### What works
-- **Courses:** English for Vietnamese speakers, Vietnamese for English speakers.
-- **Learning path:** 3 units, 9 lessons, unlocked in order, each replayable up to level 5.
-- **Exercises:** select the meaning, pick the picture, build a sentence from tiles,
-  type the translation, listen & build, match pairs. Lenient grading for missing accents
-  and one-letter typos.
-- **Motivation:** hearts (refill 1 per 30 min), XP, daily goal, day streak.
-- **Practice hub:** fix mistakes, spaced-repetition flashcards, quick mixed practice —
-  each earns a heart back.
-- **Profile:** stats, weekly XP chart, change buddy, daily goal, course, sound, reset.
-- **Accessible:** keyboard shortcuts (1–4 for answers, Enter to check/continue), labels,
-  focus styles, reduced-motion support, light/dark themes, desktop to phone layouts.
+## 4. Repository Independence
+OLAA Language must remain independently buildable, testable, deployable, and maintainable.
 
-## Development setup
-Requires Node 20+ and pnpm 9 (`npm i -g pnpm@9` or `npx pnpm@9 …`).
+## 5. Ecosystem Integration
+- OLAA ID: shared identity
+- OLAA API: shared platform access
+- OLAA Note: optional note integration
+- OLAA Habit: optional habit integration
 
-```bash
-pnpm install
-pnpm dev          # http://localhost:5173
-pnpm test         # unit + integration tests
-pnpm lint
-pnpm typecheck
-pnpm build        # static site in dist/ (deployable to any static host)
-```
+## 6. Technology Stack
+See docs/architecture/TECH_STACK.md and docs/decisions/ADR-001-mvp-web-stack.md
+(React 18 + Vite 5 + strict TypeScript, pnpm, Vitest, ESLint, Prettier).
 
-## Project layout
+## 7. Architecture
+See docs/architecture/ARCHITECTURE.md
+
+### Project layout
 ```
 src/
   app/                 App root, shell, hash router
@@ -55,18 +56,37 @@ src/
 tests/integration/     App-level tests
 ```
 
-### Mascot artwork
-The ten buddies ship as SVG components. To use original artwork files, drop
-`bear.png`, `cat.png`, … into `src/assets/mascots/` — they replace the SVGs automatically.
+## 8. Development
+Requires Node 20+ and pnpm 9 (`npm i -g pnpm@9` or `npx pnpm@9 …`).
 
-## Start here
-1. Read `docs/product/SCOPE.md`.
-2. Read `docs/architecture/ARCHITECTURE.md` and `TECH_STACK.md`.
-3. Review `docs/engineering/AI_AGENT_RULES.md` before using an AI coding agent.
-4. Review the roadmap and requirements register.
+```bash
+pnpm install
+pnpm dev          # http://localhost:5173
+pnpm test         # unit + integration tests
+pnpm lint
+pnpm typecheck
+pnpm build        # static site in dist/ (deployable to any static host)
+```
 
-## Security
-See `SECURITY.md` and `docs/security/SECURITY_BASELINE.md`.
+Mascot artwork: the buddies ship as SVG components. Drop original files named
+`bear.png`, `cat.png`, … into `src/assets/mascots/` to replace them automatically.
 
-## Contributing
-See `CONTRIBUTING.md`.
+See CONTRIBUTING.md for workflow rules.
+
+## 9. Security
+See SECURITY.md and docs/security/
+
+## 10. Status
+MVP web app (pre-release). Progress is stored locally in the browser; OLAA ID sign-in and
+sync are not implemented yet.
+
+Implemented:
+- **Courses:** English for Vietnamese speakers, Vietnamese for English speakers.
+- **Learning path:** 3 units, 9 lessons, unlocked in order, replayable up to level 5.
+- **Exercises:** select meaning, pick picture, build sentence from tiles, type translation,
+  listen & build, match pairs — lenient on missing accents and one-letter typos.
+- **Motivation:** hearts (refill 1 per 30 min), XP, daily goal, day streak.
+- **Practice hub:** fix mistakes, spaced-repetition flashcards, quick practice.
+- **Profile:** stats, weekly XP chart, buddy, daily goal, course, sound, reset.
+- **Accessibility:** keyboard shortcuts, labels, focus styles, reduced motion, light/dark
+  themes, desktop to phone layouts.
