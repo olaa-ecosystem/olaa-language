@@ -5,6 +5,9 @@
 import type { AppState } from '../stores/appState';
 import type { DayKey } from '../utils/date';
 
+/** Envelope version written with every event (contract: envelope v1). */
+export const EVENT_VERSION = 1;
+
 export type LanguageEvent =
   | {
       type: 'language.daily_goal.completed';
@@ -65,4 +68,16 @@ export function eventId(uid: string, event: LanguageEvent): string {
   return event.type === 'language.daily_goal.completed'
     ? `${uid}_${event.type}_${event.date}`
     : `${uid}_${event.type}_${event.payload.courseId}_${event.payload.lessonId}`;
+}
+
+/** The Firestore document for an event: envelope v1 around the event (contract shape). */
+export function eventDocument(uid: string, event: LanguageEvent, now: number) {
+  return {
+    id: eventId(uid, event),
+    version: EVENT_VERSION,
+    ...event,
+    userId: uid,
+    occurredAt: now,
+    source: 'language' as const,
+  };
 }

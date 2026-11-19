@@ -1,6 +1,7 @@
 import { useState, type FormEvent } from 'react';
 import {
   createAccountWithEmail,
+  sendPasswordReset,
   signInWithEmail,
   signInWithGoogle,
   signOutAndClear,
@@ -17,7 +18,8 @@ const STATUS_TEXT: Partial<Record<SyncStatus, string>> = {
 /** Olaa ID sign-in and sync status. Renders nothing when Firebase is not configured. */
 export function AccountCard({ intro }: { intro?: string }) {
   const account = useAccount();
-  const [mode, setMode] = useState<'signin' | 'create'>('signin');
+  const [mode, setMode] = useState<'signin' | 'create' | 'reset'>('signin');
+  const [notice, setNotice] = useState<string | null>(null);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [busy, setBusy] = useState(false);
@@ -28,6 +30,7 @@ export function AccountCard({ intro }: { intro?: string }) {
   const act = async (action: () => Promise<string | null>) => {
     setBusy(true);
     setError(null);
+    setNotice(null);
     const message = await action();
     setBusy(false);
     setError(message);
@@ -56,6 +59,17 @@ export function AccountCard({ intro }: { intro?: string }) {
 
   const onSubmit = (e: FormEvent) => {
     e.preventDefault();
+    if (mode === 'reset') {
+      void act(async () => {
+        const message = await sendPasswordReset(email);
+        if (!message)
+          setNotice(
+            `If ${email.trim()} has an Olaa ID, a link to set a new password is on its way. Check your inbox and spam folder.`,
+          );
+        return message;
+      });
+      return;
+    }
     void act(() =>
       mode === 'signin'
         ? signInWithEmail(email, password)
@@ -87,31 +101,56 @@ export function AccountCard({ intro }: { intro?: string }) {
             onChange={(e) => setEmail(e.target.value)}
           />
         </label>
-        <label className="field">
-          <span>Password</span>
-          <input
-            type="password"
-            autoComplete={mode === 'signin' ? 'current-password' : 'new-password'}
-            minLength={6}
-            required
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </label>
+        {mode !== 'reset' && (
+          <label className="field">
+            <span>Password</span>
+            <input
+              type="password"
+              autoComplete={mode === 'signin' ? 'current-password' : 'new-password'}
+              minLength={6}
+              required
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+            />
+          </label>
+        )}
         <button type="submit" className="btn btn--ghost btn--block" disabled={busy}>
-          {mode === 'signin' ? 'Sign in with email' : 'Create account'}
+          {mode === 'signin'
+            ? 'Sign in with email'
+            : mode === 'create'
+              ? 'Create account'
+              : 'Send reset link'}
         </button>
       </form>
+      {mode === 'signin' && (
+        <button
+          type="button"
+          className="link-btn"
+          onClick={() => {
+            setMode('reset');
+            setError(null);
+            setNotice(null);
+          }}
+        >
+          Forgot password?
+        </button>
+      )}
       <button
         type="button"
         className="link-btn"
         onClick={() => {
           setMode(mode === 'signin' ? 'create' : 'signin');
           setError(null);
+          setNotice(null);
         }}
       >
-        {mode === 'signin' ? 'New here? Create an account' : 'Already have an account? Sign in'}
+        {mode === 'signin' ? 'New here? Create an account' : 'Back to sign in'}
       </button>
+      {notice && (
+        <p className="small muted" role="status">
+          {notice}
+        </p>
+      )}
       {error && (
         <p className="small account-card__error" role="alert">
           {error}
