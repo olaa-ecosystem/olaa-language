@@ -1,7 +1,7 @@
+import type { SpeechLang } from '../../../utils/speech';
 import { useEffect, useState } from 'react';
 import { speak } from '../../../utils/speech';
 import type { BuildExercise, ListenExercise } from '../../exercises';
-import type { LanguageCode } from '../../../types';
 import { BuddyPrompt, ExerciseTitle, LANGUAGE_NAMES, SpeakButton, type ViewProps } from './common';
 
 function TileBoard({
@@ -12,7 +12,7 @@ function TileBoard({
   onResponse,
 }: {
   tiles: string[];
-  lang: LanguageCode;
+  lang: SpeechLang;
   locked: boolean;
   speakTiles: boolean;
   onResponse: (value: string | null) => void;

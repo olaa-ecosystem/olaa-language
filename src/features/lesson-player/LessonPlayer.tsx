@@ -2,7 +2,8 @@ import { useCallback, useEffect, useState } from 'react';
 import { CloseIcon } from '../../components/Icons';
 import { CHEERS, COMFORTS, Mascot } from '../../components/mascots';
 import { ProgressBar } from '../../components/ui';
-import type { LanguageCode, MascotId } from '../../types';
+import type { MascotId } from '../../types';
+import type { SpeechLang } from '../../utils/speech';
 import { playFeedback } from '../../utils/sound';
 import { gradeExercise, type Exercise, type GradeResult } from '../exercises';
 import { explainMistake, type Explanation } from '../exercises/explain';
@@ -10,6 +11,13 @@ import { PictureView, SelectView } from './exercises/ChoiceViews';
 import { MatchView } from './exercises/MatchView';
 import { BuildView, ListenView } from './exercises/TileViews';
 import { TypeView } from './exercises/TypeView';
+import {
+  ChoiceItemView,
+  DictationView,
+  FreeView,
+  SayView,
+  TextItemView,
+} from './exercises/AuthoredViews';
 import {
   answerCurrent,
   currentExercise,
@@ -25,7 +33,7 @@ import {
 export interface LessonPlayerProps {
   exercises: Exercise[];
   buddy: MascotId;
-  targetLang: LanguageCode;
+  targetLang: SpeechLang;
   mode: 'lesson' | 'practice';
   soundOn: boolean;
   /** Continue a saved session instead of starting fresh (PRD v1.0 §6.1 "resume state"). */
@@ -36,6 +44,8 @@ export interface LessonPlayerProps {
   onCantListen: () => void;
   onComplete: (summary: SessionSummary) => void;
   onQuit: () => void;
+  /** Tests: a wrong answer is final instead of coming back at the end. */
+  noRetry?: boolean;
 }
 
 function skipListening(session: SessionState): SessionState {
@@ -46,7 +56,7 @@ function skipListening(session: SessionState): SessionState {
 
 export function LessonPlayer(props: LessonPlayerProps) {
   const { exercises, buddy, targetLang, mode, soundOn, initialSession } = props;
-  const { onAnswer, onCantListen, onComplete, onQuit, onProgress } = props;
+  const { onAnswer, onCantListen, onComplete, onQuit, onProgress, noRetry } = props;
 
   const [session, setSession] = useState(
     () => initialSession ?? startSession(exercises, Date.now()),
@@ -91,8 +101,8 @@ export function LessonPlayer(props: LessonPlayerProps) {
 
   const proceed = useCallback(() => {
     if (!result) return;
-    advance(answerCurrent(session, result.correct));
-  }, [result, advance, session]);
+    advance(answerCurrent(session, result.correct, !noRetry));
+  }, [result, advance, session, noRetry]);
 
   const cantListen = () => {
     setListenOff(true);
@@ -149,6 +159,11 @@ export function LessonPlayer(props: LessonPlayerProps) {
         {exercise.kind === 'build' && <BuildView exercise={exercise} {...viewProps} />}
         {exercise.kind === 'type' && <TypeView exercise={exercise} {...viewProps} />}
         {exercise.kind === 'match' && <MatchView exercise={exercise} {...viewProps} />}
+        {exercise.kind === 'choice' && <ChoiceItemView exercise={exercise} {...viewProps} />}
+        {exercise.kind === 'text' && <TextItemView exercise={exercise} {...viewProps} />}
+        {exercise.kind === 'dictation' && <DictationView exercise={exercise} {...viewProps} />}
+        {exercise.kind === 'say' && <SayView exercise={exercise} {...viewProps} />}
+        {exercise.kind === 'free' && <FreeView exercise={exercise} {...viewProps} />}
         {exercise.kind === 'listen' && (
           <ListenView exercise={exercise} {...viewProps} onCantListen={cantListen} />
         )}

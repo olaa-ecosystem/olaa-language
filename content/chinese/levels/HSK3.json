@@ -1,0 +1,6589 @@
+[
+ {
+  "id": "h3-1",
+  "t": [
+   "Câu chữ 把",
+   "The 把 construction"
+  ],
+  "hz": "把放门",
+  "th": [
+   [
+    "**把** nhấn mạnh việc **xử lý một tân ngữ xác định** và kết quả của nó: **S + 把 + O + V + thành phần khác**.",
+    "**把** stresses **what is done to a definite object** and the result: **S + 把 + O + V + something more**."
+   ],
+   [
+    "Động từ **không được đứng một mình**; phải có kết quả, hướng, 了 hoặc nơi chốn: 我把作业做**完了**。请把门关**上**。他把书放**在桌子上**。",
+    "The verb **can't stand alone**; it needs a result, direction, 了 or location: 我把作业做**完了**。请把门关**上**。他把书放**在桌子上**。"
+   ],
+   [
+    "Phủ định và động từ năng nguyện đặt **trước 把**: 我**没**把钱带来。你**应该**把房间打扫干净。",
+    "Negation and modals go **before 把**: 我**没**把钱带来。你**应该**把房间打扫干净。"
+   ],
+   [
+    "Không dùng 把 với động từ cảm nhận, nhận thức: 喜欢, 知道, 看见 (✗ 我把他喜欢).",
+    "Don't use 把 with perception/cognition verbs: 喜欢, 知道, 看见 (✗ 我把他喜欢)."
+   ]
+  ],
+  "vo": [
+   [
+    "把",
+    "bǎ",
+    "(giới từ xử trí)",
+    "disposal marker"
+   ],
+   [
+    "放",
+    "fàng",
+    "đặt, để",
+    "to put"
+   ],
+   [
+    "桌子",
+    "zhuōzi",
+    "cái bàn",
+    "table"
+   ],
+   [
+    "关",
+    "guān",
+    "đóng",
+    "to close"
+   ],
+   [
+    "门",
+    "mén",
+    "cửa",
+    "door"
+   ],
+   [
+    "作业",
+    "zuòyè",
+    "bài tập",
+    "homework"
+   ],
+   [
+    "带",
+    "dài",
+    "mang theo",
+    "to bring"
+   ],
+   [
+    "干净",
+    "gānjìng",
+    "sạch sẽ",
+    "clean"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "我把作业做。",
+     "我把作业做完了。",
+     "我做作业把完了。"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "请___门关上。",
+    [
+     "把",
+     "被",
+     "给"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "他把书放___桌子上。",
+    [
+     "在",
+     "到了",
+     "给"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "我没把钱带来。",
+     "我把钱没带来。",
+     "我把没钱带来。"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào KHÔNG thể chuyển sang câu 把?",
+     "Which can NOT become a 把 sentence?"
+    ],
+    [
+     "我喜欢他。",
+     "我吃了苹果。",
+     "我关了门。"
+    ],
+    0
+   ],
+   [
+    "order",
+    "你|把|手机|放|在|哪儿|了",
+    [
+     "Bạn để điện thoại ở đâu rồi?",
+     "Where did you put your phone?"
+    ]
+   ],
+   [
+    "listen",
+    "请把窗户打开。",
+    [
+     "Qǐng bǎ chuānghu dǎkāi.",
+     "Qǐng bǎ mén guān shàng.",
+     "Qǐng bǎ shū fàng hǎo."
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Tôi đã dọn phòng sạch sẽ.",
+     "I cleaned the room."
+    ],
+    [
+     "我把房间打扫干净了。",
+     "我打扫干净把房间了。",
+     "我把房间干净打扫了。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "妈妈回家以前，我已经把客厅和厨房都打扫干净了，所以她看了以后非常高兴。",
+    "q": [
+     "Người nói đã làm gì trước khi mẹ về?",
+     "What had the speaker done before Mum came home?"
+    ],
+    "o": [
+     [
+      "dọn sạch phòng khách và bếp",
+      "cleaned the living room and kitchen"
+     ],
+     [
+      "nấu xong bữa tối",
+      "finished cooking dinner"
+     ],
+     [
+      "mua hoa tặng mẹ",
+      "bought Mum flowers"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“把客厅和厨房都打扫干净了” = đã dọn phòng khách và bếp sạch sẽ. Chú ý 把 + tân ngữ + động từ + kết quả (干净).",
+     "“把客厅和厨房都打扫干净了” = cleaned the living room and kitchen. Note 把 + object + verb + result (干净)."
+    ],
+    "f": [
+     "把客厅和厨房都打扫干净了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "你出门的时候别忘了把窗户关上，因为今天晚上可能会下大雨。",
+    "e": [
+     "Phủ định 别 đứng trước 把; động từ 关 phải có bổ ngữ 上 phía sau, không đứng một mình.",
+     "The negative 别 goes before 把, and the verb 关 needs the complement 上 – it can't stand alone."
+    ],
+    "f": [
+     "把窗户关上",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "老师让我们把今天学的生词写在本子上，明天上课以前交给她。"
+   }
+  ],
+  "rd2": {
+   "tx": "小林：我今天要去外地出差，周日晚上才回来。走以前，我已经把冰箱里的牛奶和水果吃完了，也把垃圾带下楼了。请你帮我做几件事：第一，周五把我的快递从门口拿进来，放在我的桌子上；第二，如果下雨，请把阳台上的衣服收进来；第三，别把空调开得太低，上个月的电费太贵了。我把钥匙放在鞋柜上面的盒子里了。谢谢你！小王",
+   "tr": "Tiểu Lâm: Hôm nay mình đi công tác tỉnh khác, tối Chủ nhật mới về. Trước khi đi, mình đã ăn hết sữa và hoa quả trong tủ lạnh, cũng đã mang rác xuống dưới nhà rồi. Nhờ cậu giúp mình mấy việc: thứ nhất, thứ Sáu mang bưu kiện của mình từ ngoài cửa vào, để trên bàn của mình; thứ hai, nếu trời mưa thì thu quần áo ngoài ban công vào giúp mình; thứ ba, đừng để điều hòa nhiệt độ thấp quá, tiền điện tháng trước đắt lắm. Mình để chìa khóa trong cái hộp trên tủ giày rồi. Cảm ơn cậu! Tiểu Vương"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Khi nào Tiểu Vương về?",
+     "When will Xiao Wang come back?"
+    ],
+    "o": [
+     [
+      "chiều thứ Sáu",
+      "Friday afternoon"
+     ],
+     [
+      "tối Chủ nhật",
+      "Sunday evening"
+     ],
+     [
+      "sáng thứ Bảy",
+      "Saturday morning"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Bài viết “周日晚上才回来” – tối Chủ nhật mới về. Thứ Sáu là ngày cần nhận bưu kiện, không phải ngày về.",
+     "The note says “周日晚上才回来” – back only on Sunday evening. Friday is when the parcel must be brought in, not the return day."
+    ],
+    "f": [
+     "周日晚上才回来",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nếu trời mưa, Tiểu Lâm cần làm gì?",
+     "What should Xiao Lin do if it rains?"
+    ],
+    "o": [
+     [
+      "thu quần áo ngoài ban công vào",
+      "bring in the clothes from the balcony"
+     ],
+     [
+      "đóng cửa sổ phòng ngủ",
+      "close the bedroom window"
+     ],
+     [
+      "mang rác xuống dưới nhà",
+      "take the rubbish downstairs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“如果下雨，请把阳台上的衣服收进来” – nếu mưa thì thu quần áo vào. Việc đổ rác thì Tiểu Vương đã tự làm rồi.",
+     "“如果下雨，请把阳台上的衣服收进来” – bring the clothes in if it rains. Xiao Wang already took the rubbish down himself."
+    ],
+    "f": [
+     "把阳台上的衣服收进来",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao không nên để điều hòa quá thấp?",
+     "Why shouldn't the air conditioner be set too low?"
+    ],
+    "o": [
+     [
+      "tiền điện tháng trước quá đắt",
+      "last month's electricity bill was too high"
+     ],
+     [
+      "điều hòa đang bị hỏng",
+      "the air conditioner is broken"
+     ],
+     [
+      "Tiểu Lâm hay bị cảm",
+      "Xiao Lin often catches colds"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Lý do nằm ngay sau: “上个月的电费太贵了”. Bài không nhắc tới chuyện hỏng hay bị cảm.",
+     "The reason follows directly: “上个月的电费太贵了”. Nothing is said about a breakdown or colds."
+    ],
+    "f": [
+     "上个月的电费太贵了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我找了半天也没找到护照，后来才想起来昨天晚上我把它放___行李箱里了。",
+    "o": [
+     "在",
+     "给",
+     "跟"
+    ],
+    "a": 0,
+    "e": [
+     "Câu 把 chỉ nơi chốn: 把 + O + 放在 + nơi chốn. 给 dùng cho người nhận, 跟 nghĩa là “cùng với”.",
+     "A 把 sentence with a location: 把 + O + 放在 + place. 给 marks a recipient and 跟 means “with”."
+    ],
+    "f": [
+     "放在",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "考试的时候一定要认真检查，千万别把“己”和“已”这两个字写___。",
+    "a": [
+     "错"
+    ],
+    "e": [
+     "写错 = viết sai; câu 把 cần bổ ngữ kết quả sau động từ. Hai chữ 己 và 已 rất dễ bị nhầm.",
+     "写错 = write wrongly; a 把 sentence needs a result complement after the verb. 己 and 已 are easily confused."
+    ],
+    "f": [
+     "写错",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "因为昨天太累了，所以我把作业没写完就睡觉了，今天早上只好早点儿起来写。",
+    "a": [
+     "因为昨天太累了，所以我没把作业写完就睡觉了，今天早上只好早点儿起来写。",
+     "因为昨天太累了，所以我没有把作业写完就睡觉了，今天早上只好早点儿起来写。"
+    ],
+    "e": [
+     "Phủ định 没 phải đứng TRƯỚC 把: 没把作业写完. Người Việt hay đặt “chưa” sát động từ nên dễ viết sai.",
+     "The negative 没 must come BEFORE 把: 没把作业写完. Learners often put it next to the verb, which is wrong."
+    ],
+    "f": [
+     "没把作业写完",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 把",
+     "Rewrite the sentence using 把"
+    ],
+    "s": "服务员已经打扫干净了我们订的房间，你们现在可以进去休息了。",
+    "a": [
+     "服务员已经把我们订的房间打扫干净了，你们现在可以进去休息了。"
+    ],
+    "e": [
+     "Đưa tân ngữ xác định 我们订的房间 lên sau 把, động từ + kết quả 打扫干净了 đứng cuối. 已经 đứng trước 把.",
+     "Move the definite object 我们订的房间 after 把 and put verb + result 打扫干净了 at the end. 已经 stays before 把."
+    ],
+    "f": [
+     "把我们订的房间打扫干净了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi đã để cuốn từ điển bạn cho tôi mượn lên bàn của bạn rồi, cảm ơn bạn nhiều nhé.",
+    "a": [
+     "我已经把你借给我的词典放在你的桌子上了，非常感谢你。",
+     "我已经把你借给我的词典放在你的桌子上了，太谢谢你了。",
+     "我已经把你借我的词典放在你桌子上了，非常感谢你。",
+     "我已经把你借给我的词典放到你的桌子上了，非常感谢你。",
+     "我把你借给我的词典放在你的桌子上了，非常感谢你。"
+    ],
+    "e": [
+     "Dùng 把 vì nói về việc xử lý một vật xác định (cuốn từ điển đó): 把 + 词典 + 放在 + 桌子上 + 了. Đừng viết “我放了词典在桌子上”.",
+     "Use 把 because a definite thing is being dealt with: 把 + 词典 + 放在 + 桌子上 + 了. Avoid “我放了词典在桌子上”."
+    ],
+    "f": [
+     "把你借给我的词典放在你的桌子上",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "请你|下课以后|把|这些|练习|发给|每个|同学",
+    "m": [
+     "Sau giờ học, bạn hãy phát những bài tập này cho mỗi bạn trong lớp.",
+     "After class, please hand out these exercises to every classmate."
+    ],
+    "e": [
+     "Thời gian (下课以后) đứng trước 把; 把 + tân ngữ (这些练习) + 发给 + người nhận.",
+     "The time phrase (下课以后) goes before 把; then 把 + object (这些练习) + 发给 + recipient."
+    ],
+    "f": [
+     "把这些练习发给每个同学",
+     "HSK3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h3-2",
+  "t": [
+   "Câu bị động 被",
+   "The 被 passive"
+  ],
+  "hz": "被车",
+  "th": [
+   [
+    "**S (người/vật chịu tác động) + 被 (+ người làm) + V + thành phần khác**: 我的自行车**被**(人)偷了。",
+    "**S (receiver) + 被 (+ agent) + V + something more**: 我的自行车**被**(人)偷了。"
+   ],
+   [
+    "Thường mang **sắc thái không mong muốn**: 被批评 (bị phê bình), 被骗 (bị lừa). Khẩu ngữ dùng **叫 / 让** (bắt buộc có người làm): 杯子**叫**他打破了。",
+    "Often **adverse in tone**: 被批评, 被骗. Spoken Chinese uses **叫 / 让** (agent required): 杯子**叫**他打破了。"
+   ],
+   [
+    "Phủ định: **没(有) + 被**: 他**没被**老师批评。",
+    "Negative: **没(有) + 被**: 他**没被**老师批评。"
+   ],
+   [
+    "Động từ cũng cần thành phần khác: ✗ 蛋糕被吃 → ✓ 蛋糕被弟弟吃**了**。",
+    "The verb also needs something more: ✗ 蛋糕被吃 → ✓ 蛋糕被弟弟吃**了**。"
+   ]
+  ],
+  "vo": [
+   [
+    "被",
+    "bèi",
+    "bị, được",
+    "passive marker"
+   ],
+   [
+    "偷",
+    "tōu",
+    "ăn trộm",
+    "to steal"
+   ],
+   [
+    "自行车",
+    "zìxíngchē",
+    "xe đạp",
+    "bicycle"
+   ],
+   [
+    "批评",
+    "pīpíng",
+    "phê bình",
+    "to criticise"
+   ],
+   [
+    "打破",
+    "dǎpò",
+    "làm vỡ",
+    "to break"
+   ],
+   [
+    "蛋糕",
+    "dàngāo",
+    "bánh ngọt",
+    "cake"
+   ],
+   [
+    "骗",
+    "piàn",
+    "lừa",
+    "to cheat"
+   ],
+   [
+    "弟弟",
+    "dìdi",
+    "em trai",
+    "younger brother"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我的钱包___偷了。",
+    [
+     "被",
+     "把",
+     "给"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "蛋糕被吃。",
+     "蛋糕被弟弟吃了。",
+     "蛋糕弟弟被吃了。"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "他___被老师批评。",
+    [
+     "没",
+     "不是",
+     "别"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "杯子___他打破了。(khẩu ngữ)",
+    [
+     "叫",
+     "跟",
+     "比"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Chuyển sang bị động: 弟弟打破了杯子。",
+     "Make passive: 弟弟打破了杯子。"
+    ],
+    [
+     "杯子被弟弟打破了。",
+     "弟弟被杯子打破了。",
+     "杯子把弟弟打破了。"
+    ],
+    0
+   ],
+   [
+    "order",
+    "我|的|自行车|被|偷|了",
+    [
+     "Xe đạp của tôi bị trộm mất rồi.",
+     "My bike was stolen."
+    ]
+   ],
+   [
+    "listen",
+    "他被骗了。",
+    [
+     "Tā bèi piàn le.",
+     "Tā bǎ piàn le.",
+     "Tā méi bèi piàn."
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Anh ấy bị sếp phê bình.",
+     "He was criticised by the boss."
+    ],
+    [
+     "他被老板批评了。",
+     "他把老板批评了。",
+     "老板被他批评了。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我昨天把自行车停在超市门口，出来的时候发现它被人偷走了，只好走路回家。",
+    "q": [
+     "Chuyện gì đã xảy ra với chiếc xe đạp?",
+     "What happened to the bike?"
+    ],
+    "o": [
+     [
+      "bị trộm mất",
+      "it was stolen"
+     ],
+     [
+      "bị hỏng",
+      "it broke down"
+     ],
+     [
+      "bị cảnh sát mang đi",
+      "the police took it away"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“被人偷走了” = bị (người ta) trộm mất; 被 mang sắc thái không mong muốn.",
+     "“被人偷走了” = was stolen (by someone); 被 carries an unpleasant tone."
+    ],
+    "f": [
+     "被人偷走了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "他因为上课的时候一直玩手机，所以被老师批评了一顿，心里很不高兴。",
+    "e": [
+     "被 + người làm (老师) + động từ (批评) + thành phần khác (了一顿). Động từ không đứng trơ trọi sau 被.",
+     "被 + agent (老师) + verb (批评) + something more (了一顿). The verb can't stand bare after 被."
+    ],
+    "f": [
+     "被老师批评了一顿",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我的蛋糕放在冰箱里，可是还没等我回家，就被弟弟吃得一点儿也不剩了。"
+   }
+  ],
+  "rd2": {
+   "tx": "今天真是倒霉的一天。早上出门的时候，我的伞被风吹坏了，衣服也被雨弄湿了。到了公司，我才发现昨天写好的报告没被保存下来，只好重新写。中午我去食堂吃饭，钱包又不知道被谁拿走了。下午因为报告交晚了，我被经理批评了。还好晚上回到家，妈妈已经做好了我最喜欢的菜，我的心情才好了一点儿。",
+   "tr": "Hôm nay đúng là một ngày xui xẻo. Sáng lúc ra khỏi nhà, ô của tôi bị gió thổi hỏng, quần áo cũng bị mưa làm ướt. Đến công ty, tôi mới phát hiện bản báo cáo viết xong hôm qua không được lưu lại, đành phải viết lại. Buổi trưa tôi xuống căng tin ăn cơm, ví tiền lại không biết bị ai lấy mất. Buổi chiều vì nộp báo cáo muộn nên tôi bị giám đốc phê bình. May mà tối về đến nhà, mẹ đã nấu xong món tôi thích nhất, tâm trạng tôi mới khá lên một chút."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao quần áo của người viết bị ướt?",
+     "Why did the writer's clothes get wet?"
+    ],
+    "o": [
+     [
+      "bị mưa làm ướt",
+      "the rain soaked them"
+     ],
+     [
+      "bị đổ cà phê lên",
+      "coffee was spilled on them"
+     ],
+     [
+      "giặt xong chưa khô",
+      "they were washed and not yet dry"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“衣服也被雨弄湿了” – quần áo bị mưa làm ướt. Ô thì bị gió thổi hỏng.",
+     "“衣服也被雨弄湿了” – the rain soaked the clothes. The umbrella was broken by the wind."
+    ],
+    "f": [
+     "衣服也被雨弄湿了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết phải viết lại báo cáo?",
+     "Why did the writer have to rewrite the report?"
+    ],
+    "o": [
+     [
+      "báo cáo hôm qua không được lưu lại",
+      "yesterday's report hadn't been saved"
+     ],
+     [
+      "giám đốc không hài lòng",
+      "the manager wasn't satisfied"
+     ],
+     [
+      "máy tính bị người khác lấy mất",
+      "someone took the computer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“报告没被保存下来” – báo cáo không được lưu. Phủ định của câu bị động là 没 + 被.",
+     "“报告没被保存下来” – the report wasn't saved. The passive is negated with 没 + 被."
+    ],
+    "f": [
+     "没被保存下来",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết bị giám đốc phê bình?",
+     "Why was the writer criticised by the manager?"
+    ],
+    "o": [
+     [
+      "nộp báo cáo muộn",
+      "the report was handed in late"
+     ],
+     [
+      "đi làm muộn",
+      "arriving at work late"
+     ],
+     [
+      "làm mất ví tiền",
+      "losing the wallet"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“因为报告交晚了，我被经理批评了” – lý do là nộp báo cáo muộn. Mất ví là chuyện buổi trưa, không liên quan.",
+     "“因为报告交晚了，我被经理批评了” – the reason is the late report. The wallet happened at lunch and is unrelated."
+    ],
+    "f": [
+     "因为报告交晚了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我借给他的那本小说已经___他的同学借走了，所以他这个星期还不能还给我。",
+    "o": [
+     "被",
+     "把",
+     "对"
+    ],
+    "a": 0,
+    "e": [
+     "Chủ ngữ “cuốn tiểu thuyết” là vật chịu tác động nên dùng 被: 被他的同学借走了. 把 sẽ đảo nghĩa thành cuốn sách đi mượn người.",
+     "The novel is the receiver of the action, so use 被: 被他的同学借走了. 把 would make the book the doer."
+    ],
+    "f": [
+     "被他的同学借走了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "幸亏他走路的时候很小心，所以___被地上的冰滑倒，可是走在后面的朋友摔了一跤。",
+    "a": [
+     "没",
+     "没有"
+    ],
+    "e": [
+     "Phủ định câu bị động dùng 没(有) đặt trước 被, không dùng 不. Sự việc đã xảy ra nên dùng 没.",
+     "The passive is negated with 没(有) before 被, not 不 – it's about a past event."
+    ],
+    "f": [
+     "没被",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这个蛋糕被弟弟吃，妈妈回来以后看见盘子空了，一点儿也不高兴。",
+    "a": [
+     "这个蛋糕被弟弟吃了，妈妈回来以后看见盘子空了，一点儿也不高兴。",
+     "这个蛋糕被弟弟吃完了，妈妈回来以后看见盘子空了，一点儿也不高兴。",
+     "这个蛋糕被弟弟吃光了，妈妈回来以后看见盘子空了，一点儿也不高兴。"
+    ],
+    "e": [
+     "Sau 被 động từ không được đứng một mình; phải thêm 了 hoặc bổ ngữ kết quả: 吃了 / 吃完了 / 吃光了.",
+     "After 被 the verb can't stand alone; add 了 or a result complement: 吃了 / 吃完了 / 吃光了."
+    ],
+    "f": [
+     "被弟弟吃了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở thể bị động với 被",
+     "Rewrite the sentence in the passive with 被"
+    ],
+    "s": "昨天晚上的大风把我们学校门口的那棵老树吹倒了。",
+    "a": [
+     "我们学校门口的那棵老树被昨天晚上的大风吹倒了。",
+     "昨天晚上，我们学校门口的那棵老树被大风吹倒了。",
+     "昨天晚上我们学校门口的那棵老树被大风吹倒了。"
+    ],
+    "e": [
+     "Đổi vị trí: vật chịu tác động (那棵老树) lên làm chủ ngữ, tác nhân (大风) đứng sau 被, giữ nguyên 吹倒了.",
+     "Swap roles: the receiver (那棵老树) becomes the subject, the agent (大风) follows 被, and 吹倒了 stays."
+    ],
+    "f": [
+     "被昨天晚上的大风吹倒了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Điện thoại của tôi bị em gái làm rơi hỏng rồi, nên mấy hôm nay tôi không thể liên lạc với bạn.",
+    "a": [
+     "我的手机被妹妹摔坏了，所以这几天我不能跟你联系。",
+     "我的手机被妹妹摔坏了，所以这几天我没办法跟你联系。",
+     "我的手机被妹妹摔坏了，所以这几天我不能和你联系。",
+     "我的手机被妹妹弄坏了，所以这几天我不能跟你联系。",
+     "我的手机被妹妹摔坏了，所以这几天不能跟你联系。"
+    ],
+    "e": [
+     "“bị … làm rơi hỏng” → 被 + 妹妹 + 摔坏了. Có 摔 (làm rơi) + 坏 (hỏng) mới đủ nghĩa; chỉ viết 被妹妹坏了 là sai.",
+     "“dropped and broken by …” → 被 + 妹妹 + 摔坏了. You need 摔 (drop) + 坏 (broken); 被妹妹坏了 is wrong."
+    ],
+    "f": [
+     "被妹妹摔坏了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "他|在|火车上|睡着了|结果|行李|被|人|拿走了",
+    "m": [
+     "Anh ấy ngủ quên trên tàu hỏa, kết quả hành lý bị người ta lấy mất.",
+     "He fell asleep on the train and his luggage was taken."
+    ],
+    "e": [
+     "Vế sau: chủ ngữ 行李 + 被 + 人 + 拿走了. 结果 nối nguyên nhân với hậu quả không mong muốn.",
+     "Second clause: subject 行李 + 被 + 人 + 拿走了. 结果 links the cause to an unwelcome result."
+    ],
+    "f": [
+     "行李被人拿走了",
+     "HSK3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h3-3",
+  "t": [
+   "Bổ ngữ kết quả & khả năng",
+   "Result & potential complements"
+  ],
+  "hz": "懂完找",
+  "th": [
+   [
+    "**Bổ ngữ kết quả**: V + kết quả: 看**完** (xem xong), 听**懂** (nghe hiểu), 看**见** (nhìn thấy), 找**到** (tìm thấy), 写**错** (viết sai), 做**好** (làm xong).",
+    "**Result complement**: V + result: 看**完** (finish reading), 听**懂** (understand by listening), 看**见** (see), 找**到** (find), 写**错** (write wrongly), 做**好** (get done)."
+   ],
+   [
+    "Phủ định bằng **没**: 我**没**听懂。",
+    "Negate with **没**: 我**没**听懂。"
+   ],
+   [
+    "**Bổ ngữ khả năng**: V + **得 / 不** + kết quả: 看**得**懂 (đọc hiểu được), 听**不**见 (không nghe thấy được), 做**不**完 (làm không xong).",
+    "**Potential complement**: V + **得 / 不** + result: 看**得**懂 (can understand), 听**不**见 (can't hear), 做**不**完 (can't finish)."
+   ],
+   [
+    "Phân biệt: 我**没**听懂 (lần này đã không hiểu) – 我听**不**懂 (không có khả năng hiểu).",
+    "Contrast: 我**没**听懂 (I didn't understand this time) – 我听**不**懂 (I'm unable to understand)."
+   ]
+  ],
+  "vo": [
+   [
+    "懂",
+    "dǒng",
+    "hiểu",
+    "to understand"
+   ],
+   [
+    "完",
+    "wán",
+    "xong",
+    "to finish"
+   ],
+   [
+    "见",
+    "jiàn",
+    "thấy",
+    "to see"
+   ],
+   [
+    "到",
+    "dào",
+    "được, tới",
+    "to reach"
+   ],
+   [
+    "找",
+    "zhǎo",
+    "tìm",
+    "to look for"
+   ],
+   [
+    "错",
+    "cuò",
+    "sai",
+    "wrong"
+   ],
+   [
+    "清楚",
+    "qīngchu",
+    "rõ ràng",
+    "clear"
+   ],
+   [
+    "钥匙",
+    "yàoshi",
+    "chìa khóa",
+    "key"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我找___我的钥匙了。",
+    [
+     "到",
+     "完",
+     "懂"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "老师说得太快，我听不___。",
+    [
+     "懂",
+     "完",
+     "到"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "我不听懂。",
+     "我没听懂。",
+     "我没听不懂。"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "作业太多，今天做不___。",
+    [
+     "完",
+     "见",
+     "错"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "声音太小，我听不___。",
+    [
+     "见",
+     "完",
+     "错"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“看得懂” nghĩa là?",
+     "“看得懂” means?"
+    ],
+    [
+     [
+      "đọc hiểu được",
+      "can understand (reading)"
+     ],
+     [
+      "đã đọc xong",
+      "have finished reading"
+     ],
+     [
+      "không đọc được",
+      "can't read"
+     ]
+    ],
+    0
+   ],
+   [
+    "order",
+    "这|本|书|你|看|得|懂|吗",
+    [
+     "Cuốn sách này bạn đọc hiểu được không?",
+     "Can you understand this book?"
+    ]
+   ],
+   [
+    "listen",
+    "我写错了一个字。",
+    [
+     "Wǒ xiě cuò le yí ge zì.",
+     "Wǒ xiě wán le yí ge zì.",
+     "Wǒ kàn cuò le yí ge zì."
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "这本小说的生词太多了，我查了一个晚上的词典，还是看不懂最后一章。",
+    "q": [
+     "Người nói gặp vấn đề gì?",
+     "What problem does the speaker have?"
+    ],
+    "o": [
+     [
+      "không đọc hiểu được chương cuối",
+      "can't understand the last chapter"
+     ],
+     [
+      "không tìm thấy từ điển",
+      "can't find the dictionary"
+     ],
+     [
+      "đã đọc xong cả cuốn",
+      "has finished the whole book"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“看不懂” là bổ ngữ khả năng: không có khả năng đọc hiểu. 还是 cho thấy tra từ điển cả tối vẫn vô ích.",
+     "“看不懂” is a potential complement: unable to understand. 还是 shows a whole night with the dictionary didn't help."
+    ],
+    "f": [
+     "看不懂",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "老师说得太快了，我只听懂了一半，所以下课以后又去问了她几个问题。",
+    "e": [
+     "听懂 = nghe hiểu (bổ ngữ kết quả). 只听懂了一半 = chỉ nghe hiểu được một nửa.",
+     "听懂 = understand by listening (result complement). 只听懂了一半 = only understood half."
+    ],
+    "f": [
+     "听懂了一半",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "这篇文章不太长，可是生词太多，我看了两遍还是没完全看懂。"
+   }
+  ],
+  "rd2": {
+   "tx": "小美：你好！我来北京已经两个月了。刚来的时候，老师讲课我常常听不懂，作业也总是做不完，有时候还会把汉字写错。现在好多了：上课的时候我基本上都听得懂，作业一般晚上九点就能做完。上个星期我一个人去银行办卡，银行的人说的话我全听明白了！不过我还是看不懂中文报纸，因为里面的生词太多了。你上次说要寄给我的那本词典，我还没收到，你能帮我问问吗？阿兰",
+   "tr": "Tiểu Mỹ thân mến! Mình đến Bắc Kinh đã được hai tháng rồi. Lúc mới đến, thầy cô giảng bài mình thường nghe không hiểu, bài tập cũng lúc nào cũng làm không xong, có khi còn viết sai chữ Hán. Bây giờ đỡ hơn nhiều rồi: trong giờ học mình cơ bản đều nghe hiểu được, bài tập thường chín giờ tối là làm xong. Tuần trước mình tự đi ngân hàng làm thẻ, nhân viên ngân hàng nói gì mình cũng hiểu hết! Có điều mình vẫn chưa đọc hiểu được báo tiếng Trung, vì trong đó nhiều từ mới quá. Cuốn từ điển lần trước cậu nói sẽ gửi cho mình, mình vẫn chưa nhận được, cậu hỏi giúp mình được không? A Lan"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Lúc mới đến Bắc Kinh, A Lan gặp khó khăn gì?",
+     "What difficulty did A Lan have when she first arrived?"
+    ],
+    "o": [
+     [
+      "thường nghe giảng không hiểu",
+      "she often couldn't follow the lessons"
+     ],
+     [
+      "không tìm được chỗ ở",
+      "she couldn't find a place to live"
+     ],
+     [
+      "không mua được sách",
+      "she couldn't buy books"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“老师讲课我常常听不懂” – thường không nghe hiểu bài giảng. Hai đáp án kia không được nhắc tới.",
+     "“老师讲课我常常听不懂” – she often couldn't understand the teacher. The other options aren't mentioned."
+    ],
+    "f": [
+     "老师讲课我常常听不懂",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bây giờ A Lan vẫn chưa làm được việc gì?",
+     "What can A Lan still not do?"
+    ],
+    "o": [
+     [
+      "đọc hiểu báo tiếng Trung",
+      "read Chinese newspapers"
+     ],
+     [
+      "làm xong bài tập",
+      "finish her homework"
+     ],
+     [
+      "hiểu nhân viên ngân hàng",
+      "understand the bank staff"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“我还是看不懂中文报纸” – vẫn không đọc hiểu được báo. Bài tập và ngân hàng thì cô ấy đã làm được.",
+     "“我还是看不懂中文报纸” – she still can't read newspapers. Homework and the bank are now fine."
+    ],
+    "f": [
+     "我还是看不懂中文报纸",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tình trạng cuốn từ điển thế nào?",
+     "What is the situation with the dictionary?"
+    ],
+    "o": [
+     [
+      "A Lan vẫn chưa nhận được",
+      "A Lan hasn't received it yet"
+     ],
+     [
+      "đã nhận và đang dùng",
+      "it arrived and she's using it"
+     ],
+     [
+      "A Lan đã tự mua một cuốn",
+      "A Lan bought one herself"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“我还没收到” – vẫn chưa nhận được; 收到 là bổ ngữ kết quả, phủ định bằng 没.",
+     "“我还没收到” – not received yet; 收到 is a result complement, negated with 没."
+    ],
+    "f": [
+     "我还没收到",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这个教室的灯太暗了，黑板上的字我坐在最后一排根本看不___。",
+    "o": [
+     "清楚",
+     "完",
+     "错"
+    ],
+    "a": 0,
+    "e": [
+     "Đèn tối nên không nhìn rõ: 看不清楚. 看不完 là “xem không hết”, 看不错 không tồn tại.",
+     "The light is dim, so you can't see clearly: 看不清楚. 看不完 means “can't finish reading”; 看不错 doesn't exist."
+    ],
+    "f": [
+     "看不清楚",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "今天的作业一共有五十道题，我写到十二点也做不___，只好明天早上早点儿起来继续写。",
+    "a": [
+     "完"
+    ],
+    "e": [
+     "做不完 = làm không xong (không đủ khả năng/thời gian để hoàn thành). 完 chỉ kết quả “xong”.",
+     "做不完 = can't finish (not enough time to complete). 完 expresses the result “finished”."
+    ],
+    "f": [
+     "做不完",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我昨天晚上给你打了三次电话，可是你都不听见，是不是把手机放在包里了？",
+    "a": [
+     "我昨天晚上给你打了三次电话，可是你都没听见，是不是把手机放在包里了？",
+     "我昨天晚上给你打了三次电话，可是你都没有听见，是不是把手机放在包里了？"
+    ],
+    "e": [
+     "Bổ ngữ kết quả 听见 phủ định bằng 没, không dùng 不: 没听见 (đã không nghe thấy). “不听见” là lỗi rất hay gặp.",
+     "A result complement like 听见 is negated with 没, not 不: 没听见. “不听见” is a very common error."
+    ],
+    "f": [
+     "没听见",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu bằng bổ ngữ khả năng (V + 得/不 + kết quả)",
+     "Rewrite using a potential complement (V + 得/不 + result)"
+    ],
+    "s": "他说的上海话我一句也不能听懂，你能帮我翻译一下吗？",
+    "a": [
+     "他说的上海话我一句也听不懂，你能帮我翻译一下吗？",
+     "他说的上海话我一句都听不懂，你能帮我翻译一下吗？"
+    ],
+    "e": [
+     "“不能听懂” nghe rất gượng; người Trung nói 听不懂 để diễn tả không có khả năng hiểu.",
+     "“不能听懂” sounds unnatural; Chinese uses 听不懂 to say one is unable to understand."
+    ],
+    "f": [
+     "听不懂",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi tìm khắp phòng mà vẫn không tìm thấy chìa khóa, cuối cùng mới phát hiện nó nằm trong túi áo.",
+    "a": [
+     "我在房间里找了半天也没找到钥匙，最后才发现它在衣服口袋里。",
+     "我在房间里找了半天还是没找到钥匙，最后才发现它在衣服口袋里。",
+     "我找遍了整个房间也没找到钥匙，最后才发现它在衣服口袋里。",
+     "我把房间找遍了也没找到钥匙，最后才发现它在衣服的口袋里。",
+     "我在房间里到处找，还是没找到钥匙，最后才发现它在衣服口袋里。"
+    ],
+    "e": [
+     "“không tìm thấy” = 没找到 (bổ ngữ kết quả 到 + phủ định 没). Đừng viết 不找到 hay chỉ 没找.",
+     "“couldn't find” = 没找到 (result complement 到 + negative 没). Don't write 不找到 or just 没找."
+    ],
+    "f": [
+     "没找到",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "桌子上|这么|多|菜|我们|两个人|肯定|吃不完",
+    "m": [
+     "Trên bàn nhiều món thế này, hai chúng ta chắc chắn ăn không hết.",
+     "With this much food on the table, the two of us definitely can't finish it."
+    ],
+    "e": [
+     "吃不完 là bổ ngữ khả năng (không thể ăn hết); 肯定 đứng trước động từ.",
+     "吃不完 is a potential complement (can't finish eating); 肯定 goes before the verb."
+    ],
+    "f": [
+     "吃不完",
+     "HSK3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h3-4",
+  "t": [
+   "Cặp liên từ",
+   "Paired conjunctions"
+  ],
+  "hz": "因所如",
+  "th": [
+   [
+    "• **虽然…但是 / 可是…** – tuy … nhưng: 虽然很累，但是我很高兴。\n• **因为…所以…** – vì … nên\n• **如果…(的话)，就…** – nếu … thì: 如果明天下雨，我们**就**不去了。(就 đứng **sau** chủ ngữ của vế sau)",
+    "• **虽然…但是 / 可是…** – although … (but)\n• **因为…所以…** – because … so\n• **如果…(的话)，就…** – if … then: 如果明天下雨，我们**就**不去了。(就 comes **after** the second subject)"
+   ],
+   [
+    "• **一…就…** – hễ / vừa … là: 我**一**回家**就**睡觉。\n• **只要…就…** – chỉ cần … là\n• **只有…才…** – chỉ có … mới: 只有努力，**才**能成功。",
+    "• **一…就…** – as soon as: 我**一**回家**就**睡觉。\n• **只要…就…** – as long as\n• **只有…才…** – only if: 只有努力，**才**能成功。"
+   ]
+  ],
+  "vo": [
+   [
+    "虽然",
+    "suīrán",
+    "tuy rằng",
+    "although"
+   ],
+   [
+    "但是",
+    "dànshì",
+    "nhưng",
+    "but"
+   ],
+   [
+    "因为",
+    "yīnwèi",
+    "bởi vì",
+    "because"
+   ],
+   [
+    "所以",
+    "suǒyǐ",
+    "cho nên",
+    "so"
+   ],
+   [
+    "如果",
+    "rúguǒ",
+    "nếu",
+    "if"
+   ],
+   [
+    "就",
+    "jiù",
+    "thì, liền",
+    "then"
+   ],
+   [
+    "努力",
+    "nǔlì",
+    "nỗ lực",
+    "to make an effort"
+   ],
+   [
+    "成功",
+    "chénggōng",
+    "thành công",
+    "to succeed"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "虽然下雨了，___我还是去了。",
+    [
+     "但是",
+     "所以",
+     "就"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "因为太累了，___我早睡了。",
+    [
+     "所以",
+     "但是",
+     "如果"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "如果你有时间，我们___去看电影。",
+    [
+     "就",
+     "才",
+     "所以"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "他一到家___开始做饭。",
+    [
+     "就",
+     "才",
+     "也"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "只有努力，___能成功。",
+    [
+     "就",
+     "才",
+     "都"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "如果明天下雨，就我们不去。",
+     "如果明天下雨，我们就不去了。",
+     "明天如果下雨，不去我们就。"
+    ],
+    1
+   ],
+   [
+    "order",
+    "虽然|汉语|很|难|但是|很|有意思",
+    [
+     "Tiếng Hán tuy khó nhưng rất thú vị.",
+     "Chinese is hard but interesting."
+    ]
+   ],
+   [
+    "listen",
+    "因为我生病了，所以没去上课。",
+    [
+     "Yīnwèi wǒ shēngbìng le, suǒyǐ méi qù shàngkè.",
+     "Suīrán wǒ shēngbìng le, dànshì qù shàngkè le.",
+     "Rúguǒ wǒ shēngbìng le, jiù bú qù shàngkè."
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "虽然这家饭馆离我家有点儿远，但是因为菜又便宜又好吃，所以我每个周末都去。",
+    "q": [
+     "Vì sao người nói vẫn đến quán mỗi cuối tuần?",
+     "Why does the speaker still go every weekend?"
+    ],
+    "o": [
+     [
+      "món ăn rẻ và ngon",
+      "the food is cheap and tasty"
+     ],
+     [
+      "quán gần nhà",
+      "it's near home"
+     ],
+     [
+      "bạn của anh ấy là chủ quán",
+      "a friend owns it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "虽然…但是 nêu sự tương phản (xa); 因为…所以 nêu lý do thật: 菜又便宜又好吃.",
+     "虽然…但是 gives the contrast (it's far); 因为…所以 gives the real reason: 菜又便宜又好吃."
+    ],
+    "f": [
+     "因为菜又便宜又好吃",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "如果明天不下雨的话，我们就去公园骑自行车，然后在湖边吃午饭。",
+    "e": [
+     "如果…(的话)，主语 + 就…: 就 đứng sau chủ ngữ 我们, không đứng trước.",
+     "如果…(的话)，subject + 就…: 就 comes after the subject 我们, not before it."
+    ],
+    "f": [
+     "如果明天不下雨的话",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "只有每天坚持练习听和说，你的汉语口语才能真正提高。"
+   }
+  ],
+  "rd2": {
+   "tx": "同学们：下个月我们就要参加汉语水平考试了。虽然时间不多了，但是大家不用太紧张。只要每天做一套练习题，考试的时候就不会觉得太难。因为听力部分的速度比较快，所以我建议你们每天晚上听二十分钟录音。如果遇到听不懂的地方，就把它写下来，第二天上课问我。另外，只有多写汉字，才能在考试中少写错字。一放学就玩手机的同学，要注意了！祝大家考出好成绩！王老师",
+   "tr": "Các em học sinh: tháng sau chúng ta sẽ tham gia kỳ thi năng lực tiếng Hán rồi. Tuy thời gian không còn nhiều, nhưng các em không cần quá căng thẳng. Chỉ cần mỗi ngày làm một bộ đề luyện tập thì lúc thi sẽ không thấy quá khó. Vì tốc độ phần nghe khá nhanh, nên cô khuyên các em mỗi tối nghe ghi âm hai mươi phút. Nếu gặp chỗ nghe không hiểu thì ghi lại, hôm sau lên lớp hỏi cô. Ngoài ra, chỉ có viết chữ Hán nhiều thì khi thi mới ít viết sai. Những bạn nào vừa tan học là chơi điện thoại thì phải chú ý đấy! Chúc cả lớp thi đạt kết quả tốt! Cô Vương"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Theo cô Vương, chỉ cần làm gì thì khi thi sẽ không thấy quá khó?",
+     "According to Ms Wang, what is enough to make the exam feel not too hard?"
+    ],
+    "o": [
+     [
+      "mỗi ngày làm một bộ đề",
+      "do one practice set a day"
+     ],
+     [
+      "mỗi tối nghe hai tiếng",
+      "listen for two hours every night"
+     ],
+     [
+      "đi học thêm cuối tuần",
+      "take extra weekend classes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“只要每天做一套练习题，考试的时候就不会觉得太难” – cấu trúc 只要…就 (chỉ cần … là).",
+     "“只要每天做一套练习题，考试的时候就不会觉得太难” – the 只要…就 (as long as … then) pattern."
+    ],
+    "f": [
+     "只要每天做一套练习题",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao cô khuyên mỗi tối nghe ghi âm?",
+     "Why does she recommend listening to recordings every night?"
+    ],
+    "o": [
+     [
+      "tốc độ phần nghe khá nhanh",
+      "the listening section is quite fast"
+     ],
+     [
+      "phần nghe nhiều điểm nhất",
+      "listening is worth the most points"
+     ],
+     [
+      "cô sẽ kiểm tra mỗi ngày",
+      "she will test them every day"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“因为听力部分的速度比较快，所以…” – nguyên nhân đứng sau 因为. Hai lý do kia không có trong bài.",
+     "“因为听力部分的速度比较快，所以…” – the reason follows 因为. The other reasons aren't in the text."
+    ],
+    "f": [
+     "因为听力部分的速度比较快",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cô Vương nhắc nhở những bạn nào?",
+     "Whom does Ms Wang warn?"
+    ],
+    "o": [
+     [
+      "những bạn vừa tan học là chơi điện thoại",
+      "those who play on their phones as soon as school ends"
+     ],
+     [
+      "những bạn hay đi học muộn",
+      "those who are often late"
+     ],
+     [
+      "những bạn không làm bài tập",
+      "those who skip homework"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“一放学就玩手机的同学” – 一…就 = vừa … là. Đây là nhóm bị nhắc “要注意了”.",
+     "“一放学就玩手机的同学” – 一…就 = as soon as. This group gets the “要注意了” warning."
+    ],
+    "f": [
+     "一放学就玩手机的同学",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "___你今天晚上能把报告写完，明天上午我们就可以交给经理了。",
+    "o": [
+     "只要",
+     "只有",
+     "虽然"
+    ],
+    "a": 0,
+    "e": [
+     "Vế sau có 就 → dùng 只要…就 (chỉ cần … là). 只有 phải đi với 才; 虽然 cần 但是.",
+     "The second clause has 就 → 只要…就 (as long as). 只有 pairs with 才, and 虽然 needs 但是."
+    ],
+    "f": [
+     "只要",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "只有通过了汉语水平四级考试，你___能申请那所大学的奖学金。",
+    "a": [
+     "才"
+    ],
+    "e": [
+     "只有 (điều kiện duy nhất) luôn đi với 才: 只有…才能…. Dùng 就 ở đây là sai.",
+     "只有 (the only condition) always pairs with 才: 只有…才能…. 就 is wrong here."
+    ],
+    "f": [
+     "才能",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "如果明天的会议改时间了，就你早点儿告诉我，我好安排别的工作。",
+    "a": [
+     "如果明天的会议改时间了，你就早点儿告诉我，我好安排别的工作。",
+     "如果明天的会议改时间了，你就早点告诉我，我好安排别的工作。"
+    ],
+    "e": [
+     "就 là phó từ, phải đứng SAU chủ ngữ 你: 你就早点儿告诉我. Tiếng Việt “thì bạn …” khiến nhiều người đặt sai.",
+     "就 is an adverb and must follow the subject 你: 你就早点儿告诉我. Vietnamese “thì bạn …” misleads many learners."
+    ],
+    "f": [
+     "你就",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối hai câu bằng 虽然…但是…",
+     "Join the two sentences with 虽然…但是…"
+    ],
+    "s": "这次考试我准备了很长时间。我还是没有考好。",
+    "a": [
+     "虽然这次考试我准备了很长时间，但是我还是没有考好。",
+     "虽然这次考试我准备了很长时间，但是还是没有考好。",
+     "虽然我这次考试准备了很长时间，但是我还是没有考好。",
+     "这次考试虽然我准备了很长时间，但是我还是没有考好。",
+     "虽然这次考试我准备了很长时间，可是我还是没有考好。",
+     "虽然这次考试我准备了很长时间，但我还是没有考好。"
+    ],
+    "e": [
+     "虽然 đặt ở vế đầu, 但是 (hoặc 可是) ở vế sau; giữ 还是 để nhấn mạnh “vẫn”.",
+     "虽然 opens the first clause and 但是 (or 可是) the second; keep 还是 for “still”."
+    ],
+    "f": [
+     "虽然…但是",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cứ về đến nhà là em trai tôi lại chơi game, vì vậy mẹ đã cất máy tính vào phòng của bà.",
+    "a": [
+     "我弟弟一回家就玩游戏，所以妈妈把电脑放在奶奶的房间里了。",
+     "弟弟一回家就玩游戏，所以妈妈把电脑放到奶奶的房间里了。",
+     "我弟弟一回到家就玩游戏，所以妈妈把电脑放在奶奶房间里了。",
+     "我弟弟一回家就玩游戏，所以妈妈把电脑放在奶奶的房间了。",
+     "我弟弟一回家就打游戏，所以妈妈把电脑放在奶奶的房间里了。"
+    ],
+    "e": [
+     "“Cứ … là …” = 一…就…; chủ ngữ đứng trước 一. Vế sau dùng 所以 và câu 把 để nói việc cất máy tính.",
+     "“As soon as … then …” = 一…就…, with the subject before 一. The result uses 所以 and a 把 sentence."
+    ],
+    "f": [
+     "一回家就玩游戏",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "因为|路上|堵车|所以|我们|到|机场|的时候|飞机|已经起飞了",
+    "m": [
+     "Vì đường bị tắc nên khi chúng tôi đến sân bay thì máy bay đã cất cánh rồi.",
+     "Because of the traffic jam, the plane had already taken off when we got to the airport."
+    ],
+    "e": [
+     "因为 + nguyên nhân, 所以 + kết quả; cụm thời gian 我们到机场的时候 đứng trước chủ ngữ 飞机.",
+     "因为 + cause, 所以 + result; the time phrase 我们到机场的时候 comes before the subject 飞机."
+    ],
+    "f": [
+     "因为…所以",
+     "HSK3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d06",
+  "g": "health",
+  "t": [
+   "Sức khỏe & khám bệnh",
+   "Health & seeing a doctor"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 应该, 对…过敏, 从…开始**\n• **应该 + động từ** = nên: 你应该多休息。Bạn nên nghỉ ngơi nhiều hơn. Phủ định: **不应该**. Lưu ý **多/少 + động từ** = làm nhiều/ít hơn: 多喝水, 少吃辣的.\n• **A 对 B 过敏** = A dị ứng với B: 我对青霉素过敏。Tôi dị ứng với penicillin. (Không nói 我过敏青霉素.)\n• **从 + thời điểm + 开始** = bắt đầu từ: 我从昨天开始头疼。Tôi bị đau đầu từ hôm qua.\n• Tần suất dùng thuốc: **一天吃三次** – số lần (次) đứng sau động từ: 这个药一天吃几次？",
+    "**Grammar: 应该, 对…过敏, 从…开始**\n• **应该 + verb** = should: 你应该多休息。You should rest more. Negative: **不应该**. Note **多/少 + verb** = do more/less: 多喝水, 少吃辣的.\n• **A 对 B 过敏** = A is allergic to B: 我对青霉素过敏。I'm allergic to penicillin. (Not 我过敏青霉素.)\n• **从 + time + 开始** = starting from: 我从昨天开始头疼。I've had a headache since yesterday.\n• Dosage: **一天吃三次** – the frequency (次) follows the verb: 这个药一天吃几次？"
+   ],
+   [
+    "**Phát âm: vần -n và -ng**\n• -n: đầu lưỡi chạm lợi trên, âm ngắn và “trước”: yīyuàn, guòmǐn, xīn.\n• -ng: cuống lưỡi nâng lên, âm vang ở mũi: yīshēng, shēngbìng, téng.\n• Cặp dễ nhầm: 医院 yīyuàn (bệnh viện) – 医生 yīshēng (bác sĩ); 敏 mǐn – 病 bìng.\n• Người miền Nam Việt Nam hay đọc -n thành -ng: tập nói chậm, giữ lưỡi ở lợi trên khi kết thúc -n.",
+    "**Pronunciation: finals -n vs -ng**\n• -n: tongue tip on the upper gum, short and “front”: yīyuàn, guòmǐn, xīn.\n• -ng: back of the tongue raised, resonance in the nose: yīshēng, shēngbìng, téng.\n• Easily confused: 医院 yīyuàn (hospital) – 医生 yīshēng (doctor); 敏 mǐn – 病 bìng.\n• Southern Vietnamese speakers often turn -n into -ng: speak slowly and keep the tongue on the gum for -n."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **头** (5 nét), **医** (7), **药** (9), **病** (10), **疼** (10).\n• Bộ **疒** (bệnh tật – hình chiếc giường người ốm) trong **病, 疼, 痛**: thấy bộ này là biết chữ liên quan đến bệnh.\n• 药 có bộ 艹 (cỏ) – thuốc xưa làm từ cây cỏ.\n• 医 = 匚 (cái hộp) + 矢 (mũi tên): hộp đựng dụng cụ chữa vết thương.\n• Thanh điệu: tóu (2) · yī (1) · yào (4) · bìng (4) · téng (2).",
+    "**Characters & tones**\nWrite: **头** (5 strokes), **医** (7), **药** (9), **病** (10), **疼** (10).\n• The **疒** (sickness – a sickbed) radical in **病, 疼, 痛**: it signals illness.\n• 药 has 艹 (grass) – old medicines were herbs.\n• 医 = 匚 (box) + 矢 (arrow): a box of tools for treating wounds.\n• Tones: tóu (2) · yī (1) · yào (4) · bìng (4) · téng (2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 hội thoại bác sĩ – bệnh nhân, ghi lại triệu chứng, thuốc và lời dặn.\n• Nói (25 phút): mô tả 3 triệu chứng (bắt đầu khi nào, đau ở đâu, mức độ), rồi đóng vai bác sĩ khuyên lại bằng 应该.\n• Đọc (20 phút): đọc hướng dẫn trên 1 hộp thuốc Trung Quốc, tìm liều dùng (用法用量), tác dụng phụ, điều cần tránh.\n• Viết (25 phút): viết tin nhắn 60–80 chữ xin nghỉ học/nghỉ làm vì ốm.\n• Từ vựng (15 phút): học 15 bộ phận cơ thể, chỉ vào người và nói tên.\n• Thử thách (20 phút): làm “thẻ y tế du lịch” 6 câu: 我…疼, 我在吃…药, 我对…过敏….",
+    "**Practice outside the app**\n• Listening (20 min): listen to a doctor–patient dialogue and note symptoms, medicine and advice.\n• Speaking (25 min): describe 3 symptoms (when they began, where it hurts, how bad), then play the doctor and advise with 应该.\n• Reading (20 min): read the leaflet of a Chinese medicine box and find the dosage (用法用量), side effects and warnings.\n• Writing (25 min): write a 60–80-character sick-leave message.\n• Vocabulary (15 min): learn 15 body parts, point and name them.\n• Challenge (20 min): make a 6-sentence “travel health card”: 我…疼, 我在吃…药, 我对…过敏…."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我从昨天开始头疼。Wǒ cóng zuótiān kāishǐ tóuténg.",
+    "Tôi bị đau đầu từ hôm qua."
+   ],
+   [
+    "我对青霉素过敏。Wǒ duì qīngméisù guòmǐn.",
+    "Tôi bị dị ứng với penicillin."
+   ],
+   [
+    "这个药一天吃几次？Zhège yào yì tiān chī jǐ cì?",
+    "Thuốc này uống mấy lần một ngày?"
+   ],
+   [
+    "你应该多休息。Nǐ yīnggāi duō xiūxi.",
+    "Bạn nên nghỉ ngơi nhiều hơn."
+   ],
+   [
+    "我觉得头晕。Wǒ juéde tóuyūn.",
+    "Tôi thấy chóng mặt."
+   ],
+   [
+    "我需要预约看医生。Wǒ xūyào yùyuē kàn yīshēng.",
+    "Tôi cần đặt lịch khám bác sĩ."
+   ],
+   [
+    "我哪儿都不舒服。Wǒ nǎr dōu bù shūfu.",
+    "Tôi thấy khó chịu khắp người."
+   ]
+  ],
+  "vo": [
+   [
+    "生病",
+    "shēngbìng",
+    "bị ốm",
+    "be ill"
+   ],
+   [
+    "发烧",
+    "fāshāo",
+    "sốt",
+    "fever"
+   ],
+   [
+    "咳嗽",
+    "késou",
+    "ho",
+    "cough"
+   ],
+   [
+    "头疼",
+    "tóuténg",
+    "đau đầu",
+    "headache"
+   ],
+   [
+    "药",
+    "yào",
+    "thuốc",
+    "medicine"
+   ],
+   [
+    "医生",
+    "yīshēng",
+    "bác sĩ",
+    "doctor"
+   ],
+   [
+    "医院",
+    "yīyuàn",
+    "bệnh viện",
+    "hospital"
+   ],
+   [
+    "药店",
+    "yàodiàn",
+    "hiệu thuốc",
+    "pharmacy"
+   ],
+   [
+    "过敏",
+    "guòmǐn",
+    "dị ứng",
+    "allergy"
+   ],
+   [
+    "休息",
+    "xiūxi",
+    "nghỉ ngơi",
+    "rest"
+   ]
+  ],
+  "hz": "头医药病疼",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我从昨天开始头疼。",
+    "e": [
+     "从 + thời điểm + 开始 + triệu chứng. 头疼 = đau đầu (疼 có bộ 疒). Không viết 痛 khi nghe tóuténg.",
+     "从 + time + 开始 + symptom. 头疼 = headache (疼 has 疒). Don't write 痛 when you hear tóuténg."
+    ],
+    "f": [
+     "从昨天开始",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "这个药一天吃几次？",
+    "e": [
+     "Uống thuốc trong tiếng Trung dùng 吃药 (không phải 喝药, trừ thuốc nước). 几次 = mấy lần.",
+     "Chinese says 吃药 for taking pills (not 喝药, except liquid medicine). 几次 = how many times."
+    ],
+    "f": [
+     "一天吃几次",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "医生说我只是感冒了，不用打针，可是应该多喝水，这个药一天吃三次，饭后吃。",
+    "q": [
+     "Bác sĩ dặn uống thuốc thế nào?",
+     "How should the medicine be taken?"
+    ],
+    "o": [
+     [
+      "Ngày 3 lần, sau bữa ăn",
+      "Three times a day, after meals"
+     ],
+     [
+      "Ngày 1 lần, trước bữa ăn",
+      "Once a day, before meals"
+     ],
+     [
+      "Ngày 3 lần, trước khi ngủ",
+      "Three times a day, before bed"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "一天吃三次，饭后吃 – ngày 3 lần, sau ăn. 饭后 = sau bữa cơm; trước bữa là 饭前. 不用打针 = không cần tiêm.",
+     "一天吃三次，饭后吃 – three times a day after meals. 饭后 = after meals; 饭前 = before. 不用打针 = no injection needed."
+    ],
+    "f": [
+     "饭后吃",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我对青霉素过敏，你应该多休息。",
+    "e": [
+     "过敏 guòmǐn: vần -in (đầu lưỡi). 青霉素 qīngméisù: vần -ing. 应该 yīnggāi, 休息 xiūxi (息 đọc nhẹ).",
+     "过敏 guòmǐn ends in -in (tongue tip). 青霉素 qīngméisù has -ing. 应该 yīnggāi, 休息 xiūxi (light 息)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你怎么保持健康？我每天早上跑步半个小时，多吃水果，少吃油的东西，晚上十一点以前睡觉。",
+    "e": [
+     "Câu hỏi: 你怎么保持健康？– Gợi ý trả lời mẫu. Dùng 多/少 + động từ và thời lượng sau động từ (跑步半个小时).",
+     "Question: 你怎么保持健康？– A model answer. Use 多/少 + verb and a duration after the verb (跑步半个小时)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "感冒的时候，去看医生好还是在家休息好？我觉得一般的感冒在家休息就好，可是如果发烧三天以上，应该去医院。",
+    "e": [
+     "Câu hỏi: 感冒的时候，去看医生好还是在家休息好？– Gợi ý trả lời mẫu. Nêu quan điểm (我觉得) và điều kiện (如果…应该…).",
+     "Question: 感冒的时候，去看医生好还是在家休息好？– A model answer. Give a view (我觉得) and a condition (如果…应该…)."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "王老师，您好！我是三班的阮明。我从昨天晚上开始发烧，今天早上还有点儿头疼和咳嗽，所以我去医院看医生了。医生说我感冒了，不是什么大病，给我开了一些药。他问我对什么药过敏，我告诉他我对青霉素过敏。这个药一天吃三次，饭后吃。医生说我应该多喝水，多休息，最好在家休息两天。所以我想请两天假，明天和后天不能去上课了。谢谢您！",
+   "tr": "Em chào cô Vương! Em là Nguyễn Minh lớp 3. Từ tối hôm qua em bắt đầu bị sốt, sáng nay còn hơi đau đầu và ho, nên em đã đi bệnh viện khám. Bác sĩ nói em bị cảm, không phải bệnh gì nặng, và kê cho em một ít thuốc. Bác sĩ hỏi em dị ứng với thuốc gì, em nói em dị ứng với penicillin. Thuốc này uống ngày ba lần, sau bữa ăn. Bác sĩ nói em nên uống nhiều nước, nghỉ ngơi nhiều, tốt nhất là ở nhà nghỉ hai ngày. Vì vậy em muốn xin nghỉ hai ngày, ngày mai và ngày kia em không thể đi học được. Em cảm ơn cô ạ!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Minh bắt đầu sốt từ khi nào?",
+     "When did Minh's fever start?"
+    ],
+    "o": [
+     [
+      "Từ tối hôm qua",
+      "Since last night"
+     ],
+     [
+      "Từ sáng nay",
+      "Since this morning"
+     ],
+     [
+      "Từ hai ngày trước",
+      "Since two days ago"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我从昨天晚上开始发烧. Sáng nay (今天早上) là lúc thêm đau đầu và ho.",
+     "我从昨天晚上开始发烧. This morning (今天早上) is when the headache and cough came."
+    ],
+    "f": [
+     "从昨天晚上开始发烧",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bác sĩ chẩn đoán gì?",
+     "What did the doctor say Minh has?"
+    ],
+    "o": [
+     [
+      "Bị cảm, không phải bệnh nặng",
+      "A cold, nothing serious"
+     ],
+     [
+      "Dị ứng thuốc",
+      "A drug allergy"
+     ],
+     [
+      "Phải nằm viện",
+      "Needs to stay in hospital"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "医生说我感冒了，不是什么大病. Dị ứng penicillin là tiền sử của Minh, không phải chẩn đoán.",
+     "医生说我感冒了，不是什么大病. The penicillin allergy is Minh's history, not the diagnosis."
+    ],
+    "f": [
+     "感冒了，不是什么大病",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Minh viết tin này để làm gì?",
+     "Why does Minh write this message?"
+    ],
+    "o": [
+     [
+      "Xin nghỉ học hai ngày",
+      "To ask for two days off school"
+     ],
+     [
+      "Hỏi cô giáo mua thuốc gì",
+      "To ask what medicine to buy"
+     ],
+     [
+      "Xin bài tập về nhà",
+      "To ask for homework"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我想请两天假 – 请假 = xin nghỉ; 两天 chen giữa 请 và 假 (động từ ly hợp).",
+     "我想请两天假 – 请假 = ask for leave; 两天 sits between 请 and 假 (separable verb)."
+    ],
+    "f": [
+     "请两天假",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你感冒了，___多喝水，多休息，晚上早点儿睡觉。(nên)",
+    "a": [
+     "应该"
+    ],
+    "e": [
+     "应该 + động từ = nên. 可以 là “có thể”, 会 là “sẽ/biết” – không mang ý khuyên.",
+     "应该 + verb = should. 可以 = may/can and 会 = will/can – neither gives advice."
+    ],
+    "f": [
+     "应该多喝水",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "医生，我___海鲜过敏，这个药里面有没有海鲜？",
+    "a": [
+     "对"
+    ],
+    "e": [
+     "A 对 B 过敏 = dị ứng với B. Giới từ 对 đứng trước đối tượng gây dị ứng.",
+     "A 对 B 过敏 = allergic to B. The preposition 对 comes before the allergen."
+    ],
+    "f": [
+     "对海鲜过敏",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这个药一天吃三___，早饭、午饭和晚饭以后各吃一片。(lần)",
+    "a": [
+     "次"
+    ],
+    "e": [
+     "次 = lần (động lượng từ), đứng sau động từ: 吃三次. 片 là lượng từ cho viên thuốc.",
+     "次 = times (verbal measure word), after the verb: 吃三次. 片 counts tablets."
+    ],
+    "f": [
+     "吃三次",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thấy chóng mặt.",
+    "a": [
+     "我觉得头晕。",
+     "我头晕。",
+     "我有点儿头晕。"
+    ],
+    "e": [
+     "头晕 = chóng mặt; 觉得 = cảm thấy. Khác với 头疼 (đau đầu).",
+     "头晕 = dizzy; 觉得 = to feel. Different from 头疼 (headache)."
+    ],
+    "f": [
+     "头晕",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi cần đặt lịch khám bác sĩ.",
+    "a": [
+     "我需要预约看医生。",
+     "我要预约看医生。",
+     "我需要约医生看病。"
+    ],
+    "e": [
+     "预约 = đặt hẹn trước; 看医生 = đi khám bác sĩ. 需要 = cần.",
+     "预约 = make an appointment; 看医生 = see a doctor. 需要 = need."
+    ],
+    "f": [
+     "预约看医生",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Từ tuần trước tôi bắt đầu ho, nên hôm nay tôi đến bệnh viện khám bác sĩ.",
+    "a": [
+     "我从上个星期开始咳嗽，所以今天去医院看医生了。",
+     "我从上个星期开始咳嗽，所以今天我去医院看医生。",
+     "从上周开始我就咳嗽，所以今天去医院看医生了。"
+    ],
+    "e": [
+     "从…开始 + triệu chứng; 所以 nối kết quả. 去医院看医生: nơi chốn trước, mục đích sau. 了 cuối câu cho việc đã làm.",
+     "从…开始 + symptom; 所以 introduces the result. 去医院看医生: place first, then purpose. Final 了 marks the completed action."
+    ],
+    "f": [
+     "从上个星期开始咳嗽",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我过敏青霉素，所以医生给我开了别的药，一天吃两次。",
+    "a": [
+     "我对青霉素过敏，所以医生给我开了别的药，一天吃两次。"
+    ],
+    "e": [
+     "过敏 không nhận tân ngữ trực tiếp: phải nói 对青霉素过敏. Người Việt hay dịch thẳng “dị ứng penicillin”.",
+     "过敏 takes no direct object: say 对青霉素过敏. Learners often translate “allergic penicillin” literally."
+    ],
+    "f": [
+     "对青霉素过敏",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "医生说你不应该吃辣的东西，应该喝多水，多休息几天。",
+    "a": [
+     "医生说你不应该吃辣的东西，应该多喝水，多休息几天。"
+    ],
+    "e": [
+     "“Uống nhiều nước” = 多喝水 (多 đứng trước động từ), không nói 喝多水. Cùng mẫu: 多休息, 少吃.",
+     "“Drink more water” = 多喝水 (多 before the verb), not 喝多水. Same pattern: 多休息, 少吃."
+    ],
+    "f": [
+     "多喝水",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我咳嗽得很厉害，晚上睡不好觉，你觉得我应该去 ___ 买点儿药吗？",
+    "o": [
+     "药店",
+     "饭店",
+     "商店"
+    ],
+    "a": 0,
+    "e": [
+     "Mua thuốc ở 药店 (hiệu thuốc). 饭店 là nhà hàng/khách sạn, 商店 là cửa hàng nói chung.",
+     "Medicine is bought at a 药店 (pharmacy). 饭店 is a restaurant/hotel, 商店 a general shop."
+    ],
+    "f": [
+     "药店",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "医生|让我|在家|休息|两天|，每天|多喝水|，不要|吃|辣的",
+    "m": [
+     "Bác sĩ bảo tôi ở nhà nghỉ hai ngày, mỗi ngày uống nhiều nước, đừng ăn đồ cay.",
+     "The doctor told me to rest at home for two days, drink plenty of water every day and avoid spicy food."
+    ],
+    "e": [
+     "让 + người + làm gì = bảo ai làm gì. Địa điểm 在家 trước động từ, thời lượng 两天 sau động từ.",
+     "让 + person + action = tell someone to do something. 在家 precedes the verb; the duration 两天 follows it."
+    ],
+    "f": [
+     "在家休息两天",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 100 chữ khuyên một người bạn hay bị mất ngủ: 5 lời khuyên dùng 应该 / 不应该.",
+     "Write about 100 characters advising a friend who often can't sleep: 5 pieces of advice with 应该 / 不应该."
+    ],
+    "m": "小王，听说你最近常常睡不好觉，我很担心。我觉得你应该每天晚上十一点以前睡觉。睡觉以前不应该看手机，也不应该喝咖啡和茶。你应该每天运动半个小时，比如跑步或者游泳。晚饭不应该吃得太多。如果两个星期以后还睡不好，你应该去医院看医生。",
+    "e": [
+     "Cần có: • 5 lời khuyên với 应该/不应该 • ít nhất 1 thời lượng sau động từ • 1 câu điều kiện (如果…) • giọng quan tâm (我很担心…).",
+     "Must include: • 5 pieces of advice with 应该/不应该 • at least 1 duration after a verb • 1 condition (如果…) • a caring tone (我很担心…)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d07",
+  "g": "study",
+  "t": [
+   "Giáo dục & trường học",
+   "Education & school"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 正在, 如果…就…, 跟…一样**\n• **(正)在 + động từ (+ 呢)** = đang làm gì: 我正在复习期末考试。Tôi đang ôn thi cuối kỳ. / 她在上课呢。\n• **如果 A，(主语) 就 B** = nếu A thì B: 如果考试通过了，我就申请奖学金。Nếu thi đậu, tôi sẽ xin học bổng. 就 đứng **sau chủ ngữ** của vế sau.\n• **A 跟 B 一样 (+ tính từ)** = A giống / như B: 网上学习跟在教室学习一样有效。Học online hiệu quả như học trên lớp. Phủ định: 跟…不一样.\n• Lượng từ cho môn học: 一**门**课; trường học: 一**所**大学.",
+    "**Grammar: 正在, 如果…就…, 跟…一样**\n• **(正)在 + verb (+ 呢)** = in the middle of doing: 我正在复习期末考试。I'm revising for my finals. / 她在上课呢。\n• **如果 A，(subject) 就 B** = if A, then B: 如果考试通过了，我就申请奖学金。If I pass, I'll apply for a scholarship. 就 comes **after the subject** of the second clause.\n• **A 跟 B 一样 (+ adjective)** = A is as … as B: 网上学习跟在教室学习一样有效。Online learning is as effective as classroom learning. Negative: 跟…不一样.\n• Measure words: a course 一**门**课; a university 一**所**大学."
+   ],
+   [
+    "**Phát âm: âm uốn lưỡi zh / ch / sh**\n• zh (không bật hơi), ch (bật hơi), sh (xát): đầu lưỡi cong lên chạm phần cứng của vòm miệng.\n• Luyện: zhuānyè (专业) · chéngjì (成绩) · lǎoshī (老师) · zhèngzài (正在) · shēnqǐng (申请).\n• Đừng đọc zh như “tr” tiếng Việt hoàn toàn hay sh như “s”: 是 shì ≠ 四 sì, 十 shí ≠ 死 sǐ.",
+    "**Pronunciation: retroflex zh / ch / sh**\n• zh (unaspirated), ch (aspirated), sh (fricative): tongue tip curled back against the hard palate.\n• Practise: zhuānyè (专业) · chéngjì (成绩) · lǎoshī (老师) · zhèngzài (正在) · shēnqǐng (申请).\n• Don't make zh exactly Vietnamese “tr” or sh like “s”: 是 shì ≠ 四 sì, 十 shí ≠ 死 sǐ."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **习** (3 nét), **书** (4), **考** (6), **学** (8), **试** (8).\n• Bộ **讠** (lời nói) trong **试, 课, 语**: thi, bài học, ngôn ngữ đều liên quan đến lời nói.\n• 学 có bộ 子 (đứa trẻ) dưới mái nhà – đứa trẻ học trong nhà.\n• 书 chỉ 4 nét, chấm cuối cùng viết sau cùng.\n• Thanh: xí (2) · shū (1) · kǎo (3) · xué (2) · shì (4). 考试 kǎoshì (3-4), 复习 fùxí (4-2).",
+    "**Characters & tones**\nWrite: **习** (3 strokes), **书** (4), **考** (6), **学** (8), **试** (8).\n• The **讠** (speech) radical in **试, 课, 语**: exams, lessons and languages all involve words.\n• 学 has 子 (child) under a roof – a child learning at home.\n• 书 has only 4 strokes; the dot comes last.\n• Tones: xí (2) · shū (1) · kǎo (3) · xué (2) · shì (4). 考试 kǎoshì (3-4), 复习 fùxí (4-2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): nghe 1 bài phỏng vấn sinh viên về cuộc sống đại học (5–7 phút), tóm tắt 5 ý chính.\n• Nói (25 phút): trả lời 2 phút “网上学习好还是在教室学习好？” – 1 quan điểm, 2 lý do, 1 ví dụ.\n• Đọc (25 phút): đọc 1 bài báo ngắn về hệ thống giáo dục (ví dụ 高考 ở Trung Quốc), gạch chân 10 từ mới.\n• Viết (35 phút): viết đoạn 150 chữ so sánh đại học Việt Nam với Trung Quốc.\n• Từ vựng (15 phút): lập sơ đồ tư duy: 学校 → người, nơi chốn, hoạt động, giấy tờ.",
+    "**Practice outside the app**\n• Listening (25 min): listen to a 5–7-minute student interview about university life and summarise 5 main points.\n• Speaking (25 min): answer for 2 minutes “网上学习好还是在教室学习好？” – one view, two reasons, one example.\n• Reading (25 min): read a short article on an education system (e.g. China's 高考) and underline 10 new words.\n• Writing (35 min): write 150 characters comparing Vietnamese and Chinese universities.\n• Vocabulary (15 min): make a mind map: 学校 → people, places, activities, documents."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我的专业是经济。Wǒ de zhuānyè shì jīngjì.",
+    "Tôi học chuyên ngành kinh tế."
+   ],
+   [
+    "我正在复习期末考试。Wǒ zhèngzài fùxí qīmò kǎoshì.",
+    "Tôi đang ôn thi cuối kỳ."
+   ],
+   [
+    "如果考试通过了，我就申请奖学金。Rúguǒ kǎoshì tōngguò le, wǒ jiù shēnqǐng jiǎngxuéjīn.",
+    "Nếu đậu, tôi sẽ xin học bổng."
+   ],
+   [
+    "我觉得网上学习跟在教室学习一样有效。Wǒ juéde wǎngshang xuéxí gēn zài jiàoshì xuéxí yíyàng yǒuxiào.",
+    "Theo tôi, học online hiệu quả như học trên lớp."
+   ],
+   [
+    "你最喜欢哪门课？Nǐ zuì xǐhuan nǎ mén kè?",
+    "Môn học bạn thích nhất là gì?"
+   ],
+   [
+    "我去年大学毕业了。Wǒ qùnián dàxué bìyè le.",
+    "Tôi tốt nghiệp đại học năm ngoái."
+   ]
+  ],
+  "vo": [
+   [
+    "科目",
+    "kēmù",
+    "môn học",
+    "subject"
+   ],
+   [
+    "考试",
+    "kǎoshì",
+    "kỳ thi",
+    "exam"
+   ],
+   [
+    "成绩",
+    "chéngjì",
+    "điểm, kết quả",
+    "grade, results"
+   ],
+   [
+    "作业",
+    "zuòyè",
+    "bài tập về nhà",
+    "homework"
+   ],
+   [
+    "大学",
+    "dàxué",
+    "đại học",
+    "university"
+   ],
+   [
+    "专业",
+    "zhuānyè",
+    "chuyên ngành",
+    "major"
+   ],
+   [
+    "奖学金",
+    "jiǎngxuéjīn",
+    "học bổng",
+    "scholarship"
+   ],
+   [
+    "毕业",
+    "bìyè",
+    "tốt nghiệp",
+    "graduate"
+   ],
+   [
+    "老师",
+    "lǎoshī",
+    "giáo viên",
+    "teacher"
+   ],
+   [
+    "复习",
+    "fùxí",
+    "ôn tập",
+    "revise, review"
+   ]
+  ],
+  "hz": "习书考学试",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我正在复习期末考试。",
+    "e": [
+     "正在 = đang. 复习 = ôn tập (đã học rồi), khác 预习 (xem trước bài mới). 期末 = cuối kỳ.",
+     "正在 = in progress. 复习 = revise (already studied), unlike 预习 (preview). 期末 = end of term."
+    ],
+    "f": [
+     "正在复习",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "如果考试通过了，我就申请奖学金。",
+    "e": [
+     "如果…就…: 就 đứng sau chủ ngữ 我. 奖学金 jiǎngxuéjīn – 奖 (thưởng) + 学 + 金 (tiền).",
+     "如果…就…: 就 follows the subject 我. 奖学金 jiǎngxuéjīn – 奖 (award) + 学 + 金 (money)."
+    ],
+    "f": [
+     "如果…就",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我的专业是经济，明年六月毕业，毕业以后我想先工作两年，然后再读研究生。",
+    "q": [
+     "Người nói định làm gì sau khi tốt nghiệp?",
+     "What does the speaker plan to do after graduating?"
+    ],
+    "o": [
+     [
+      "Đi làm hai năm rồi học thạc sĩ",
+      "Work for two years, then do a master's"
+     ],
+     [
+      "Học thạc sĩ ngay",
+      "Start a master's straight away"
+     ],
+     [
+      "Đi du học Trung Quốc",
+      "Study in China"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "先工作两年，然后再读研究生 – 先…然后再… = trước… sau đó mới…. 研究生 = học viên cao học.",
+     "先工作两年，然后再读研究生 – 先…然后再… = first… then…. 研究生 = graduate student."
+    ],
+    "f": [
+     "先工作两年",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我的专业是经济。我觉得网上学习跟在教室学习一样有效。",
+    "e": [
+     "专业 zhuānyè và 经济 jīngjì: phân biệt zh (uốn lưỡi) và j (mặt lưỡi). 一样 đọc yíyàng.",
+     "专业 zhuānyè vs 经济 jīngjì: zh (retroflex) vs j (palatal). 一样 is yíyàng."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你是怎么学这门语言的？我每天用手机学半个小时汉语，周末跟中国朋友聊天，还看中国电影。",
+    "e": [
+     "Câu hỏi: 你是怎么学这门语言的？– Gợi ý trả lời mẫu. Câu 是…的 hỏi cách thức; trả lời liệt kê phương pháp, thời lượng sau động từ.",
+     "Question: 你是怎么学这门语言的？– A model answer. 是…的 asks about the manner; list your methods with durations after verbs."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "大学应该免费吗？我觉得大学应该免费，因为如果学费太贵，很多家里没有钱的学生就不能上大学。",
+    "e": [
+     "Câu hỏi: 大学应该免费吗？– Gợi ý trả lời mẫu. Dùng 我觉得 nêu quan điểm, 因为 + 如果…就… để giải thích.",
+     "Question: 大学应该免费吗？– A model answer. State your view with 我觉得 and explain with 因为 + 如果…就…."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "我叫黎芳，是河内一所大学的学生，我的专业是经济，明年就要毕业了。这个学期我有五门课，作业很多。现在我正在复习期末考试，每天在图书馆学习四个小时。上个学期我的成绩不错，如果这次考试也通过了，我就申请奖学金，去中国学习一年。我觉得网上学习跟在教室学习一样有效，可是我更喜欢和同学们一起上课，因为可以互相帮助。",
+   "tr": "Tôi tên là Lê Phương, là sinh viên một trường đại học ở Hà Nội, chuyên ngành của tôi là kinh tế, sang năm là tốt nghiệp rồi. Học kỳ này tôi có năm môn, bài tập rất nhiều. Bây giờ tôi đang ôn thi cuối kỳ, mỗi ngày học ở thư viện bốn tiếng. Học kỳ trước điểm của tôi khá tốt, nếu lần thi này cũng đậu, tôi sẽ xin học bổng để sang Trung Quốc học một năm. Tôi thấy học online hiệu quả như học trên lớp, nhưng tôi thích học cùng các bạn hơn, vì có thể giúp đỡ lẫn nhau."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Mỗi ngày Phương ôn thi ở đâu và bao lâu?",
+     "Where and how long does Phương revise each day?"
+    ],
+    "o": [
+     [
+      "Ở thư viện, bốn tiếng",
+      "In the library, four hours"
+     ],
+     [
+      "Ở nhà, bốn tiếng",
+      "At home, four hours"
+     ],
+     [
+      "Ở thư viện, năm tiếng",
+      "In the library, five hours"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "每天在图书馆学习四个小时. Số 五 là số môn học (五门课), không phải số giờ.",
+     "每天在图书馆学习四个小时. Five (五) is the number of courses (五门课), not hours."
+    ],
+    "f": [
+     "在图书馆学习四个小时",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Phương sẽ xin học bổng khi nào?",
+     "When will Phương apply for the scholarship?"
+    ],
+    "o": [
+     [
+      "Nếu kỳ thi này cũng đậu",
+      "If she passes these exams too"
+     ],
+     [
+      "Sau khi tốt nghiệp",
+      "After graduating"
+     ],
+     [
+      "Ngay học kỳ này, bất kể kết quả",
+      "This term, whatever the results"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "如果这次考试也通过了，我就申请奖学金 – điều kiện là đậu kỳ thi này. 也 = cũng (như học kỳ trước).",
+     "如果这次考试也通过了，我就申请奖学金 – the condition is passing these exams. 也 = also (like last term)."
+    ],
+    "f": [
+     "如果这次考试也通过了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Phương thích học cùng các bạn hơn?",
+     "Why does Phương prefer studying with classmates?"
+    ],
+    "o": [
+     [
+      "Vì có thể giúp đỡ lẫn nhau",
+      "Because they can help each other"
+     ],
+     [
+      "Vì học online không hiệu quả",
+      "Because online learning doesn't work"
+     ],
+     [
+      "Vì giáo viên yêu cầu",
+      "Because the teacher requires it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "因为可以互相帮助. Phương nói học online 一样有效 (hiệu quả như nhau), nên phương án 2 sai.",
+     "因为可以互相帮助. Phương says online learning is 一样有效 (equally effective), so option 2 is wrong."
+    ],
+    "f": [
+     "互相帮助",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "现在我___在复习考试，没有时间跟你们去看电影。",
+    "a": [
+     "正"
+    ],
+    "e": [
+     "正在 = đang (hành động đang diễn ra). Câu gốc trong bài: 我正在复习期末考试.",
+     "正在 = in progress. From the text: 我正在复习期末考试."
+    ],
+    "f": [
+     "正在复习",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "如果考试通过了，我___申请奖学金，去中国学习一年。",
+    "a": [
+     "就"
+    ],
+    "e": [
+     "如果…就…: 就 nối kết quả, đứng sau chủ ngữ 我. Không dùng 才 hay 都 ở đây.",
+     "如果…就…: 就 introduces the result, after the subject 我. 才 or 都 don't fit."
+    ],
+    "f": [
+     "我就申请",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我觉得网上学习___在教室学习一样有效，可是需要自己安排时间。",
+    "a": [
+     "跟",
+     "和"
+    ],
+    "e": [
+     "A 跟/和 B 一样 = A giống B. Thiếu 跟 thì câu không có đối tượng so sánh.",
+     "A 跟/和 B 一样 = A is the same as B. Without 跟 nothing is being compared."
+    ],
+    "f": [
+     "跟在教室学习一样",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi tốt nghiệp đại học năm ngoái.",
+    "a": [
+     "我去年大学毕业了。",
+     "我去年毕业了。",
+     "我是去年大学毕业的。"
+    ],
+    "e": [
+     "Thời gian 去年 đứng trước động từ. 毕业 là động từ ly hợp, không nhận tân ngữ: không nói 毕业大学, mà 大学毕业 hoặc 从大学毕业.",
+     "The time 去年 precedes the verb. 毕业 takes no object: not 毕业大学, but 大学毕业 or 从大学毕业."
+    ],
+    "f": [
+     "大学毕业",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Môn học bạn thích nhất là gì?",
+    "a": [
+     "你最喜欢哪门课？",
+     "你最喜欢什么课？",
+     "你最喜欢的课是什么？"
+    ],
+    "e": [
+     "门 là lượng từ cho môn học: 哪门课. 最 + 喜欢 = thích nhất.",
+     "门 is the measure word for courses: 哪门课. 最 + 喜欢 = like most."
+    ],
+    "f": [
+     "哪门课",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "如果你每天复习，就你会通过考试，我们就可以一起去中国留学。",
+    "a": [
+     "如果你每天复习，你就会通过考试，我们就可以一起去中国留学。",
+     "如果你每天复习，就会通过考试，我们就可以一起去中国留学。"
+    ],
+    "e": [
+     "就 là phó từ, phải đứng SAU chủ ngữ và trước động từ/trợ động từ: 你就会通过考试. Người Việt hay đặt 就 lên đầu vế như chữ “thì” trong tiếng Việt.",
+     "就 is an adverb: it goes AFTER the subject and before the verb/modal: 你就会通过考试. Learners often put it first, like Vietnamese “thì”."
+    ],
+    "f": [
+     "你就会通过考试",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我的大学跟你的大学一样很大，都有一个很漂亮的图书馆。",
+    "a": [
+     "我的大学跟你的大学一样大，都有一个很漂亮的图书馆。"
+    ],
+    "e": [
+     "Sau 一样 dùng tính từ trực tiếp, không thêm 很: 一样大. Lỗi này giống lỗi 比…很….",
+     "After 一样 put the bare adjective, no 很: 一样大. Same mistake as 比…很…."
+    ],
+    "f": [
+     "一样大",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这个学期我选了五 ___ 课，每天都有很多作业，周末也得在图书馆学习。",
+    "o": [
+     "门",
+     "本",
+     "个"
+    ],
+    "a": 0,
+    "e": [
+     "门 là lượng từ cho môn học. 本 dùng cho sách (五本书), 个 nói được trong khẩu ngữ nhưng không chuẩn với 课.",
+     "门 is the measure word for courses. 本 is for books (五本书); 个 is colloquial but not standard with 课."
+    ],
+    "f": [
+     "五门课",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 正在…呢 để nhấn mạnh hành động đang diễn ra",
+     "Rewrite with 正在…呢 to stress the ongoing action"
+    ],
+    "s": "我妹妹在图书馆复习明天的考试。",
+    "a": [
+     "我妹妹正在图书馆复习明天的考试呢。"
+    ],
+    "e": [
+     "Ở đây 在 là giới từ “ở”. Thêm 正 trước 在 để thành “đang ở… làm…”, và 呢 cuối câu nhấn mạnh trạng thái đang diễn ra.",
+     "Here 在 means “at”. Adding 正 before it gives “is (right now) at… doing…”, and final 呢 stresses the ongoing state."
+    ],
+    "f": [
+     "正在…呢",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "如果|你|想|申请|奖学金|，你|就|应该|好好儿|准备考试",
+    "m": [
+     "Nếu bạn muốn xin học bổng thì bạn nên chuẩn bị kỹ cho kỳ thi.",
+     "If you want to apply for a scholarship, you should prepare well for the exam."
+    ],
+    "e": [
+     "如果 + vế điều kiện; vế sau: chủ ngữ + 就 + 应该 + động từ. 好好儿 (chăm chỉ, kỹ) đứng trước động từ 准备.",
+     "如果 + condition; second clause: subject + 就 + 应该 + verb. 好好儿 (properly) goes before 准备."
+    ],
+    "f": [
+     "你就应该",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết thư xin học bổng khoảng 150 chữ: bạn là ai, thành tích, lý do chọn ngành, kế hoạch sau khi học xong.",
+     "Write a scholarship application letter of about 150 characters: who you are, achievements, why you chose your major, plans after graduating."
+    ],
+    "m": "尊敬的老师：您好！我叫阮兰，是河内国家大学经济专业三年级的学生。我的成绩一直很好，上个学期每门课都是九分以上，还参加了学校的汉语比赛，得了第二名。我选经济专业，是因为我觉得越南和中国的经济关系越来越重要。如果我能得到这个奖学金，我就去北京学习一年，好好儿学习汉语和中国经济。毕业以后，我想在中越贸易公司工作。谢谢您！",
+    "e": [
+     "Cần có: • xưng hô trang trọng (尊敬的…) • thành tích có số liệu • lý do với 因为 • kế hoạch với 如果…就… • lời cảm ơn.",
+     "Must include: • a formal greeting (尊敬的…) • achievements with figures • a reason with 因为 • plans with 如果…就… • thanks."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d08",
+  "g": "study",
+  "t": [
+   "Công nghệ & mạng xã hội",
+   "Technology & social media"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 了, 既…也…, 越来越**\n• **Động từ + 了** = hành động đã xong: 我下载了这个软件。Tôi đã tải ứng dụng này. Câu hỏi: 你下载这个软件了吗？– Phủ định dùng **没(有)**, bỏ 了: 我还没下载。\n• **既 A 也 B** = vừa A vừa B (hai mặt cùng tồn tại): 社交媒体既有好处也有坏处。Mạng xã hội vừa có lợi vừa có hại. (Văn viết hơn 又…又….)\n• **越来越 + tính từ/động từ tâm lý** = ngày càng: 手机越来越重要了。Không thêm 很 sau 越来越 (không nói 越来越很重要).",
+    "**Grammar: 了, 既…也…, 越来越**\n• **Verb + 了** = completed action: 我下载了这个软件。I've downloaded this app. Question: 你下载这个软件了吗？– Negative uses **没(有)** and drops 了: 我还没下载。\n• **既 A 也 B** = both A and B: 社交媒体既有好处也有坏处。Social media has both advantages and disadvantages. (More written than 又…又….)\n• **越来越 + adjective/mental verb** = more and more: 手机越来越重要了。No 很 after 越来越 (not 越来越很重要)."
+   ],
+   [
+    "**Phát âm: nửa thanh 3**\n• Thanh 3 đứng **trước thanh 1, 2, 4 hoặc thanh nhẹ** chỉ đọc **nửa đầu**: xuống thấp rồi dừng, không vút lên: shǒujī (手机), ruǎnjiàn (软件), wǎngshang (网上). (密码 đọc mìmǎ – 密 là thanh 4.)\n• Chỉ khi đứng một mình hoặc cuối câu thanh 3 mới đọc đủ (xuống – lên): 我用手机。\n• Hai thanh 3 liền nhau vẫn theo quy tắc biến thành thanh 2: 很好 hén hǎo, 你也 ní yě.",
+    "**Pronunciation: the half third tone**\n• A tone 3 **before tones 1, 2, 4 or neutral** is only the **first half**: low and flat, no rise: shǒujī (手机), ruǎnjiàn (软件), wǎngshang (网上). (密码 is mìmǎ – 密 is tone 4.)\n• Only alone or at the end of a phrase is the full dip-and-rise used: 我用手机。\n• Two tone 3s in a row still follow the tone-2 rule: 很好 hén hǎo, 你也 ní yě."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **手** (4 nét), **电** (5), **机** (6), **网** (6), **码** (8).\n• 机 có bộ 木 (gỗ) – máy móc xưa làm bằng gỗ; 码 có bộ 石 (đá) – “quả cân, con số”.\n• 网 = hình tấm lưới; 电 = tia chớp xuyên qua mây.\n• Luyện gõ: trên bàn phím điện thoại gõ pinyin không dấu (shouji, ruanjian, mima, zhanghao…) và chọn đúng chữ cho 10 từ của bài.",
+    "**Characters & tones**\nWrite: **手** (4 strokes), **电** (5), **机** (6), **网** (6), **码** (8).\n• 机 has 木 (wood) – early machines were wooden; 码 has 石 (stone) – weights, numbers.\n• 网 is a picture of a net; 电 is lightning through a cloud.\n• Typing drill: on your phone, type toneless pinyin (shouji, ruanjian, mima, zhanghao…) and pick the right characters for the 10 words."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): xem 1 video review điện thoại/ứng dụng tiếng Trung (Bilibili), ghi 3 ưu điểm và 3 nhược điểm.\n• Nói (25 phút): trình bày 2 phút “社交媒体对年轻人有什么影响？”.\n• Đọc (25 phút): đọc 1 bài báo về 人工智能, trả lời 5 câu hỏi ý chính.\n• Viết (40 phút): viết 1 bài đăng 80 chữ + 1 đoạn nghị luận 150 chữ về lợi và hại của mạng xã hội.\n• Từ vựng (15 phút): đổi ngôn ngữ điện thoại sang tiếng Trung trong 1 tuần, ghi lại 20 từ gặp trong 设置 (cài đặt).",
+    "**Practice outside the app**\n• Listening (25 min): watch a Chinese phone/app review (Bilibili) and note 3 pros and 3 cons.\n• Speaking (25 min): talk for 2 minutes on “社交媒体对年轻人有什么影响？”.\n• Reading (25 min): read an article on 人工智能 and answer 5 gist questions.\n• Writing (40 min): write an 80-character post + a 150-character argument on the pros and cons of social media.\n• Vocabulary (15 min): set your phone to Chinese for a week and note 20 words from 设置 (Settings)."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我每天用手机大概五个小时。Wǒ měitiān yòng shǒujī dàgài wǔ ge xiǎoshí.",
+    "Mỗi ngày tôi dùng điện thoại khoảng 5 tiếng."
+   ],
+   [
+    "你下载这个软件了吗？Nǐ xiàzài zhège ruǎnjiàn le ma?",
+    "Bạn đã tải ứng dụng này chưa?"
+   ],
+   [
+    "社交媒体既有好处也有坏处。Shèjiāo méitǐ jì yǒu hǎochù yě yǒu huàichù.",
+    "Mạng xã hội vừa có lợi vừa có hại."
+   ],
+   [
+    "我忘了密码。Wǒ wàng le mìmǎ.",
+    "Tôi quên mật khẩu rồi."
+   ],
+   [
+    "这儿的网很慢。Zhèr de wǎng hěn màn.",
+    "Mạng ở đây rất chậm."
+   ],
+   [
+    "你能把链接发给我吗？Nǐ néng bǎ liànjiē fā gěi wǒ ma?",
+    "Bạn gửi cho tôi đường link được không?"
+   ]
+  ],
+  "vo": [
+   [
+    "智能手机",
+    "zhìnéng shǒujī",
+    "điện thoại thông minh",
+    "smartphone"
+   ],
+   [
+    "软件",
+    "ruǎnjiàn",
+    "ứng dụng",
+    "app"
+   ],
+   [
+    "社交媒体",
+    "shèjiāo méitǐ",
+    "mạng xã hội",
+    "social media"
+   ],
+   [
+    "下载",
+    "xiàzài",
+    "tải xuống",
+    "download"
+   ],
+   [
+    "发帖",
+    "fātiě",
+    "đăng bài",
+    "post"
+   ],
+   [
+    "密码",
+    "mìmǎ",
+    "mật khẩu",
+    "password"
+   ],
+   [
+    "账号",
+    "zhànghào",
+    "tài khoản",
+    "account"
+   ],
+   [
+    "人工智能",
+    "réngōng zhìnéng",
+    "trí tuệ nhân tạo",
+    "artificial intelligence"
+   ],
+   [
+    "隐私",
+    "yǐnsī",
+    "quyền riêng tư",
+    "privacy"
+   ],
+   [
+    "上瘾",
+    "shàngyǐn",
+    "nghiện",
+    "addicted"
+   ]
+  ],
+  "hz": "手电机网码",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我每天用手机大概五个小时。",
+    "e": [
+     "Thời lượng 五个小时 đứng sau 用手机. 大概 = khoảng. 手机 đọc nửa thanh 3: shǒujī.",
+     "The duration 五个小时 follows 用手机. 大概 = about. 手机 uses a half third tone: shǒujī."
+    ],
+    "f": [
+     "大概五个小时",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "社交媒体既有好处也有坏处。",
+    "e": [
+     "既…也… = vừa… vừa…. 好处 (lợi) – 坏处 (hại): 处 đọc chù.",
+     "既…也… = both… and…. 好处 (benefit) – 坏处 (harm): 处 is chù."
+    ],
+    "f": [
+     "既有好处也有坏处",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我昨天下载了一个学汉语的软件，可是今天忘了密码，只好重新注册一个账号。",
+    "q": [
+     "Hôm nay người nói gặp vấn đề gì?",
+     "What problem did the speaker have today?"
+    ],
+    "o": [
+     [
+      "Quên mật khẩu, phải đăng ký tài khoản mới",
+      "Forgot the password and had to register a new account"
+     ],
+     [
+      "Không tải được ứng dụng",
+      "Couldn't download the app"
+     ],
+     [
+      "Mạng quá chậm",
+      "The internet was too slow"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "今天忘了密码，只好重新注册一个账号. 只好 = đành phải. Việc tải ứng dụng (下载了) đã xong từ hôm qua.",
+     "今天忘了密码，只好重新注册一个账号. 只好 = had no choice but to. The download (下载了) was done yesterday."
+    ],
+    "f": [
+     "忘了密码",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你下载这个软件了吗？我忘了密码。",
+    "e": [
+     "下载 xiàzài (4-4); 软件 ruǎnjiàn – ruǎn nửa thanh 3. 密码 mìmǎ: 码 cuối câu đọc đủ thanh 3.",
+     "下载 xiàzài (4-4); 软件 ruǎnjiàn – half-third ruǎn. 密码 mìmǎ: final 码 gets the full third tone."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你用得最多的软件是什么？为什么？我用得最多的是微信，因为我每天都用它跟家人和朋友聊天，还用它付钱。",
+    "e": [
+     "Câu hỏi: 你用得最多的软件是什么？为什么？– Gợi ý trả lời mẫu. Trả lời bằng 是 + tên ứng dụng, rồi 因为 + 2 lý do.",
+     "Question: 你用得最多的软件是什么？为什么？– A model answer. Name the app with 是, then give two reasons with 因为."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你能一个星期不用手机吗？我觉得很难，因为我工作、学习和付钱都要用手机，不过我可以一个星期不用社交媒体。",
+    "e": [
+     "Câu hỏi: 你能一个星期不用手机吗？– Gợi ý trả lời mẫu. 不过 = tuy nhiên, mềm hơn 可是.",
+     "Question: 你能一个星期不用手机吗？– A model answer. 不过 = however, softer than 可是."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "现在智能手机越来越重要了。我每天用手机大概五个小时：上网、看新闻、跟朋友聊天，还用一个软件学汉语。上个星期我下载了一个新的软件，可是第二天我就忘了密码，只好重新注册账号。我觉得社交媒体既有好处也有坏处。好处是很方便，坏处是很多人上瘾了，也不太注意隐私。人工智能也越来越厉害，以后我们的生活会变成什么样呢？",
+   "tr": "Bây giờ điện thoại thông minh ngày càng quan trọng. Mỗi ngày tôi dùng điện thoại khoảng năm tiếng: lên mạng, xem tin tức, nói chuyện với bạn bè, còn dùng một ứng dụng để học tiếng Trung. Tuần trước tôi tải một ứng dụng mới, nhưng ngay ngày hôm sau tôi đã quên mật khẩu, đành phải đăng ký lại tài khoản. Tôi thấy mạng xã hội vừa có lợi vừa có hại. Lợi là rất tiện, hại là nhiều người bị nghiện, cũng không chú ý lắm đến quyền riêng tư. Trí tuệ nhân tạo cũng ngày càng giỏi, sau này cuộc sống của chúng ta sẽ thành ra thế nào?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết KHÔNG nhắc đến việc dùng điện thoại để làm gì?",
+     "Which use of the phone is NOT mentioned?"
+    ],
+    "o": [
+     [
+      "Chơi game",
+      "Playing games"
+     ],
+     [
+      "Xem tin tức",
+      "Reading the news"
+     ],
+     [
+      "Học tiếng Trung",
+      "Learning Chinese"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Bài liệt kê: 上网、看新闻、跟朋友聊天，还用一个软件学汉语 – không có chơi game (玩游戏).",
+     "The list is 上网、看新闻、跟朋友聊天，还用一个软件学汉语 – no gaming (玩游戏)."
+    ],
+    "f": [
+     "看新闻",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết phải đăng ký lại tài khoản?",
+     "Why did the writer have to register again?"
+    ],
+    "o": [
+     [
+      "Vì quên mật khẩu",
+      "Because they forgot the password"
+     ],
+     [
+      "Vì ứng dụng bị lỗi",
+      "Because the app crashed"
+     ],
+     [
+      "Vì đổi điện thoại mới",
+      "Because they got a new phone"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "第二天我就忘了密码，只好重新注册账号 – 只好 cho thấy không còn cách nào khác.",
+     "第二天我就忘了密码，只好重新注册账号 – 只好 shows there was no other choice."
+    ],
+    "f": [
+     "忘了密码",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo người viết, mặt hại của mạng xã hội là gì?",
+     "According to the writer, what is the downside of social media?"
+    ],
+    "o": [
+     [
+      "Nhiều người nghiện và ít chú ý quyền riêng tư",
+      "Many get addicted and ignore privacy"
+     ],
+     [
+      "Rất bất tiện",
+      "It's very inconvenient"
+     ],
+     [
+      "Quá đắt",
+      "It's too expensive"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "坏处是很多人上瘾了，也不太注意隐私. 很方便 là mặt lợi (好处).",
+     "坏处是很多人上瘾了，也不太注意隐私. 很方便 is the advantage (好处)."
+    ],
+    "f": [
+     "很多人上瘾了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "那个学汉语的软件我已经下载___，你也可以试试。",
+    "a": [
+     "了"
+    ],
+    "e": [
+     "已经…了 = đã… rồi: hành động hoàn thành. Thiếu 了 thì câu nghe chưa trọn.",
+     "已经…了 = already: a completed action. Without 了 the sentence feels unfinished."
+    ],
+    "f": [
+     "已经下载了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "现在智能手机越来___重要，很多人出门不带钱包，只带手机。",
+    "a": [
+     "越"
+    ],
+    "e": [
+     "越来越 + tính từ = ngày càng. Cấu trúc cố định, không nói 越来很重要.",
+     "越来越 + adjective = more and more. Fixed pattern; not 越来很重要."
+    ],
+    "f": [
+     "越来越重要",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "网络既有好处___有坏处，所以我们要学会好好儿使用它。",
+    "a": [
+     "也"
+    ],
+    "e": [
+     "既 A 也 B: 也 đứng trước vế thứ hai. Không dùng 又 sau 既 trong mẫu này (既…又… cũng tồn tại nhưng đề cho 也).",
+     "既 A 也 B: 也 introduces the second part. (既…又… exists too, but this pattern uses 也.)"
+    ],
+    "f": [
+     "既有好处也有坏处",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mạng ở đây rất chậm.",
+    "a": [
+     "这儿的网很慢。",
+     "这里的网很慢。",
+     "这儿的网络很慢。"
+    ],
+    "e": [
+     "这儿的网 = mạng ở đây (的 nối nơi chốn với danh từ). 慢 = chậm; tính từ làm vị ngữ cần 很.",
+     "这儿的网 = the internet here (的 links place and noun). 慢 = slow; an adjective predicate takes 很."
+    ],
+    "f": [
+     "这儿的网很慢",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn gửi cho tôi đường link được không?",
+    "a": [
+     "你能把链接发给我吗？",
+     "你可以把链接发给我吗？",
+     "你能给我发一下链接吗？"
+    ],
+    "e": [
+     "把 + tân ngữ + 发给 + người = gửi cái gì cho ai. 链接 = đường link.",
+     "把 + object + 发给 + person = send something to someone. 链接 = link."
+    ],
+    "f": [
+     "把链接发给我",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tuần trước tôi đã tải một ứng dụng học tiếng Trung, mỗi ngày tôi dùng nó khoảng nửa tiếng.",
+    "a": [
+     "上个星期我下载了一个学汉语的软件，我每天用它大概半个小时。",
+     "上个星期我下载了一个学汉语的软件，每天用大概半个小时。",
+     "我上周下载了一个学中文的软件，每天大概用半个小时。"
+    ],
+    "e": [
+     "下载了 cho việc đã xong; 学汉语的软件: cụm định ngữ + 的 đứng trước danh từ. Thời lượng 半个小时 đứng sau động từ 用.",
+     "下载了 for the completed action; 学汉语的软件: modifier + 的 before the noun. The duration 半个小时 follows 用."
+    ],
+    "f": [
+     "下载了一个学汉语的软件",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我还没下载了这个软件，因为我的手机里没有空间了。",
+    "a": [
+     "我还没下载这个软件，因为我的手机里没有空间了。",
+     "我还没有下载这个软件，因为我的手机里没有空间了。"
+    ],
+    "e": [
+     "Phủ định với 没(有) thì bỏ 了 sau động từ: 还没下载. 了 cuối câu sau (没有空间了) là 了 thay đổi trạng thái, giữ nguyên.",
+     "With 没(有) drop the verb 了: 还没下载. The final 了 in 没有空间了 marks a change of state and stays."
+    ],
+    "f": [
+     "还没下载",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "人工智能越来越很聪明，以后很多工作可能会被它代替。",
+    "a": [
+     "人工智能越来越聪明，以后很多工作可能会被它代替。"
+    ],
+    "e": [
+     "Sau 越来越 không dùng 很/非常. Bản thân 越来越 đã là mức độ.",
+     "No 很/非常 after 越来越 – it already expresses degree."
+    ],
+    "f": [
+     "越来越聪明",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "为了保护 ___，你最好不要在网上发你家的地址和电话号码。",
+    "o": [
+     "隐私",
+     "密码",
+     "软件"
+    ],
+    "a": 0,
+    "e": [
+     "Không đăng địa chỉ, số điện thoại là để bảo vệ 隐私 (quyền riêng tư). 密码 cũng cần bảo vệ nhưng không liên quan đến địa chỉ.",
+     "Not posting your address and number protects your 隐私 (privacy). 密码 needs protecting too, but isn't about addresses."
+    ],
+    "f": [
+     "保护隐私",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "很多|年轻人|每天|在|社交媒体上|发帖|，有的人|已经|上瘾了",
+    "m": [
+     "Nhiều người trẻ ngày nào cũng đăng bài trên mạng xã hội, có người đã nghiện rồi.",
+     "Many young people post on social media every day, and some are already addicted."
+    ],
+    "e": [
+     "Thời gian 每天 và nơi chốn 在社交媒体上 đứng trước động từ 发帖. 已经…了 = đã… rồi.",
+     "The time 每天 and place 在社交媒体上 precede the verb 发帖. 已经…了 = already."
+    ],
+    "f": [
+     "已经上瘾了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 150 chữ về lợi và hại của trí tuệ nhân tạo đối với việc học ngoại ngữ, kết bằng quan điểm của bạn.",
+     "Write about 150 characters on the pros and cons of AI for language learning, ending with your own view."
+    ],
+    "m": "现在人工智能越来越厉害了，很多人用它学外语。我觉得人工智能既有好处也有坏处。好处是很方便，你可以随时问它问题，它可以帮你改作文，还可以跟你练习口语。坏处是有的人太依赖它，自己不想办法，写作文的时候也不动脑子。另外，它有时候也会出错。我觉得人工智能是一个好老师，但是我们不能只用它，还应该多跟真人说话，自己多练习。",
+    "e": [
+     "Cần có: • 既…也… • ít nhất 2 lợi ích và 2 tác hại • 越来越 • câu kết với 我觉得 / 应该.",
+     "Must include: • 既…也… • at least 2 pros and 2 cons • 越来越 • a conclusion with 我觉得 / 应该."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d10",
+  "g": "society",
+  "t": [
+   "Văn hóa, lễ hội & giải trí",
+   "Culture, festivals & entertainment"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 最, …的时候, V + 了, lượng từ 部**\n• **最 + tính từ/động từ tâm lý** = nhất: 春节是越南最重要的节日。Tết là lễ hội quan trọng nhất ở Việt Nam. / 我最喜欢中秋节。\n• **… 的时候** = khi…, đứng **cuối** cụm thời gian (ngược tiếng Việt): 春节的时候，人们回老家。Dịp Tết, mọi người về quê. / 我小的时候…\n• **Động từ + 了 (+ số lượng) + tân ngữ** cho việc đã làm: 上个周末我去看了演唱会。/ 我看了一部电影。\n• Lượng từ: **部** cho phim (一部电影), **场** cho buổi diễn/trận (一场演唱会), **首** cho bài hát (一首歌).\n• So sánh với mệnh đề: 这部电影比我想的好看。Bộ phim hay hơn tôi nghĩ.",
+    "**Grammar: 最, …的时候, V + 了, measure word 部**\n• **最 + adjective/mental verb** = most: 春节是越南最重要的节日。Tet is Vietnam's most important festival. / 我最喜欢中秋节。\n• **… 的时候** = when…, placed at the **end** of the time phrase: 春节的时候，人们回老家。At Tet, people go back home. / 我小的时候…\n• **Verb + 了 (+ quantity) + object** for completed actions: 上个周末我去看了演唱会。/ 我看了一部电影。\n• Measure words: **部** for films (一部电影), **场** for shows/matches (一场演唱会), **首** for songs (一首歌).\n• Comparing with a clause: 这部电影比我想的好看。The film was better than I thought."
+   ],
+   [
+    "**Phát âm: âm r**\n• r trong 日 **rì**, 人 **rén**, 热闹 rènao: uốn đầu lưỡi lên như sh nhưng để dây thanh rung – gần “r” nhẹ, không rung lưỡi.\n• Lỗi hay gặp của người Việt: đọc thành “d” (dì) hoặc “z” (zén). Mẹo: kéo dài âm sh rồi thêm tiếng: shhh → rrr.\n• Luyện: 节日 jiérì · 人们 rénmen · 如意 rúyì · 热 rè.",
+    "**Pronunciation: the r sound**\n• r in 日 **rì**, 人 **rén**, 热闹 rènao: curl the tongue tip as for sh, but voice it – a soft “r”, not trilled.\n• Common Vietnamese errors: saying “d” (dì) or “z” (zén). Tip: hold sh, then add voice: shhh → rrr.\n• Practise: 节日 jiérì · 人们 rénmen · 如意 rúyì · 热 rè."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **日** (4 nét), **节** (5), **乐** (5), **年** (6), **春** (9).\n• 春 = 三 + 人 + 日: mặt trời mùa xuân trên đầu mọi người. 节 có bộ 艹 (cỏ) – đốt tre, tiết.\n• 乐 có hai cách đọc: **lè** (vui – 快乐) và **yuè** (nhạc – 音乐).\n• Học thuộc lời chúc Tết: **新年快乐** (xīnnián kuàilè – chúc mừng năm mới), **万事如意** (wànshì rúyì – vạn sự như ý).",
+    "**Characters & tones**\nWrite: **日** (4 strokes), **节** (5), **乐** (5), **年** (6), **春** (9).\n• 春 = 三 + 人 + 日: the spring sun above people. 节 has 艹 (grass) – a bamboo joint, a festival.\n• 乐 has two readings: **lè** (happy – 快乐) and **yuè** (music – 音乐).\n• Learn the New Year wishes: **新年快乐** (xīnnián kuàilè – Happy New Year), **万事如意** (wànshì rúyì – may all go as you wish)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): xem 1 video giới thiệu 春节, ghi thời gian, địa điểm, hoạt động.\n• Nói (25 phút): giới thiệu Tết Việt Nam cho người nước ngoài trong 2 phút: món ăn, phong tục, ý nghĩa.\n• Đọc (20 phút): đọc 1 bài review phim trên Douban (豆瓣), tìm 5 tính từ đánh giá và câu kết luận.\n• Viết (35 phút): viết review 150 chữ về 1 bộ phim hoặc buổi diễn bạn đã xem.\n• Từ vựng (15 phút): so sánh Tết Việt Nam với 春节 Trung Quốc, liệt kê 10 từ mỗi bên.",
+    "**Practice outside the app**\n• Listening (25 min): watch a video about 春节 and note when, where and what people do.\n• Speaking (25 min): present Vietnamese Tet to a foreigner in 2 minutes: food, customs, meaning.\n• Reading (20 min): read a film review on Douban (豆瓣) and find 5 evaluative adjectives and the conclusion.\n• Writing (35 min): write a 150-character review of a film or show you saw.\n• Vocabulary (15 min): compare Vietnamese Tet with Chinese 春节, listing 10 words for each."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "春节是越南最重要的节日。Chūnjié shì Yuènán zuì zhòngyào de jiérì.",
+    "Tết là lễ hội quan trọng nhất ở Việt Nam."
+   ],
+   [
+    "春节的时候，人们一般回老家团聚。Chūnjié de shíhou, rénmen yìbān huí lǎojiā tuánjù.",
+    "Dịp Tết, mọi người thường về quê sum họp."
+   ],
+   [
+    "上个周末我去看了演唱会。Shàng ge zhōumò wǒ qù kàn le yǎnchànghuì.",
+    "Cuối tuần trước tôi đi xem hòa nhạc."
+   ],
+   [
+    "这部电影比我想的好看。Zhè bù diànyǐng bǐ wǒ xiǎng de hǎokàn.",
+    "Bộ phim này hay hơn tôi nghĩ."
+   ],
+   [
+    "新年快乐！万事如意！Xīnnián kuàilè! Wànshì rúyì!",
+    "Chúc mừng năm mới! Vạn sự như ý!"
+   ],
+   [
+    "你喜欢什么样的音乐？Nǐ xǐhuan shénme yàng de yīnyuè?",
+    "Bạn thích thể loại nhạc nào?"
+   ]
+  ],
+  "vo": [
+   [
+    "节日",
+    "jiérì",
+    "lễ hội, ngày lễ",
+    "festival, holiday"
+   ],
+   [
+    "春节",
+    "Chūnjié",
+    "Tết Nguyên Đán",
+    "Lunar New Year"
+   ],
+   [
+    "传统",
+    "chuántǒng",
+    "truyền thống",
+    "tradition"
+   ],
+   [
+    "习俗",
+    "xísú",
+    "phong tục",
+    "custom"
+   ],
+   [
+    "电影",
+    "diànyǐng",
+    "phim",
+    "film, movie"
+   ],
+   [
+    "歌手",
+    "gēshǒu",
+    "ca sĩ",
+    "singer"
+   ],
+   [
+    "演唱会",
+    "yǎnchànghuì",
+    "buổi hòa nhạc",
+    "concert"
+   ],
+   [
+    "博物馆",
+    "bówùguǎn",
+    "bảo tàng",
+    "museum"
+   ],
+   [
+    "庆祝",
+    "qìngzhù",
+    "ăn mừng",
+    "celebrate"
+   ],
+   [
+    "礼物",
+    "lǐwù",
+    "quà",
+    "gift"
+   ]
+  ],
+  "hz": "日节乐年春",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "春节是越南最重要的节日。",
+    "e": [
+     "最 đứng trước tính từ 重要; 最重要的 + danh từ. 节日 jiérì – nhớ âm r trong 日.",
+     "最 precedes the adjective 重要; 最重要的 + noun. 节日 jiérì – mind the r in 日."
+    ],
+    "f": [
+     "最重要的节日",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "春节的时候，人们一般回老家团聚。",
+    "e": [
+     "…的时候 đứng cuối cụm thời gian: 春节的时候 (dịp Tết). 团聚 = sum họp.",
+     "…的时候 closes the time phrase: 春节的时候 (at Tet). 团聚 = reunite."
+    ],
+    "f": [
+     "春节的时候",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "上个周末我去看了一场演唱会，人特别多，那个歌手唱得非常好，可是票有点儿贵。",
+    "q": [
+     "Người nói chê điều gì?",
+     "What did the speaker complain about?"
+    ],
+    "o": [
+     [
+      "Vé hơi đắt",
+      "The ticket was a bit expensive"
+     ],
+     [
+      "Ca sĩ hát không hay",
+      "The singer sang badly"
+     ],
+     [
+      "Ít người đến xem",
+      "Few people came"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "可是票有点儿贵 – 有点儿 + tính từ dùng để chê nhẹ. Ca sĩ 唱得非常好 (hát rất hay), người 特别多 (rất đông).",
+     "可是票有点儿贵 – 有点儿 + adjective is a mild complaint. The singer 唱得非常好 and it was 特别多 (very crowded)."
+    ],
+    "f": [
+     "票有点儿贵",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "上个周末我去看了演唱会。这部电影比我想的好看。",
+    "e": [
+     "演唱会 yǎnchànghuì (3-4-4); 部 bù; 比我想的 – 想 đọc nửa thanh 3. 好看 hǎokàn.",
+     "演唱会 yǎnchànghuì (3-4-4); 部 bù; in 比我想的, 想 is a half third tone. 好看 hǎokàn."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你最喜欢什么节日？怎么过？我最喜欢中秋节，那天晚上我们全家一起吃月饼、看月亮，孩子们还玩灯笼。",
+    "e": [
+     "Câu hỏi: 你最喜欢什么节日？怎么过？– Gợi ý trả lời mẫu. 最喜欢 + tên lễ; mô tả hoạt động bằng chuỗi động từ.",
+     "Question: 你最喜欢什么节日？怎么过？– A model answer. 最喜欢 + festival; describe the activities with a chain of verbs."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "传统文化对年轻人还重要吗？我觉得还很重要，虽然年轻人喜欢新东西，但是过节的时候大家还是愿意回老家。",
+    "e": [
+     "Câu hỏi: 传统文化对年轻人还重要吗？– Gợi ý trả lời mẫu. 虽然…但是… cân bằng hai mặt; 还是 = vẫn.",
+     "Question: 传统文化对年轻人还重要吗？– A model answer. 虽然…但是… balances both sides; 还是 = still."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "春节是越南最重要的节日，一般在一月底或者二月。春节的时候，人们一般回老家跟家人团聚。我们会打扫房子，买新衣服，还要准备很多传统的菜。按照习俗，大年初一大人要给孩子红包，大家互相说“新年快乐”“万事如意”。今年春节我没回老家，因为工作太忙了。不过上个周末我去看了一场演唱会，那个歌手唱得非常好。昨天我还看了一部电影，这部电影比我想的好看。",
+   "tr": "Tết là lễ hội quan trọng nhất ở Việt Nam, thường rơi vào cuối tháng Một hoặc tháng Hai. Dịp Tết, mọi người thường về quê sum họp với gia đình. Chúng tôi dọn dẹp nhà cửa, mua quần áo mới, còn phải chuẩn bị nhiều món ăn truyền thống. Theo phong tục, mùng Một Tết người lớn lì xì cho trẻ em, mọi người chúc nhau “Chúc mừng năm mới”, “Vạn sự như ý”. Tết năm nay tôi không về quê vì công việc quá bận. Nhưng cuối tuần trước tôi đi xem một buổi hòa nhạc, ca sĩ đó hát rất hay. Hôm qua tôi còn xem một bộ phim, bộ phim này hay hơn tôi nghĩ."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Theo phong tục, mùng Một Tết người lớn làm gì?",
+     "By custom, what do adults do on the first day of Tet?"
+    ],
+    "o": [
+     [
+      "Lì xì cho trẻ em",
+      "Give children red envelopes"
+     ],
+     [
+      "Đi xem hòa nhạc",
+      "Go to a concert"
+     ],
+     [
+      "Dọn dẹp nhà cửa",
+      "Clean the house"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "大年初一大人要给孩子红包 – 红包 = phong bao lì xì. Dọn nhà (打扫房子) là việc chuẩn bị trước Tết.",
+     "大年初一大人要给孩子红包 – 红包 = red envelope. Cleaning (打扫房子) is done before Tet."
+    ],
+    "f": [
+     "给孩子红包",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tết năm nay người viết không về quê?",
+     "Why didn't the writer go home this Tet?"
+    ],
+    "o": [
+     [
+      "Vì công việc quá bận",
+      "Because work was too busy"
+     ],
+     [
+      "Vì đi xem hòa nhạc",
+      "Because of a concert"
+     ],
+     [
+      "Vì vé tàu quá đắt",
+      "Because tickets were too expensive"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "今年春节我没回老家，因为工作太忙了. 没 + động từ cho việc đã không xảy ra.",
+     "今年春节我没回老家，因为工作太忙了. 没 + verb for something that didn't happen."
+    ],
+    "f": [
+     "工作太忙了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết thấy bộ phim hôm qua thế nào?",
+     "What did the writer think of yesterday's film?"
+    ],
+    "o": [
+     [
+      "Hay hơn mình nghĩ",
+      "Better than expected"
+     ],
+     [
+      "Không hay như mình nghĩ",
+      "Not as good as expected"
+     ],
+     [
+      "Giống hệt mình nghĩ",
+      "Exactly as expected"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "这部电影比我想的好看 – A 比 B 好看: phim hay hơn điều tôi nghĩ (我想的).",
+     "这部电影比我想的好看 – A 比 B 好看: better than what I thought (我想的)."
+    ],
+    "f": [
+     "比我想的好看",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "春节是越南___重要的节日，很多在外地工作的人都要回家过年。",
+    "a": [
+     "最"
+    ],
+    "e": [
+     "最 + tính từ = nhất. Không dùng 很 vì câu nói “quan trọng nhất” trong tất cả lễ hội.",
+     "最 + adjective = most. 很 doesn't express “the most important”."
+    ],
+    "f": [
+     "最重要",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "春节___时候，人们一般回老家跟家人一起吃年夜饭。",
+    "a": [
+     "的"
+    ],
+    "e": [
+     "…的时候 = khi…; thiếu 的 thì không thành cụm thời gian.",
+     "…的时候 = at the time of…; without 的 the phrase breaks."
+    ],
+    "f": [
+     "春节的时候",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这部电影___我想的好看多了，我还想再看一遍。",
+    "a": [
+     "比"
+    ],
+    "e": [
+     "A 比 B + tính từ + 多了: hay hơn nhiều. B ở đây là cả cụm 我想的 (điều tôi nghĩ).",
+     "A 比 B + adjective + 多了: much better. B here is the clause 我想的 (what I thought)."
+    ],
+    "f": [
+     "比我想的好看",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Người Việt thường lì xì cho trẻ em dịp Tết.",
+    "a": [
+     "越南人春节的时候一般给孩子红包。",
+     "春节的时候，越南人一般给孩子红包。",
+     "越南人过春节的时候常常给孩子红包。"
+    ],
+    "e": [
+     "春节的时候 đứng trước động từ; 给 + người + 红包 = lì xì cho ai.",
+     "春节的时候 precedes the verb; 给 + person + 红包 = give someone a red envelope."
+    ],
+    "f": [
+     "给孩子红包",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn thích thể loại nhạc nào?",
+    "a": [
+     "你喜欢什么样的音乐？",
+     "你喜欢哪种音乐？",
+     "你喜欢什么音乐？"
+    ],
+    "e": [
+     "什么样的 = loại nào, kiểu gì. 音乐 yīnyuè – 乐 đọc yuè (nhạc), không phải lè.",
+     "什么样的 = what kind of. 音乐 yīnyuè – 乐 is yuè (music), not lè."
+    ],
+    "f": [
+     "什么样的音乐",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "的时候春节，我们全家一起包粽子、看电视，还给爷爷奶奶拜年。",
+    "a": [
+     "春节的时候，我们全家一起包粽子、看电视，还给爷爷奶奶拜年。"
+    ],
+    "e": [
+     "…的时候 đứng SAU sự kiện: 春节的时候. Người Việt hay đặt trước vì tiếng Việt nói “khi Tết đến”.",
+     "…的时候 goes AFTER the event: 春节的时候. Learners put it first because Vietnamese says “when Tet comes”."
+    ],
+    "f": [
+     "春节的时候",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "昨天晚上我和朋友看了一个很有意思的电影，看完以后我们去喝咖啡了。",
+    "a": [
+     "昨天晚上我和朋友看了一部很有意思的电影，看完以后我们去喝咖啡了。"
+    ],
+    "e": [
+     "Lượng từ cho phim là 部: 一部电影. 个 nghe được trong khẩu ngữ nhưng sai trong bài thi HSK.",
+     "The measure word for films is 部: 一部电影. 个 is heard colloquially but marked wrong in HSK."
+    ],
+    "f": [
+     "一部电影",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "去年国庆节我去北京的国家 ___ 看了很多古代的东西，真的很有意思。",
+    "o": [
+     "博物馆",
+     "演唱会",
+     "电影院"
+    ],
+    "a": 0,
+    "e": [
+     "Đồ cổ (古代的东西) được trưng bày ở 博物馆 (bảo tàng). 演唱会 là buổi hòa nhạc, 电影院 là rạp phim.",
+     "Ancient objects (古代的东西) are shown in a 博物馆 (museum). 演唱会 is a concert, 电影院 a cinema."
+    ],
+    "f": [
+     "博物馆",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "上个周末|我|跟朋友|去|看了|一场|演唱会，|那个歌手|唱得|非常好",
+    "m": [
+     "Cuối tuần trước tôi đi xem một buổi hòa nhạc với bạn, ca sĩ đó hát rất hay.",
+     "Last weekend I went to a concert with a friend, and the singer sang really well."
+    ],
+    "e": [
+     "Thời gian – chủ ngữ – 跟朋友 – 去 + 看了 + 一场 + danh từ. Vế sau: động từ + 得 + đánh giá (唱得非常好).",
+     "Time – subject – 跟朋友 – 去 + 看了 + 一场 + noun. Then verb + 得 + comment (唱得非常好)."
+    ],
+    "f": [
+     "看了一场演唱会",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 150 chữ so sánh Tết Việt Nam với 春节 Trung Quốc: 2 điểm giống, 2 điểm khác.",
+     "Write about 150 characters comparing Vietnamese Tet with Chinese Spring Festival: 2 similarities, 2 differences."
+    ],
+    "m": "越南的春节跟中国的春节有很多一样的地方。第一，两个国家都按照农历过年，春节都是一年中最重要的节日。第二，春节的时候，人们都回老家跟家人团聚，大人都给孩子红包。不过也有不一样的地方。比如，中国北方人除夕一般吃饺子，越南人吃粽子。另外，很多中国人过年的时候放鞭炮、看春节晚会，越南人更喜欢去寺庙拜佛和买桃花。我觉得两个国家的春节都很热闹，也都很有意思。",
+    "e": [
+     "Cần có: • 跟…一样 / 不一样 • 2 điểm giống (第一, 第二) • 2 điểm khác (比如, 另外) • …的时候 • câu kết nêu cảm nhận.",
+     "Must include: • 跟…一样 / 不一样 • 2 similarities (第一, 第二) • 2 differences (比如, 另外) • …的时候 • a closing opinion."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d12",
+  "g": "work",
+  "t": [
+   "Công việc & văn phòng",
+   "Work & the office"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: câu chữ 把 & động từ li hợp**\n• Câu 把: Chủ ngữ + **把** + tân ngữ + động từ + thành phần khác (给…, 完, 好…). Dùng khi “xử lý” một vật cụ thể: 我会在周五以前**把报告发给你**。Tôi sẽ gửi báo cáo cho anh trước thứ Sáu.\n• Động từ sau 把 không đứng một mình: không nói 我把报告发, phải nói 我把报告发**给你** / 发**了**.\n• Động từ li hợp (động + tân) tách ra để chen số lần, thời gian: 加班 → 加**两次**班; 请假 → 请**一天**假; 见面 → **跟**领导见面 (không nói 见面领导).\n• Ví dụ: 这个星期我要加两次班。/ 我想请一天假。",
+    "**Grammar: the 把 construction & separable verbs**\n• 把 sentence: Subject + **把** + object + verb + something more (给…, 完, 好…). Use it when you “do something to” a specific thing: 我会在周五以前**把报告发给你**。I'll send you the report by Friday.\n• The verb after 把 never stands alone: not 我把报告发 but 我把报告发**给你** / 发**了**.\n• Separable verbs (verb + object) split to hold counts or durations: 加班 → 加**两次**班; 请假 → 请**一天**假; 见面 → **跟**领导见面 (never 见面领导).\n• Examples: 这个星期我要加两次班。/ 我想请一天假。"
+   ],
+   [
+    "**Phát âm: z / zh và c / ch**\n• z, c đầu lưỡi chạm sau răng cửa (phẳng): 工**资** gōng**zī**, 两**次** liǎng **cì**.\n• zh, ch uốn lưỡi lên vòm miệng: **知**道 **zhī**dào, **吃** **chī**, 截**止** jié**zhǐ**.\n• Cặp luyện: zī – zhī · cì – chī · 自己 zìjǐ – 支持 zhīchí. Người Việt hay đọc zh thành “tr” quá mạnh hoặc z thành “d” – hãy giữ âm tắc xát, bật hơi nhẹ.",
+    "**Pronunciation: z / zh and c / ch**\n• z, c: tongue tip flat behind the front teeth: 工**资** gōng**zī**, 两**次** liǎng **cì**.\n• zh, ch: tongue curled back to the palate: **知**道 **zhī**dào, **吃** **chī**, 截**止** jié**zhǐ**.\n• Pairs: zī – zhī · cì – chī · 自己 zìjǐ – 支持 zhīchí. Vietnamese speakers often turn z into a soft “d” – keep it an affricate."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **工** (3 nét), **公** (4), **会** (6), **作** (7), **班** (10).\n• 班 = 王 + 刂 + 王: hai miếng ngọc chia ra bởi con dao ở giữa – “ca, lớp”.\n• 作 có bộ 亻 (người): người làm việc. 会 trên là 人, dưới là 云.\n• Ghép từ và đọc to đúng thanh: 工作 gōngzuò (1-4) · 公司 gōngsī (1-1) · 会议 huìyì (4-4) · 上班 shàngbān (4-1).",
+    "**Characters & tones**\nWrite: **工** (3 strokes), **公** (4), **会** (6), **作** (7), **班** (10).\n• 班 = 王 + 刂 + 王: two pieces of jade split by a knife – “shift, class”.\n• 作 has the 亻 (person) radical: a person at work. 会 is 人 on top of 云.\n• Read the words with correct tones: 工作 gōngzuò (1-4) · 公司 gōngsī (1-1) · 会议 huìyì (4-4) · 上班 shàngbān (4-1)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): nghe 1 đoạn cuộc họp mẫu, ghi biên bản: ai làm gì, hạn khi nào.\n• Nói (25 phút): báo cáo tiến độ 1 dự án trong 2 phút: đã làm, đang làm, sẽ làm, khó khăn.\n• Đọc (20 phút): đọc 3 email công việc mẫu, xác định mục đích, việc cần làm, hạn chót.\n• Viết (35 phút): viết 2 email khoảng 100 chữ: xin nghỉ phép và xin lùi hạn nộp báo cáo.\n• Từ vựng (15 phút): viết tên 15 chức danh và phòng ban (会计, 人事部, 市场部…).\n• Thử thách 7 ngày: đổi ngôn ngữ email/lịch/bảng tính sang tiếng Trung, ghi 20 từ mới trong menu.",
+    "**Practice outside the app**\n• Listening (25 min): listen to a sample meeting and take minutes: who does what, by when.\n• Speaking (25 min): give a 2-minute project update: done, in progress, next, problems.\n• Reading (20 min): read 3 sample work emails; find the purpose, the action and the deadline.\n• Writing (35 min): write 2 emails of about 100 characters: asking for leave and asking to postpone a report.\n• Vocabulary (15 min): write 15 job titles and departments (会计, 人事部, 市场部…).\n• 7-day challenge: switch your email/calendar/spreadsheet to Chinese and note 20 new menu words."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "会议改到下午三点了。Huìyì gǎi dào xiàwǔ sān diǎn le.",
+    "Cuộc họp được dời sang 3 giờ chiều."
+   ],
+   [
+    "我会在周五以前把报告发给你。Wǒ huì zài zhōuwǔ yǐqián bǎ bàogào fā gěi nǐ.",
+    "Tôi sẽ gửi báo cáo trước thứ Sáu."
+   ],
+   [
+    "你能帮我一下吗？Nǐ néng bāng wǒ yíxià ma?",
+    "Anh giúp tôi việc này được không?"
+   ],
+   [
+    "这个星期我要加两次班。Zhège xīngqī wǒ yào jiā liǎng cì bān.",
+    "Tuần này tôi phải tăng ca hai buổi."
+   ],
+   [
+    "我现在很忙，等一下给你回电话。Wǒ xiànzài hěn máng, děng yíxià gěi nǐ huí diànhuà.",
+    "Tôi đang bận, lát nữa tôi gọi lại nhé."
+   ],
+   [
+    "这个项目谁负责？Zhège xiàngmù shéi fùzé?",
+    "Ai phụ trách dự án này?"
+   ],
+   [
+    "辛苦了！Xīnkǔ le!",
+    "Mọi người vất vả rồi!"
+   ]
+  ],
+  "vo": [
+   [
+    "同事",
+    "tóngshì",
+    "đồng nghiệp",
+    "colleague"
+   ],
+   [
+    "领导",
+    "lǐngdǎo",
+    "sếp, cấp trên",
+    "boss, manager"
+   ],
+   [
+    "会议",
+    "huìyì",
+    "cuộc họp",
+    "meeting"
+   ],
+   [
+    "截止日期",
+    "jiézhǐ rìqī",
+    "hạn chót",
+    "deadline"
+   ],
+   [
+    "项目",
+    "xiàngmù",
+    "dự án",
+    "project"
+   ],
+   [
+    "报告",
+    "bàogào",
+    "báo cáo",
+    "report"
+   ],
+   [
+    "加班",
+    "jiābān",
+    "tăng ca",
+    "to work overtime"
+   ],
+   [
+    "请假",
+    "qǐngjià",
+    "xin nghỉ phép",
+    "to ask for leave"
+   ],
+   [
+    "工资",
+    "gōngzī",
+    "lương",
+    "salary"
+   ],
+   [
+    "任务",
+    "rènwu",
+    "nhiệm vụ",
+    "task"
+   ]
+  ],
+  "hz": "工公会作班",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "会议改到下午三点了。",
+    "e": [
+     "改到 = dời sang (改 gǎi: đổi + 到: đến). 了 cuối câu báo một thay đổi đã xảy ra. Đừng viết 该 (gāi) thay cho 改.",
+     "改到 = moved to (改 gǎi change + 到 to). Final 了 announces a change. Don't write 该 (gāi) for 改."
+    ],
+    "f": [
+     "改到",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我会在周五以前把报告发给你。",
+    "e": [
+     "会 = sẽ (hứa hẹn); 在…以前 = trước…; 把报告发给你 – câu 把, động từ 发 có 给你 phía sau.",
+     "会 = will (a promise); 在…以前 = before…; 把报告发给你 – a 把 sentence, 发 followed by 给你."
+    ],
+    "f": [
+     "把报告发给你",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "你能帮我一下吗？",
+    "e": [
+     "能 = có thể; 一下 sau động từ làm lời nhờ nhẹ nhàng hơn (一下 đọc yíxià vì 一 biến thành thanh 2 trước thanh 4).",
+     "能 = can; 一下 after the verb softens a request (一下 is read yíxià: 一 becomes tone 2 before tone 4)."
+    ],
+    "f": [
+     "帮我一下",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这个星期我要加两次班，所以周三和周五晚上都不能跟你们一起吃饭了。",
+    "q": [
+     "Vì sao người nói không đi ăn được?",
+     "Why can't the speaker join the meals?"
+    ],
+    "o": [
+     [
+      "Vì tuần này phải tăng ca hai buổi.",
+      "Because they must work overtime twice this week."
+     ],
+     [
+      "Vì phải xin nghỉ phép hai ngày.",
+      "Because they must take two days off."
+     ],
+     [
+      "Vì phải đi công tác thứ Tư.",
+      "Because of a business trip on Wednesday."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "加两次班 = tăng ca hai lần (động từ li hợp 加班 tách ra). Thứ Tư và thứ Sáu là hai buổi tăng ca, không phải nghỉ phép (请假).",
+     "加两次班 = work overtime twice (the separable verb 加班 split). Wednesday and Friday are the overtime evenings, not leave (请假)."
+    ],
+    "f": [
+     "加两次班",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你的工作主要做什么？我在一家贸易公司工作，主要负责写报告和跟客户联系，有时候还要加班。",
+    "e": [
+     "Câu hỏi: 你的工作主要做什么？– Gợi ý trả lời mẫu. 主要负责 zhǔyào fùzé: zh uốn lưỡi; 联系 liánxì; 加班 jiābān (1-1).",
+     "Question: 你的工作主要做什么？– A model answer. 主要负责 zhǔyào fùzé: curl the tongue for zh; 联系 liánxì; 加班 jiābān (1-1)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你怎么应对工作压力？压力大的时候，我会先把任务写下来，下班以后去跑步，周末好好休息。",
+    "e": [
+     "Câu hỏi: 你怎么应对工作压力？– Gợi ý trả lời mẫu. 压力 yālì (1-4), 任务 rènwu (thanh nhẹ cuối), 休息 xiūxi.",
+     "Question: 你怎么应对工作压力？– A model answer. 压力 yālì (1-4), 任务 rènwu (neutral last syllable), 休息 xiūxi."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Xin lỗi, chiều nay tôi có việc gấp, có thể dời cuộc họp sang sáng mai được không?",
+    "a": [
+     "不好意思，我今天下午有急事，能不能把会议改到明天上午？",
+     "不好意思，我今天下午有急事，会议能不能改到明天上午？",
+     "对不起，我今天下午有急事，能不能把会议改到明天上午？",
+     "不好意思，我今天下午有点儿急事，能不能把会议改到明天上午？"
+    ],
+    "e": [
+     "Lời xin lịch sự: 不好意思 + lý do (有急事) + 能不能 + 把…改到…? Dùng 能不能 thì không thêm 吗.",
+     "A polite request: 不好意思 + reason (有急事) + 能不能 + 把…改到…? With 能不能 don't add 吗."
+    ],
+    "f": [
+     "能不能把会议改到明天上午",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành một câu dùng 要是……的话，就……",
+     "Combine into one sentence with 要是……的话，就……"
+    ],
+    "s": "你忙不过来。你跟我说一声，我帮你分担一点儿。",
+    "a": [
+     "要是你忙不过来的话，就跟我说一声，我帮你分担一点儿。",
+     "要是你忙不过来，就跟我说一声，我帮你分担一点儿。",
+     "你要是忙不过来的话，就跟我说一声，我帮你分担一点儿。"
+    ],
+    "e": [
+     "要是…的话 = nếu…; 就 đứng trước động từ của vế sau. 忙不过来 = bận không xuể; 说一声 = nói một tiếng – cách nói tự nhiên giữa đồng nghiệp.",
+     "要是…的话 = if…; 就 goes before the verb of the result clause. 忙不过来 = too busy to cope; 说一声 = just let me know."
+    ],
+    "f": [
+     "要是你忙不过来的话，就",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这份报告我实在来不及写完，能不能让我晚两天交给你吗？",
+    "a": [
+     "这份报告我实在来不及写完，能不能让我晚两天交给你？",
+     "这份报告我实在来不及写完，能让我晚两天交给你吗？"
+    ],
+    "e": [
+     "Câu hỏi chính phản 能不能 đã là câu hỏi, không thêm 吗. Chọn một trong hai: 能不能…? hoặc 能…吗?",
+     "能不能 is already a question; adding 吗 is wrong. Use either 能不能…? or 能…吗?"
+    ],
+    "f": [
+     "能不能让我晚两天交给你",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "老板临时让我们加班，我本来跟朋友约好了吃饭，只好___他说声抱歉了。",
+    "a": [
+     "跟",
+     "向",
+     "和",
+     "对"
+    ],
+    "e": [
+     "Xin lỗi ai: 跟/向/对 + người + 说声抱歉. 临时 = đột xuất; 本来 = vốn định; 只好 = đành phải.",
+     "Apologise to someone: 跟/向/对 + person + 说声抱歉. 临时 = at short notice; 本来 = originally; 只好 = have no choice but."
+    ],
+    "f": [
+     "跟他说声抱歉",
+     "HSK4"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "王经理：您好！下午的会议改到三点了，地点在三楼的会议室。这个项目的截止日期是下周五，所以这个星期大家都要加两次班。小李负责写报告，小张负责准备资料，我会在周四以前把报告发给您。另外，我妈妈下周一做手术，我想请一天假，可以吗？我知道大家最近工作很忙，辛苦了！如果有什么问题，请给我打电话。谢谢！小陈",
+   "tr": "Gửi Giám đốc Vương: Chào anh! Cuộc họp chiều nay dời sang 3 giờ, địa điểm ở phòng họp tầng ba. Hạn chót của dự án này là thứ Sáu tuần sau, nên tuần này mọi người đều phải tăng ca hai buổi. Tiểu Lý phụ trách viết báo cáo, Tiểu Trương phụ trách chuẩn bị tài liệu, em sẽ gửi báo cáo cho anh trước thứ Năm. Ngoài ra, thứ Hai tuần sau mẹ em phẫu thuật, em muốn xin nghỉ một ngày, có được không ạ? Em biết dạo này mọi người làm việc rất bận, vất vả rồi! Nếu có vấn đề gì, xin hãy gọi điện cho em. Cảm ơn anh! Tiểu Trần"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Cuộc họp chiều nay diễn ra lúc nào, ở đâu?",
+     "When and where is this afternoon's meeting?"
+    ],
+    "o": [
+     [
+      "3 giờ, phòng họp tầng ba",
+      "3 p.m., meeting room on the 3rd floor"
+     ],
+     [
+      "2 giờ, phòng họp tầng ba",
+      "2 p.m., meeting room on the 3rd floor"
+     ],
+     [
+      "3 giờ, văn phòng giám đốc",
+      "3 p.m., the manager's office"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "会议改到三点了，地点在三楼的会议室. Số 三 xuất hiện hai lần: 3 giờ và tầng 3 – đừng nhầm với giờ cũ.",
+     "会议改到三点了，地点在三楼的会议室. 三 appears twice: 3 o'clock and 3rd floor."
+    ],
+    "f": [
+     "改到三点了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ai phụ trách viết báo cáo?",
+     "Who is in charge of writing the report?"
+    ],
+    "o": [
+     [
+      "Tiểu Lý",
+      "Xiao Li"
+     ],
+     [
+      "Tiểu Trương",
+      "Xiao Zhang"
+     ],
+     [
+      "Tiểu Trần",
+      "Xiao Chen"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "小李负责写报告. Tiểu Trương chuẩn bị tài liệu (准备资料); Tiểu Trần là người viết email và sẽ gửi báo cáo (发给您).",
+     "小李负责写报告. Xiao Zhang prepares the materials (准备资料); Xiao Chen writes the email and will send the report."
+    ],
+    "f": [
+     "小李负责写报告",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tiểu Trần muốn xin nghỉ?",
+     "Why does Xiao Chen want a day off?"
+    ],
+    "o": [
+     [
+      "Mẹ anh ấy phẫu thuật thứ Hai tuần sau.",
+      "His mother has surgery next Monday."
+     ],
+     [
+      "Anh ấy bị ốm vì tăng ca.",
+      "He is ill from overtime."
+     ],
+     [
+      "Anh ấy phải nộp báo cáo thứ Năm.",
+      "He must hand in the report on Thursday."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我妈妈下周一做手术，我想请一天假. 做手术 = phẫu thuật; 下周一 = thứ Hai tuần sau.",
+     "我妈妈下周一做手术，我想请一天假. 做手术 = have surgery; 下周一 = next Monday."
+    ],
+    "f": [
+     "请一天假",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "小王，请___报告发给我，我下午开会以前要看一下。",
+    "a": [
+     "把"
+    ],
+    "e": [
+     "请 + 把 + tân ngữ + động từ + 给 + người: 请把报告发给我. Không dùng 被 (bị động) vì người nhờ là người làm.",
+     "请 + 把 + object + verb + 给 + person: 请把报告发给我. Not 被 (passive) – the listener does the action."
+    ],
+    "f": [
+     "把",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这个星期项目很忙，我加了两___班，每次都工作到晚上十点。",
+    "a": [
+     "次"
+    ],
+    "e": [
+     "Động từ li hợp 加班 tách ra: 加 + 了 + số lần (两次) + 班. Lượng từ chỉ số lần là 次 cì (âm c phẳng).",
+     "The separable verb 加班 splits: 加 + 了 + count (两次) + 班. The measure word for times is 次 cì (flat c)."
+    ],
+    "f": [
+     "加了两次班",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我妈妈明天要去医院，所以我想请一天___，后天再来上班。",
+    "a": [
+     "假"
+    ],
+    "e": [
+     "请假 tách ra: 请 + 一天 + 假. 假 ở đây đọc jià (thanh 4), không phải jiǎ (giả).",
+     "请假 splits: 请 + 一天 + 假. Here 假 is jià (tone 4), not jiǎ (false)."
+    ],
+    "f": [
+     "请一天假",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi đang bận, lát nữa tôi gọi lại cho bạn nhé.",
+    "a": [
+     "我现在很忙，等一下给你回电话。",
+     "我现在很忙，一会儿给你回电话。",
+     "我现在正忙，等一下再给你回电话。",
+     "我现在很忙，等一下再给你打电话。"
+    ],
+    "e": [
+     "Gọi lại = 回电话; “cho bạn” là 给你 đứng TRƯỚC động từ. Lát nữa = 等一下 / 一会儿. Không nói 回电话给你 trong câu này.",
+     "Call back = 回电话; “to you” is 给你 BEFORE the verb. Later = 等一下 / 一会儿."
+    ],
+    "f": [
+     "给你回电话",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ai phụ trách dự án này?",
+    "a": [
+     "这个项目谁负责？",
+     "谁负责这个项目？",
+     "这个项目是谁负责的？"
+    ],
+    "e": [
+     "负责 = phụ trách. Tiếng Trung hay đưa chủ đề (这个项目) lên đầu câu, rồi hỏi 谁负责. Không cần 吗 vì đã có từ hỏi 谁.",
+     "负责 = be in charge. Chinese often puts the topic (这个项目) first, then 谁负责. No 吗 – 谁 already makes it a question."
+    ],
+    "f": [
+     "谁负责",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tuần này tôi phải tăng ca hai buổi nên không thể đi ăn tối với các bạn.",
+    "a": [
+     "这个星期我要加两次班，所以不能跟你们一起吃晚饭了。",
+     "这个星期我要加两次班，所以不能和你们一起吃晚饭。",
+     "这周我得加两次班，所以不能跟你们一起吃晚饭了。"
+    ],
+    "e": [
+     "Phải = 要 / 得 děi; hai buổi tăng ca = 加两次班 (không nói 加班两次 trong văn chuẩn). Với ai = 跟/和 + người + 一起.",
+     "Must = 要 / 得 děi; twice overtime = 加两次班. “With” = 跟/和 + person + 一起."
+    ],
+    "f": [
+     "加两次班",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我已经报告发给经理了，他说明天告诉我结果。",
+    "a": [
+     "我已经把报告发给经理了，他说明天告诉我结果。"
+    ],
+    "e": [
+     "Tân ngữ 报告 đứng trước động từ thì phải có 把: 我已经把报告发给经理了. Thiếu 把 câu sai ngữ pháp.",
+     "When the object 报告 comes before the verb you need 把: 我已经把报告发给经理了."
+    ],
+    "f": [
+     "把报告发给经理",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "明天上午我要见面我们公司的新领导，所以今天得准备好报告。",
+    "a": [
+     "明天上午我要跟我们公司的新领导见面，所以今天得准备好报告。",
+     "明天上午我要和我们公司的新领导见面，所以今天得准备好报告。"
+    ],
+    "e": [
+     "见面 là động từ li hợp, không mang tân ngữ phía sau. Đúng: 跟/和 + người + 见面. Lỗi rất hay gặp: 见面领导.",
+     "见面 is separable and takes no object after it. Correct: 跟/和 + person + 见面. Common error: 见面领导."
+    ],
+    "f": [
+     "跟我们公司的新领导见面",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "请你下班以前___今天的会议记录发给所有同事，谢谢！",
+    "o": [
+     "把",
+     "被",
+     "对"
+    ],
+    "a": 0,
+    "e": [
+     "Nhờ người khác xử lý một vật cụ thể (会议记录) → 把. 被 là bị động (vật bị ai làm), 对 là “đối với”.",
+     "Asking someone to handle a specific thing (会议记录) → 把. 被 is passive, 对 means “towards”."
+    ],
+    "f": [
+     "把",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "会议|改到|下午三点了|，请|大家|准时|参加",
+    "m": [
+     "Cuộc họp dời sang 3 giờ chiều, mọi người vui lòng tham dự đúng giờ.",
+     "The meeting has moved to 3 p.m.; please all attend on time."
+    ],
+    "e": [
+     "改到 + thời gian + 了 báo thay đổi. Trạng ngữ 准时 đứng trước động từ 参加, không đặt cuối câu như tiếng Việt.",
+     "改到 + time + 了 announces a change. The adverb 准时 comes before the verb 参加, not at the end."
+    ],
+    "f": [
+     "准时参加",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng cấu trúc 把",
+     "Rewrite the sentence using 把"
+    ],
+    "s": "我写完了这个项目的报告，现在就发给你。",
+    "a": [
+     "我把这个项目的报告写完了，现在就发给你。"
+    ],
+    "e": [
+     "把 + tân ngữ (这个项目的报告) + động từ + bổ ngữ kết quả (写完) + 了. Bổ ngữ 完 rất hợp với câu 把.",
+     "把 + object (这个项目的报告) + verb + result complement (写完) + 了. 完 fits 把 sentences well."
+    ],
+    "f": [
+     "把这个项目的报告写完了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết biên bản một cuộc họp tưởng tượng khoảng 150 chữ: ngày giờ, người tham dự, 3 quyết định, việc cần làm và người phụ trách.",
+     "Write the minutes of an imaginary meeting (about 150 characters): date and time, attendees, 3 decisions, tasks and who is in charge."
+    ],
+    "m": "会议记录：时间是十月八日下午三点，地点在三楼会议室。参加的人有王经理、小李、小张和我。会议做了三个决定：第一，新项目的截止日期是十月三十日；第二，这个月大家每个星期要加两次班；第三，下个月开始每周一上午开会。具体任务：小李负责写项目报告，周五以前把报告发给王经理；小张负责准备客户资料；我负责联系客户，安排下次见面的时间。如果有问题，请跟我联系。",
+    "e": [
+     "Cần có: • 时间/地点 • 参加的人 • 第一、第二、第三 cho 3 quyết định • …负责… + câu 把 hoặc hạn chót (以前).",
+     "Must include: • 时间/地点 • 参加的人 • 第一、第二、第三 for the 3 decisions • …负责… + a 把 sentence or a deadline (以前)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d22",
+  "g": "health",
+  "t": [
+   "Cảm xúc & tính cách",
+   "Feelings & personality"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 让 (làm cho) · 一…就… · 越来越 · 生…的气**\n• **A 让 B + tính từ/động từ** = A làm B…: 这个消息**让我很开心**。Tin này làm tôi rất vui.\n• **一 A 就 B** = hễ A là B: 她**一**着急**就**生气。\n• **越来越 + tính từ/động từ tâm lý** = ngày càng…, không thêm 很: 我**越来越**喜欢她了。\n• 生气 là động từ li hợp: **生他的气** / **对他生气** (không nói 生气他).\n• Ví dụ: 别担心。/ 我有点儿紧张。/ 她又热情又开朗。",
+    "**Grammar: 让 (make) · 一…就… · 越来越 · 生…的气**\n• **A 让 B + adjective/verb** = A makes B…: 这个消息**让我很开心**。\n• **一 A 就 B** = whenever/as soon as A, B: 她**一**着急**就**生气。\n• **越来越 + adjective/mental verb** = more and more…, without 很: 我**越来越**喜欢她了。\n• 生气 is separable: **生他的气** / **对他生气** (never 生气他).\n• Examples: 别担心。/ 我有点儿紧张。/ 她又热情又开朗。"
+   ],
+   [
+    "**Phát âm: x – sh, j – zh & thanh của từ cảm xúc**\n• **心 xīn** (x: lưỡi phẳng, môi dẹt) ≠ **深 shēn**; **紧张 jǐnzhāng**: j phẳng rồi zh uốn lưỡi.\n• **生气 shēngqì** (1-4), **难过 nánguò** (2-4), **害羞 hàixiū** (4-1), **担心 dānxīn** (1-1).\n• Ngữ điệu: khi an ủi, nói chậm, hạ giọng ở cuối: 别难过了 bié nánguò le.\n• **开朗 kāilǎng** – l đầu lưỡi, không đọc thành n.",
+    "**Pronunciation: x – sh, j – zh & feeling words**\n• **心 xīn** (flat tongue, spread lips) ≠ **深 shēn**; **紧张 jǐnzhāng**: flat j, then curled zh.\n• **生气 shēngqì** (1-4), **难过 nánguò** (2-4), **害羞 hàixiū** (4-1), **担心 dānxīn** (1-1).\n• Intonation: when comforting, slow down and drop the voice: 别难过了.\n• **开朗 kāilǎng** – clear l, not n."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **心** (4 nét), **气** (4), **生** (5), **怕** (8), **感** (13).\n• Bộ **心** (tim) và biến thể **忄** xuất hiện trong rất nhiều chữ cảm xúc: 感, 想, 忙, 怕, 情, 性.\n• 怕 = 忄 (tim) + 白 (trắng): sợ đến tái mặt. 感 = 咸 + 心: cảm nhận bằng trái tim.\n• Đọc to và tự kiểm tra thanh: 开心 kāixīn (1-1) · 性格 xìnggé (4-2) · 感觉 gǎnjué (3-2).",
+    "**Characters & tones**\nWrite: **心** (4 strokes), **气** (4), **生** (5), **怕** (8), **感** (13).\n• The **心** (heart) radical and its side form **忄** appear in many feeling words: 感, 想, 忙, 怕, 情, 性.\n• 怕 = 忄 (heart) + 白 (white): pale with fear. 感 = 咸 + 心: felt in the heart.\n• Read and check tones: 开心 kāixīn (1-1) · 性格 xìnggé (4-2) · 感觉 gǎnjué (3-2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 podcast/vlog ngắn kể chuyện vui buồn, ghi lại 5 từ chỉ cảm xúc và nguyên nhân.\n• Nói (20 phút): mô tả tính cách của 2 người thân trong 2 phút, mỗi người 1 ưu điểm, 1 khuyết điểm.\n• Đọc (20 phút): đọc 1 bài trắc nghiệm tính cách tiếng Trung (性格测试), tra từ mới.\n• Viết (30 phút): viết nhật ký cảm xúc 3 ngày, mỗi ngày 50 chữ (dùng 让, 一…就…).\n• Từ vựng (15 phút): lập bảng 10 cặp tính từ trái nghĩa (开朗–内向, 耐心–急躁…).",
+    "**Practice outside the app**\n• Listening (20 min): a short podcast/vlog about ups and downs; note 5 feeling words and their causes.\n• Speaking (20 min): describe 2 people you know in 2 minutes – one strength and one flaw each.\n• Reading (20 min): take a Chinese personality quiz (性格测试) and look up new words.\n• Writing (30 min): a 3-day feelings diary, 50 characters a day (use 让, 一…就…).\n• Vocabulary (15 min): 10 pairs of opposite adjectives (开朗–内向, 耐心–急躁…)."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我今天特别开心。Wǒ jīntiān tèbié kāixīn.",
+    "Hôm nay tôi đặc biệt vui."
+   ],
+   [
+    "别担心，一切都会好的。Bié dānxīn, yíqiè dōu huì hǎo de.",
+    "Đừng lo, mọi chuyện sẽ ổn thôi."
+   ],
+   [
+    "你怎么了？看起来不太高兴。Nǐ zěnme le? Kàn qǐlai bú tài gāoxìng.",
+    "Bạn sao vậy? Trông không vui lắm."
+   ],
+   [
+    "这件事让我很生气。Zhè jiàn shì ràng wǒ hěn shēngqì.",
+    "Chuyện này làm tôi rất tức giận."
+   ],
+   [
+    "他是一个很有耐心的人。Tā shì yí ge hěn yǒu nàixīn de rén.",
+    "Anh ấy là người rất kiên nhẫn."
+   ],
+   [
+    "我一紧张就说不出话来。Wǒ yì jǐnzhāng jiù shuō bu chū huà lái.",
+    "Tôi cứ căng thẳng là không nói nên lời."
+   ]
+  ],
+  "vo": [
+   [
+    "性格",
+    "xìnggé",
+    "tính cách",
+    "personality"
+   ],
+   [
+    "开心",
+    "kāixīn",
+    "vui vẻ",
+    "happy"
+   ],
+   [
+    "难过",
+    "nánguò",
+    "buồn",
+    "sad"
+   ],
+   [
+    "生气",
+    "shēngqì",
+    "tức giận",
+    "angry"
+   ],
+   [
+    "紧张",
+    "jǐnzhāng",
+    "căng thẳng, hồi hộp",
+    "nervous"
+   ],
+   [
+    "担心",
+    "dānxīn",
+    "lo lắng",
+    "to worry"
+   ],
+   [
+    "害羞",
+    "hàixiū",
+    "nhút nhát, xấu hổ",
+    "shy"
+   ],
+   [
+    "热情",
+    "rèqíng",
+    "nhiệt tình",
+    "warm, enthusiastic"
+   ],
+   [
+    "耐心",
+    "nàixīn",
+    "kiên nhẫn",
+    "patient; patience"
+   ],
+   [
+    "感觉",
+    "gǎnjué",
+    "cảm thấy, cảm giác",
+    "to feel; feeling"
+   ]
+  ],
+  "hz": "心气生怕感",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我今天特别开心，因为我考试考得很好。",
+    "e": [
+     "特别 = đặc biệt (mạnh hơn 很). 考得很好 – bổ ngữ 得 sau động từ 考 lặp lại.",
+     "特别 = especially (stronger than 很). 考得很好 – 得 complement after the repeated verb 考."
+    ],
+    "f": [
+     "特别开心",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "别担心，一切都会好的。",
+    "e": [
+     "别 + động từ = đừng…; 一切 yíqiè = mọi thứ; 会…的 = chắc chắn sẽ… (an ủi).",
+     "别 + verb = don't…; 一切 = everything; 会…的 = will surely (reassuring)."
+    ],
+    "f": [
+     "别担心",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我妹妹很害羞，在不认识的人面前不爱说话，可是在家里她又活泼又爱笑。",
+    "q": [
+     "Em gái người nói nói nhiều khi nào?",
+     "When is the speaker's sister talkative?"
+    ],
+    "o": [
+     [
+      "Khi ở nhà.",
+      "At home."
+     ],
+     [
+      "Khi gặp người lạ.",
+      "With strangers."
+     ],
+     [
+      "Không bao giờ.",
+      "Never."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "可是在家里她又活泼又爱笑 – ở nhà thì hoạt bát. Trước người lạ cô ấy 害羞, 不爱说话.",
+     "可是在家里她又活泼又爱笑 – lively at home. With strangers she is 害羞."
+    ],
+    "f": [
+     "在家里她又活泼又爱笑",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你觉得自己是什么性格的人？我觉得自己比较内向，可是对朋友很热情，也很有耐心。",
+    "e": [
+     "Câu hỏi: 你觉得自己是什么性格的人？– Gợi ý trả lời mẫu. 内向 nèixiàng (hướng nội); 热情 rèqíng – r uốn lưỡi; 耐心 nàixīn.",
+     "Question: 你觉得自己是什么性格的人？– A model answer. 内向 nèixiàng (introverted); 热情 rèqíng; 耐心 nàixīn."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你不开心的时候会做什么？我不开心的时候喜欢一个人听音乐，或者给好朋友打电话。",
+    "e": [
+     "Câu hỏi: 你不开心的时候会做什么？– Gợi ý trả lời mẫu. …的时候 = khi…; 或者 huòzhě = hoặc (trong câu trần thuật).",
+     "Question: 你不开心的时候会做什么？– A model answer. …的时候 = when…; 或者 = or (in statements)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thật ra mình không giận bạn đâu, chỉ là hôm đó tâm trạng không tốt thôi, bạn đừng để bụng nhé.",
+    "a": [
+     "其实我没生你的气，只是那天心情不好而已，你别往心里去。",
+     "其实我没生你的气，只是那天心情不太好，你别往心里去啊。",
+     "其实我没有生你的气，只是那天心情不好，你别放在心上。"
+    ],
+    "e": [
+     "生你的气 = giận bạn (li hợp); 只是…而已 = chỉ là… thôi; 别往心里去 / 别放在心上 = đừng để bụng.",
+     "生你的气 = be angry with you; 只是…而已 = it's just…; 别往心里去 = don't take it to heart."
+    ],
+    "f": [
+     "你别往心里去",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang lời kể gián tiếp",
+     "Change to reported speech"
+    ],
+    "s": "她对我说：“你别难过了，这不是你的错。”",
+    "a": [
+     "她让我别难过了，说这不是我的错。",
+     "她劝我别难过，说这不是我的错。",
+     "她叫我别难过了，说这不是我的错。"
+    ],
+    "e": [
+     "Lời khuyên gián tiếp: 让/劝/叫 + 我 + 别…; 你的错 → 我的错. Bỏ ngoặc kép.",
+     "Reported advice: 让/劝/叫 + 我 + 别…; 你的错 → 我的错."
+    ],
+    "f": [
+     "她劝我别难过",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他这个人特别热心，即使你只是一个陌生人，他就会想办法帮你。",
+    "a": [
+     "他这个人特别热心，即使你只是一个陌生人，他也会想办法帮你。"
+    ],
+    "e": [
+     "即使 (dù cho) đi với 也, không đi với 就. 陌生人 = người lạ; 想办法 = tìm cách.",
+     "即使 (even if) pairs with 也, not 就. 陌生人 = stranger; 想办法 = find a way."
+    ],
+    "f": [
+     "即使…他也会",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我知道你心里不好受，想哭就哭出来吧，别什么都___在心里。",
+    "a": [
+     "憋",
+     "闷",
+     "藏",
+     "放",
+     "压"
+    ],
+    "e": [
+     "憋在心里 = dồn nén trong lòng (cũng nói 闷/藏/压在心里). 不好受 = khó chịu; 想哭就哭 = muốn khóc thì cứ khóc.",
+     "憋在心里 = bottle up inside (also 闷/藏/压). 不好受 = feel awful; 想哭就哭 = cry if you need to."
+    ],
+    "f": [
+     "别什么都憋在心里",
+     "HSK5"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我和我的室友性格很不一样。我比较害羞，在很多人面前说话的时候，我就会紧张，脸也会红。她呢，又热情又开朗，跟谁都能聊天儿。可是她有一个缺点：一着急就生气。上个星期我考试没考好，心里很难过，一个人在房间里哭。她知道以后，没有说什么，只是给我买了一杯奶茶，陪我去公园散步。那天晚上我觉得开心多了。现在我越来越喜欢她了，她让我明白：真正的朋友不一定要说很多话。",
+   "tr": "Tôi và bạn cùng phòng có tính cách rất khác nhau. Tôi khá nhút nhát, khi nói trước nhiều người là tôi căng thẳng, mặt cũng đỏ lên. Còn cô ấy thì vừa nhiệt tình vừa cởi mở, nói chuyện được với bất kỳ ai. Nhưng cô ấy có một khuyết điểm: hễ sốt ruột là nổi giận. Tuần trước tôi thi không tốt, trong lòng rất buồn, ngồi khóc một mình trong phòng. Cô ấy biết chuyện, không nói gì cả, chỉ mua cho tôi một cốc trà sữa, rồi cùng tôi đi dạo công viên. Tối hôm đó tôi thấy vui hơn nhiều. Bây giờ tôi ngày càng quý cô ấy, cô ấy giúp tôi hiểu ra: bạn thật sự không nhất thiết phải nói nhiều."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết có tính cách thế nào?",
+     "What is the writer like?"
+    ],
+    "o": [
+     [
+      "Nhút nhát, nói trước đông người thì căng thẳng.",
+      "Shy; nervous speaking in front of people."
+     ],
+     [
+      "Nhiệt tình, nói chuyện với ai cũng được.",
+      "Warm and able to chat with anyone."
+     ],
+     [
+      "Hay nổi giận khi sốt ruột.",
+      "Gets angry when anxious."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我比较害羞…就会紧张，脸也会红. Hai đáp án còn lại mô tả người bạn cùng phòng.",
+     "我比较害羞…就会紧张，脸也会红. The other options describe the roommate."
+    ],
+    "f": [
+     "我比较害羞",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khuyết điểm của bạn cùng phòng là gì?",
+     "What is the roommate's flaw?"
+    ],
+    "o": [
+     [
+      "Hễ sốt ruột là nổi giận.",
+      "She gets angry when anxious."
+     ],
+     [
+      "Quá nhút nhát.",
+      "She is too shy."
+     ],
+     [
+      "Không thích nói chuyện.",
+      "She doesn't like talking."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "她有一个缺点：一着急就生气 – mẫu 一…就… = hễ… là….",
+     "她有一个缺点：一着急就生气 – the 一…就… pattern."
+    ],
+    "f": [
+     "一着急就生气",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khi người viết buồn, bạn cùng phòng đã làm gì?",
+     "What did the roommate do when the writer was sad?"
+    ],
+    "o": [
+     [
+      "Mua trà sữa và đi dạo công viên cùng.",
+      "Bought milk tea and walked in the park with her."
+     ],
+     [
+      "Nói chuyện an ủi rất lâu.",
+      "Talked for a long time to comfort her."
+     ],
+     [
+      "Giúp cô ấy ôn thi lại.",
+      "Helped her revise."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "没有说什么，只是给我买了一杯奶茶，陪我去公园散步 – không nói gì; bẫy là đáp án “nói chuyện rất lâu”.",
+     "没有说什么 – she said nothing, just 买了一杯奶茶 and 陪我去公园散步."
+    ],
+    "f": [
+     "陪我去公园散步",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我一着急___生气，说话也很大声，所以朋友们都说我应该更有耐心一点儿。",
+    "a": [
+     "就"
+    ],
+    "e": [
+     "一 A 就 B = hễ A là B. 就 đứng trước động từ thứ hai (生气). Không dùng 才 hay 也.",
+     "一 A 就 B = whenever A, B. 就 goes before the second verb."
+    ],
+    "f": [
+     "一着急就生气",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "她的话___我很感动，我真没想到她这么关心我。",
+    "a": [
+     "让",
+     "使"
+    ],
+    "e": [
+     "A 让/使 B + tính từ = A làm B…: 她的话让我很感动. 使 trang trọng hơn 让.",
+     "A 让/使 B + adjective = A makes B…. 使 is more formal than 让."
+    ],
+    "f": [
+     "让我很感动",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "认识她以后，我变得越来___开朗了，现在也敢在很多人面前说话了。",
+    "a": [
+     "越"
+    ],
+    "e": [
+     "越来越 + tính từ = ngày càng…. Không thêm 很: 越来越开朗.",
+     "越来越 + adjective = more and more…; no 很."
+    ],
+    "f": [
+     "越来越开朗",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "听说你这次考试没考好，别太___了，下次努力就行。",
+    "o": [
+     "难过",
+     "开心",
+     "热情"
+    ],
+    "a": 0,
+    "e": [
+     "An ủi người thi không tốt: 别太难过了 (đừng buồn quá). 开心 (vui) và 热情 (nhiệt tình) không hợp ngữ cảnh.",
+     "Comforting someone after a bad exam: 别太难过了. 开心 and 热情 don't fit."
+    ],
+    "f": [
+     "别太难过了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我很生气他，因为他又迟到了半个小时，也没有给我打电话。",
+    "a": [
+     "我很生他的气，因为他又迟到了半个小时，也没有给我打电话。",
+     "我对他很生气，因为他又迟到了半个小时，也没有给我打电话。"
+    ],
+    "e": [
+     "生气 là động từ li hợp, không mang tân ngữ: 生他的气 hoặc 对他生气. Kiểu “生气他” là lỗi rất phổ biến.",
+     "生气 is separable and takes no object: 生他的气 or 对他生气."
+    ],
+    "f": [
+     "生他的气",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "来中国一年了，我越来越很喜欢这里的生活和这里的人。",
+    "a": [
+     "来中国一年了，我越来越喜欢这里的生活和这里的人。"
+    ],
+    "e": [
+     "越来越 đã mang nghĩa mức độ, không thêm 很/非常 sau nó.",
+     "越来越 already expresses degree; don't add 很/非常."
+    ],
+    "f": [
+     "越来越喜欢",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mỗi lần thi tôi đều rất căng thẳng, cả đêm không ngủ được.",
+    "a": [
+     "每次考试我都很紧张，一个晚上都睡不着。",
+     "每次考试我都很紧张，整个晚上都睡不着。",
+     "每次考试我都特别紧张，一晚上都睡不着。"
+    ],
+    "e": [
+     "每次…都… = lần nào cũng…; 睡不着 = không ngủ được (bổ ngữ khả năng). Không nói 不能睡.",
+     "每次…都… = every time; 睡不着 = can't fall asleep (potential complement)."
+    ],
+    "f": [
+     "睡不着",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Anh trai tôi rất kiên nhẫn, chưa bao giờ nổi giận với ai.",
+    "a": [
+     "我哥哥很有耐心，从来没有对别人生过气。",
+     "我哥哥很有耐心，从来不对别人生气。",
+     "我哥哥特别有耐心，从来没跟别人生过气。"
+    ],
+    "e": [
+     "有耐心 = kiên nhẫn (很有耐心). 从来没有…过 = chưa bao giờ (kinh nghiệm); 过 chen giữa 生 và 气.",
+     "有耐心 = patient. 从来没有…过 = never (experience); 过 goes inside 生…气."
+    ],
+    "f": [
+     "从来没有对别人生过气",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 让",
+     "Rewrite using 让"
+    ],
+    "s": "听到这个好消息，我很开心。",
+    "a": [
+     "这个好消息让我很开心。",
+     "这个好消息让我非常开心。"
+    ],
+    "e": [
+     "Nguyên nhân (这个好消息) làm chủ ngữ + 让 + người + cảm xúc.",
+     "The cause (这个好消息) becomes the subject + 让 + person + feeling."
+    ],
+    "f": [
+     "让我很开心",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "她|一着急|就|生气，|可是|很快|就|没事了",
+    "m": [
+     "Cô ấy hễ sốt ruột là nổi giận, nhưng chẳng mấy chốc đã ổn lại.",
+     "She gets angry when she's anxious, but she's soon fine again."
+    ],
+    "e": [
+     "一着急就生气 (hễ… là…); 很快就… = nhanh chóng đã…. 就 đứng trước động từ/vị ngữ.",
+     "一着急就生气; 很快就… = soon…. 就 precedes the predicate."
+    ],
+    "f": [
+     "一着急就生气",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 150 chữ về tính cách của một người bạn thân: ưu điểm, khuyết điểm, một kỷ niệm làm bạn cảm động.",
+     "Write about 150 characters on a close friend's personality: strengths, a flaw, and a moment that touched you."
+    ],
+    "m": "我最好的朋友叫阿明。他性格很开朗，跟谁都能聊天儿，而且非常有耐心，从来没有生过我的气。可是他也有缺点：一紧张就说不出话来，所以每次面试以前他都很担心。去年我生病住院，他每天下班以后都来医院看我，给我讲笑话，让我很感动。现在我们越来越像一家人了。我觉得有这样的朋友，我真幸运。",
+    "e": [
+     "Cần có: • 性格 + 2 tính từ • một khuyết điểm (一…就…) • câu 让 + cảm xúc • 越来越 • kết luận cảm nghĩ.",
+     "Must include: • 性格 + 2 adjectives • a flaw (一…就…) • a 让 + feeling sentence • 越来越 • a closing feeling."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d23",
+  "g": "health",
+  "t": [
+   "Bạn bè & các mối quan hệ",
+   "Friends & relationships"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1: 跟/和 + người + động từ & động từ li hợp**\n• Tiếng Trung đặt “với ai” TRƯỚC động từ: 我**跟她联系**了 (tôi đã liên lạc với cô ấy), 我想**跟你见面** (tôi muốn gặp bạn).\n• Động từ li hợp không mang tân ngữ phía sau: không nói ~~见面你~~, ~~吵架他~~ mà nói **跟你见面**, **跟他吵架**.\n• Có thể tách để chen số lần: 吵架 → 我们**吵了一架** (cãi nhau một trận).\n• Xin lỗi ai: **向/跟** + người + 道歉: 我想**向她道歉**。",
+    "**Grammar 1: 跟/和 + person + verb & separable verbs**\n• “With whom” goes BEFORE the verb: 我**跟她联系**了 (I contacted her), 我想**跟你见面** (I want to meet you).\n• Separable verbs take no object after them: not ~~见面你~~, ~~吵架他~~ but **跟你见面**, **跟他吵架**.\n• They can split to insert a count: 吵架 → 我们**吵了一架** (we had a quarrel).\n• Apologise to someone: **向/跟** + person + 道歉: 我想**向她道歉**。"
+   ],
+   [
+    "**Ngữ pháp 2: 虽然…但是… & 越来越 + tính từ**\n• **虽然** A，**但是/可是** B = tuy A nhưng B. Tiếng Trung thường dùng cả hai từ nối: **虽然**我们经常吵架，**但是**我们还是好朋友。\n• **越来越** + tính từ = càng ngày càng: 我们的关系**越来越好**了。Không thêm 很/非常 trước tính từ và không thêm 很多 sau: ~~越来越很好~~, ~~越来越好了很多~~.\n• 互相 + động từ = lẫn nhau: 朋友之间应该**互相理解**。",
+    "**Grammar 2: 虽然…但是… & 越来越 + adjective**\n• **虽然** A，**但是/可是** B = although A, B. Chinese usually uses both linkers: **虽然**我们经常吵架，**但是**我们还是好朋友。\n• **越来越** + adjective = more and more: 我们的关系**越来越好**了。No 很/非常 before the adjective and no 很多 after: ~~越来越很好~~, ~~越来越好了很多~~.\n• 互相 + verb = each other: 朋友之间应该**互相理解**。"
+   ],
+   [
+    "**Phát âm: thanh nhẹ (轻声)**\n• Nhiều từ về quan hệ có âm tiết sau đọc nhẹ, ngắn: 朋友 **péngyou**, 关系 **guānxi**, 认识 **rènshi**, 意思 **yìsi**, 告诉 **gàosu**.\n• Thanh nhẹ sau thanh 1/2 hơi thấp; sau thanh 3 lại hơi cao: 姐姐 jiějie, 喜欢 xǐhuan.\n• Lưu ý 联系 liánxì (2-4) KHÔNG có thanh nhẹ, còn 关系 guānxi có – hai từ này người học hay đọc lẫn.",
+    "**Pronunciation: the neutral tone (轻声)**\n• Many relationship words have a light, short second syllable: 朋友 **péngyou**, 关系 **guānxi**, 认识 **rènshi**, 意思 **yìsi**, 告诉 **gàosu**.\n• After tones 1/2 the neutral tone is low; after tone 3 it rises slightly: 姐姐 jiějie, 喜欢 xǐhuan.\n• Note 联系 liánxì (2-4) has NO neutral tone, but 关系 guānxi does – learners often mix them up."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **友** (4 nét), **关** (6), **系** (7), **朋** (8), **情** (11).\n• 朋 = hai chữ 月 đứng cạnh nhau – hai người bạn sánh vai.\n• 情 = 忄 (tâm đứng, 3 nét) + 青: tình cảm xuất phát từ trái tim.\n• 系 trên là 丿, giữa là 幺, dưới là 小 – viết từ trên xuống.\n• Đọc to: 友情 yǒuqíng (3-2) · 关系 guānxi (1-nhẹ) · 联系 liánxì (2-4) · 感情 gǎnqíng (3-2).",
+    "**Characters & tones**\nWrite: **友** (4 strokes), **关** (6), **系** (7), **朋** (8), **情** (11).\n• 朋 = two 月 side by side – two friends shoulder to shoulder.\n• 情 = 忄 (heart radical, 3 strokes) + 青: feelings come from the heart.\n• 系: 丿 on top, 幺 in the middle, 小 at the bottom – write top to bottom.\n• Read aloud: 友情 yǒuqíng (3-2) · 关系 guānxi (1-neutral) · 联系 liánxì (2-4) · 感情 gǎnqíng (3-2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe một đoạn hội thoại hai người bạn làm hòa, ghi lại lý do cãi nhau và cách xin lỗi.\n• Nói (20 phút): kể 2 phút về người bạn thân nhất: quen nhau thế nào, vì sao thân, từng cãi nhau chưa.\n• Đọc (15 phút): đọc 2 bài đăng mạng xã hội về tình bạn, gạch chân 跟…, 虽然…但是…, 越来越.\n• Viết (30 phút): viết tin nhắn xin lỗi bạn khoảng 100 chữ.\n• Từ vựng (15 phút): làm thẻ 10 từ của bài, mỗi từ một câu có 跟 + người.",
+    "**Practice outside the app**\n• Listening (20 min): listen to a dialogue of two friends making up; note why they quarrelled and how they apologised.\n• Speaking (20 min): talk for 2 minutes about your best friend: how you met, why you're close, any quarrels.\n• Reading (15 min): read 2 social-media posts about friendship; underline 跟…, 虽然…但是…, 越来越.\n• Writing (30 min): write an apology message to a friend, about 100 characters.\n• Vocabulary (15 min): make cards for the 10 words, one sentence each with 跟 + person."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我们是在大学认识的。Wǒmen shì zài dàxué rènshi de.",
+    "Chúng tôi quen nhau ở đại học."
+   ],
+   [
+    "我们好久没联系了。Wǒmen hǎojiǔ méi liánxì le.",
+    "Lâu lắm rồi chúng ta không liên lạc."
+   ],
+   [
+    "上次的事，真对不起。Shàng cì de shì, zhēn duìbuqǐ.",
+    "Chuyện lần trước, thật xin lỗi nhé."
+   ],
+   [
+    "没关系，我们之间只是有点儿误会。Méi guānxi, wǒmen zhījiān zhǐshì yǒudiǎnr wùhuì.",
+    "Không sao, giữa chúng ta chỉ là chút hiểu lầm."
+   ],
+   [
+    "有空一起吃个饭吧！Yǒu kòng yìqǐ chī ge fàn ba!",
+    "Rảnh thì đi ăn bữa cơm nhé!"
+   ],
+   [
+    "我们的关系越来越好了。Wǒmen de guānxi yuè lái yuè hǎo le.",
+    "Quan hệ của chúng tôi ngày càng tốt."
+   ]
+  ],
+  "vo": [
+   [
+    "关系",
+    "guānxi",
+    "mối quan hệ",
+    "relationship"
+   ],
+   [
+    "联系",
+    "liánxì",
+    "liên lạc",
+    "to keep in touch, contact"
+   ],
+   [
+    "吵架",
+    "chǎojià",
+    "cãi nhau",
+    "to quarrel"
+   ],
+   [
+    "原谅",
+    "yuánliàng",
+    "tha thứ",
+    "to forgive"
+   ],
+   [
+    "信任",
+    "xìnrèn",
+    "tin tưởng, lòng tin",
+    "to trust; trust"
+   ],
+   [
+    "关心",
+    "guānxīn",
+    "quan tâm",
+    "to care about"
+   ],
+   [
+    "误会",
+    "wùhuì",
+    "hiểu lầm",
+    "misunderstanding"
+   ],
+   [
+    "道歉",
+    "dàoqiàn",
+    "xin lỗi",
+    "to apologise"
+   ],
+   [
+    "互相",
+    "hùxiāng",
+    "lẫn nhau",
+    "each other, mutually"
+   ],
+   [
+    "理解",
+    "lǐjiě",
+    "thấu hiểu",
+    "to understand"
+   ]
+  ],
+  "hz": "友关系朋情",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我们认识十年了，关系一直很好。",
+    "e": [
+     "认识…年了 = quen nhau được … năm; 一直 = luôn luôn, từ trước đến nay. 关系 đọc guānxi (âm sau nhẹ).",
+     "认识…年了 = have known each other for … years; 一直 = all along. 关系 is guānxi (light 2nd syllable)."
+    ],
+    "f": [
+     "关系一直很好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "好朋友之间最重要的是互相信任。",
+    "e": [
+     "之间 = giữa; 互相 + động từ = lẫn nhau. Chú ý 信任 xìnrèn (4-4), đừng viết 信认.",
+     "之间 = between; 互相 + verb = each other. 信任 xìnrèn (4-4) – don't write 信认."
+    ],
+    "f": [
+     "互相信任",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "小林上个星期跟男朋友吵了一架，到现在还没联系，不过我觉得他们只是有点儿误会。",
+    "q": [
+     "Người nói nghĩ gì về chuyện của Tiểu Lâm?",
+     "What does the speaker think about Xiao Lin's situation?"
+    ],
+    "o": [
+     [
+      "Họ chỉ có chút hiểu lầm.",
+      "They just have a small misunderstanding."
+     ],
+     [
+      "Họ sắp chia tay.",
+      "They are about to break up."
+     ],
+     [
+      "Bạn trai đã xin lỗi rồi.",
+      "The boyfriend has already apologised."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "只是有点儿误会 = chỉ là chút hiểu lầm. 还没联系 cho biết chưa ai xin lỗi; không hề nói chia tay (分手).",
+     "只是有点儿误会 = just a small misunderstanding. 还没联系 shows nobody has apologised; break-up (分手) is never mentioned."
+    ],
+    "f": [
+     "只是有点儿误会",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你和最好的朋友是怎么认识的？我们是在大学认识的，虽然现在不在一个城市，但是经常打电话聊天。",
+    "e": [
+     "Câu hỏi: 你和最好的朋友是怎么认识的？– Gợi ý trả lời mẫu. 是…的 nhấn mạnh nơi quen nhau; 认识 rènshi, 聊天 liáotiān (2-1).",
+     "Question: 你和最好的朋友是怎么认识的？– A model answer. 是…的 stresses where you met; 认识 rènshi, 聊天 liáotiān (2-1)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "如果你跟朋友吵架了，你会怎么做？我会先冷静一下，然后主动给他打电话，向他道歉。",
+    "e": [
+     "Câu hỏi: 如果你跟朋友吵架了，你会怎么做？– Gợi ý trả lời mẫu. 吵架 chǎojià (3-4), 主动 zhǔdòng (zh uốn lưỡi), 道歉 dàoqiàn (4-4).",
+     "Question: 如果你跟朋友吵架了，你会怎么做？– A model answer. 吵架 chǎojià (3-4), 主动 zhǔdòng (retroflex zh), 道歉 dàoqiàn (4-4)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nếu có chuyện gì không vui thì cứ nói thẳng với mình, đừng giữ trong lòng.",
+    "a": [
+     "有什么不开心的事就直接跟我说，别憋在心里。",
+     "如果有什么不开心的事，就直接跟我说，别憋在心里。",
+     "有什么不开心的事就直接告诉我，别憋在心里。",
+     "有什么不高兴的事就直接跟我说，别放在心里。"
+    ],
+    "e": [
+     "有什么…就… = có gì… thì cứ…; 直接 = thẳng; 憋在心里 = nén trong lòng (cách nói rất khẩu ngữ, thân mật).",
+     "有什么…就… = if there's anything…, just…; 直接 = directly; 憋在心里 = bottle it up (very colloquial)."
+    ],
+    "f": [
+     "别憋在心里",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 不管…都…",
+     "Rewrite using 不管…都…"
+    ],
+    "s": "他有时候很忙，有时候不忙，可是每个星期他都给我打一次电话。",
+    "a": [
+     "不管忙不忙，他每个星期都给我打一次电话。",
+     "他不管忙不忙，每个星期都给我打一次电话。",
+     "不管他忙不忙，每个星期都给我打一次电话。",
+     "不管多忙，他每个星期都给我打一次电话。"
+    ],
+    "e": [
+     "不管 + dạng chính phản (忙不忙) / 多 + tính từ, vế sau bắt buộc có 都 = bất kể… đều…. Không dùng 不管 + câu khẳng định đơn (~~不管他很忙~~).",
+     "不管 + A-not-A (忙不忙) / 多 + adj; the main clause needs 都. Not ~~不管他很忙~~."
+    ],
+    "f": [
+     "不管忙不忙",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们好几年没联系了，昨天在地铁上碰见她，我差点儿没认识出来。",
+    "a": [
+     "我们好几年没联系了，昨天在地铁上碰见她，我差点儿没认出来。",
+     "我们好几年没联系了，昨天在地铁上碰见她，我差点儿认不出来。"
+    ],
+    "e": [
+     "Nhận ra = 认出来 (认 + bổ ngữ xu hướng 出来), không phải 认识出来. 碰见 = tình cờ gặp; 差点儿没… = suýt nữa thì không….",
+     "Recognise = 认出来 (认 + directional complement 出来), not 认识出来. 碰见 = bump into; 差点儿没… = almost failed to…."
+    ],
+    "f": [
+     "认出来",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "上次的事是我说话太直了，我跟你说声对不起，你千万别往心里___啊。",
+    "a": [
+     "去"
+    ],
+    "e": [
+     "别往心里去 = đừng để bụng (thành ngữ khẩu ngữ). 说声对不起 = nói một tiếng xin lỗi; 千万 = nhất định (khuyên nhủ).",
+     "别往心里去 = don't take it to heart (set colloquial phrase). 说声对不起 = say sorry; 千万 = by all means."
+    ],
+    "f": [
+     "别往心里去",
+     "HSK4"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "上个月我跟好朋友小林吵了一架。那天是她的生日，可是我工作太忙，忘了给她打电话。她很生气，好几天都没跟我联系。我很难过，因为我们认识十年了，关系一直很好。后来我给她写了一封长信，向她道歉：“虽然我很忙，但是这不是理由。”她回信说：“我也有不对的地方，我们之间只是有点儿误会。”周末我们一起去吃了火锅。我发现，好朋友之间最重要的是互相理解和信任。现在我们的关系越来越好了。",
+   "tr": "Tháng trước tôi cãi nhau một trận với bạn thân Tiểu Lâm. Hôm đó là sinh nhật cô ấy, nhưng tôi bận việc quá, quên gọi điện cho cô ấy. Cô ấy rất giận, mấy ngày liền không liên lạc với tôi. Tôi rất buồn, vì chúng tôi quen nhau mười năm rồi, quan hệ luôn rất tốt. Sau đó tôi viết cho cô ấy một lá thư dài để xin lỗi: “Tuy mình bận, nhưng đó không phải là lý do.” Cô ấy viết thư trả lời: “Mình cũng có chỗ không đúng, giữa chúng ta chỉ là có chút hiểu lầm.” Cuối tuần chúng tôi cùng đi ăn lẩu. Tôi nhận ra, giữa bạn thân với nhau, điều quan trọng nhất là thấu hiểu và tin tưởng lẫn nhau. Bây giờ quan hệ của chúng tôi ngày càng tốt hơn."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao hai người cãi nhau?",
+     "Why did they quarrel?"
+    ],
+    "o": [
+     [
+      "Người viết quên gọi điện vào sinh nhật Tiểu Lâm.",
+      "The writer forgot to call on Xiao Lin's birthday."
+     ],
+     [
+      "Tiểu Lâm quên sinh nhật người viết.",
+      "Xiao Lin forgot the writer's birthday."
+     ],
+     [
+      "Người viết không đến ăn lẩu.",
+      "The writer didn't come to the hotpot dinner."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "那天是她的生日，可是我工作太忙，忘了给她打电话. Sinh nhật là của Tiểu Lâm (她的生日); bữa lẩu là lúc làm hòa, không phải lý do cãi nhau.",
+     "那天是她的生日，可是我工作太忙，忘了给她打电话. It was Xiao Lin's birthday; the hotpot was when they made up."
+    ],
+    "f": [
+     "忘了给她打电话",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hai người quen nhau bao lâu rồi?",
+     "How long have they known each other?"
+    ],
+    "o": [
+     [
+      "Mười năm",
+      "Ten years"
+     ],
+     [
+      "Một tháng",
+      "One month"
+     ],
+     [
+      "Mấy ngày",
+      "A few days"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我们认识十年了. 好几天 là thời gian Tiểu Lâm không liên lạc; 上个月 là lúc cãi nhau.",
+     "我们认识十年了. 好几天 is how long Xiao Lin stayed silent; 上个月 is when they quarrelled."
+    ],
+    "f": [
+     "我们认识十年了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo người viết, điều quan trọng nhất giữa bạn thân là gì?",
+     "According to the writer, what matters most between close friends?"
+    ],
+    "o": [
+     [
+      "Thấu hiểu và tin tưởng lẫn nhau",
+      "Mutual understanding and trust"
+     ],
+     [
+      "Thường xuyên đi ăn cùng nhau",
+      "Eating out together often"
+     ],
+     [
+      "Không bao giờ cãi nhau",
+      "Never quarrelling"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "好朋友之间最重要的是互相理解和信任. Người viết vẫn cãi nhau với bạn, nên “không bao giờ cãi nhau” là sai.",
+     "好朋友之间最重要的是互相理解和信任. The writer did quarrel, so “never quarrelling” is wrong."
+    ],
+    "f": [
+     "互相理解和信任",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我昨天跟男朋友吵了一___，因为他又忘了我们约好的见面时间。",
+    "a": [
+     "架"
+    ],
+    "e": [
+     "吵架 là động từ li hợp, tách ra: 吵 + 了 + 一 + 架 = cãi nhau một trận. Không viết 吵了一次架 trong câu này cũng được nhưng 一架 tự nhiên nhất.",
+     "吵架 is separable: 吵 + 了 + 一 + 架 = had a quarrel. 一架 is the most natural count here."
+    ],
+    "f": [
+     "吵了一架",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我已经三个月没___他联系了，不知道他现在过得怎么样。",
+    "o": [
+     "跟",
+     "给",
+     "对"
+    ],
+    "a": 0,
+    "e": [
+     "Liên lạc VỚI ai = 跟/和 + người + 联系. 给 dùng với 打电话/发消息 (给他打电话), 对 = đối với, không đi với 联系.",
+     "Contact WITH someone = 跟/和 + person + 联系. 给 goes with 打电话/发消息; 对 (towards) doesn't go with 联系."
+    ],
+    "f": [
+     "跟他联系",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "虽然我们俩性格很不一样，还经常吵架，___我们一直是最好的朋友。",
+    "o": [
+     "但是",
+     "所以",
+     "因为"
+    ],
+    "a": 0,
+    "e": [
+     "虽然 A，但是 B = tuy… nhưng…. 所以 (cho nên) và 因为 (bởi vì) không ghép với 虽然. Người Việt hay bỏ 但是 – tiếng Trung nên giữ.",
+     "虽然 A，但是 B = although… still…. 所以 and 因为 don't pair with 虽然. Keep 但是 – Vietnamese speakers often drop it."
+    ],
+    "f": [
+     "但是",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "周末我想见面你的大学同学，听说他也很喜欢踢足球，我们可以一起去踢。",
+    "a": [
+     "周末我想跟你的大学同学见面，听说他也很喜欢踢足球，我们可以一起去踢。",
+     "周末我想和你的大学同学见面，听说他也很喜欢踢足球，我们可以一起去踢。"
+    ],
+    "e": [
+     "见面 là động từ li hợp, không mang tân ngữ sau: phải nói 跟/和 + người + 见面. Lỗi kinh điển của người Việt: “gặp mặt bạn” → ~~见面你~~.",
+     "见面 is separable and takes no object: say 跟/和 + person + 见面. Classic error: ~~见面你~~."
+    ],
+    "f": [
+     "跟你的大学同学见面",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "认识她以后，我的汉语越来越好了很多，因为她每天都跟我说中文。",
+    "a": [
+     "认识她以后，我的汉语越来越好了，因为她每天都跟我说中文。",
+     "认识她以后，我的汉语好了很多，因为她每天都跟我说中文。"
+    ],
+    "e": [
+     "越来越 + tính từ đã chỉ mức độ tăng dần, không thêm 很多 phía sau. Hoặc bỏ 越来越 và nói 好了很多.",
+     "越来越 + adjective already shows growth; don't add 很多. Or drop 越来越 and say 好了很多."
+    ],
+    "f": [
+     "越来越好了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi muốn xin lỗi cô ấy, nhưng không biết nên nói thế nào.",
+    "a": [
+     "我想向她道歉，但是不知道应该怎么说。",
+     "我想跟她道歉，可是不知道该怎么说。",
+     "我想向她道歉，但是不知道该怎么说。",
+     "我想跟她道歉，但是不知道应该怎么说。"
+    ],
+    "e": [
+     "Xin lỗi ai = 向/跟 + người + 道歉 (không nói ~~道歉她~~). Nên nói thế nào = 应该/该怎么说.",
+     "Apologise to someone = 向/跟 + person + 道歉 (not ~~道歉她~~). How to say it = 应该/该怎么说."
+    ],
+    "f": [
+     "向她道歉",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Giữa bạn bè nên quan tâm lẫn nhau và tin tưởng lẫn nhau.",
+    "a": [
+     "朋友之间应该互相关心、互相信任。",
+     "朋友之间应该互相关心，互相信任。",
+     "朋友之间应该互相关心和信任。"
+    ],
+    "e": [
+     "Giữa… = …之间 (đặt sau danh từ). Lẫn nhau = 互相 + động từ; có thể lặp 互相 cho cân đối.",
+     "Between… = …之间 (after the noun). Each other = 互相 + verb; repeating 互相 sounds balanced."
+    ],
+    "f": [
+     "互相关心",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối hai câu bằng 虽然…但是…",
+     "Join the two sentences with 虽然…但是…"
+    ],
+    "s": "他昨天说了很难听的话。我已经原谅他了。",
+    "a": [
+     "虽然他昨天说了很难听的话，但是我已经原谅他了。",
+     "他虽然昨天说了很难听的话，但是我已经原谅他了。",
+     "虽然他昨天说了很难听的话，可是我已经原谅他了。"
+    ],
+    "e": [
+     "虽然 đứng đầu câu hoặc sau chủ ngữ; vế sau mở đầu bằng 但是/可是. 原谅 = tha thứ.",
+     "虽然 goes at the start or after the subject; the second clause begins with 但是/可是. 原谅 = forgive."
+    ],
+    "f": [
+     "虽然…但是我已经原谅他了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我们|是|在|大学|认识|的|，已经是|十年的|老朋友了",
+    "m": [
+     "Chúng tôi quen nhau ở đại học, đã là bạn cũ mười năm rồi.",
+     "We met at university and have been old friends for ten years."
+    ],
+    "e": [
+     "是 + nơi chốn (在大学) + động từ + 的 nhấn mạnh hoàn cảnh việc đã xảy ra. 老朋友 = bạn cũ, bạn lâu năm.",
+     "是 + place (在大学) + verb + 的 stresses the circumstances of a past event. 老朋友 = old friend."
+    ],
+    "f": [
+     "是在大学认识的",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "他不是故意不回你的消息的，我觉得这只是一个___，你别生气了。",
+    "a": [
+     "误会"
+    ],
+    "e": [
+     "误会 wùhuì = hiểu lầm (danh từ ở đây, đi với 一个). 故意 = cố ý.",
+     "误会 wùhuì = misunderstanding (a noun here, with 一个). 故意 = on purpose."
+    ],
+    "f": [
+     "误会",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn khoảng 100 chữ xin lỗi một người bạn: chuyện gì xảy ra, vì sao bạn sai, đề nghị làm hòa.",
+     "Write a message of about 100 characters apologising to a friend: what happened, why you were wrong, a suggestion to make up."
+    ],
+    "m": "小美：上次的事，真对不起！那天我心情不好，跟你说了很难听的话。虽然我工作压力很大，但是这不是理由，我不应该对你发脾气。我们认识八年了，你一直很关心我，我真的不想因为一个误会影响我们的关系。希望你能原谅我。这个周末你有空吗？我请你吃火锅，我们好好聊聊吧！",
+    "e": [
+     "Cần có: • xin lỗi rõ ràng (对不起/向你道歉) • 虽然…但是… • nhắc mối quan hệ (认识…年/关系) • lời mời làm hòa (…吧).",
+     "Must include: • a clear apology (对不起/向你道歉) • 虽然…但是… • mention the relationship (认识…年/关系) • an invitation to make up (…吧)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d24",
+  "g": "travel",
+  "t": [
+   "Ngân hàng, bưu điện & thủ tục",
+   "Banks, post office & paperwork"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1: trình tự 先…再…然后…最后…**\n• Khi giải thích thủ tục, tiếng Trung xếp các bước bằng **先** (trước tiên) → **再** (rồi) → **然后** (sau đó) → **最后** (cuối cùng). 先, 再 là phó từ, đứng SAU chủ ngữ, TRƯỚC động từ.\n• 你**先**取号，**再**填表，**然后**去窗口，**最后**签字。\n• Lưu ý: ~~先你取号~~ là sai; nói **你先取号**.",
+    "**Grammar 1: sequence 先…再…然后…最后…**\n• To explain a procedure, Chinese orders steps with **先** (first) → **再** (then) → **然后** (after that) → **最后** (finally). 先 and 再 are adverbs: AFTER the subject, BEFORE the verb.\n• 你**先**取号，**再**填表，**然后**去窗口，**最后**签字。\n• Note: ~~先你取号~~ is wrong; say **你先取号**."
+   ],
+   [
+    "**Ngữ pháp 2: câu 把 với kết quả (好 / 成 / 在) & 让 + người + làm**\n• 把 + vật + động từ + **好** (xong, đâu ra đấy): 请**把表填好**。\n• 把 + A + động từ + **成** + B (thành B): 我想**把美元换成人民币**。\n• 把 + vật + động từ + **在** + nơi: 别**把密码写在卡上**。\n• Động từ sau 把 không đứng trơ trọi: ~~把表填~~ ✗. Phủ định đặt TRƯỚC 把: 我**没把**表填好.\n• **让** + người + làm gì = bảo ai làm: 工作人员**让我**先取号。",
+    "**Grammar 2: 把 with a result (好 / 成 / 在) & 让 + person + verb**\n• 把 + thing + verb + **好** (done properly): 请**把表填好**。\n• 把 + A + verb + **成** + B (into B): 我想**把美元换成人民币**。\n• 把 + thing + verb + **在** + place: 别**把密码写在卡上**。\n• The verb after 把 never stands alone: ~~把表填~~ ✗. Negation goes BEFORE 把: 我**没把**表填好.\n• **让** + person + verb = tell someone to do: 工作人员**让我**先取号。"
+   ],
+   [
+    "**Phát âm: biến điệu thanh 3 & chữ đa âm 行**\n• Hai thanh 3 liền nhau → thanh đầu đọc thành thanh 2: 取款 qǔkuǎn → **qúkuǎn**, 只有 zhǐyǒu → **zhíyǒu**, 很好 → **hénhǎo**.\n• Thanh 3 trước thanh khác chỉ đọc nửa (thấp, không lên): 手续 shǒuxù, 取号 qǔhào.\n• 行 có hai âm: 银**行** yín**háng** (ngân hàng), nhưng 不**行** bù**xíng** (không được). Người học rất hay đọc nhầm 银行 thành yínxíng.",
+    "**Pronunciation: third-tone sandhi & the polyphone 行**\n• Two third tones in a row → the first becomes tone 2: 取款 qǔkuǎn → **qúkuǎn**, 只有 → **zhíyǒu**, 很好 → **hénhǎo**.\n• A third tone before other tones is a half third (low, no rise): 手续 shǒuxù, 取号 qǔhào.\n• 行 has two readings: 银**行** yín**háng** (bank), but 不**行** bù**xíng** (no way). Learners often misread 银行 as yínxíng."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **行** (6 nét), **钱** (10), **银** (11), **寄** (11), **填** (13).\n• 钱 và 银 đều có bộ 钅 (kim loại, 5 nét): tiền xưa làm bằng kim loại.\n• 寄 = 宀 (mái nhà) + 奇: gửi đồ đi xa.\n• 填 = 土 (đất) + 真: lấp đầy (chỗ trống) → điền.\n• Đọc to: 银行 yínháng (2-2) · 存钱 cúnqián (2-2) · 寄信 jìxìn (4-4) · 填表 tiánbiǎo (2-3).",
+    "**Characters & tones**\nWrite: **行** (6 strokes), **钱** (10), **银** (11), **寄** (11), **填** (13).\n• 钱 and 银 share 钅 (metal, 5 strokes): money used to be metal.\n• 寄 = 宀 (roof) + 奇: send something far away.\n• 填 = 土 (earth) + 真: fill in a hole → fill in (a form).\n• Read aloud: 银行 yínháng (2-2) · 存钱 cúnqián (2-2) · 寄信 jìxìn (4-4) · 填表 tiánbiǎo (2-3)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem video “在中国银行开户” hoặc “去邮局寄包裹”, ghi lại các bước theo thứ tự.\n• Nói (20 phút): đóng vai khách hàng – nhân viên: mở tài khoản, đổi tiền, hỏi tỷ giá.\n• Đọc (15 phút): đọc một tờ khai mở tài khoản tiếng Trung, tìm các mục 姓名, 国籍, 证件号码.\n• Viết (30 phút): viết hướng dẫn 100 chữ “cách gửi bưu kiện về Việt Nam” dùng 先…再…然后….\n• Từ vựng (15 phút): 10 từ của bài + 5 từ: 转账, 余额, 签字, 窗口, 邮费.",
+    "**Practice outside the app**\n• Listening (20 min): watch a video on opening a bank account or sending a parcel in China; list the steps in order.\n• Speaking (20 min): role-play customer and clerk: open an account, change money, ask the rate.\n• Reading (15 min): read a Chinese account-opening form; find 姓名, 国籍, 证件号码.\n• Writing (30 min): write 100-character instructions “how to send a parcel to Vietnam” with 先…再…然后….\n• Vocabulary (15 min): the 10 unit words + 转账, 余额, 签字, 窗口, 邮费."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我想开一个银行账户。Wǒ xiǎng kāi yí ge yínháng zhànghù.",
+    "Tôi muốn mở một tài khoản ngân hàng."
+   ],
+   [
+    "请先取号，再填这张表。Qǐng xiān qǔ hào, zài tián zhè zhāng biǎo.",
+    "Vui lòng lấy số trước, rồi điền tờ khai này."
+   ],
+   [
+    "今天的汇率是多少？Jīntiān de huìlǜ shì duōshao?",
+    "Tỷ giá hôm nay là bao nhiêu?"
+   ],
+   [
+    "我想把美元换成人民币。Wǒ xiǎng bǎ měiyuán huàn chéng rénmínbì.",
+    "Tôi muốn đổi đô la sang nhân dân tệ."
+   ],
+   [
+    "这个包裹寄到越南要几天？Zhège bāoguǒ jì dào Yuènán yào jǐ tiān?",
+    "Bưu kiện này gửi về Việt Nam mất mấy ngày?"
+   ],
+   [
+    "请在这儿签字。Qǐng zài zhèr qiānzì.",
+    "Vui lòng ký tên ở đây."
+   ]
+  ],
+  "vo": [
+   [
+    "账户",
+    "zhànghù",
+    "tài khoản",
+    "bank account"
+   ],
+   [
+    "存钱",
+    "cúnqián",
+    "gửi tiền (vào ngân hàng)",
+    "to deposit money"
+   ],
+   [
+    "取钱",
+    "qǔqián",
+    "rút tiền",
+    "to withdraw money"
+   ],
+   [
+    "汇率",
+    "huìlǜ",
+    "tỷ giá",
+    "exchange rate"
+   ],
+   [
+    "填表",
+    "tiánbiǎo",
+    "điền tờ khai",
+    "to fill in a form"
+   ],
+   [
+    "护照",
+    "hùzhào",
+    "hộ chiếu",
+    "passport"
+   ],
+   [
+    "手续",
+    "shǒuxù",
+    "thủ tục",
+    "procedure, formalities"
+   ],
+   [
+    "密码",
+    "mìmǎ",
+    "mật khẩu, mã PIN",
+    "password, PIN"
+   ],
+   [
+    "包裹",
+    "bāoguǒ",
+    "bưu kiện",
+    "parcel"
+   ],
+   [
+    "排队",
+    "páiduì",
+    "xếp hàng",
+    "to queue"
+   ]
+  ],
+  "hz": "银行钱寄填",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "办手续一定要带护照。",
+    "e": [
+     "办手续 = làm thủ tục; 一定要 = nhất định phải. 护照 hùzhào (4-4); 手续 shǒuxù đọc nửa thanh 3.",
+     "办手续 = go through formalities; 一定要 = must. 护照 hùzhào (4-4); 手续 with a half third tone."
+    ],
+    "f": [
+     "办手续",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "请先把表填好，再去窗口排队。",
+    "e": [
+     "先…再… = trước… rồi…; 把表填好 – câu 把 có bổ ngữ kết quả 好. 窗口 = quầy, ô cửa giao dịch.",
+     "先…再… = first… then…; 把表填好 – a 把 sentence with result complement 好. 窗口 = service counter."
+    ],
+    "f": [
+     "把表填好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我想把一千美元换成人民币，可是今天的汇率不太好，所以我打算下个星期再来换。",
+    "q": [
+     "Vì sao người nói chưa đổi tiền hôm nay?",
+     "Why isn't the speaker changing money today?"
+    ],
+    "o": [
+     [
+      "Vì tỷ giá hôm nay không tốt lắm.",
+      "Because today's rate isn't very good."
+     ],
+     [
+      "Vì quên mang hộ chiếu.",
+      "Because they forgot their passport."
+     ],
+     [
+      "Vì ngân hàng đã đóng cửa.",
+      "Because the bank is closed."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "今天的汇率不太好，所以…下个星期再来换. Không nhắc gì đến hộ chiếu hay giờ đóng cửa.",
+     "今天的汇率不太好，所以…下个星期再来换. Nothing about the passport or closing time."
+    ],
+    "f": [
+     "汇率不太好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你在银行办过什么业务？我开过账户，也换过钱，每次都要先取号，再排很长时间的队。",
+    "e": [
+     "Câu hỏi: 你在银行办过什么业务？– Gợi ý trả lời mẫu. 银行 yínháng (không phải yínxíng); 取号 qǔhào nửa thanh 3; 排队 páiduì.",
+     "Question: 你在银行办过什么业务？– A model answer. 银行 yínháng (not yínxíng); 取号 with half third tone; 排队 páiduì."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "寄包裹的时候要注意什么？你要先把东西包好，再写清楚地址和电话，然后问问邮费和要几天。",
+    "e": [
+     "Câu hỏi: 寄包裹的时候要注意什么？– Gợi ý trả lời mẫu. 包裹 bāoguǒ (1-3), 地址 dìzhǐ, 邮费 yóufèi.",
+     "Question: 寄包裹的时候要注意什么？– A model answer. 包裹 bāoguǒ (1-3), 地址 dìzhǐ, 邮费 yóufèi."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thẻ của tôi bị máy rút tiền nuốt mất rồi, tôi phải làm thủ tục gì mới lấy lại được?",
+    "a": [
+     "我的卡被取款机吞了，我得办什么手续才能拿回来？",
+     "我的银行卡被取款机吞了，我需要办什么手续才能拿回来？",
+     "我的卡被取款机吞了，我该办什么手续才能拿回来？"
+    ],
+    "e": [
+     "Bị… = 被 + tác nhân + động từ + 了: 被取款机吞了. …mới… = 才能; lấy lại = 拿回来 (bổ ngữ xu hướng).",
+     "被 + agent + verb + 了: 被取款机吞了. …only then can… = 才能; get back = 拿回来."
+    ],
+    "f": [
+     "被取款机吞了",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đổi sang câu bị động với 被",
+     "Change into a 被 passive sentence"
+    ],
+    "s": "取款机把我的银行卡吞了，我只好给银行打电话。",
+    "a": [
+     "我的银行卡被取款机吞了，我只好给银行打电话。"
+    ],
+    "e": [
+     "把 → 被: tân ngữ (我的银行卡) lên làm chủ ngữ, tác nhân (取款机) theo sau 被. Câu bị động tiếng Trung thường mang nghĩa “không may”.",
+     "把 → 被: the object becomes the subject, the agent follows 被. Chinese 被 passives often signal misfortune."
+    ],
+    "f": [
+     "被取款机吞了",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这个月我的工资还没到，所以我把房租不能按时交了，真不好意思。",
+    "a": [
+     "这个月我的工资还没到，所以我不能按时把房租交了，真不好意思。",
+     "这个月我的工资还没到，所以我不能把房租按时交了，真不好意思。",
+     "这个月我的工资还没到，所以我不能按时交房租了，真不好意思。"
+    ],
+    "e": [
+     "Trong câu 把, phủ định và động từ năng nguyện (不能, 没) phải đứng TRƯỚC 把: 不能按时把房租交了.",
+     "In 把 sentences, negation and modal verbs (不能, 没) go BEFORE 把: 不能按时把房租交了."
+    ],
+    "f": [
+     "不能按时把房租交了",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我的包裹寄出去都一个月了，到现在还没收到，麻烦您帮我___一下是怎么回事。",
+    "a": [
+     "查",
+     "查查"
+    ],
+    "e": [
+     "查一下 = kiểm tra giúp; 麻烦您 + động từ = phiền anh/chị… (lịch sự). 怎么回事 = có chuyện gì vậy.",
+     "查一下 = check; 麻烦您 + verb = would you mind… (polite). 怎么回事 = what's going on."
+    ],
+    "f": [
+     "帮我查一下",
+     "HSK4"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "来中国留学以后，我做的第一件事就是去银行开账户。办手续一定要带护照，没有护照，银行是不会给你办卡的。我先取了号，排了二十分钟的队。工作人员让我先把表填好，再设一个六位数的密码，还提醒我：“密码别告诉别人。”办完卡以后，我把一千美元换成了人民币，那天的汇率还不错。下午我又去了邮局，给越南的家人寄了一个包裹，里面是给妈妈买的茶叶。工作人员说，寄到河内要一个星期。",
+   "tr": "Sau khi sang Trung Quốc du học, việc đầu tiên tôi làm là đi ngân hàng mở tài khoản. Làm thủ tục nhất định phải mang hộ chiếu; không có hộ chiếu, ngân hàng sẽ không làm thẻ cho bạn. Tôi lấy số trước, xếp hàng hai mươi phút. Nhân viên bảo tôi điền tờ khai trước, rồi đặt một mật khẩu sáu chữ số, còn nhắc tôi: “Đừng nói mật khẩu cho người khác.” Làm thẻ xong, tôi đổi một nghìn đô la sang nhân dân tệ, tỷ giá hôm đó cũng khá. Buổi chiều tôi lại đến bưu điện, gửi cho gia đình ở Việt Nam một bưu kiện, bên trong là trà mua cho mẹ. Nhân viên nói gửi đến Hà Nội mất một tuần."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Muốn mở thẻ ngân hàng phải mang theo gì?",
+     "What must you bring to get a bank card?"
+    ],
+    "o": [
+     [
+      "Hộ chiếu",
+      "A passport"
+     ],
+     [
+      "Một nghìn đô la",
+      "1,000 US dollars"
+     ],
+     [
+      "Thẻ sinh viên",
+      "A student card"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "办手续一定要带护照，没有护照，银行是不会给你办卡的. 1000 đô la là số tiền người viết đổi sau khi làm thẻ.",
+     "办手续一定要带护照. The 1,000 dollars is what the writer changed afterwards."
+    ],
+    "f": [
+     "一定要带护照",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nhân viên ngân hàng nhắc người viết điều gì?",
+     "What did the bank clerk remind the writer?"
+    ],
+    "o": [
+     [
+      "Đừng nói mật khẩu cho người khác.",
+      "Not to tell anyone the PIN."
+     ],
+     [
+      "Đặt mật khẩu bốn chữ số.",
+      "To set a four-digit PIN."
+     ],
+     [
+      "Đổi tiền vào hôm sau.",
+      "To change money the next day."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "还提醒我：“密码别告诉别人。” Mật khẩu có sáu chữ số (六位数), không phải bốn.",
+     "还提醒我：“密码别告诉别人。” The PIN has six digits (六位数), not four."
+    ],
+    "f": [
+     "密码别告诉别人",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Trong bưu kiện có gì?",
+     "What is in the parcel?"
+    ],
+    "o": [
+     [
+      "Trà mua cho mẹ",
+      "Tea bought for Mum"
+     ],
+     [
+      "Nhân dân tệ",
+      "Chinese yuan"
+     ],
+     [
+      "Thẻ ngân hàng mới",
+      "The new bank card"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "里面是给妈妈买的茶叶. 茶叶 = lá trà; 里面 = bên trong.",
+     "里面是给妈妈买的茶叶. 茶叶 = tea leaves; 里面 = inside."
+    ],
+    "f": [
+     "给妈妈买的茶叶",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "办银行卡的时候，你得___把这张表填好，再去三号窗口排队。",
+    "o": [
+     "先",
+     "就",
+     "才"
+    ],
+    "a": 0,
+    "e": [
+     "先… 再… = trước… rồi…. 就 (liền) và 才 (mới) không tạo cặp trình tự với 再.",
+     "先… 再… = first… then…. 就 and 才 don't form a sequence with 再."
+    ],
+    "f": [
+     "先",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我想把这五百美元换___人民币，请问今天的汇率是多少？",
+    "a": [
+     "成"
+    ],
+    "e": [
+     "把 A 换成 B = đổi A thành B. 成 là bổ ngữ kết quả “thành”; thiếu 成 câu 把 không trọn.",
+     "把 A 换成 B = change A into B. 成 is the result complement “into”."
+    ],
+    "f": [
+     "换成",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你的密码最好别告诉别人，也别写___银行卡上，这样比较安全。",
+    "a": [
+     "在"
+    ],
+    "e": [
+     "Động từ + 在 + nơi chốn: 写在卡上 = viết lên thẻ. Đừng dùng 到 ở đây.",
+     "Verb + 在 + place: 写在卡上 = write on the card. Don't use 到 here."
+    ],
+    "f": [
+     "写在银行卡上",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "今天来办事的人特别多，我排了一个小时的___才轮到我。",
+    "a": [
+     "队"
+    ],
+    "e": [
+     "排队 là động từ li hợp: 排 + thời lượng + 的 + 队. 轮到我 = đến lượt tôi; 才 = mới (muộn).",
+     "排队 is separable: 排 + duration + 的 + 队. 轮到我 = my turn; 才 = only then."
+    ],
+    "f": [
+     "排了一个小时的队",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "请你先把表填，然后在下面签上你的名字，再交给我。",
+    "a": [
+     "请你先把表填好，然后在下面签上你的名字，再交给我。",
+     "请你先把表填完，然后在下面签上你的名字，再交给我。"
+    ],
+    "e": [
+     "Sau 把 động từ phải có thành phần khác: 填好 / 填完. ~~把表填~~ là lỗi rất hay gặp.",
+     "After 把 the verb needs something more: 填好 / 填完. ~~把表填~~ is a very common error."
+    ],
+    "f": [
+     "把表填好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我昨天去银行存钱了三千块，现在卡里一共有五千块了。",
+    "a": [
+     "我昨天去银行存了三千块钱，现在卡里一共有五千块了。",
+     "我昨天去银行存了三千块，现在卡里一共有五千块了。"
+    ],
+    "e": [
+     "存钱 là động từ li hợp: 了 và số tiền chen vào giữa → 存了三千块钱. Không đặt 了 sau cả cụm 存钱 rồi mới thêm số.",
+     "存钱 is separable: 了 and the amount go inside → 存了三千块钱."
+    ],
+    "f": [
+     "存了三千块钱",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi muốn mở một tài khoản ngân hàng, xin hỏi cần mang theo những giấy tờ gì?",
+    "a": [
+     "我想开一个银行账户，请问需要带什么证件？",
+     "我想开一个银行账户，请问要带哪些证件？",
+     "我想在银行开一个账户，请问需要带什么证件？",
+     "我想开个银行账户，请问需要带什么证件？"
+    ],
+    "e": [
+     "Mở tài khoản = 开账户; giấy tờ tùy thân = 证件. 请问 mở đầu câu hỏi lịch sự; 哪些 = những… nào.",
+     "Open an account = 开账户; ID documents = 证件. 请问 makes the question polite; 哪些 = which (plural)."
+    ],
+    "f": [
+     "开一个银行账户",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin hỏi, gửi bưu kiện này về Hà Nội mất bao lâu, khoảng bao nhiêu tiền?",
+    "a": [
+     "请问，这个包裹寄到河内要多长时间，大概多少钱？",
+     "请问，这个包裹寄到河内要多久，大概多少钱？",
+     "请问，把这个包裹寄到河内要多长时间，大概要多少钱？"
+    ],
+    "e": [
+     "Gửi đến… = 寄到 + nơi; mất bao lâu = 要多长时间 / 要多久; khoảng = 大概. Tiếng Trung đưa 这个包裹 lên đầu làm chủ đề.",
+     "Send to… = 寄到 + place; how long = 要多长时间 / 要多久; about = 大概. 这个包裹 goes first as the topic."
+    ],
+    "f": [
+     "寄到河内要多长时间",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối các bước bằng 先…再…然后…",
+     "Join the steps with 先…再…然后…"
+    ],
+    "s": "你取号。你填表。你去窗口办手续。",
+    "a": [
+     "你先取号，再填表，然后去窗口办手续。",
+     "你先取号，再填表，然后再去窗口办手续。",
+     "你先取号，然后填表，再去窗口办手续。"
+    ],
+    "e": [
+     "Chủ ngữ 你 chỉ cần một lần ở đầu; 先, 再 đứng trước động từ. Không viết ~~先你取号~~.",
+     "Say 你 once at the start; 先 and 再 come before the verb. Not ~~先你取号~~."
+    ],
+    "f": [
+     "你先取号，再填表，然后",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "工作人员|让我|先|把护照|给她|看一下|，然后|在表上|签字",
+    "m": [
+     "Nhân viên bảo tôi đưa hộ chiếu cho cô ấy xem trước, rồi ký tên lên tờ khai.",
+     "The clerk asked me to show her my passport first, then sign the form."
+    ],
+    "e": [
+     "让 + người + làm: 让我…; 先 trước cụm 把 (先把护照给她看一下). 在表上 (ở trên tờ khai) đứng trước động từ 签字.",
+     "让 + person + action: 让我…; 先 comes before the 把 phrase. 在表上 goes before the verb 签字."
+    ],
+    "f": [
+     "让我先把护照给她看一下",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 100 chữ hướng dẫn một bạn mới sang Trung Quốc cách mở tài khoản ngân hàng hoặc gửi bưu kiện.",
+     "Write about 100 characters explaining to a newcomer in China how to open a bank account or send a parcel."
+    ],
+    "m": "开银行账户其实不难。你先带上护照和学生证去银行，到了以后先取号，然后把表填好。轮到你的时候，把表和护照交给工作人员，再设一个六位数的密码。最后在单子上签字，就可以拿到银行卡了。注意：密码千万别告诉别人，也别写在卡上。如果要换钱，可以先问问今天的汇率。",
+    "e": [
+     "Cần có: • 先…然后…再…最后 • ít nhất một câu 把 (把表填好 / 把…交给…) • giấy tờ cần mang • một lời nhắc (注意/别…).",
+     "Must include: • 先…然后…再…最后 • at least one 把 sentence • documents to bring • one warning (注意/别…)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d25",
+  "g": "society",
+  "t": [
+   "Phim ảnh, âm nhạc & sách",
+   "Films, music & books"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1: bổ ngữ trình độ V + 得 + tính từ**\n• Đánh giá ai làm việc gì thế nào: động từ + **得** + (很/非常/不太) + tính từ: 她**演得非常好**。\n• Nếu có tân ngữ, lặp lại động từ hoặc đưa tân ngữ lên trước: 她**唱歌唱得**很好听 = 她**歌唱得**很好听。\n• Phủ định đặt sau 得: 他唱得**不**好 (KHÔNG nói ~~他不唱得好~~).\n• Lỗi hay gặp: bỏ 得 → ~~演很好~~.",
+    "**Grammar 1: degree complement V + 得 + adjective**\n• To judge how someone does something: verb + **得** + (很/非常/不太) + adjective: 她**演得非常好**。\n• With an object, repeat the verb or move the object first: 她**唱歌唱得**很好听 = 她**歌唱得**很好听。\n• Negation comes after 得: 他唱得**不**好 (NOT ~~他不唱得好~~).\n• Common error: dropping 得 → ~~演很好~~."
+   ],
+   [
+    "**Ngữ pháp 2: 让 + người + cảm xúc; 根据…拍的; 对…感兴趣**\n• **让** + người + cảm xúc/hành động = làm cho ai…: 这个故事**让我很感动**；最后一段**让很多观众都哭了**。\n• **是根据**…**拍的/写的** = được quay/viết dựa theo…: 这部电影**是根据**小说**拍的**。\n• **对** + lĩnh vực + **感兴趣** = quan tâm, hứng thú với…: 我**对**中国音乐很**感兴趣**。",
+    "**Grammar 2: 让 + person + feeling; 根据…拍的; 对…感兴趣**\n• **让** + person + feeling/action = makes someone…: 这个故事**让我很感动**；最后一段**让很多观众都哭了**。\n• **是根据**…**拍的/写的** = filmed/written based on…: 这部电影**是根据**小说**拍的**。\n• **对** + field + **感兴趣** = be interested in…: 我**对**中国音乐很**感兴趣**。"
+   ],
+   [
+    "**Phát âm: nguyên âm ü**\n• ü tròn môi như “u” nhưng lưỡi đặt như “i”: 女 **nǚ**, 剧 **jù**, 音乐 yīn**yuè**, 觉得 **jué**de.\n• Sau j, q, x, y, hai chấm của ü bị lược: ju = jü, que = qüe, xue = xüe, yue = yüe. Người Việt hay đọc 剧 jù thành “chu”, 乐 yuè thành “duê” – hãy giữ môi tròn.\n• Phân biệt: 女 nǚ ≠ 怒 nù, 绿 lǜ ≠ 路 lù.",
+    "**Pronunciation: the vowel ü**\n• ü: round your lips as for “u” but keep the tongue as for “i”: 女 **nǚ**, 剧 **jù**, 音乐 yīn**yuè**, 觉得 **jué**de.\n• After j, q, x, y the dots are dropped: ju = jü, que = qüe, xue = xüe, yue = yüe. Keep the lips rounded.\n• Contrast: 女 nǚ ≠ 怒 nù, 绿 lǜ ≠ 路 lù."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **书** (4 nét), **电** (5), **乐** (5), **音** (9), **影** (15).\n• 音 = 立 + 日: âm thanh. 乐 có hai âm: 音**乐** yīn**yuè** (âm nhạc) và 快**乐** kuài**lè** (vui vẻ).\n• 影 = 景 + 彡 (ba nét phẩy – ánh sáng): bóng, hình ảnh → 电影.\n• 书 chỉ 4 nét – nét chấm cuối cùng viết sau.\n• Đọc to: 电影 diànyǐng (4-3) · 音乐 yīnyuè (1-4) · 小说 xiǎoshuō (3-1) · 故事 gùshi (4-nhẹ).",
+    "**Characters & tones**\nWrite: **书** (4 strokes), **电** (5), **乐** (5), **音** (9), **影** (15).\n• 音 = 立 + 日: sound. 乐 has two readings: 音**乐** yīn**yuè** (music) and 快**乐** kuài**lè** (happy).\n• 影 = 景 + 彡 (three light strokes): shadow, image → 电影.\n• 书 has only 4 strokes – the dot comes last.\n• Read aloud: 电影 diànyǐng (4-3) · 音乐 yīnyuè (1-4) · 小说 xiǎoshuō (3-1) · 故事 gùshi (4-neutral)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): nghe 1 bài hát tiếng Trung chậm, chép lại điệp khúc, tra từ mới.\n• Nói (20 phút): giới thiệu 2 phút một bộ phim bạn thích: nội dung, diễn viên, vì sao nên xem (dùng 得 và 让).\n• Đọc (20 phút): đọc 3 bình luận phim ngắn trên Douban (豆瓣), ghi lại các tính từ đánh giá.\n• Viết (30 phút): viết bài review phim/sách khoảng 120 chữ.\n• Từ vựng (15 phút): thể loại phim: 喜剧片, 动作片, 爱情片, 恐怖片, 科幻片, 动画片.",
+    "**Practice outside the app**\n• Listening (25 min): listen to a slow Chinese song, write down the chorus, look up new words.\n• Speaking (20 min): present a film you like for 2 minutes: plot, actors, why watch it (use 得 and 让).\n• Reading (20 min): read 3 short film comments on Douban (豆瓣); note the evaluative adjectives.\n• Writing (30 min): write a film/book review of about 120 characters.\n• Vocabulary (15 min): genres: 喜剧片, 动作片, 爱情片, 恐怖片, 科幻片, 动画片."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "你喜欢看什么电影？Nǐ xǐhuan kàn shénme diànyǐng?",
+    "Bạn thích xem phim gì?"
+   ],
+   [
+    "这部电影是根据小说拍的。Zhè bù diànyǐng shì gēnjù xiǎoshuō pāi de.",
+    "Bộ phim này được quay dựa theo tiểu thuyết."
+   ],
+   [
+    "她唱得非常好听。Tā chàng de fēicháng hǎotīng.",
+    "Cô ấy hát rất hay."
+   ],
+   [
+    "这个故事让我很感动。Zhège gùshi ràng wǒ hěn gǎndòng.",
+    "Câu chuyện này làm tôi rất xúc động."
+   ],
+   [
+    "你能给我推荐几本书吗？Nǐ néng gěi wǒ tuījiàn jǐ běn shū ma?",
+    "Bạn có thể giới thiệu cho tôi vài cuốn sách không?"
+   ],
+   [
+    "结尾有点儿可惜。Jiéwěi yǒudiǎnr kěxī.",
+    "Phần kết hơi đáng tiếc."
+   ]
+  ],
+  "vo": [
+   [
+    "演员",
+    "yǎnyuán",
+    "diễn viên",
+    "actor, actress"
+   ],
+   [
+    "导演",
+    "dǎoyǎn",
+    "đạo diễn",
+    "director"
+   ],
+   [
+    "故事",
+    "gùshi",
+    "câu chuyện, cốt truyện",
+    "story"
+   ],
+   [
+    "感动",
+    "gǎndòng",
+    "xúc động, cảm động",
+    "moved, touched"
+   ],
+   [
+    "歌手",
+    "gēshǒu",
+    "ca sĩ",
+    "singer"
+   ],
+   [
+    "小说",
+    "xiǎoshuō",
+    "tiểu thuyết",
+    "novel"
+   ],
+   [
+    "作家",
+    "zuòjiā",
+    "nhà văn",
+    "writer"
+   ],
+   [
+    "推荐",
+    "tuījiàn",
+    "giới thiệu, gợi ý",
+    "to recommend"
+   ],
+   [
+    "结尾",
+    "jiéwěi",
+    "phần kết",
+    "ending"
+   ],
+   [
+    "观众",
+    "guānzhòng",
+    "khán giả",
+    "audience"
+   ]
+  ],
+  "hz": "电影音乐书",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "这部电影是根据一本小说拍的。",
+    "e": [
+     "部 là lượng từ của phim; 是根据…拍的 = được quay dựa theo…. 根据 gēnjù (1-4).",
+     "部 is the measure word for films; 是根据…拍的 = filmed based on…. 根据 gēnjù (1-4)."
+    ],
+    "f": [
+     "是根据一本小说拍的",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "她唱歌唱得非常好听。",
+    "e": [
+     "Có tân ngữ 歌 thì lặp động từ: 唱歌 + 唱得 + 非常好听. 好听 = nghe hay.",
+     "With the object 歌, repeat the verb: 唱歌 + 唱得 + 非常好听. 好听 = pleasant to hear."
+    ],
+    "f": [
+     "唱歌唱得非常好听",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这本小说我只看了一半，因为故事太长了，不过我朋友说结尾特别感人，所以我打算这个周末看完。",
+    "q": [
+     "Vì sao người nói định đọc hết cuốn tiểu thuyết?",
+     "Why does the speaker plan to finish the novel?"
+    ],
+    "o": [
+     [
+      "Bạn nói phần kết rất cảm động.",
+      "A friend said the ending is very moving."
+     ],
+     [
+      "Truyện rất ngắn.",
+      "The story is very short."
+     ],
+     [
+      "Sắp có phim chiếu.",
+      "A film version is coming out."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "不过我朋友说结尾特别感人，所以… Truyện thì 太长了 (quá dài), không ngắn; không nhắc đến phim.",
+     "不过我朋友说结尾特别感人，所以… The story is 太长了 (too long); no film is mentioned."
+    ],
+    "f": [
+     "结尾特别感人",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你最喜欢哪种电影？我最喜欢喜剧片，因为工作很累的时候，看喜剧能让我完全放松下来。",
+    "e": [
+     "Câu hỏi: 你最喜欢哪种电影？– Gợi ý trả lời mẫu. 喜剧 xǐjù (ü sau j), 让我放松 – cấu trúc 让 + người + trạng thái.",
+     "Question: 你最喜欢哪种电影？– A model answer. 喜剧 xǐjù (ü after j), 让我放松 – 让 + person + state."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你能推荐一本好书吗？我推荐《小王子》，故事很简单，但是让人想了很多，大人小孩都适合看。",
+    "e": [
+     "Câu hỏi: 你能推荐一本好书吗？– Gợi ý trả lời mẫu. 推荐 tuījiàn (1-4), 适合 shìhé, 《小王子》 = Hoàng tử bé.",
+     "Question: 你能推荐一本好书吗？– A model answer. 推荐 tuījiàn (1-4), 适合 shìhé, 《小王子》 = The Little Prince."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Bộ phim này hay thì hay thật, nhưng hơi dài, xem đến giữa chừng tôi suýt ngủ gật.",
+    "a": [
+     "这部电影好看是好看，就是有点儿长，看到一半我差点儿睡着了。",
+     "这部电影好看是好看，不过有点儿长，看到一半我差点儿睡着了。",
+     "这部电影好看倒是好看，就是有点儿长，看到一半我差点儿就睡着了。"
+    ],
+    "e": [
+     "A是A，就是/不过… = …thì… thật, chỉ có điều… (công nhận rồi phàn nàn nhẹ). 差点儿睡着了 = suýt ngủ gật.",
+     "A是A，就是/不过… = it is A all right, but… (concede, then complain mildly). 差点儿睡着了 = nearly fell asleep."
+    ],
+    "f": [
+     "好看是好看，就是有点儿长",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 连…都…",
+     "Rewrite using 连…都…"
+    ],
+    "s": "这部电影太感人了，我爸爸平时从来不哭，这次也哭了。",
+    "a": [
+     "这部电影太感人了，连我爸爸都哭了。",
+     "这部电影太感人了，连平时从来不哭的爸爸都哭了。",
+     "这部电影太感人了，连我爸爸也哭了。"
+    ],
+    "e": [
+     "连 + điều bất ngờ nhất + 都/也 = ngay cả… cũng…. Dùng để nhấn mạnh mức độ (bố vốn không bao giờ khóc).",
+     "连 + the most surprising case + 都/也 = even…. It stresses degree (Dad never cries)."
+    ],
+    "f": [
+     "连我爸爸都哭了",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这首歌我听过好几遍了，越听越喜欢得很，现在每天都要听一听。",
+    "a": [
+     "这首歌我听过好几遍了，越听越喜欢，现在每天都要听一听。"
+    ],
+    "e": [
+     "越 A 越 B đã diễn tả mức độ tăng, không thêm 得很 sau B. 好几遍 = nhiều lần.",
+     "越 A 越 B already shows increasing degree; don't add 得很. 好几遍 = many times."
+    ],
+    "f": [
+     "越听越喜欢",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "说实话，我对恐怖片一点儿也不感___，我们还是换一部喜剧看吧。",
+    "a": [
+     "冒"
+    ],
+    "e": [
+     "不感冒 (khẩu ngữ) = chẳng hứng thú gì. 说实话 = nói thật; 还是…吧 = hay là… đi (gợi ý mềm).",
+     "不感冒 (slang) = not into it at all. 说实话 = to be honest; 还是…吧 = let's… instead."
+    ],
+    "f": [
+     "不感冒",
+     "HSK5"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "周末我和室友去电影院看了一部新电影，是根据一本有名的小说拍的。故事讲的是一个小女孩为了学音乐，一个人从农村来到大城市的经历。女演员虽然很年轻，但是演得非常好，特别是最后唱歌的那一段，让很多观众都哭了。导演把小说里的很多细节都拍出来了，不过结尾跟小说不一样，我觉得有点儿可惜。看完电影，我去书店买了那本小说。如果你也喜欢感人的故事，我推荐你去看看。",
+   "tr": "Cuối tuần tôi và bạn cùng phòng đi rạp xem một bộ phim mới, được quay dựa theo một cuốn tiểu thuyết nổi tiếng. Câu chuyện kể về trải nghiệm của một cô bé vì muốn học nhạc mà một mình từ nông thôn lên thành phố lớn. Nữ diễn viên tuy rất trẻ nhưng diễn cực kỳ tốt, đặc biệt là đoạn hát cuối cùng làm rất nhiều khán giả bật khóc. Đạo diễn đã đưa được nhiều chi tiết trong tiểu thuyết lên màn ảnh, nhưng phần kết khác với tiểu thuyết, tôi thấy hơi tiếc. Xem phim xong, tôi ra hiệu sách mua cuốn tiểu thuyết đó. Nếu bạn cũng thích những câu chuyện cảm động, tôi khuyên bạn nên đi xem."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Bộ phim được quay dựa theo gì?",
+     "What is the film based on?"
+    ],
+    "o": [
+     [
+      "Một cuốn tiểu thuyết nổi tiếng",
+      "A famous novel"
+     ],
+     [
+      "Chuyện đời thật của nữ diễn viên",
+      "The actress's real life"
+     ],
+     [
+      "Một bài hát nổi tiếng",
+      "A famous song"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "是根据一本有名的小说拍的. Cô bé học nhạc là nhân vật trong truyện, không phải đời thật của diễn viên.",
+     "是根据一本有名的小说拍的. The girl learning music is a character, not the actress's life."
+    ],
+    "f": [
+     "根据一本有名的小说拍的",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Điều gì khiến nhiều khán giả bật khóc?",
+     "What made many viewers cry?"
+    ],
+    "o": [
+     [
+      "Đoạn hát cuối phim",
+      "The singing scene at the end"
+     ],
+     [
+      "Phần kết khác tiểu thuyết",
+      "The ending being different from the novel"
+     ],
+     [
+      "Cô bé rời nông thôn",
+      "The girl leaving the countryside"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "特别是最后唱歌的那一段，让很多观众都哭了. Phần kết khác tiểu thuyết chỉ làm người viết thấy 可惜 (tiếc).",
+     "特别是最后唱歌的那一段，让很多观众都哭了. The different ending only made the writer feel 可惜 (a pity)."
+    ],
+    "f": [
+     "让很多观众都哭了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết thấy tiếc điều gì?",
+     "What did the writer find a pity?"
+    ],
+    "o": [
+     [
+      "Phần kết không giống tiểu thuyết.",
+      "The ending differs from the novel."
+     ],
+     [
+      "Diễn viên còn quá trẻ.",
+      "The actress is too young."
+     ],
+     [
+      "Hiệu sách hết tiểu thuyết.",
+      "The bookshop had sold out of the novel."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "不过结尾跟小说不一样，我觉得有点儿可惜. Người viết vẫn mua được cuốn tiểu thuyết (买了那本小说).",
+     "不过结尾跟小说不一样，我觉得有点儿可惜. The writer did buy the novel (买了那本小说)."
+    ],
+    "f": [
+     "结尾跟小说不一样",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这个歌手唱歌唱___特别好听，我每天上班的路上都听他的歌。",
+    "a": [
+     "得"
+    ],
+    "e": [
+     "Bổ ngữ trình độ: động từ + 得 + tính từ (唱得特别好听). Đừng nhầm với 的 (sở hữu) hay 地 (trước động từ).",
+     "Degree complement: verb + 得 + adjective. Don't confuse with 的 (possessive) or 地 (before verbs)."
+    ],
+    "f": [
+     "唱得特别好听",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这部电影的结尾太感人了，___电影院里很多观众都哭了。",
+    "o": [
+     "让",
+     "被",
+     "把"
+    ],
+    "a": 0,
+    "e": [
+     "让 + người + phản ứng = khiến ai…. 被 là bị động, 把 cần động từ xử lý phía sau – đều không hợp.",
+     "让 + person + reaction = makes someone…. 被 is passive and 把 needs a handling verb."
+    ],
+    "f": [
+     "让",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我___中国古代的历史小说特别感兴趣，最近正在看《三国演义》。",
+    "o": [
+     "对",
+     "给",
+     "跟"
+    ],
+    "a": 0,
+    "e": [
+     "Cấu trúc cố định: 对 + lĩnh vực + 感兴趣. Không nói ~~给…感兴趣~~ hay ~~跟…感兴趣~~. 《三国演义》 = Tam quốc diễn nghĩa.",
+     "Fixed pattern: 对 + field + 感兴趣. Not ~~给…~~ or ~~跟…~~. 《三国演义》 = Romance of the Three Kingdoms."
+    ],
+    "f": [
+     "对中国古代的历史小说特别感兴趣",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "那个女演员演很好，可是电影的故事有点儿无聊，我看了一半就想睡觉。",
+    "a": [
+     "那个女演员演得很好，可是电影的故事有点儿无聊，我看了一半就想睡觉。"
+    ],
+    "e": [
+     "Đánh giá cách diễn cần 得: 演得很好. Không có 得, câu thiếu bổ ngữ trình độ.",
+     "Judging a performance needs 得: 演得很好."
+    ],
+    "f": [
+     "演得很好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他说中文说得很流利，可是他唱中文歌得不太好，大家都笑了。",
+    "a": [
+     "他说中文说得很流利，可是他唱中文歌唱得不太好，大家都笑了。",
+     "他说中文说得很流利，可是他中文歌唱得不太好，大家都笑了。"
+    ],
+    "e": [
+     "Có tân ngữ (中文歌) thì 得 phải đi sau động từ lặp lại: 唱中文歌唱得…, hoặc 中文歌唱得…. 得 không gắn sau danh từ.",
+     "With an object, 得 follows the repeated verb: 唱中文歌唱得…, or 中文歌唱得…. 得 never follows a noun."
+    ],
+    "f": [
+     "唱中文歌唱得不太好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bộ phim này được quay dựa theo một cuốn tiểu thuyết rất nổi tiếng của Trung Quốc.",
+    "a": [
+     "这部电影是根据一本很有名的中国小说拍的。",
+     "这部电影是根据中国一本很有名的小说拍的。",
+     "这部电影是根据一部很有名的中国小说拍的。"
+    ],
+    "e": [
+     "Được quay dựa theo = 是根据…拍的. Lượng từ: phim dùng 部, sách dùng 本 (tiểu thuyết dài cũng có thể dùng 部).",
+     "Based on = 是根据…拍的. Measure words: 部 for films, 本 for books (部 also for long novels)."
+    ],
+    "f": [
+     "是根据…拍的",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn có thể giới thiệu cho tôi vài cuốn sách tiếng Trung vừa dễ đọc vừa thú vị không?",
+    "a": [
+     "你能给我推荐几本又容易看又有意思的中文书吗？",
+     "你可以给我推荐几本又容易看又有意思的中文书吗？",
+     "你能给我推荐几本又好懂又有意思的中文书吗？",
+     "你能不能给我推荐几本又容易看又有意思的中文书？"
+    ],
+    "e": [
+     "Giới thiệu cho ai = 给 + người + 推荐; vừa… vừa… = 又…又…. Định ngữ dài đặt trước 的 + 中文书.",
+     "Recommend to someone = 给 + person + 推荐; both… and… = 又…又…. The long modifier goes before 的 + 中文书."
+    ],
+    "f": [
+     "给我推荐几本",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với chủ ngữ 这首老歌 và cấu trúc 让",
+     "Rewrite with 这首老歌 as subject and 让"
+    ],
+    "s": "听了这首老歌以后，我特别想念在越南的爸爸妈妈。",
+    "a": [
+     "这首老歌让我特别想念在越南的爸爸妈妈。",
+     "这首老歌让我特别想在越南的爸爸妈妈。"
+    ],
+    "e": [
+     "Vật/sự việc + 让 + người + cảm xúc. 首 là lượng từ của bài hát; 想念 = nhớ (người, nơi chốn).",
+     "Thing + 让 + person + feeling. 首 is the measure word for songs; 想念 = miss."
+    ],
+    "f": [
+     "这首老歌让我特别想念",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "这部|电影|的|音乐|让人|很感动|，我|已经|看了|三遍",
+    "m": [
+     "Âm nhạc của bộ phim này khiến người ta rất xúc động, tôi đã xem ba lần rồi.",
+     "The music in this film is very moving; I've already watched it three times."
+    ],
+    "e": [
+     "让人 + cảm xúc = khiến người ta…. Số lần (三遍) đứng sau động từ + 了: 看了三遍.",
+     "让人 + feeling = makes one…. The count (三遍) follows verb + 了: 看了三遍."
+    ],
+    "f": [
+     "让人很感动",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这本小说的结___太突然了，我看完以后一直在想主人公后来怎么样了。",
+    "a": [
+     "尾"
+    ],
+    "e": [
+     "结尾 jiéwěi = phần kết. 突然 = đột ngột; 主人公 = nhân vật chính.",
+     "结尾 jiéwěi = ending. 突然 = sudden; 主人公 = protagonist."
+    ],
+    "f": [
+     "结尾",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết bài review khoảng 120 chữ về một bộ phim hoặc cuốn sách: nội dung, diễn viên/tác giả, điểm hay, điểm chưa hay, có nên xem không.",
+     "Write a review of about 120 characters of a film or book: plot, actors/author, strengths, weaknesses, recommendation."
+    ],
+    "m": "上个星期我看了电影《你好，李焕英》。故事讲的是一个女孩回到过去，认识了年轻时候的妈妈。演员们演得都很好，特别是演妈妈的那个女演员，又好笑又让人感动。电影前半部分很有意思，后半部分让我哭了好几次。不过有的地方节奏有点儿慢。总的来说，这是一部关于家人和爱的好电影，我非常推荐大家去看看。",
+    "e": [
+     "Cần có: • tên phim/sách + nội dung (讲的是…) • 1 câu V得 + tính từ • 1 câu 让 + người + cảm xúc • lời khuyên (推荐/值得看).",
+     "Must include: • title + plot (讲的是…) • one V得 + adjective • one 让 + person + feeling • a recommendation (推荐/值得看)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h3-r",
+  "t": [
+   "Bài đọc: Cách tôi học tiếng Hán",
+   "Reading: How I learn Chinese"
+  ],
+  "rd": {
+   "tx": "我学汉语已经一年了。刚开始的时候，我觉得汉字太难了，常常写错。后来老师告诉我，如果每天写十个字，一个月就能认识三百个字。我就按照这个方法做了。现在我不但能看懂简单的文章，而且能用汉语跟中国朋友聊天。虽然我的发音还不太好，但是我会继续努力。",
+   "py": "Wǒ xué Hànyǔ yǐjīng yì nián le. Gāng kāishǐ de shíhou, wǒ juéde Hànzì tài nán le, chángcháng xiě cuò. Hòulái lǎoshī gàosu wǒ, rúguǒ měitiān xiě shí ge zì, yí ge yuè jiù néng rènshi sānbǎi ge zì. Wǒ jiù ànzhào zhège fāngfǎ zuò le. Xiànzài wǒ búdàn néng kàndǒng jiǎndān de wénzhāng, érqiě néng yòng Hànyǔ gēn Zhōngguó péngyou liáotiān. Suīrán wǒ de fāyīn hái bú tài hǎo, dànshì wǒ huì jìxù nǔlì.",
+   "tr": "Tôi học tiếng Hán đã được một năm. Lúc mới bắt đầu, tôi thấy chữ Hán khó quá, thường viết sai. Sau đó thầy giáo nói với tôi: nếu mỗi ngày viết mười chữ thì một tháng sẽ biết ba trăm chữ. Thế là tôi làm theo cách đó. Bây giờ tôi không những đọc hiểu được những bài văn đơn giản mà còn dùng tiếng Hán trò chuyện với bạn Trung Quốc. Tuy phát âm của tôi vẫn chưa tốt lắm, nhưng tôi sẽ tiếp tục cố gắng."
+  },
+  "vo": [
+   [
+    "方法",
+    "fāngfǎ",
+    "phương pháp",
+    "method"
+   ],
+   [
+    "觉得",
+    "juéde",
+    "cảm thấy",
+    "to feel, think"
+   ],
+   [
+    "告诉",
+    "gàosu",
+    "nói cho biết",
+    "to tell"
+   ],
+   [
+    "文章",
+    "wénzhāng",
+    "bài văn",
+    "article"
+   ],
+   [
+    "聊天",
+    "liáotiān",
+    "trò chuyện",
+    "to chat"
+   ],
+   [
+    "发音",
+    "fāyīn",
+    "phát âm",
+    "pronunciation"
+   ],
+   [
+    "继续",
+    "jìxù",
+    "tiếp tục",
+    "to continue"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Người viết đã học tiếng Hán bao lâu?",
+     "How long has the writer studied Chinese?"
+    ],
+    [
+     [
+      "một năm",
+      "one year"
+     ],
+     [
+      "một tháng",
+      "one month"
+     ],
+     [
+      "ba năm",
+      "three years"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Lúc đầu gặp khó khăn gì?",
+     "What was hard at first?"
+    ],
+    [
+     [
+      "chữ Hán khó, hay viết sai",
+      "characters were hard; often wrote them wrong"
+     ],
+     [
+      "không có thầy",
+      "no teacher"
+     ],
+     [
+      "không có thời gian",
+      "no time"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Phương pháp thầy giáo đưa ra?",
+     "The teacher's method?"
+    ],
+    [
+     [
+      "mỗi ngày viết 10 chữ",
+      "write 10 characters a day"
+     ],
+     [
+      "xem phim",
+      "watch films"
+     ],
+     [
+      "học thuộc ngữ pháp",
+      "memorise grammar"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Một tháng sẽ biết bao nhiêu chữ?",
+     "How many characters in a month?"
+    ],
+    [
+     "三十个",
+     "三百个",
+     "一千个"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "如果每天写十个字，一个月___能认识三百个字。",
+    [
+     "就",
+     "才",
+     "都"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___我的发音还不太好，但是我会继续努力。",
+    [
+     "虽然",
+     "因为",
+     "如果"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我学汉语已经一年多了，刚开始的时候常常把汉字写错，现在已经能看懂简单的文章了。",
+    "q": [
+     "Bây giờ người nói làm được gì?",
+     "What can the speaker do now?"
+    ],
+    "o": [
+     [
+      "đọc hiểu bài văn đơn giản",
+      "understand simple articles"
+     ],
+     [
+      "viết chữ không bao giờ sai",
+      "write characters without mistakes"
+     ],
+     [
+      "phát âm như người bản xứ",
+      "pronounce like a native"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“现在已经能看懂简单的文章了” – bổ ngữ kết quả 看懂. Viết sai là chuyện lúc mới học.",
+     "“现在已经能看懂简单的文章了” – result complement 看懂. Writing mistakes were at the start."
+    ],
+    "f": [
+     "能看懂简单的文章",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "老师告诉我，如果每天坚持写十个汉字，一个月就能认识三百个字。",
+    "e": [
+     "如果…，(chủ ngữ) 就…: 就 đứng trước động từ năng nguyện 能.",
+     "如果…，(subject) 就…: 就 sits before the modal 能."
+    ],
+    "f": [
+     "一个月就能认识三百个字",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "虽然我的发音还不太好，但是我会继续努力，每天跟中国朋友用汉语聊天。"
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "我按照老师说的方法练习了三个月，现在不但能看懂报纸上的短文章，___能写简单的日记。",
+    "o": [
+     "而且",
+     "但是",
+     "所以"
+    ],
+    "a": 0,
+    "e": [
+     "不但 đi với 而且 (không những … mà còn). 但是 chỉ sự tương phản, 所以 chỉ kết quả.",
+     "不但 pairs with 而且 (not only … but also). 但是 shows contrast, 所以 a result."
+    ],
+    "f": [
+     "而且",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "刚开始学汉语的时候，我觉得汉字太难了，常常把“买”和“卖”这两个字写___。",
+    "a": [
+     "错",
+     "错了"
+    ],
+    "e": [
+     "写错 = viết sai, giống trong bài đọc “常常写错”. Câu 把 cần bổ ngữ kết quả.",
+     "写错 = write wrongly, as in the passage “常常写错”. A 把 sentence needs a result complement."
+    ],
+    "f": [
+     "写错",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "虽然我的发音还不太好，所以我会继续努力，每天早上听半个小时录音。",
+    "a": [
+     "虽然我的发音还不太好，但是我会继续努力，每天早上听半个小时录音。",
+     "虽然我的发音还不太好，可是我会继续努力，每天早上听半个小时录音。",
+     "虽然我的发音还不太好，但我会继续努力，每天早上听半个小时录音。"
+    ],
+    "e": [
+     "虽然 phải đi với 但是 / 可是, không đi với 所以 (所以 đi với 因为).",
+     "虽然 pairs with 但是 / 可是, not 所以 (which pairs with 因为)."
+    ],
+    "f": [
+     "但是",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 不但…而且…",
+     "Rewrite with 不但…而且…"
+    ],
+    "s": "现在我能看懂简单的文章，也能用汉语跟中国朋友聊天。",
+    "a": [
+     "现在我不但能看懂简单的文章，而且能用汉语跟中国朋友聊天。",
+     "现在我不但能看懂简单的文章，而且还能用汉语跟中国朋友聊天。",
+     "现在我不但能看懂简单的文章，而且也能用汉语跟中国朋友聊天。",
+     "我现在不但能看懂简单的文章，而且能用汉语跟中国朋友聊天。"
+    ],
+    "e": [
+     "Cùng một chủ ngữ 我 nên 不但 đứng SAU chủ ngữ; 而且 thay cho 也 ở vế sau.",
+     "Same subject 我, so 不但 follows the subject; 而且 replaces 也 in the second clause."
+    ],
+    "f": [
+     "不但能看懂简单的文章",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Nếu ngày nào bạn cũng làm theo phương pháp này thì một tháng sau bạn sẽ thấy mình tiến bộ rất nhiều.",
+    "a": [
+     "如果你每天按照这个方法做，一个月以后你就会发现自己进步了很多。",
+     "如果你每天都按照这个方法做，一个月以后你就会发现自己进步了很多。",
+     "如果你每天按照这个方法练习，一个月以后就会发现自己进步了很多。",
+     "如果你每天按照这个方法做，一个月后你就会发现自己进步很大。"
+    ],
+    "e": [
+     "“làm theo phương pháp” = 按照…方法 (từ trong bài đọc). Cặp 如果…就…, 就 đứng trước 会.",
+     "“follow this method” = 按照…方法 (from the passage). Use 如果…就…, with 就 before 会."
+    ],
+    "f": [
+     "按照这个方法",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我|每天|按照|老师|教|的|方法|写|十个|汉字",
+    "m": [
+     "Mỗi ngày tôi viết mười chữ Hán theo phương pháp thầy dạy.",
+     "Every day I write ten characters following the method my teacher taught."
+    ],
+    "e": [
+     "按照 + danh từ (方法) làm trạng ngữ, đứng trước động từ chính 写.",
+     "按照 + noun (方法) is an adverbial placed before the main verb 写."
+    ],
+    "f": [
+     "按照老师教的方法",
+     "HSK3"
+    ]
+   }
+  ]
+ }
+]

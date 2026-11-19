@@ -1,0 +1,2846 @@
+[
+ {
+  "id": "c1-1",
+  "t": [
+   "Subjuntivo trong mệnh đề trạng ngữ & quan hệ",
+   "Subjunctive in adverbial & relative clauses"
+  ],
+  "th": [
+   [
+    "**cuando / en cuanto / hasta que** + **subjuntivo** khi hành động ở tương lai: Cuando **llegues**, llámame. Thói quen hoặc quá khứ dùng indicativo: Cuando **llego**, como.",
+    "**cuando / en cuanto / hasta que** + **subjunctive** for future actions: Cuando **llegues**, llámame. Habits or past use the indicative: Cuando **llego**, como."
+   ],
+   [
+    "**aunque** + indicativo (sự thật đã biết: Aunque **llueve**, salgo) / + subjuntivo (giả định hoặc không quan trọng: Aunque **llueva**, saldré).",
+    "**aunque** + indicative (known fact: Aunque **llueve**, salgo) / + subjunctive (hypothetical or irrelevant: Aunque **llueva**, saldré)."
+   ],
+   [
+    "Mệnh đề quan hệ: tiền ngữ **chưa xác định / không tồn tại** → subjuntivo: Busco un piso que **tenga** terraza. No hay nadie que **sepa** la respuesta. Tiền ngữ đã xác định → indicativo: Tengo un piso que **tiene** terraza.",
+    "Relative clauses: **unknown / non-existent** antecedent → subjunctive: Busco un piso que **tenga** terraza. No hay nadie que **sepa** la respuesta. Known antecedent → indicative: Tengo un piso que **tiene** terraza."
+   ],
+   [
+    "Luôn + subjuntivo: **para que, antes de que, sin que, a menos que, con tal de que**.",
+    "Always + subjunctive: **para que, antes de que, sin que, a menos que, con tal de que**."
+   ]
+  ],
+  "vo": [
+   [
+    "en cuanto",
+    "en CUAN-to",
+    "ngay khi",
+    "as soon as"
+   ],
+   [
+    "hasta que",
+    "AS-ta que",
+    "cho đến khi",
+    "until"
+   ],
+   [
+    "aunque",
+    "AUN-que",
+    "mặc dù, dù cho",
+    "although, even if"
+   ],
+   [
+    "antes de que",
+    "AN-tes de que",
+    "trước khi",
+    "before"
+   ],
+   [
+    "sin que",
+    "SIN que",
+    "mà không (để ai)",
+    "without"
+   ],
+   [
+    "a menos que",
+    "a ME-nos que",
+    "trừ khi",
+    "unless"
+   ],
+   [
+    "con tal de que",
+    "con TAL de que",
+    "miễn là",
+    "provided that"
+   ],
+   [
+    "la terraza",
+    "la te-RRA-za",
+    "sân thượng, ban công",
+    "terrace"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Cuando ___ a casa, te llamaré.",
+    [
+     "llego",
+     "llegue",
+     "llegaré"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Busco a alguien que ___ chino.",
+    [
+     "habla",
+     "hable"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Tengo un amigo que ___ chino.",
+    [
+     "habla",
+     "hable"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Aunque ___ cansado mañana, terminaré el trabajo.",
+    [
+     "esté",
+     "estoy"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Salió sin que nadie lo ___ .",
+    [
+     "vio",
+     "viera",
+     "ve"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "No hay nadie aquí que ___ la respuesta.",
+    [
+     "sabe",
+     "sepa"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Te lo explicaré antes de que te vayas",
+    [
+     "Tôi sẽ giải thích trước khi bạn đi.",
+     "I'll explain it to you before you leave."
+    ]
+   ],
+   [
+    "dict",
+    "En cuanto termine, te enviaré el informe."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "En cuanto terminemos de pintar el salón, os invitaremos a cenar, aunque probablemente la casa todavía huela un poco a pintura.",
+    "q": [
+     "Khi nào họ sẽ mời mọi người ăn tối?",
+     "When will they invite everyone to dinner?"
+    ],
+    "o": [
+     [
+      "Ngay khi sơn xong phòng khách",
+      "As soon as they finish painting the living room"
+     ],
+     [
+      "Khi mùi sơn đã hết hẳn",
+      "When the paint smell has completely gone"
+     ],
+     [
+      "Trước khi bắt đầu sơn",
+      "Before they start painting"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“En cuanto terminemos” – hành động tương lai nên “en cuanto” + subjuntivo. “Aunque… huela” cho thấy mùi sơn có thể vẫn còn.",
+     "“En cuanto terminemos” – a future action, so “en cuanto” + subjunctive. “Aunque… huela” shows the smell may still be there."
+    ],
+    "f": [
+     "En cuanto terminemos",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Buscamos a una persona que tenga experiencia con niños pequeños y que pueda trabajar algunos fines de semana sin previo aviso.",
+    "e": [
+     "Tiền ngữ chưa xác định (“una persona” bất kỳ đáp ứng yêu cầu) → subjuntivo: tenga, pueda.",
+     "Unknown antecedent (any person meeting the requirements) → subjunctive: tenga, pueda."
+    ],
+    "f": [
+     "que tenga experiencia",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Aunque llueva a cántaros el domingo, saldremos a correr por el parque, porque llevamos meses preparando esta carrera solidaria.",
+    "e": [
+     "“Aunque llueva” = dù trời có mưa (giả định) → subjuntivo. “Llover a cántaros” = mưa như trút.",
+     "“Aunque llueva” = even if it rains (hypothetical) → subjunctive. “Llover a cántaros” = to pour down."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hola a todos: me mudo a Bilbao en septiembre por motivos de trabajo y busco un piso que esté cerca del centro, que tenga mucha luz y, a ser posible, una pequeña terraza donde pueda leer por las tardes. No necesito que sea muy grande, pero sí que admitan mascotas, porque viajo con mi perra, que es tranquila y apenas ladra. He visto varios anuncios en internet, aunque ninguno me ha convencido del todo: el piso que más me gustaba, uno que tenía vistas a la ría, se alquiló antes de que pudiera visitarlo. Por eso os escribo. Si alguien conoce a un propietario que busque inquilinos responsables, le agradecería que me avisara en cuanto se entere. Puedo firmar un contrato de larga duración, con tal de que el precio sea razonable, y estoy dispuesta a pagar dos meses de fianza. En cuanto encuentre algo, os lo contaré por aquí. ¡Gracias de antemano!",
+   "tr": "Chào mọi người: tháng Chín tôi chuyển đến Bilbao vì công việc và đang tìm một căn hộ gần trung tâm, nhiều ánh sáng và, nếu được, có một sân thượng nhỏ để tôi đọc sách vào buổi chiều. Tôi không cần căn hộ quá rộng, nhưng chủ nhà phải cho nuôi thú cưng, vì tôi đi cùng chú chó cái của mình, nó rất hiền và hầu như không sủa. Tôi đã xem nhiều tin đăng trên mạng, nhưng chưa căn nào làm tôi hoàn toàn hài lòng: căn tôi thích nhất, một căn nhìn ra sông, đã được cho thuê trước khi tôi kịp đến xem. Vì vậy tôi viết bài này. Nếu ai quen một chủ nhà đang tìm người thuê có trách nhiệm, tôi sẽ rất biết ơn nếu bạn báo cho tôi ngay khi biết tin. Tôi có thể ký hợp đồng dài hạn, miễn là giá cả hợp lý, và sẵn sàng đặt cọc hai tháng. Ngay khi tìm được, tôi sẽ kể với mọi người ở đây. Cảm ơn trước nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Chuyện gì đã xảy ra với căn hộ nhìn ra sông?",
+     "What happened to the flat with river views?"
+    ],
+    "o": [
+     [
+      "Nó được cho thuê trước khi cô ấy kịp đến xem",
+      "It was rented out before she could see it"
+     ],
+     [
+      "Nó quá đắt",
+      "It was too expensive"
+     ],
+     [
+      "Chủ nhà không cho nuôi chó",
+      "The owner didn't allow dogs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Se alquiló antes de que pudiera visitarlo” – “antes de que” luôn + subjuntivo; vì câu ở quá khứ nên dùng imperfecto (pudiera).",
+     "“Se alquiló antes de que pudiera visitarlo” – “antes de que” always takes the subjunctive; past context → imperfect (pudiera)."
+    ],
+    "f": [
+     "se alquiló antes de que pudiera visitarlo",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cô ấy sẵn sàng ký hợp đồng dài hạn với điều kiện gì?",
+     "On what condition is she willing to sign a long-term contract?"
+    ],
+    "o": [
+     [
+      "Miễn là giá cả hợp lý",
+      "Provided that the price is reasonable"
+     ],
+     [
+      "Miễn là có sân thượng",
+      "Provided that there is a terrace"
+     ],
+     [
+      "Miễn là không phải đặt cọc",
+      "Provided that no deposit is required"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Con tal de que el precio sea razonable” – “con tal de que” (miễn là) luôn + subjuntivo. Cô ấy còn sẵn sàng đặt cọc hai tháng.",
+     "“Con tal de que el precio sea razonable” – “con tal de que” (provided that) always takes the subjunctive. She is even ready to pay a two-month deposit."
+    ],
+    "f": [
+     "con tal de que el precio sea razonable",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao trong câu “uno que tenía vistas a la ría” lại dùng indicativo?",
+     "Why is the indicative used in “uno que tenía vistas a la ría”?"
+    ],
+    "o": [
+     [
+      "Vì đó là một căn hộ cụ thể, có thật mà cô ấy đã biết",
+      "Because it is a specific, real flat she knew about"
+     ],
+     [
+      "Vì câu ở thì quá khứ",
+      "Because the sentence is in the past"
+     ],
+     [
+      "Vì sau “que” luôn dùng indicativo",
+      "Because “que” is always followed by the indicative"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Tiền ngữ đã xác định (một căn hộ có thật) → indicativo “tenía”. So sánh với “busco un piso que tenga mucha luz” – căn hộ chưa xác định → subjuntivo.",
+     "Known antecedent (a real flat) → indicative “tenía”. Compare “busco un piso que tenga mucha luz” – unknown flat → subjunctive."
+    ],
+    "f": [
+     "uno que tenía vistas a la ría",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "No pienso firmar el contrato hasta que el abogado ___ todas las cláusulas y me confirme que no hay ninguna trampa en la letra pequeña.",
+    "o": [
+     "revise",
+     "revisa",
+     "revisará"
+    ],
+    "a": 0,
+    "e": [
+     "“Hasta que” + hành động chưa xảy ra → subjuntivo: **revise** (và “confirme”). Bẫy: “revisará” – sau “hasta que/cuando” không dùng tương lai.",
+     "“Hasta que” + an action that hasn't happened → subjunctive: **revise** (and “confirme”). Trap: “revisará” – no future after “hasta que/cuando”."
+    ],
+    "f": [
+     "hasta que el abogado revise",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Mi abuelo siempre se iba de las reuniones familiares sin que nadie se ___ (dar) cuenta, y luego lo encontrábamos dormido en el jardín.",
+    "a": [
+     "diera",
+     "diese"
+    ],
+    "e": [
+     "“Sin que” luôn + subjuntivo; câu ở quá khứ (se iba) → imperfecto de subjuntivo: **diera / diese**. Bẫy: “sin que nadie se daba cuenta”.",
+     "“Sin que” always takes the subjunctive; past context (se iba) → imperfect subjunctive: **diera / diese**. Trap: “sin que nadie se daba cuenta”."
+    ],
+    "f": [
+     "sin que nadie se diera cuenta",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Cuando tendrás un rato libre la semana que viene, llámame y te enseñaré las fotos que hice durante el viaje a Islandia.",
+    "a": [
+     "Cuando tengas un rato libre la semana que viene, llámame y te enseñaré las fotos que hice durante el viaje a Islandia."
+    ],
+    "e": [
+     "“Cuando” + hành động tương lai → **presente de subjuntivo** (tengas), không bao giờ dùng thì tương lai sau “cuando” trong câu trần thuật. Đây là lỗi điển hình do dịch từng chữ.",
+     "“Cuando” + future action → **present subjunctive** (tengas); the future tense never follows temporal “cuando”. A classic word-for-word mistake."
+    ],
+    "f": [
+     "Cuando tengas",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi cần một người nói được cả tiếng Anh lẫn tiếng Trung, nhưng đến giờ vẫn chưa ai gửi hồ sơ đáp ứng được cả hai yêu cầu.",
+    "a": [
+     "Necesitamos a alguien que hable inglés y chino, pero hasta ahora nadie nos ha enviado un currículum que cumpla los dos requisitos.",
+     "Necesitamos a una persona que hable tanto inglés como chino, pero hasta ahora nadie ha enviado un currículum que cumpla ambos requisitos.",
+     "Necesitamos a alguien que sepa hablar inglés y chino, pero de momento nadie nos ha mandado un currículum que cumpla los dos requisitos."
+    ],
+    "e": [
+     "Hai tiền ngữ chưa xác định/không tồn tại → subjuntivo: **que hable**, **que cumpla**. Bẫy: “alguien que habla” (nghĩa là bạn đã biết người đó). Nhớ giới từ “a” trước “alguien”.",
+     "Two unknown/non-existent antecedents → subjunctive: **que hable**, **que cumpla**. Trap: “alguien que habla” (implies you know the person). Remember the personal “a” before “alguien”."
+    ],
+    "f": [
+     "alguien que hable",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “A menos que…”, giữ nguyên nghĩa",
+     "Rewrite the sentence using “A menos que…” keeping the meaning"
+    ],
+    "s": "Si no nos llaman antes del jueves para confirmar la reserva, perderemos la habitación y tendremos que buscar otro hotel.",
+    "a": [
+     "A menos que nos llamen antes del jueves para confirmar la reserva, perderemos la habitación y tendremos que buscar otro hotel.",
+     "Perderemos la habitación y tendremos que buscar otro hotel a menos que nos llamen antes del jueves para confirmar la reserva."
+    ],
+    "e": [
+     "“Si no” = **a menos que** + subjuntivo (llamen). Lưu ý bỏ “no”: “a menos que no nos llamen” sẽ đảo ngược nghĩa.",
+     "“Si no” = **a menos que** + subjunctive (llamen). Drop the “no”: “a menos que no nos llamen” would reverse the meaning."
+    ],
+    "f": [
+     "A menos que nos llamen",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Te dejaré|mi coche|el fin de semana,|con tal de que|me lo devuelvas|con el depósito lleno|y sin|ningún rasguño",
+    "m": [
+     "Tôi sẽ cho bạn mượn xe cuối tuần này, miễn là bạn trả lại với bình xăng đầy và không có vết xước nào.",
+     "I'll lend you my car for the weekend, provided you give it back with a full tank and without a single scratch."
+    ],
+    "e": [
+     "“Con tal de que” (miễn là) + subjuntivo: **devuelvas**. Đại từ “me lo” đứng trước động từ chia.",
+     "“Con tal de que” (provided that) + subjunctive: **devuelvas**. The pronouns “me lo” go before the conjugated verb."
+    ],
+    "f": [
+     "con tal de que me lo devuelvas",
+     "C1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-2",
+  "t": [
+   "Từ nối & văn phong",
+   "Discourse markers & register"
+  ],
+  "th": [
+   [
+    "**Đối lập**: sin embargo, no obstante, en cambio, aun así, por el contrario.",
+    "**Contrast**: sin embargo, no obstante, en cambio, aun así, por el contrario."
+   ],
+   [
+    "**Hệ quả**: por lo tanto, por consiguiente, así que, de ahí que (+ subjuntivo).",
+    "**Consequence**: por lo tanto, por consiguiente, así que, de ahí que (+ subjunctive)."
+   ],
+   [
+    "**Bổ sung / nhấn mạnh**: además, asimismo, es más, cabe destacar que, hay que tener en cuenta que.\n**Giải thích / tóm tắt**: es decir, o sea, en otras palabras, en resumen, en definitiva.",
+    "**Addition / emphasis**: además, asimismo, es más, cabe destacar que, hay que tener en cuenta que.\n**Clarifying / summarising**: es decir, o sea, en otras palabras, en resumen, en definitiva."
+   ],
+   [
+    "**Nhượng bộ**: a pesar de (que), si bien, pese a. Lưu ý: **a pesar de + danh từ / nguyên mẫu / que + mệnh đề**.",
+    "**Concession**: a pesar de (que), si bien, pese a. Note: **a pesar de + noun / infinitive / que + clause**."
+   ]
+  ],
+  "vo": [
+   [
+    "sin embargo",
+    "sin em-BAR-go",
+    "tuy nhiên",
+    "however"
+   ],
+   [
+    "no obstante",
+    "no obs-TAN-te",
+    "dù vậy",
+    "nevertheless"
+   ],
+   [
+    "por lo tanto",
+    "por lo TAN-to",
+    "do đó",
+    "therefore"
+   ],
+   [
+    "además",
+    "a-de-MÁS",
+    "ngoài ra",
+    "moreover"
+   ],
+   [
+    "es decir",
+    "es de-CIR",
+    "nghĩa là",
+    "that is"
+   ],
+   [
+    "en resumen",
+    "en re-SU-men",
+    "tóm lại",
+    "in short"
+   ],
+   [
+    "a pesar de",
+    "a pe-SAR de",
+    "mặc dù",
+    "despite"
+   ],
+   [
+    "asimismo",
+    "a-si-MIS-mo",
+    "đồng thời, cũng vậy",
+    "likewise"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Estudió mucho; ___, no aprobó.",
+    [
+     "por lo tanto",
+     "sin embargo",
+     "además"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Llovía mucho; ___, cancelamos el partido.",
+    [
+     "por consiguiente",
+     "en cambio",
+     "no obstante"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Es caro; ___, es de muy buena calidad.",
+    [
+     "es decir",
+     "no obstante",
+     "por lo tanto"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "___ que estaba enfermo, fue a trabajar.",
+    [
+     "Aunque",
+     "A pesar de",
+     "Sin embargo"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Habla tres idiomas, ___, español, inglés y chino.",
+    [
+     "es decir",
+     "sin embargo",
+     "por lo tanto"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Từ nối nào mang nghĩa “tóm lại”?",
+     "Which marker means “in short”?"
+    ],
+    [
+     "asimismo",
+     "en resumen",
+     "en cambio"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Cabe destacar que los resultados son positivos",
+    [
+     "Cần nhấn mạnh rằng kết quả là tích cực.",
+     "It should be stressed that the results are positive."
+    ]
+   ],
+   [
+    "dict",
+    "No obstante, hay que tener en cuenta los costes."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "El proyecto ha recibido críticas por su elevado coste; no obstante, cabe destacar que ha reducido el consumo energético del edificio a la mitad.",
+    "q": [
+     "Điểm tích cực nào được nhấn mạnh?",
+     "Which positive point is highlighted?"
+    ],
+    "o": [
+     [
+      "Giảm một nửa mức tiêu thụ năng lượng của tòa nhà",
+      "It halved the building's energy consumption"
+     ],
+     [
+      "Chi phí của dự án thấp",
+      "The project was cheap"
+     ],
+     [
+      "Dự án không bị chỉ trích",
+      "The project received no criticism"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“No obstante” mở ra ý đối lập với lời chỉ trích, và “cabe destacar que” nhấn mạnh điểm tích cực: giảm “a la mitad” (một nửa).",
+     "“No obstante” introduces a contrast with the criticism, and “cabe destacar que” highlights the positive point: reduced “a la mitad” (by half)."
+    ],
+    "f": [
+     "cabe destacar que",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Las ventas aumentaron durante el verano; sin embargo, hay que tener en cuenta que los costes de transporte también se dispararon.",
+    "e": [
+     "“Sin embargo” đứng sau dấu chấm phẩy và trước dấu phẩy. “Hay que tener en cuenta que” = cần lưu ý rằng.",
+     "“Sin embargo” comes after a semicolon and before a comma. “Hay que tener en cuenta que” = it should be borne in mind that."
+    ],
+    "f": [
+     "hay que tener en cuenta que",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "A pesar de que el informe es extenso, en definitiva su conclusión es clara: necesitamos invertir más en la formación del personal.",
+    "e": [
+     "“A pesar de que” + mệnh đề (có “que”); “en definitiva” = tóm lại, rốt cuộc. Hạ giọng nhẹ trước dấu hai chấm.",
+     "“A pesar de que” + clause (with “que”); “en definitiva” = ultimately. Lower your voice slightly before the colon."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Desde hace unos años, el teletrabajo ha dejado de ser una excepción para convertirse en una opción habitual en muchas empresas. Sus ventajas parecen evidentes: se ahorra tiempo en desplazamientos y, además, se reduce la contaminación de las ciudades. Asimismo, numerosos empleados afirman que pueden organizar mejor su jornada y conciliar la vida laboral con la familiar. No obstante, conviene no idealizarlo. Trabajar desde casa exige una disciplina considerable y, en muchos casos, difumina la frontera entre el tiempo de trabajo y el de descanso. Es más, algunos estudios señalan que el aislamiento puede afectar a la motivación y a la creatividad, que a menudo surge de conversaciones informales en el pasillo. De ahí que cada vez más empresas apuesten por un modelo híbrido, es decir, por combinar varios días en casa con otros en la oficina. En definitiva, el teletrabajo no es ni una panacea ni una amenaza: todo depende de cómo se gestione.",
+   "tr": "Từ vài năm nay, làm việc từ xa không còn là ngoại lệ mà đã trở thành một lựa chọn quen thuộc ở nhiều công ty. Ưu điểm của nó có vẻ rõ ràng: tiết kiệm thời gian đi lại và, ngoài ra, giảm ô nhiễm ở các thành phố. Đồng thời, nhiều nhân viên khẳng định họ có thể sắp xếp ngày làm việc tốt hơn và cân bằng công việc với gia đình. Tuy nhiên, không nên lý tưởng hóa nó. Làm việc ở nhà đòi hỏi kỷ luật cao và, trong nhiều trường hợp, làm mờ ranh giới giữa thời gian làm việc và thời gian nghỉ ngơi. Hơn nữa, một số nghiên cứu chỉ ra rằng sự cô lập có thể ảnh hưởng đến động lực và khả năng sáng tạo, vốn thường nảy sinh từ những cuộc trò chuyện tình cờ ngoài hành lang. Vì thế ngày càng nhiều công ty chọn mô hình kết hợp, tức là xen kẽ vài ngày ở nhà với những ngày ở văn phòng. Tóm lại, làm việc từ xa không phải liều thuốc vạn năng cũng không phải mối đe dọa: tất cả phụ thuộc vào cách quản lý."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Theo bài, sự cô lập có thể ảnh hưởng đến điều gì?",
+     "According to the text, what can isolation affect?"
+    ],
+    "o": [
+     [
+      "Động lực và khả năng sáng tạo",
+      "Motivation and creativity"
+     ],
+     [
+      "Mức lương của nhân viên",
+      "Employees' salaries"
+     ],
+     [
+      "Ô nhiễm ở thành phố",
+      "Pollution in cities"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Es más, algunos estudios señalan que el aislamiento puede afectar a la motivación y a la creatividad.” “Es más” = hơn thế nữa (thêm một ý mạnh hơn).",
+     "“Es más, algunos estudios señalan que el aislamiento puede afectar a la motivación y a la creatividad.” “Es más” = what's more (adds a stronger point)."
+    ],
+    "f": [
+     "el aislamiento puede afectar a la motivación y a la creatividad",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mô hình kết hợp (modelo híbrido) là gì?",
+     "What is the hybrid model?"
+    ],
+    "o": [
+     [
+      "Xen kẽ vài ngày ở nhà với những ngày ở văn phòng",
+      "Combining some days at home with others at the office"
+     ],
+     [
+      "Làm việc ở nhà toàn thời gian",
+      "Working from home full time"
+     ],
+     [
+      "Làm việc buổi sáng ở nhà, buổi chiều ở quán cà phê",
+      "Mornings at home, afternoons in a café"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Es decir” (tức là) giải thích ngay thuật ngữ: “por combinar varios días en casa con otros en la oficina”.",
+     "“Es decir” (that is) explains the term right away: “por combinar varios días en casa con otros en la oficina”."
+    ],
+    "f": [
+     "es decir, por combinar varios días en casa con otros en la oficina",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Kết luận của tác giả là gì?",
+     "What is the author's conclusion?"
+    ],
+    "o": [
+     [
+      "Mọi thứ phụ thuộc vào cách quản lý",
+      "Everything depends on how it is managed"
+     ],
+     [
+      "Làm việc từ xa là giải pháp hoàn hảo",
+      "Remote work is a perfect solution"
+     ],
+     [
+      "Nên cấm làm việc từ xa",
+      "Remote work should be banned"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“En definitiva” báo hiệu kết luận: “no es ni una panacea ni una amenaza: todo depende de cómo se gestione”.",
+     "“En definitiva” signals the conclusion: “no es ni una panacea ni una amenaza: todo depende de cómo se gestione”."
+    ],
+    "f": [
+     "todo depende de cómo se gestione",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "La empresa ha reducido su plantilla un veinte por ciento en dos años; ___, los beneficios han aumentado de forma considerable durante el mismo periodo.",
+    "o": [
+     "en cambio",
+     "por lo tanto",
+     "es decir"
+    ],
+    "a": 0,
+    "e": [
+     "Hai ý tương phản (giảm nhân sự ↔ lợi nhuận tăng) → **en cambio** (ngược lại). Bẫy: “por lo tanto” chỉ hệ quả – gợi ý rằng cắt giảm khiến lợi nhuận tăng, trong khi câu chỉ muốn đối chiếu; “es decir” dùng để giải thích.",
+     "Two contrasting facts (fewer staff ↔ higher profits) → **en cambio** (on the other hand). Trap: “por lo tanto” states a consequence; “es decir” clarifies."
+    ],
+    "f": [
+     "en cambio",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "La demanda de vivienda ha crecido mucho más rápido que la oferta en los últimos años; de ahí que los precios del alquiler ___ (subir) sin parar.",
+    "a": [
+     "suban",
+     "hayan subido"
+    ],
+    "e": [
+     "“De ahí que” (vì thế mà) luôn + **subjuntivo**: suban / hayan subido. Bẫy: “suben” – lỗi vì nghĩ giống “por eso” (đi với indicativo).",
+     "“De ahí que” (hence) always takes the **subjunctive**: suban / hayan subido. Trap: “suben” – confusing it with “por eso” (indicative)."
+    ],
+    "f": [
+     "de ahí que los precios suban",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "A pesar de que la lluvia, miles de personas se reunieron en la plaza mayor para escuchar el concierto gratuito de fin de año.",
+    "a": [
+     "A pesar de la lluvia, miles de personas se reunieron en la plaza mayor para escuchar el concierto gratuito de fin de año."
+    ],
+    "e": [
+     "“A pesar de” + **danh từ** (la lluvia), còn “a pesar de que” + **mệnh đề** (a pesar de que llovía). Không trộn hai cấu trúc.",
+     "“A pesar de” + **noun** (la lluvia), but “a pesar de que” + **clause** (a pesar de que llovía). Don't mix them."
+    ],
+    "f": [
+     "A pesar de la lluvia",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Kế hoạch này khá tham vọng; dù vậy, nhóm chúng tôi tin rằng có thể hoàn thành nó trước cuối năm, tức là trong vòng chưa đầy sáu tháng.",
+    "a": [
+     "El plan es bastante ambicioso; no obstante, nuestro equipo cree que puede terminarlo antes de fin de año, es decir, en menos de seis meses.",
+     "El plan es bastante ambicioso; sin embargo, nuestro equipo cree que podrá terminarlo antes de final de año, es decir, en menos de seis meses.",
+     "Este plan es bastante ambicioso; aun así, nuestro equipo cree que puede completarlo antes de fin de año, o sea, en menos de seis meses."
+    ],
+    "e": [
+     "“Dù vậy” = **no obstante / sin embargo / aun así** (sau dấu chấm phẩy, trước dấu phẩy); “tức là” = **es decir / o sea**. “Chưa đầy” = menos de (không phải “menos que” trước con số).",
+     "“Even so” = **no obstante / sin embargo / aun así** (after a semicolon, before a comma); “that is” = **es decir / o sea**. “Less than” + number = menos de (not “menos que”)."
+    ],
+    "f": [
+     "no obstante",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “Si bien…” thay cho “Aunque…”",
+     "Rewrite the sentence using “Si bien…” instead of “Aunque…”"
+    ],
+    "s": "Aunque la propuesta tiene algunos puntos débiles, el comité ha decidido aprobarla porque los beneficios superan claramente a los riesgos.",
+    "a": [
+     "Si bien la propuesta tiene algunos puntos débiles, el comité ha decidido aprobarla porque los beneficios superan claramente a los riesgos."
+    ],
+    "e": [
+     "“Si bien” = aunque (văn phong trang trọng), luôn + **indicativo** (tiene). Đừng nhầm với “si” điều kiện.",
+     "“Si bien” = aunque (formal register), always + **indicative** (tiene). Don't confuse it with conditional “si”."
+    ],
+    "f": [
+     "Si bien la propuesta tiene",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "En resumen,|los resultados|del estudio|son positivos,|si bien|hay que tener en cuenta|que la muestra|era|bastante pequeña",
+    "m": [
+     "Tóm lại, kết quả nghiên cứu là tích cực, dù cần lưu ý rằng mẫu khảo sát khá nhỏ.",
+     "In short, the results of the study are positive, although it should be borne in mind that the sample was rather small."
+    ],
+    "e": [
+     "“En resumen” mở đầu phần tóm tắt; “si bien” nối ý nhượng bộ; “hay que tener en cuenta que” đưa ra lưu ý.",
+     "“En resumen” opens a summary; “si bien” adds a concession; “hay que tener en cuenta que” introduces a caveat."
+    ],
+    "f": [
+     "En resumen",
+     "C1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d14",
+  "g": "work",
+  "t": [
+   "Kinh doanh, đàm phán & email",
+   "Business, negotiation & email"
+  ],
+  "th": [
+   [
+    "**Văn phong email trang trọng**: luôn dùng **usted / ustedes** (động từ ngôi 3, đại từ le/les, sở hữu su). Mở đầu: **Estimado Sr. García: / Estimada Sra. Ruiz:** (sau lời chào dùng **dấu hai chấm**, không dùng dấu phẩy). Thân thư: **Adjuntamos nuestro presupuesto.** (Chúng tôi xin gửi kèm báo giá.) **En relación con su consulta…** (Liên quan đến yêu cầu của quý vị…). Kết thư: **Quedo a la espera de su respuesta. Atentamente / Un cordial saludo.**",
+    "**Formal email style**: always use **usted / ustedes** (third-person verbs, le/les, su). Opening: **Estimado Sr. García: / Estimada Sra. Ruiz:** (a **colon** after the greeting, not a comma). Body: **Adjuntamos nuestro presupuesto.** (Please find attached our quotation.) **En relación con su consulta…** (Regarding your enquiry…). Closing: **Quedo a la espera de su respuesta. Atentamente / Un cordial saludo.**"
+   ],
+   [
+    "**Đàm phán mềm mỏng**: dùng **condicional** để đưa đề nghị không áp đặt: **Podríamos** ofrecerle un 5 % de descuento. **Sería** posible adelantar la entrega. Lời đề nghị lịch sự nhất: **le agradecería que + subjuntivo quá khứ**: Le agradecería que nos **enviara** el contrato firmado. (Tôi rất cảm ơn nếu ông/bà gửi cho chúng tôi hợp đồng đã ký.)\nĐiều kiện thực tế dùng si + hiện tại: **Si pide** más de 1.000 unidades, **podemos** ofrecerle un 5 %. Điều kiện giả định dùng si + subjuntivo quá khứ: **Si aumentaran** el pedido, **podríamos** rebajar el precio.",
+    "**Soft negotiation**: use the **conditional** to make offers without pressure: **Podríamos** ofrecerle un 5 % de descuento. **Sería** posible adelantar la entrega. The most polite request: **le agradecería que + past subjunctive**: Le agradecería que nos **enviara** el contrato firmado. (I would be grateful if you sent us the signed contract.)\nReal conditions: si + present: **Si pide** más de 1.000 unidades, **podemos** ofrecerle un 5 %. Hypothetical: si + past subjunctive: **Si aumentaran** el pedido, **podríamos** rebajar el precio."
+   ],
+   [
+    "**Phát âm**: chữ **d** giữa hai nguyên âm đọc nhẹ, gần như âm /ð/ (“th” trong “this”): estima**d**o /estiˈmaðo/, acuer**d**o /aˈkweɾðo/, pedi**d**o /peˈðiðo/. Ở đầu câu hoặc sau n, l thì d đọc rõ: **d**escuento, entrega**d**o → en**d**. Đừng đọc d giữa từ thành “đ” mạnh của tiếng Việt – nghe rất cứng. Số lớn: 1.000 = **mil** (không nói “un mil”), 5 % = **un cinco por ciento**.",
+    "**Pronunciation**: **d** between vowels is soft, close to /ð/ (the “th” in “this”): estimado /estiˈmaðo/, acuerdo /aˈkweɾðo/, pedido /peˈðiðo/. At the start or after n, l it is a firm d: descuento. Don't pronounce a medial d like a strong Vietnamese “đ” – it sounds stiff. Big numbers: 1.000 = **mil** (never “un mil”), 5 % = **un cinco por ciento**."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 đoạn đàm phán mẫu, ghi lại đề nghị ban đầu, điều kiện nhượng bộ và kết quả cuối.\n• Nói (30 phút): đóng vai người mua – người bán thương lượng giá, số lượng, thời hạn giao hàng (3 vòng đề nghị).\n• Đọc (30 phút): đọc 1 hợp đồng mẫu ngắn, tóm tắt 5 điều khoản chính bằng tiếng Việt.\n• Viết (50 phút): viết 3 email trang trọng 120–150 từ: gửi báo giá, đề nghị giảm giá, xác nhận đơn hàng.\n• Từ vựng (20 phút): lập bảng 10 cụm mở đầu và kết thúc email trang trọng.\n• Thử thách (30 phút): quay video 60 giây pitch một sản phẩm: vấn đề, giải pháp, giá, lời kêu gọi hành động; xem lại và quay lần 2.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a sample negotiation; note the opening offer, the concessions and the final result.\n• Speaking (30 min): role-play buyer and seller negotiating price, quantity and delivery time (3 rounds of offers).\n• Reading (30 min): read a short sample contract and summarise 5 key terms in Vietnamese.\n• Writing (50 min): write 3 formal emails of 120–150 words: sending a quote, asking for a discount, confirming an order.\n• Vocabulary (20 min): list 10 formal email openings and closings.\n• Challenge (30 min): film a 60-second product pitch: problem, solution, price, call to action; watch it and film it again."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Estimado Sr. … / Estimada Sra. …",
+    "Kính gửi ông / bà …"
+   ],
+   [
+    "Adjuntamos nuestro presupuesto.",
+    "Chúng tôi xin gửi kèm báo giá."
+   ],
+   [
+    "Si pide más de 1.000 unidades, podemos ofrecerle un 5 % de descuento.",
+    "Nếu đặt trên 1.000 sản phẩm, chúng tôi giảm 5%."
+   ],
+   [
+    "Quedo a la espera de su respuesta.",
+    "Mong sớm nhận được phản hồi của quý công ty."
+   ],
+   [
+    "Podemos entregar en un plazo de dos semanas.",
+    "Chúng tôi có thể giao hàng trong vòng 2 tuần."
+   ],
+   [
+    "¿Este precio incluye impuestos?",
+    "Giá này đã bao gồm thuế chưa?"
+   ],
+   [
+    "Le agradecería que nos enviara el contrato firmado.",
+    "Chúng tôi rất cảm ơn nếu ông/bà gửi hợp đồng đã ký."
+   ]
+  ],
+  "vo": [
+   [
+    "el contrato",
+    "/el konˈtɾato/ el con-TRA-to",
+    "hợp đồng",
+    "contract"
+   ],
+   [
+    "negociar",
+    "/neɣoˈθjaɾ/ ne-go-CIAR",
+    "đàm phán",
+    "negotiate"
+   ],
+   [
+    "el cliente",
+    "/el kliˈente/ el cli-EN-te",
+    "khách hàng",
+    "client"
+   ],
+   [
+    "el socio",
+    "/el ˈsoθjo/ el SO-cio",
+    "đối tác",
+    "partner"
+   ],
+   [
+    "el presupuesto",
+    "/el pɾesuˈpwesto/ el pre-su-PUES-to",
+    "báo giá",
+    "quotation"
+   ],
+   [
+    "el descuento",
+    "/el desˈkwento/ el des-CUEN-to",
+    "chiết khấu",
+    "discount"
+   ],
+   [
+    "las condiciones",
+    "/las kondiˈθjones/ las con-di-CIO-nes",
+    "điều khoản",
+    "terms"
+   ],
+   [
+    "la entrega",
+    "/la enˈtɾeɣa/ la en-TRE-ga",
+    "giao hàng",
+    "delivery"
+   ],
+   [
+    "el beneficio",
+    "/el beneˈfiθjo/ el be-ne-FI-cio",
+    "lợi nhuận",
+    "profit"
+   ],
+   [
+    "el acuerdo",
+    "/el aˈkweɾðo/ el a-CUER-do",
+    "thỏa thuận",
+    "agreement"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Adjuntamos nuestro presupuesto.",
+    "e": [
+     "“Adjuntar” = đính kèm; người Tây Ban Nha nói “adjuntamos” (chúng tôi đính kèm) thay vì “please find attached”. “Presupuesto” = báo giá.",
+     "“Adjuntar” = to attach; Spanish says “adjuntamos” (we attach) rather than “please find attached”. “Presupuesto” = quotation."
+    ],
+    "f": [
+     "Adjuntamos",
+     "B2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Si pide más de 1.000 unidades, podemos ofrecerle un 5 % de descuento.",
+    "e": [
+     "Điều kiện thực tế: si + hiện tại (pide, ngôi usted), mệnh đề chính hiện tại. “Ofrecerle” = đề nghị cho ông/bà (le gắn sau nguyên mẫu).",
+     "Real condition: si + present (pide, usted), present in the main clause. “Ofrecerle” = to offer you (le attached to the infinitive)."
+    ],
+    "f": [
+     "podemos ofrecerle",
+     "B2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Quedo a la espera de su respuesta.",
+    "e": [
+     "Câu kết email trang trọng cố định = I look forward to hearing from you. Không dịch thành “espero oír de usted”.",
+     "A fixed formal closing = I look forward to hearing from you. Don't translate it as “espero oír de usted”."
+    ],
+    "f": [
+     "Quedo a la espera de",
+     "B2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Podríamos adelantar la entrega una semana si ustedes aceptaran pagar la mitad del pedido por adelantado.",
+    "q": [
+     "Bên bán đặt điều kiện gì để giao hàng sớm hơn?",
+     "What condition does the seller set for an earlier delivery?"
+    ],
+    "o": [
+     [
+      "Khách trả trước một nửa đơn hàng",
+      "The client pays half the order in advance"
+     ],
+     [
+      "Khách đặt gấp đôi số lượng",
+      "The client doubles the order"
+     ],
+     [
+      "Khách chấp nhận giá cao hơn",
+      "The client accepts a higher price"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…si ustedes aceptaran pagar la mitad del pedido por adelantado.” “Por adelantado” = trả trước; “la mitad” = một nửa.",
+     "“…si ustedes aceptaran pagar la mitad del pedido por adelantado.” “Por adelantado” = in advance; “la mitad” = half."
+    ],
+    "f": [
+     "pagar la mitad del pedido por adelantado",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Qué hace a un buen negociador? – Un buen negociador escucha más de lo que habla, conoce bien sus límites y siempre busca un acuerdo que beneficie a las dos partes.",
+    "e": [
+     "Câu hỏi: ¿Qué hace a un buen negociador? – Gợi ý trả lời mẫu: liệt kê 3 phẩm chất; “más de lo que habla” = nhiều hơn nói; “que beneficie” dùng subjuntivo vì là thỏa thuận mong muốn.",
+     "Question: ¿Qué hace a un buen negociador? – Model answer: list 3 qualities; “más de lo que habla” = more than he talks; “que beneficie” is subjunctive because it's a desired agreement."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Es mejor trabajar en una gran empresa o montar tu propio negocio? – Depende de la persona: una gran empresa ofrece estabilidad, pero montar tu propio negocio te da más libertad, aunque también más riesgos.",
+    "e": [
+     "Câu hỏi: ¿Es mejor trabajar en una gran empresa o montar tu propio negocio? – Gợi ý trả lời mẫu: “Depende de…” rồi so sánh hai mặt bằng pero/aunque. Tự luyện thêm: Describe un producto que te gustaría vender.",
+     "Question: ¿Es mejor trabajar en una gran empresa o montar tu propio negocio? – Model answer: “Depende de…”, then weigh both sides with pero/aunque. Extra practice: Describe un producto que te gustaría vender."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nói thật là giá đó hơi vượt ngân sách của chúng tôi; liệu anh có thể bớt cho một chút nếu chúng tôi chốt luôn hôm nay không?",
+    "a": [
+     "La verdad es que ese precio se nos va un poco de presupuesto; ¿podría hacernos una pequeña rebaja si cerramos el trato hoy mismo?",
+     "Sinceramente, ese precio se sale un poco de nuestro presupuesto; ¿podría rebajarlo un poco si cerramos el acuerdo hoy?",
+     "La verdad es que ese precio supera un poco nuestro presupuesto; ¿nos podría hacer un pequeño descuento si cerramos el trato hoy?"
+    ],
+    "e": [
+     "“Irse/salirse de presupuesto” = vượt ngân sách (khẩu ngữ); “cerrar el trato” = chốt thỏa thuận. Lời nhờ dùng ¿podría…? cho mềm.",
+     "“Irse/salirse de presupuesto” = to go over budget (colloquial); “cerrar el trato” = to close the deal. Soften with ¿podría…?."
+    ],
+    "f": [
+     "cerrar el trato",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang lời gián tiếp, bắt đầu bằng “El proveedor nos aseguró que…”",
+     "Report it, starting with “El proveedor nos aseguró que…”"
+    ],
+    "s": "El proveedor: “Si nos envían el anticipo mañana, les entregaremos la mercancía el lunes.”",
+    "a": [
+     "El proveedor nos aseguró que si le enviábamos el anticipo al día siguiente, nos entregaría la mercancía el lunes.",
+     "El proveedor nos aseguró que, si le enviábamos el anticipo al día siguiente, nos entregaría la mercancía el lunes."
+    ],
+    "e": [
+     "Lời gián tiếp quá khứ: hiện tại → imperfecto (enviábamos), tương lai → condicional (entregaría), mañana → al día siguiente, nos/les đổi theo người kể.",
+     "Reported speech in the past: present → imperfect (enviábamos), future → conditional (entregaría), mañana → al día siguiente, pronouns shift to the narrator."
+    ],
+    "f": [
+     "nos entregaría la mercancía",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Si hubiéramos sabido que el envío iba a retrasarse, habríamos buscado otro proveedor y no hubiéramos perdido a ese cliente tan importante.",
+    "a": [
+     "Si hubiéramos sabido que el envío iba a retrasarse, habríamos buscado otro proveedor y no habríamos perdido a ese cliente tan importante."
+    ],
+    "e": [
+     "Trong văn viết chuẩn, mệnh đề chính của câu điều kiện loại 3 dùng **habríamos** + phân từ; giữ song song với “habríamos buscado”. (Trong văn nói, “hubiéramos perdido” cũng hay gặp.)",
+     "In careful writing the main clause of a third conditional uses **habríamos** + participle, parallel to “habríamos buscado”. (In speech “hubiéramos perdido” is also heard.)"
+    ],
+    "f": [
+     "no habríamos perdido",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Entiendo su postura, pero si no ponemos las cartas sobre la ___ ahora, nunca llegaremos a un acuerdo justo.",
+    "a": [
+     "mesa"
+    ],
+    "e": [
+     "Thành ngữ “poner las cartas sobre la mesa” = nói thẳng, công khai mọi điều kiện (lật bài ngửa).",
+     "Idiom “poner las cartas sobre la mesa” = to put one's cards on the table."
+    ],
+    "f": [
+     "poner las cartas sobre la mesa",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Estimada Sra. Ruiz: Le agradezco su correo del pasado martes y el interés que muestra por nuestros productos. Tras analizar su propuesta con nuestro equipo comercial, me complace comunicarle que podemos ofrecerle un descuento del cinco por ciento si el pedido supera las mil unidades. Sin embargo, el plazo de entrega que solicitan, de solo diez días, nos resulta difícil de cumplir, ya que nuestra fábrica trabaja a plena capacidad durante esta temporada. Como alternativa, podríamos realizar una primera entrega parcial en dos semanas y completar el resto antes de fin de mes. En cuanto a las condiciones de pago, le agradecería que nos confirmara si aceptan abonar el treinta por ciento por adelantado, como es habitual en nuestros contratos. Adjuntamos el presupuesto actualizado, que ya incluye los impuestos y los gastos de transporte. Estoy convencido de que podremos llegar a un acuerdo beneficioso para ambas partes. Quedo a la espera de su respuesta. Atentamente, Javier Molina, Director Comercial",
+   "tr": "Kính gửi bà Ruiz: Tôi cảm ơn email của bà vào thứ Ba vừa rồi và sự quan tâm của bà đối với sản phẩm của chúng tôi. Sau khi phân tích đề xuất của bà cùng bộ phận kinh doanh, tôi vui mừng thông báo rằng chúng tôi có thể chiết khấu 5% nếu đơn hàng vượt quá một nghìn sản phẩm. Tuy nhiên, thời hạn giao hàng quý công ty yêu cầu, chỉ mười ngày, là khó đáp ứng vì nhà máy của chúng tôi đang chạy hết công suất trong mùa này. Thay vào đó, chúng tôi có thể giao một phần đầu tiên trong hai tuần và hoàn tất phần còn lại trước cuối tháng. Về điều kiện thanh toán, tôi rất cảm ơn nếu bà xác nhận quý công ty có đồng ý trả trước ba mươi phần trăm hay không, như thông lệ trong các hợp đồng của chúng tôi. Chúng tôi xin gửi kèm báo giá cập nhật, đã bao gồm thuế và phí vận chuyển. Tôi tin rằng chúng ta sẽ đạt được một thỏa thuận có lợi cho cả hai bên. Mong sớm nhận được phản hồi của bà. Trân trọng, Javier Molina, Giám đốc Kinh doanh"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Khách hàng được giảm 5% với điều kiện nào?",
+     "On what condition does the client get 5% off?"
+    ],
+    "o": [
+     [
+      "Đơn hàng trên một nghìn sản phẩm",
+      "The order exceeds 1,000 units"
+     ],
+     [
+      "Trả trước 30%",
+      "Paying 30% in advance"
+     ],
+     [
+      "Nhận hàng trong mười ngày",
+      "Delivery within ten days"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…un descuento del cinco por ciento si el pedido supera las mil unidades.” 30% trả trước là điều kiện thanh toán, không phải điều kiện giảm giá.",
+     "“…un descuento del cinco por ciento si el pedido supera las mil unidades.” The 30% upfront is a payment term, not the discount condition."
+    ],
+    "f": [
+     "si el pedido supera las mil unidades",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao bên bán khó giao hàng trong mười ngày?",
+     "Why is a ten-day delivery hard for the seller?"
+    ],
+    "o": [
+     [
+      "Nhà máy đang chạy hết công suất",
+      "The factory is at full capacity"
+     ],
+     [
+      "Thiếu nguyên liệu",
+      "Raw materials are missing"
+     ],
+     [
+      "Phí vận chuyển quá cao",
+      "Transport costs are too high"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…ya que nuestra fábrica trabaja a plena capacidad durante esta temporada.” “Ya que” = vì; “a plena capacidad” = hết công suất.",
+     "“…ya que nuestra fábrica trabaja a plena capacidad durante esta temporada.” “Ya que” = since; “a plena capacidad” = at full capacity."
+    ],
+    "f": [
+     "trabaja a plena capacidad",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Báo giá đính kèm đã bao gồm những gì?",
+     "What does the attached quote already include?"
+    ],
+    "o": [
+     [
+      "Thuế và phí vận chuyển",
+      "Taxes and transport costs"
+     ],
+     [
+      "Chiết khấu 10%",
+      "A 10% discount"
+     ],
+     [
+      "Hợp đồng đã ký",
+      "The signed contract"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…el presupuesto actualizado, que ya incluye los impuestos y los gastos de transporte.” “Gastos” = chi phí.",
+     "“…el presupuesto actualizado, que ya incluye los impuestos y los gastos de transporte.” “Gastos” = costs."
+    ],
+    "f": [
+     "ya incluye los impuestos",
+     "B2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Le ___ que nos enviara el contrato firmado antes del viernes para poder preparar el primer envío. (agradecer)",
+    "a": [
+     "agradecería"
+    ],
+    "e": [
+     "“Le agradecería que + subjuntivo quá khứ (enviara)” là lời đề nghị lịch sự nhất. “Agradezco” (hiện tại) đi với subjuntivo hiện tại: le agradezco que nos envíe.",
+     "“Le agradecería que + past subjunctive (enviara)” is the most polite request. “Agradezco” (present) would need the present subjunctive: le agradezco que nos envíe."
+    ],
+    "f": [
+     "Le agradecería que nos enviara",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Si confirman el pedido esta semana, ___ ofrecerle un descuento adicional del dos por ciento. (poder, nosotros)",
+    "a": [
+     "Podríamos",
+     "podríamos",
+     "podemos"
+    ],
+    "e": [
+     "**Podríamos** (điều kiện) làm lời đề nghị mềm mỏng hơn; “podemos” cũng đúng ngữ pháp vì mệnh đề si ở hiện tại.",
+     "**Podríamos** (conditional) softens the offer; “podemos” is also grammatical because the si clause is present."
+    ],
+    "f": [
+     "podríamos ofrecerle",
+     "B2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Gracias de nuevo por su interés en nuestros servicios. Quedo a la ___ de su respuesta.",
+    "a": [
+     "espera"
+    ],
+    "e": [
+     "Cụm cố định “quedar a la espera de” = chờ đợi (phản hồi). Không dùng “esperanza” (hy vọng).",
+     "Fixed phrase “quedar a la espera de” = to await (a reply). Not “esperanza” (hope)."
+    ],
+    "f": [
+     "a la espera de",
+     "B2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Si ustedes ___ el pedido a dos mil unidades, podríamos rebajar el precio unitario y asumir los gastos de transporte.",
+    "o": [
+     "aumentaran",
+     "aumentarían",
+     "aumentan"
+    ],
+    "a": 0,
+    "e": [
+     "Câu điều kiện giả định (mệnh đề chính podríamos) → si + **subjuntivo quá khứ**: aumentaran. Không bao giờ dùng condicional (aumentarían) sau si.",
+     "Hypothetical condition (main clause podríamos) → si + **past subjunctive**: aumentaran. Never the conditional (aumentarían) after si."
+    ],
+    "f": [
+     "Si ustedes aumentaran",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Estimado Sr. Molina, le escribo en relación con el presupuesto que nos envió la semana pasada y que hemos revisado con atención.",
+    "a": [
+     "Estimado Sr. Molina: le escribo en relación con el presupuesto que nos envió la semana pasada y que hemos revisado con atención.",
+     "Estimado Sr. Molina: Le escribo en relación con el presupuesto que nos envió la semana pasada y que hemos revisado con atención."
+    ],
+    "e": [
+     "Trong thư tiếng Tây Ban Nha, sau lời chào dùng **dấu hai chấm** (Estimado Sr. Molina:), không dùng dấu phẩy như tiếng Anh.",
+     "In Spanish letters the greeting is followed by a **colon** (Estimado Sr. Molina:), not a comma as in English."
+    ],
+    "f": [
+     "Estimado Sr. Molina:",
+     "B2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Le agradecería que nos envíe el contrato firmado lo antes posible para poder empezar la producción el mes próximo.",
+    "a": [
+     "Le agradecería que nos enviara el contrato firmado lo antes posible para poder empezar la producción el mes próximo.",
+     "Le agradecería que nos enviase el contrato firmado lo antes posible para poder empezar la producción el mes próximo."
+    ],
+    "e": [
+     "Sau động từ ở **condicional** (agradecería) cần **subjuntivo quá khứ**: enviara/enviase. “Envíe” chỉ đi với hiện tại: le agradezco que nos envíe.",
+     "After a **conditional** (agradecería) the **past subjunctive** is needed: enviara/enviase. “Envíe” goes with the present: le agradezco que nos envíe."
+    ],
+    "f": [
+     "que nos enviara",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi có thể giao hàng trong vòng 2 tuần.",
+    "a": [
+     "Podemos entregar en un plazo de dos semanas.",
+     "Podemos hacer la entrega en un plazo de dos semanas.",
+     "Podemos entregar en dos semanas.",
+     "Podemos entregar el pedido en un plazo de dos semanas."
+    ],
+    "e": [
+     "“En un plazo de” = trong vòng (thời hạn). “Entregar” = giao hàng; không dùng “enviar dentro de” với nghĩa thời hạn.",
+     "“En un plazo de” = within (a deadline). “Entregar” = to deliver."
+    ],
+    "f": [
+     "en un plazo de dos semanas",
+     "B2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Giá này đã bao gồm thuế chưa?",
+    "a": [
+     "¿Este precio incluye impuestos?",
+     "¿Este precio incluye los impuestos?",
+     "¿El precio incluye impuestos?",
+     "¿Están incluidos los impuestos en este precio?"
+    ],
+    "e": [
+     "“Incluir” = bao gồm; “impuestos” = thuế (thường số nhiều). Tiếng Tây Ban Nha không cần “đã… chưa”.",
+     "“Incluir” = to include; “impuestos” = taxes (usually plural). No need for “already” in Spanish."
+    ],
+    "f": [
+     "incluye impuestos",
+     "B1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mặc dù chúng tôi hiểu tình hình của quý công ty, chúng tôi không thể giảm giá thêm nếu đơn hàng không vượt quá năm trăm sản phẩm.",
+    "a": [
+     "Aunque entendemos su situación, no podemos rebajar más el precio si el pedido no supera las quinientas unidades.",
+     "Aunque comprendemos su situación, no podemos hacer más descuento si el pedido no supera las quinientas unidades.",
+     "Aunque entendemos su situación, no podemos reducir más el precio si el pedido no supera las quinientas unidades."
+    ],
+    "e": [
+     "“Aunque + chỉ định” cho sự thật đã biết (entendemos). “Superar” = vượt quá; “unidades” giống cái → quinientas.",
+     "“Aunque + indicative” for a known fact (entendemos). “Superar” = to exceed; “unidades” is feminine → quinientas."
+    ],
+    "f": [
+     "no podemos rebajar más el precio",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho lịch sự và trang trọng hơn, bắt đầu bằng “Le agradecería que…”",
+     "Make it more polite and formal, starting with “Le agradecería que…”"
+    ],
+    "s": "Envíennos la factura corregida hoy mismo.",
+    "a": [
+     "Le agradecería que nos enviara la factura corregida hoy mismo.",
+     "Le agradecería que nos enviase la factura corregida hoy mismo.",
+     "Les agradecería que nos enviaran la factura corregida hoy mismo."
+    ],
+    "e": [
+     "Mệnh lệnh → “le agradecería que + subjuntivo quá khứ”. Viết cho một người: le … enviara; cho cả công ty: les … enviaran.",
+     "Imperative → “le agradecería que + past subjunctive”. To one person: le … enviara; to the company: les … enviaran."
+    ],
+    "f": [
+     "Le agradecería que nos enviara",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "En caso de que|la entrega|se retrase|más de una semana,|nos comprometemos a|devolverle|el diez por ciento|del importe total",
+    "m": [
+     "Trong trường hợp giao hàng trễ hơn một tuần, chúng tôi cam kết hoàn lại cho ông/bà 10% tổng giá trị.",
+     "Should delivery be delayed by more than a week, we undertake to refund you ten per cent of the total amount."
+    ],
+    "e": [
+     "“En caso de que” luôn đi với **subjuntivo** (se retrase). “Comprometerse a + nguyên mẫu” = cam kết làm gì.",
+     "“En caso de que” always takes the **subjunctive** (se retrase). “Comprometerse a + infinitive” = to undertake to."
+    ],
+    "f": [
+     "En caso de que la entrega se retrase",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 150 từ trả lời khách hàng phàn nàn giao hàng trễ: xin lỗi, giải thích, đề nghị bồi thường, giữ quan hệ.",
+     "Write a 150-word email to a client who complained about late delivery: apologise, explain, offer compensation, keep the relationship."
+    ],
+    "m": "Estimada Sra. Ruiz: Le escribo en relación con su correo del lunes sobre el retraso en la entrega del pedido 4521. En primer lugar, quisiera pedirle disculpas en nombre de toda la empresa por las molestias que esta situación le ha causado. El retraso se debió a una avería en nuestra fábrica que detuvo la producción durante cuatro días; aunque intentamos recuperar el tiempo perdido, no fue posible cumplir el plazo acordado. Como compensación, le ofrecemos un descuento del diez por ciento sobre el importe total del pedido y el envío gratuito de su próxima compra. Además, hemos reforzado nuestro sistema de control para que algo así no vuelva a ocurrir. Valoramos mucho la confianza que ha depositado en nosotros durante estos años y esperamos seguir colaborando con usted. Quedo a la espera de su respuesta. Atentamente, Javier Molina, Director Comercial",
+    "e": [
+     "Cần có: • lời chào trang trọng + usted • lời xin lỗi rõ ràng (pedirle disculpas, lamentamos) • giải thích nguyên nhân ở quá khứ (se debió a…) • đề nghị bồi thường cụ thể và câu giữ quan hệ, kết thư trang trọng.",
+     "Checklist: • formal greeting + usted • a clear apology (pedirle disculpas, lamentamos) • the cause explained in the past (se debió a…) • a concrete compensation offer and a relationship-building line, formal closing."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d29",
+  "g": "society",
+  "t": [
+   "Luật pháp, quyền & trách nhiệm",
+   "Law, rights & responsibilities"
+  ],
+  "th": [
+   [
+    "**Điều kiện & ngoại lệ trong văn bản pháp lý (+ subjuntivo)**\n• **siempre que / siempre y cuando** (miễn là): Podrá subarrendar la habitación **siempre que** el propietario **lo autorice** por escrito.\n• **a no ser que / salvo que** (trừ khi): La fianza se devolverá íntegra, **salvo que existan** desperfectos.\n• **en caso de que** (trong trường hợp): **En caso de que** no **reciba** respuesta, acudiré a la vía judicial.\n• **sin que** (mà không): Le subieron el alquiler **sin que** nadie le **avisara**.\nVăn phong luật hay dùng **tương lai mệnh lệnh** (“El inquilino **deberá** abonar…”) và **bị động với se** (“**Se prohíbe** fumar”).",
+    "**Conditions & exceptions in legal texts (+ subjunctive)**\n• **siempre que / siempre y cuando** (provided that): Podrá subarrendar la habitación **siempre que** el propietario **lo autorice** por escrito.\n• **a no ser que / salvo que** (unless): La fianza se devolverá íntegra, **salvo que existan** desperfectos.\n• **en caso de que** (in case): **En caso de que** no **reciba** respuesta, acudiré a la vía judicial.\n• **sin que** (without): Le subieron el alquiler **sin que** nadie le **avisara**.\nLegal style uses the **prescriptive future** (“El inquilino **deberá** abonar…”) and the **passive se** (“**Se prohíbe** fumar”)."
+   ],
+   [
+    "**Văn phong & ngữ dụng: cùng một ý, ba mức trang trọng**\n• Thân mật (tú, nhắn bạn): “Oye, que el casero no me devuelve la fianza, ¡qué morro tiene!”\n• Trung tính (usted, nói chuyện): “Perdone, pero creo que todavía no me ha devuelto la fianza.”\n• Trang trọng (thư): “Por la presente, le recuerdo que el plazo legal para la devolución de la fianza ha vencido.”\n**Rào đón (hedging)** khi chưa chắc về luật: **según tengo entendido** (theo tôi được biết), **en principio** (về nguyên tắc), **cabría la posibilidad de que + subj.**, **no descarto + inf.** Đe dọa lịch sự: “**Me vería obligado a** emprender acciones legales” (tôi buộc lòng phải…) – mạnh nhưng không thô lỗ.",
+    "**Register & pragmatics: one idea, three levels**\n• Informal (tú, texting a friend): “Oye, que el casero no me devuelve la fianza, ¡qué morro tiene!”\n• Neutral (usted, speaking): “Perdone, pero creo que todavía no me ha devuelto la fianza.”\n• Formal (letter): “Por la presente, le recuerdo que el plazo legal para la devolución de la fianza ha vencido.”\n**Hedging** when unsure about the law: **según tengo entendido** (as far as I know), **en principio** (in principle), **cabría la posibilidad de que + subj.**, **no descarto + inf.** A polite threat: “**Me vería obligado a** emprender acciones legales” (I would be forced to…) – firm but not rude."
+   ],
+   [
+    "**Từ gần nghĩa dễ nhầm**: **derecho** (quyền; ngành luật) ≠ **deber** (nghĩa vụ đạo đức/công dân) ≠ **obligación** (nghĩa vụ ràng buộc). **denunciar** (tố giác với cảnh sát) ≠ **demandar** (kiện ra tòa dân sự) ≠ **acusar** (buộc tội). **multa** (tiền phạt) ≠ **sanción** (chế tài nói chung). **ley** (luật do quốc hội ban hành) ≠ **norma / normativa** (quy định chung) ≠ **reglamento** (quy chế chi tiết).\n**Phát âm**: trong lời nói trang trọng, giữ rõ phụ âm cuối và nhóm phụ âm: **a-DQUI-rir, ins-TRUC-ción, ju-di-CIAL**; nhấn mạnh từ khóa bằng ngắt nhịp: “el plazo legal… | ha vencido”.",
+    "**Near-synonyms**: **derecho** (a right; law as a field) ≠ **deber** (moral/civic duty) ≠ **obligación** (binding obligation). **denunciar** (report to the police) ≠ **demandar** (sue in a civil court) ≠ **acusar** (accuse). **multa** (fine) ≠ **sanción** (penalty in general). **ley** (act of parliament) ≠ **norma / normativa** (rules) ≠ **reglamento** (detailed regulations).\n**Pronunciation**: in formal speech keep final consonants and clusters clear: a-DQUI-rir, ins-TRUC-ción, ju-di-CIAL; stress key words with a pause: “el plazo legal… | ha vencido”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): nghe 1 đoạn podcast tư vấn pháp lý (“consultorio legal”), ghi các cụm rào đón và điều kiện.\n• Nói (25 phút): đóng vai gọi điện khiếu nại cho chủ nhà – lần 1 lịch sự (usted), lần 2 kể lại cho bạn (tú, khẩu ngữ).\n• Đọc (30 phút): đọc 1 hợp đồng thuê nhà mẫu tiếng Tây Ban Nha, gạch chân 10 cụm “deberá / se prohíbe / salvo que”.\n• Viết (40 phút): viết 1 thư khiếu nại trang trọng 180 từ và 1 tin nhắn thân mật 50 từ về cùng sự việc.\n• Từ vựng (15 phút): phân biệt 5 cặp: derecho/deber, denunciar/demandar, multa/sanción, ley/reglamento, plazo/fecha.",
+    "**Practice outside the app**\n• Listening (25 min): listen to a legal-advice podcast segment and note hedges and conditionals.\n• Speaking (25 min): role-play a complaint call to a landlord – first politely (usted), then retell it to a friend (tú, colloquial).\n• Reading (30 min): read a sample Spanish tenancy agreement and underline 10 “deberá / se prohíbe / salvo que” phrases.\n• Writing (40 min): write a 180-word formal complaint and a 50-word informal message about the same issue.\n• Vocabulary (15 min): distinguish 5 pairs: derecho/deber, denunciar/demandar, multa/sanción, ley/reglamento, plazo/fecha."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Según tengo entendido, el plazo es de un mes.",
+    "Theo tôi được biết, thời hạn là một tháng."
+   ],
+   [
+    "Tiene usted todo el derecho a reclamar.",
+    "Ông/bà hoàn toàn có quyền khiếu nại."
+   ],
+   [
+    "Me vería obligado a emprender acciones legales.",
+    "Tôi buộc lòng phải khởi kiện."
+   ],
+   [
+    "Por la presente le comunico que…",
+    "Bằng văn bản này tôi xin thông báo rằng…"
+   ],
+   [
+    "¿Esto es legal o me están tomando el pelo?",
+    "Cái này có hợp pháp không hay họ đang lừa mình?"
+   ],
+   [
+    "Lo pone en el contrato, en la cláusula cinco.",
+    "Hợp đồng có ghi, ở điều khoản năm."
+   ],
+   [
+    "Siempre que lo autorice por escrito, no hay problema.",
+    "Miễn là ông/bà đồng ý bằng văn bản thì không vấn đề gì."
+   ]
+  ],
+  "vo": [
+   [
+    "el derecho",
+    "/el deˈɾetʃo/ el de-RE-cho",
+    "quyền; luật học",
+    "right; law"
+   ],
+   [
+    "el deber",
+    "/el deˈβeɾ/ el de-BER",
+    "nghĩa vụ, bổn phận",
+    "duty"
+   ],
+   [
+    "la fianza",
+    "/la ˈfjanθa/ la FIAN-za",
+    "tiền đặt cọc",
+    "deposit"
+   ],
+   [
+    "el plazo",
+    "/el ˈplaθo/ el PLA-zo",
+    "thời hạn",
+    "deadline, time limit"
+   ],
+   [
+    "la cláusula",
+    "/la ˈklawsula/ la CLÁU-su-la",
+    "điều khoản",
+    "clause"
+   ],
+   [
+    "reclamar",
+    "/reklaˈmaɾ/ re-cla-MAR",
+    "đòi, khiếu nại",
+    "to claim, complain"
+   ],
+   [
+    "denunciar",
+    "/denunˈθjaɾ/ de-nun-CIAR",
+    "tố giác, trình báo",
+    "to report (to police)"
+   ],
+   [
+    "demandar",
+    "/demanˈdaɾ/ de-man-DAR",
+    "kiện (ra tòa)",
+    "to sue"
+   ],
+   [
+    "la multa",
+    "/la ˈmulta/ la MUL-ta",
+    "tiền phạt",
+    "fine"
+   ],
+   [
+    "vulnerar",
+    "/bulneˈɾaɾ/ vul-ne-RAR",
+    "vi phạm (quyền, luật)",
+    "to violate, infringe"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Según tengo entendido, el propietario dispone de un mes para devolver la fianza, a no ser que haya desperfectos en la vivienda.",
+    "e": [
+     "“Según tengo entendido” = rào đón (theo tôi được biết). “A no ser que” + subjuntivo (haya). “Desperfectos” = hư hỏng.",
+     "“Según tengo entendido” = a hedge (as far as I know). “A no ser que” + subjunctive (haya). “Desperfectos” = damage."
+    ],
+    "f": [
+     "a no ser que haya desperfectos",
+     "C1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Mire, yo entiendo su postura, pero si no me devuelve la fianza antes del viernes, me veré obligada a acudir a un abogado.",
+    "q": [
+     "Người nói ngụ ý điều gì?",
+     "What is the speaker implying?"
+    ],
+    "o": [
+     [
+      "Sẽ nhờ luật sư nếu không được trả tiền cọc",
+      "She will get a lawyer if the deposit isn't returned"
+     ],
+     [
+      "Cô ấy chấp nhận mất tiền cọc",
+      "She accepts losing the deposit"
+     ],
+     [
+      "Cô ấy sẽ trả thêm tiền",
+      "She'll pay more money"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Me veré obligada a acudir a un abogado” – lời đe dọa lịch sự, có rào đón “yo entiendo su postura”. Ngữ dụng: mềm ở đầu, cứng ở cuối.",
+     "“Me veré obligada a acudir a un abogado” – a polite threat softened by “yo entiendo su postura”. Pragmatics: soft start, firm ending."
+    ],
+    "f": [
+     "me veré obligada a acudir a un abogado",
+     "C1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Tío, el casero quiere quedarse con la fianza por una mancha en la pared; vamos, que me está tomando el pelo.",
+    "q": [
+     "Văn phong và ý của người nói là gì?",
+     "What is the register and meaning?"
+    ],
+    "o": [
+     [
+      "Thân mật; anh ta nghĩ chủ nhà đang lừa mình",
+      "Informal; he thinks the landlord is ripping him off"
+     ],
+     [
+      "Trang trọng; anh ta đồng ý với chủ nhà",
+      "Formal; he agrees with the landlord"
+     ],
+     [
+      "Trung tính; anh ta hỏi ý kiến luật sư",
+      "Neutral; he's asking a lawyer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Tío”, “vamos, que…”, “tomar el pelo” (trêu, lừa) là khẩu ngữ thân mật Tây Ban Nha – chỉ dùng với bạn bè.",
+     "“Tío”, “vamos, que…”, “tomar el pelo” (to pull someone's leg / con) are informal Peninsular Spanish – friends only."
+    ],
+    "f": [
+     "me está tomando el pelo",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Por la presente le comunico que, transcurrido el plazo legal, todavía no he recibido la devolución de la fianza.",
+    "e": [
+     "Mở đầu thư trang trọng: “Por la presente le comunico que…”. “Transcurrido el plazo” = cấu trúc phân từ tuyệt đối (sau khi thời hạn đã qua). Ngắt nhịp sau “legal”.",
+     "Formal letter opening: “Por la presente le comunico que…”. “Transcurrido el plazo” = absolute participle (the period having elapsed). Pause after “legal”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Crees que todo ciudadano tiene el deber de votar? – Yo diría que votar es un derecho más que un deber, aunque entiendo que en algunos países sea obligatorio.",
+    "e": [
+     "Câu hỏi: Công dân có bổn phận đi bầu không? – Gợi ý: rào đón “Yo diría que…” (tôi cho là), đối lập derecho/deber, nhượng bộ “aunque entiendo que + subjuntivo”.",
+     "Question: Do citizens have a duty to vote? – Model: hedge “Yo diría que…”, contrast derecho/deber, concession “aunque entiendo que + subjunctive”."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nói thật, tôi không định gây chuyện đâu, nhưng nếu tuần này hàng xóm vẫn mở nhạc đến ba giờ sáng thì tôi sẽ gọi cảnh sát.",
+    "a": [
+     "La verdad es que no quiero montar ningún lío, pero como el vecino vuelva a poner la música hasta las tres de la mañana esta semana, llamo a la policía.",
+     "Sinceramente, no busco problemas, pero si esta semana el vecino sigue con la música hasta las tres de la madrugada, llamaré a la policía.",
+     "No es que quiera liarla, pero como esta semana el vecino vuelva a tener la música puesta hasta las tres de la mañana, llamo a la policía."
+    ],
+    "e": [
+     "“Como + subjuntivo” (como vuelva…) = nếu mà… thì (điều kiện mang tính đe dọa, khẩu ngữ). “Montar un lío / liarla” = gây chuyện. “No es que + subjuntivo” = không phải là…",
+     "“Como + subjunctive” (como vuelva…) = if… (a threatening colloquial conditional). “Montar un lío / liarla” = to make a fuss. “No es que + subjunctive” = it's not that…"
+    ],
+    "f": [
+     "como el vecino vuelva a poner la música",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Làm mềm câu này để nói với người hàng xóm lớn tuổi (usted, gián tiếp, lịch sự)",
+     "Soften this for an elderly neighbour (usted, indirect, polite)"
+    ],
+    "s": "Su perro ladra toda la noche y no me deja dormir; haga algo.",
+    "a": [
+     "Perdone que le moleste, pero no sé si se ha dado cuenta de que su perro ladra bastante por las noches; ¿habría alguna forma de solucionarlo? Es que me cuesta mucho dormir.",
+     "Disculpe, no quisiera molestarle, pero es que su perro ladra bastante por la noche y me cuesta dormir; ¿cree que podríamos buscar alguna solución?"
+    ],
+    "e": [
+     "Chiến lược lịch sự: xin lỗi trước (perdone que le moleste), làm nhẹ (bastante thay cho toda la noche), câu hỏi gián tiếp (¿habría alguna forma…?), lý do với “es que”. Tránh mệnh lệnh trực tiếp “haga algo”.",
+     "Politeness strategy: apologise first (perdone que le moleste), downtone (bastante instead of toda la noche), indirect question (¿habría alguna forma…?), justify with “es que”. Avoid the bare command “haga algo”."
+    ],
+    "f": [
+     "¿habría alguna forma de solucionarlo?",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mi abogada me dijo que, a menos que el casero presentara pruebas, no tiene ningún derecho a quedarse con la fianza, así que estoy tranquila.",
+    "a": [
+     "Mi abogada me dijo que, a menos que el casero presentara pruebas, no tenía ningún derecho a quedarse con la fianza, así que estoy tranquila."
+    ],
+    "e": [
+     "Lời gián tiếp sau “me dijo que” → lùi thì: **no tenía** (đồng bộ với “presentara”). Dùng “tiene” chỉ chấp nhận khi người nói khẳng định sự thật vẫn đúng – nhưng khi đó phải là “presente”, không phải “presentara”.",
+     "Reported speech after “me dijo que” → backshift: **no tenía** (consistent with “presentara”). “Tiene” would require “presente”, not “presentara”."
+    ],
+    "f": [
+     "no tenía ningún derecho",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "El seguro dice que el daño no está cubierto, pero yo no pienso dar mi brazo a ___ hasta que me lo expliquen por escrito.",
+    "a": [
+     "torcer"
+    ],
+    "e": [
+     "Thành ngữ **no dar su brazo a torcer** = không chịu nhượng bộ. “Hasta que + subjuntivo” (expliquen).",
+     "Idiom **no dar el brazo a torcer** = to refuse to give in. “Hasta que + subjunctive” (expliquen)."
+    ],
+    "f": [
+     "dar mi brazo a torcer",
+     "C1"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Asunto: Devolución de la fianza – piso de la calle Alcalá, 45.\n\nEstimado Sr. Ruiz:\nPor la presente le comunico que el pasado 30 de abril le entregué las llaves de la vivienda, tal como acordamos, y que a fecha de hoy aún no he recibido la fianza de 900 euros que deposité al firmar el contrato.\nSegún tengo entendido, la Ley de Arrendamientos Urbanos establece un plazo de un mes para su devolución, transcurrido el cual la cantidad empieza a generar intereses. Entiendo que pueda haber dudas sobre la mancha de humedad del dormitorio; sin embargo, le recuerdo que ya existía cuando entré a vivir, como se aprecia en las fotografías que le envié entonces.\nLe agradecería, por tanto, que me realizara la transferencia en un plazo de diez días. En caso de que no fuera así, lamentablemente me vería obligada a reclamar la cantidad por la vía judicial, algo que, sinceramente, preferiría evitar.\nQuedo a su disposición para cualquier aclaración.\nUn cordial saludo,\nCarmen Vidal",
+   "tr": "Chủ đề: Hoàn trả tiền đặt cọc – căn hộ số 45 phố Alcalá.\n\nKính gửi ông Ruiz:\nBằng thư này, tôi xin thông báo rằng ngày 30 tháng 4 vừa qua tôi đã giao lại chìa khóa căn hộ cho ông như đã thỏa thuận, và cho đến hôm nay tôi vẫn chưa nhận lại khoản tiền cọc 900 euro mà tôi đã nộp khi ký hợp đồng.\nTheo tôi được biết, Luật Thuê nhà ở đô thị quy định thời hạn một tháng để hoàn trả tiền cọc, quá thời hạn đó số tiền bắt đầu phát sinh lãi. Tôi hiểu rằng có thể còn băn khoăn về vết ẩm mốc trong phòng ngủ; tuy nhiên, tôi xin nhắc ông rằng vết đó đã có từ khi tôi dọn vào ở, như có thể thấy trong những bức ảnh tôi đã gửi ông lúc ấy.\nVì vậy, tôi rất cảm kích nếu ông chuyển khoản cho tôi trong vòng mười ngày. Trong trường hợp không được như vậy, rất tiếc tôi buộc lòng phải đòi khoản tiền này qua con đường tư pháp, điều mà thành thật mà nói tôi muốn tránh.\nTôi sẵn sàng giải đáp mọi thắc mắc.\nTrân trọng,\nCarmen Vidal"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Carmen đòi lại khoản tiền nào?",
+     "What money is Carmen claiming?"
+    ],
+    "o": [
+     [
+      "900 euro tiền cọc nộp khi ký hợp đồng",
+      "The €900 deposit paid when signing the contract"
+     ],
+     [
+      "Một tháng tiền thuê nhà",
+      "A month's rent"
+     ],
+     [
+      "Tiền sửa vết ẩm mốc",
+      "Money to fix the damp patch"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…la fianza de 900 euros que deposité al firmar el contrato.” “Al + nguyên mẫu” = khi…",
+     "“…la fianza de 900 euros que deposité al firmar el contrato.” “Al + infinitive” = when…"
+    ],
+    "f": [
+     "la fianza de 900 euros",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Carmen phản bác lý do giữ tiền cọc thế nào?",
+     "How does Carmen counter the reason for keeping the deposit?"
+    ],
+    "o": [
+     [
+      "Vết ẩm đã có từ trước, có ảnh làm bằng chứng",
+      "The damp was already there, with photos as proof"
+     ],
+     [
+      "Cô ấy nói đã sơn lại tường",
+      "She says she repainted the wall"
+     ],
+     [
+      "Cô ấy phủ nhận có vết ẩm",
+      "She denies there is any damp"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Le recuerdo que ya existía cuando entré a vivir, como se aprecia en las fotografías…” – nhượng bộ trước (“Entiendo que pueda haber dudas”), rồi phản bác.",
+     "“Le recuerdo que ya existía cuando entré a vivir, como se aprecia en las fotografías…” – concession first (“Entiendo que pueda haber dudas”), then rebuttal."
+    ],
+    "f": [
+     "ya existía cuando entré a vivir",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “algo que, sinceramente, preferiría evitar” có tác dụng ngữ dụng gì?",
+     "What is the pragmatic function of “algo que, sinceramente, preferiría evitar”?"
+    ],
+    "o": [
+     [
+      "Làm mềm lời đe dọa, cho thấy thiện chí",
+      "It softens the threat and shows goodwill"
+     ],
+     [
+      "Cho thấy cô ấy không định kiện",
+      "It shows she won't sue"
+     ],
+     [
+      "Xin lỗi vì đã dọn đi",
+      "It apologises for moving out"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Lời đe dọa (vía judicial) đi kèm một câu thể hiện thiện chí → vẫn cứng rắn nhưng lịch sự, giữ quan hệ. Đây là chiến lược phổ biến trong thư khiếu nại tiếng Tây Ban Nha.",
+     "The threat (legal action) is paired with a goodwill remark → firm but polite, keeping the relationship. A common strategy in Spanish complaint letters."
+    ],
+    "f": [
+     "algo que, sinceramente, preferiría evitar",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El inquilino podrá tener animales de compañía en la vivienda siempre que el propietario lo ___ expresamente por escrito antes de la firma del contrato.",
+    "o": [
+     "autorice",
+     "autoriza",
+     "autorizará"
+    ],
+    "a": 0,
+    "e": [
+     "“Siempre que” với nghĩa **miễn là** (điều kiện) → **subjuntivo**: autorice. Với nghĩa “mỗi khi” (thói quen) mới dùng indicativo.",
+     "“Siempre que” meaning **provided that** → **subjunctive**: autorice. Only when it means “whenever” (habit) does it take the indicative."
+    ],
+    "f": [
+     "siempre que el propietario lo autorice",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Si alguien te roba la cartera en el metro, lo primero que tienes que hacer es ___ el robo en la comisaría más cercana para que quede constancia.",
+    "o": [
+     "denunciar",
+     "demandar",
+     "acusar"
+    ],
+    "a": 0,
+    "e": [
+     "Trình báo với cảnh sát = **denunciar**. “Demandar” = kiện ra tòa dân sự (một người/công ty cụ thể); “acusar” = buộc tội ai đó.",
+     "Reporting to the police = **denunciar**. “Demandar” = to sue (a specific person/company); “acusar” = to accuse someone."
+    ],
+    "f": [
+     "denunciar el robo",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Muchos ciudadanos conocen perfectamente sus derechos, pero no siempre son igual de conscientes de sus ___, como pagar impuestos o respetar las normas de convivencia.",
+    "o": [
+     "deberes",
+     "derechos",
+     "multas"
+    ],
+    "a": 0,
+    "e": [
+     "Đối lập kinh điển **derechos ↔ deberes** (quyền ↔ nghĩa vụ). Nộp thuế, tôn trọng quy tắc chung sống là deberes.",
+     "The classic contrast **derechos ↔ deberes** (rights ↔ duties). Paying tax and respecting community rules are deberes."
+    ],
+    "f": [
+     "conscientes de sus deberes",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Le escribo para informarle de que, ___ de que no reciba la documentación antes del día quince, me veré obligado a cancelar la solicitud.",
+    "a": [
+     "en caso"
+    ],
+    "e": [
+     "**En caso de que + subjuntivo** (reciba) = trong trường hợp. Trang trọng hơn “si no recibo”.",
+     "**En caso de que + subjunctive** (reciba) = in the event that. More formal than “si no recibo”."
+    ],
+    "f": [
+     "en caso de que no reciba",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "La empresa modificó las condiciones del contrato ___ que los trabajadores fueran informados, lo que constituye una clara vulneración de sus derechos.",
+    "a": [
+     "sin"
+    ],
+    "e": [
+     "**Sin que + subjuntivo** (fueran informados) = mà không… Khi chủ ngữ khác nhau phải dùng “sin que”, không dùng “sin + nguyên mẫu”.",
+     "**Sin que + subjunctive** (fueran informados) = without… With different subjects use “sin que”, not “sin + infinitive”."
+    ],
+    "f": [
+     "sin que los trabajadores fueran informados",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Estimado señor Ruiz: oye, te escribo porque todavía no me ha devuelto la fianza y, según la ley, el plazo de un mes ya ha vencido.",
+    "a": [
+     "Estimado señor Ruiz: le escribo porque todavía no me ha devuelto la fianza y, según la ley, el plazo de un mes ya ha vencido."
+    ],
+    "e": [
+     "Lỗi **văn phong**: thư trang trọng gửi “Estimado señor Ruiz” và “me ha devuelto” (usted) nhưng lại chen “oye, te escribo” (tú, khẩu ngữ). Phải nhất quán: **le escribo**.",
+     "A **register** error: a formal letter to “Estimado señor Ruiz” with “me ha devuelto” (usted) suddenly uses “oye, te escribo” (tú, colloquial). Keep it consistent: **le escribo**."
+    ],
+    "f": [
+     "le escribo",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "La fianza se devolverá íntegramente al inquilino al finalizar el contrato, salvo que el propietario demuestra que existen daños causados durante el alquiler.",
+    "a": [
+     "La fianza se devolverá íntegramente al inquilino al finalizar el contrato, salvo que el propietario demuestre que existen daños causados durante el alquiler."
+    ],
+    "e": [
+     "“Salvo que / a no ser que” (trừ khi) luôn + **subjuntivo**: demuestre. “Existen” trong mệnh đề “que” sau “demostrar” giữ indicativo.",
+     "“Salvo que / a no ser que” (unless) always takes the **subjunctive**: demuestre. “Existen” after “demostrar que” stays indicative."
+    ],
+    "f": [
+     "salvo que el propietario demuestre",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Theo tôi được biết, người thuê nhà có quyền được biết trước ít nhất một tháng nếu chủ nhà muốn tăng tiền thuê, trừ khi hợp đồng quy định khác.",
+    "a": [
+     "Según tengo entendido, el inquilino tiene derecho a que le avisen con al menos un mes de antelación si el propietario quiere subir el alquiler, a no ser que el contrato establezca otra cosa.",
+     "Por lo que sé, el inquilino tiene derecho a ser avisado con un mes de antelación como mínimo si el casero quiere subir el alquiler, salvo que el contrato diga lo contrario.",
+     "Según tengo entendido, los inquilinos tienen derecho a ser informados con al menos un mes de antelación si el propietario pretende subir el alquiler, salvo que el contrato disponga otra cosa."
+    ],
+    "e": [
+     "Rào đón “según tengo entendido / por lo que sé”. “Tener derecho a que + subjuntivo” hoặc “a ser avisado”. “Trừ khi” = a no ser que / salvo que + subjuntivo.",
+     "Hedge with “según tengo entendido / por lo que sé”. “Tener derecho a que + subjunctive” or “a ser avisado”. “Unless” = a no ser que / salvo que + subjunctive."
+    ],
+    "f": [
+     "tiene derecho a que le avisen",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi rất cảm kích nếu ông có thể giải quyết vấn đề này sớm, vì nếu không tôi buộc lòng phải trình báo với cơ quan chức năng.",
+    "a": [
+     "Le agradecería que resolviera este asunto cuanto antes, ya que, de lo contrario, me vería obligado a denunciarlo ante las autoridades competentes.",
+     "Le agradecería que solucionara este problema lo antes posible, porque, si no, me vería obligada a presentar una denuncia ante las autoridades.",
+     "Le estaría muy agradecido si pudiera resolver este asunto pronto, ya que de lo contrario me vería obligado a denunciarlo ante las autoridades."
+    ],
+    "e": [
+     "“Le agradecería que + subjuntivo quá khứ” (resolviera) = rất cảm kích nếu – công thức lịch sự trang trọng. “De lo contrario” = nếu không. “Me vería obligado/a a” = buộc lòng phải.",
+     "“Le agradecería que + past subjunctive” (resolviera) = I would be grateful if – a formal politeness formula. “De lo contrario” = otherwise. “Me vería obligado/a a” = I would be forced to."
+    ],
+    "f": [
+     "Le agradecería que resolviera",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại tin nhắn thân mật thành câu văn trang trọng trong thư (usted)",
+     "Rewrite the informal message as a formal letter sentence (usted)"
+    ],
+    "s": "Oye, que me has cobrado dos veces el agua este mes, así que devuélvemelo ya, ¿vale?",
+    "a": [
+     "Le informo de que este mes me ha cobrado dos veces el recibo del agua, por lo que le agradecería que me devolviera el importe a la mayor brevedad.",
+     "Le comunico que este mes se me ha cobrado dos veces el agua, por lo que le ruego que me reembolse la cantidad cuanto antes."
+    ],
+    "e": [
+     "Thay “oye, que…” → “Le informo/comunico de que…”; tú → usted; mệnh lệnh “devuélvemelo ya” → “le agradecería que me devolviera… a la mayor brevedad” (sớm nhất có thể – văn hành chính).",
+     "Replace “oye, que…” → “Le informo/comunico de que…”; tú → usted; command “devuélvemelo ya” → “le agradecería que me devolviera… a la mayor brevedad” (at your earliest convenience)."
+    ],
+    "f": [
+     "le agradecería que me devolviera el importe",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Entiendo|que pueda haber|diferencias de interpretación;|no obstante,|la cláusula cuarta|establece claramente|que los gastos|corren a cargo del propietario",
+    "m": [
+     "Tôi hiểu rằng có thể có khác biệt trong cách hiểu; tuy nhiên, điều khoản bốn quy định rõ chi phí do chủ nhà chịu.",
+     "I understand there may be differences of interpretation; however, clause four clearly states that the costs are borne by the owner."
+    ],
+    "e": [
+     "Chiến lược “nhượng bộ – phản bác”: “Entiendo que + subjuntivo” rồi “no obstante”. “Correr a cargo de” = do ai chi trả.",
+     "“Concede – rebut” strategy: “Entiendo que + subjunctive” then “no obstante”. “Correr a cargo de” = to be paid by."
+    ],
+    "f": [
+     "corren a cargo del propietario",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Bạn được chủ quán cà phê trả lương thiếu hai tháng. Viết (1) email trang trọng khoảng 150 từ gửi chủ quán (usted, rào đón, điều kiện “en caso de que”, lời đe dọa lịch sự) và (2) tin nhắn 40 từ kể cho bạn thân (tú, khẩu ngữ).",
+     "Your café boss has underpaid you for two months. Write (1) a ~150-word formal email to the boss (usted, hedging, “en caso de que”, a polite threat) and (2) a 40-word message to a close friend (tú, colloquial)."
+    ],
+    "m": "(1) Estimado Sr. Morales: Le escribo en relación con mis nóminas de septiembre y octubre. Según he podido comprobar, en ambos meses se me han abonado 20 horas menos de las que figuran en el registro de jornada que firmamos cada semana. Entiendo que pueda tratarse de un error administrativo, por lo que le adjunto una copia de dicho registro para que pueda revisarlo. Le agradecería que me abonara la diferencia en la próxima nómina. En caso de que hubiera alguna discrepancia, estaré encantada de reunirme con usted para aclararla. No obstante, si el problema no se resolviera, me vería obligada a consultar con la inspección de trabajo, algo que preferiría evitar dado el buen ambiente que siempre hemos tenido. Un cordial saludo, Lan Pham\n(2) Tía, ¡no te lo vas a creer! Llevo dos meses cobrando menos de lo que trabajo. Le he mandado un correo súper educado a mi jefe, pero como no me pague, voy directa a la inspección. ¡Qué morro!",
+    "e": [
+     "Checklist: • email: mở/kết trang trọng, usted, “según he podido comprobar”, “entiendo que + subj.”, “en caso de que”, “me vería obligada a” • tin nhắn: tú, từ cảm thán, khẩu ngữ (tía, qué morro, como + subj. = đe dọa).",
+     "Checklist: • email: formal opening/closing, usted, “según he podido comprobar”, “entiendo que + subj.”, “en caso de que”, “me vería obligada a” • message: tú, exclamations, colloquialisms (tía, qué morro, como + subj. = threat)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d30",
+  "g": "work",
+  "t": [
+   "Toàn cầu hoá & kinh tế",
+   "Globalisation & the economy"
+  ],
+  "th": [
+   [
+    "**Nhượng bộ – công cụ chính khi tranh luận về kinh tế**\n• **aunque + indicativo** = thừa nhận một sự thật: Aunque la globalización **ha reducido** la pobreza, también ha aumentado la desigualdad.\n• **aunque + subjuntivo** = giả định hoặc “cứ cho là”: Aunque **suban** los salarios, la empresa seguirá siendo competitiva.\n• **por mucho que / por más que + subjuntivo** (dù có… bao nhiêu): **Por mucho que** se **protejan** los mercados, la competencia llegará.\n• **si bien** (trang trọng, + indicativo) và **a pesar de que**: **Si bien** las exportaciones **crecieron**, el empleo no mejoró.",
+    "**Concession – the key tool in economic debate**\n• **aunque + indicative** = admitting a fact: Aunque la globalización **ha reducido** la pobreza, también ha aumentado la desigualdad.\n• **aunque + subjunctive** = hypothesis or “even if”: Aunque **suban** los salarios, la empresa seguirá siendo competitiva.\n• **por mucho que / por más que + subjunctive** (however much): **Por mucho que** se **protejan** los mercados, la competencia llegará.\n• **si bien** (formal, + indicative) and **a pesar de que**: **Si bien** las exportaciones **crecieron**, el empleo no mejoró."
+   ],
+   [
+    "**Tu từ thuyết phục & rào đón trong tranh luận**\n• Nhượng bộ chiến lược: “**Es cierto que**…, **pero no es menos cierto que**…” (Đúng là…, nhưng cũng không kém phần đúng rằng…)\n• Câu hỏi tu từ: “¿**Acaso** alguien cree que…?”\n• Bộ ba (regla de tres): “más empleo, más innovación y más oportunidades”.\n• Rào đón khi đưa số liệu: **en torno a** (khoảng), **cabe pensar que** (có thể nghĩ rằng), **todo apunta a que** (mọi thứ cho thấy), **habría que matizar** (cần nói rõ hơn).\n• Ngắt lời lịch sự: “**Si me permite**…”, “**Perdone que le interrumpa**, pero…”. Phản bác mềm: “**Yo no lo veo exactamente así**.”",
+    "**Persuasive rhetoric & hedging in debate**\n• Strategic concession: “**Es cierto que**…, **pero no es menos cierto que**…” (It's true that…, but it's equally true that…)\n• Rhetorical question: “¿**Acaso** alguien cree que…?”\n• Rule of three: “más empleo, más innovación y más oportunidades”.\n• Hedging with data: **en torno a** (around), **cabe pensar que** (one may think), **todo apunta a que** (everything suggests), **habría que matizar** (this needs nuancing).\n• Polite interruption: “**Si me permite**…”, “**Perdone que le interrumpa**, pero…”. Soft disagreement: “**Yo no lo veo exactamente así**.”"
+   ],
+   [
+    "**Từ gần nghĩa**: **crecimiento** (tăng trưởng – số lượng) ≠ **desarrollo** (phát triển – chất lượng sống). **precio** (giá bán) ≠ **coste** (chi phí sản xuất; ở Mỹ Latinh: costo). **salario** (lương, trung tính) ≠ **sueldo** (lương tháng, đời thường) ≠ **nómina** (bảng lương). **deslocalizar** (chuyển sản xuất ra nước ngoài) ≠ **externalizar** (thuê ngoài). **empresa** (công ty) ≠ **compañía** (thường lớn, trang trọng hơn).\n**Phát âm**: trong tranh luận, nhấn trọng âm nhịp mạnh vào từ khóa và hạ giọng cuối câu khẳng định: “No es **CRE**cimiento, | es desa**RRO**llo ↘.” Các con số lớn: 2.500 millones = “dos mil quinientos millones”.",
+    "**Near-synonyms**: **crecimiento** (growth – quantity) ≠ **desarrollo** (development – quality of life). **precio** (price) ≠ **coste** (production cost; Latin America: costo). **salario** (wage, neutral) ≠ **sueldo** (monthly pay, everyday) ≠ **nómina** (payslip/payroll). **deslocalizar** (offshore production) ≠ **externalizar** (outsource). **empresa** (company) ≠ **compañía** (often larger, more formal).\n**Pronunciation**: in debate, put strong stress on key words and fall at the end of statements: “No es CREcimiento, | es desaRROllo ↘.” Big numbers: 2.500 millones = “dos mil quinientos millones”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 chương trình tranh luận kinh tế trên đài/podcast tiếng Tây Ban Nha, ghi 8 cấu trúc nhượng bộ và ngắt lời.\n• Nói (25 phút): tranh luận 3 phút “¿La globalización beneficia a los países en desarrollo?” – mỗi luận điểm có 1 nhượng bộ.\n• Đọc (30 phút): đọc 1 bài xã luận kinh tế, tìm câu hỏi tu từ và cụm rào đón.\n• Viết (40 phút): viết đoạn văn nghị luận 200 từ với cấu trúc “Es cierto que… pero no es menos cierto que…”.\n• Từ vựng (15 phút): 5 cặp gần nghĩa: crecimiento/desarrollo, precio/coste, salario/sueldo, deslocalizar/externalizar, empresa/compañía.",
+    "**Practice outside the app**\n• Listening (30 min): listen to an economics debate on Spanish radio/podcast and note 8 concessive and interrupting structures.\n• Speaking (25 min): debate for 3 min “Does globalisation benefit developing countries?” – one concession per argument.\n• Reading (30 min): read an economic editorial; find rhetorical questions and hedges.\n• Writing (40 min): a 200-word argumentative paragraph using “Es cierto que… pero no es menos cierto que…”.\n• Vocabulary (15 min): 5 near-synonym pairs: crecimiento/desarrollo, precio/coste, salario/sueldo, deslocalizar/externalizar, empresa/compañía."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Es cierto que…, pero no es menos cierto que…",
+    "Đúng là…, nhưng cũng đúng là…"
+   ],
+   [
+    "Si me permite, quisiera matizar un punto.",
+    "Nếu anh cho phép, tôi muốn làm rõ một điểm."
+   ],
+   [
+    "Yo no lo veo exactamente así.",
+    "Tôi không hoàn toàn thấy như vậy."
+   ],
+   [
+    "Todo apunta a que la inflación seguirá bajando.",
+    "Mọi thứ cho thấy lạm phát sẽ tiếp tục giảm."
+   ],
+   [
+    "Por mucho que suban los precios, seguiremos comprando.",
+    "Dù giá có tăng bao nhiêu, ta vẫn sẽ mua."
+   ],
+   [
+    "Perdone que le interrumpa, pero eso no es del todo exacto.",
+    "Xin lỗi đã ngắt lời, nhưng điều đó không hoàn toàn chính xác."
+   ],
+   [
+    "¿Acaso alguien cree que esto es sostenible?",
+    "Chẳng lẽ có ai nghĩ điều này bền vững sao?"
+   ]
+  ],
+  "vo": [
+   [
+    "la globalización",
+    "/la ɡloβaliθaˈθjon/ la glo-ba-li-za-CIÓN",
+    "toàn cầu hoá",
+    "globalisation"
+   ],
+   [
+    "el crecimiento",
+    "/el kɾeθiˈmjento/ el cre-ci-MIEN-to",
+    "tăng trưởng",
+    "growth"
+   ],
+   [
+    "el desarrollo",
+    "/el desaˈroʎo/ el de-sa-RRO-llo",
+    "phát triển",
+    "development"
+   ],
+   [
+    "la desigualdad",
+    "/la desiɣwalˈdað/ la de-si-gual-DAD",
+    "bất bình đẳng",
+    "inequality"
+   ],
+   [
+    "deslocalizar",
+    "/deslokaliˈθaɾ/ des-lo-ca-li-ZAR",
+    "chuyển sản xuất ra nước ngoài",
+    "to offshore"
+   ],
+   [
+    "la mano de obra",
+    "/la ˈmano ðe ˈoβɾa/ la MA-no de O-bra",
+    "nhân công, lao động",
+    "workforce, labour"
+   ],
+   [
+    "el arancel",
+    "/el aɾanˈθel/ el a-ran-CEL",
+    "thuế quan",
+    "tariff"
+   ],
+   [
+    "la cadena de suministro",
+    "/la kaˈðena ðe sumiˈnistɾo/ la ca-DE-na de su-mi-NIS-tro",
+    "chuỗi cung ứng",
+    "supply chain"
+   ],
+   [
+    "la inflación",
+    "/la iɱflaˈθjon/ la in-fla-CIÓN",
+    "lạm phát",
+    "inflation"
+   ],
+   [
+    "sostenible",
+    "/sosteˈniβle/ sos-te-NI-ble",
+    "bền vững",
+    "sustainable"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Es cierto que el comercio internacional ha sacado a millones de personas de la pobreza, pero no es menos cierto que ha aumentado la desigualdad.",
+    "e": [
+     "Cấu trúc nhượng bộ chiến lược “Es cierto que… pero no es menos cierto que…” – thừa nhận rồi phản biện. Indicativo vì là sự thật được thừa nhận.",
+     "Strategic concession “Es cierto que… pero no es menos cierto que…” – concede, then counter. Indicative because the facts are accepted."
+    ],
+    "f": [
+     "no es menos cierto que",
+     "C1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Perdone que le interrumpa, pero los datos que usted menciona son de hace diez años y la situación ha cambiado bastante desde entonces.",
+    "q": [
+     "Người nói phản bác bằng cách nào?",
+     "How does the speaker object?"
+    ],
+    "o": [
+     [
+      "Nói rằng số liệu đã cũ",
+      "By saying the data are out of date"
+     ],
+     [
+      "Nói rằng số liệu sai hoàn toàn",
+      "By saying the data are completely false"
+     ],
+     [
+      "Đồng ý với người kia",
+      "By agreeing with the other person"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Ngắt lời lịch sự “Perdone que le interrumpa, pero…” rồi phản bác mềm: không nói “sai” mà nói “de hace diez años” – một chiến lược giữ thể diện.",
+     "Polite interruption “Perdone que le interrumpa, pero…” followed by a soft objection: not “wrong” but “ten years old” – a face-saving strategy."
+    ],
+    "f": [
+     "Perdone que le interrumpa",
+     "C1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Por mucho que algunos políticos prometan traer las fábricas de vuelta, la mayoría de los economistas duda de que eso sea realista a corto plazo.",
+    "q": [
+     "Phần lớn các nhà kinh tế nghĩ gì?",
+     "What do most economists think?"
+    ],
+    "o": [
+     [
+      "Họ nghi ngờ việc đưa nhà máy về là thực tế trong ngắn hạn",
+      "They doubt bringing factories back is realistic short-term"
+     ],
+     [
+      "Họ ủng hộ lời hứa của chính trị gia",
+      "They support the politicians' promise"
+     ],
+     [
+      "Họ cho rằng nhà máy đã quay về",
+      "They think factories have already returned"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Por mucho que + subjuntivo” (prometan) = dù… bao nhiêu; “dudar de que + subjuntivo” (sea). “A corto plazo” = ngắn hạn.",
+     "“Por mucho que + subjunctive” (prometan) = however much; “dudar de que + subjunctive” (sea). “A corto plazo” = in the short term."
+    ],
+    "f": [
+     "duda de que eso sea realista",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Si me permite, quisiera matizar un punto: el crecimiento económico no siempre se traduce en desarrollo para toda la población.",
+    "e": [
+     "Mở đầu lịch sự “Si me permite, quisiera matizar…”. Nhấn mạnh tương phản CREcimiento / desaRROllo; hạ giọng cuối câu.",
+     "Polite opener “Si me permite, quisiera matizar…”. Stress the contrast CREcimiento / desaRROllo; fall at the end."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Crees que la globalización ha sido positiva para Vietnam? – En líneas generales, sí, aunque habría que matizar que no todas las regiones se han beneficiado por igual.",
+    "e": [
+     "Câu hỏi: Toàn cầu hoá có tích cực với Việt Nam không? – Gợi ý: trả lời có rào đón “en líneas generales” + nhượng bộ “aunque habría que matizar que…”.",
+     "Question: Has globalisation been positive for Vietnam? – Model: a hedged answer “en líneas generales” + concession “aunque habría que matizar que…”."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thôi nào, đừng nói quá lên thế; đúng là giá cả tăng thật, nhưng chưa đến mức mọi người không đủ tiền ăn đâu.",
+    "a": [
+     "Venga, no exageres; es verdad que los precios han subido, pero tampoco es para tanto: la gente todavía tiene para comer.",
+     "Anda, no te pases; vale que los precios han subido, pero no hasta el punto de que la gente no tenga para comer.",
+     "Venga, tampoco exageres: los precios han subido, sí, pero no es para tanto, la gente todavía tiene para comer."
+    ],
+    "e": [
+     "Văn phong thân mật (tú): “venga / anda”, “no te pases” (đừng quá lố), “no es para tanto” (không đến mức ấy), “vale que” (cứ cho là). “Hasta el punto de que + subjuntivo”.",
+     "Informal (tú): “venga / anda”, “no te pases” (don't overdo it), “no es para tanto” (it's not that bad), “vale que” (granted). “Hasta el punto de que + subjunctive”."
+    ],
+    "f": [
+     "no es para tanto",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển câu khẩu ngữ sang lời trang trọng trong cuộc họp (usted, rào đón)",
+     "Turn this casual remark into formal meeting language (usted, hedged)"
+    ],
+    "s": "Tu plan de abrir una fábrica en México no va a funcionar, está clarísimo.",
+    "a": [
+     "Permítame expresar ciertas reservas sobre el plan de abrir una fábrica en México; no estoy seguro de que vaya a funcionar tal como está planteado.",
+     "Con todo respeto, tengo algunas dudas sobre la viabilidad de abrir una fábrica en México; no tengo claro que el plan funcione tal como está planteado."
+    ],
+    "e": [
+     "tú → usted; khẳng định tuyệt đối “está clarísimo” → rào đón “no estoy seguro de que / no tengo claro que + subjuntivo”; danh từ hóa trang trọng (la viabilidad, ciertas reservas).",
+     "tú → usted; absolute “está clarísimo” → hedge “no estoy seguro de que / no tengo claro que + subjunctive”; formal nominalisation (la viabilidad, ciertas reservas)."
+    ],
+    "f": [
+     "no estoy seguro de que vaya a funcionar",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "No es que estoy en contra de las importaciones, es que creo que deberíamos proteger un poco más a los agricultores locales, ¿no te parece?",
+    "a": [
+     "No es que esté en contra de las importaciones, es que creo que deberíamos proteger un poco más a los agricultores locales, ¿no te parece?"
+    ],
+    "e": [
+     "“No es que” (không phải là…) phủ nhận một cách hiểu → luôn + **subjuntivo**: esté. Vế sau “es que” giải thích lý do thật → indicativo (creo). Đây là cách làm mềm ý kiến rất tự nhiên.",
+     "“No es que” (it's not that…) denies an interpretation → always + **subjunctive**: esté. The “es que” clause gives the real reason → indicative (creo). A very natural softening device."
+    ],
+    "f": [
+     "No es que esté en contra",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Con la crisis, muchas familias se están apretando el ___ y han dejado de comer fuera o de irse de vacaciones.",
+    "a": [
+     "cinturón"
+    ],
+    "e": [
+     "Thành ngữ **apretarse el cinturón** = thắt lưng buộc bụng. Nhớ dấu ở “cinturón”.",
+     "Idiom **apretarse el cinturón** = to tighten one's belt. Mind the accent on “cinturón”."
+    ],
+    "f": [
+     "apretando el cinturón",
+     "B2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "MODERADORA: ¿La globalización ha ido demasiado lejos? Señora Ortega, usted primero.\nORTEGA: Mire, es innegable que el comercio global ha abaratado productos y ha sacado a millones de personas de la pobreza, sobre todo en Asia. Pero no es menos cierto que muchas regiones industriales de Europa se quedaron sin fábricas cuando las empresas deslocalizaron la producción. ¿Acaso podemos pedir a esos trabajadores que celebren unos precios más bajos?\nVALLE: Si me permite, yo no lo veo exactamente así. Por mucho que se critique, la apertura comercial ha generado más empleo, más innovación y más oportunidades de las que ha destruido. El problema no es la globalización en sí, sino que los gobiernos no supieron proteger a quienes perdieron su trabajo.\nORTEGA: En eso estamos de acuerdo, aunque habría que matizar. La pandemia demostró lo frágiles que son unas cadenas de suministro tan largas.\nVALLE: Cierto, y por eso todo apunta a que veremos una globalización distinta: más regional, quizá menos eficiente, pero también más segura.",
+   "tr": "NGƯỜI DẪN: Toàn cầu hoá đã đi quá xa chưa? Thưa bà Ortega, mời bà trước.\nORTEGA: Này nhé, không thể phủ nhận thương mại toàn cầu đã làm hàng hóa rẻ đi và đưa hàng triệu người thoát nghèo, nhất là ở châu Á. Nhưng cũng không kém phần đúng là nhiều vùng công nghiệp của châu Âu đã mất hết nhà máy khi các doanh nghiệp chuyển sản xuất ra nước ngoài. Chẳng lẽ ta có thể yêu cầu những người lao động ấy ăn mừng vì giá rẻ hơn sao?\nVALLE: Nếu bà cho phép, tôi không hoàn toàn thấy như vậy. Dù bị chỉ trích đến đâu, việc mở cửa thương mại đã tạo ra nhiều việc làm, nhiều đổi mới và nhiều cơ hội hơn những gì nó phá hủy. Vấn đề không phải bản thân toàn cầu hoá, mà là các chính phủ đã không biết bảo vệ những người mất việc.\nORTEGA: Điểm đó thì chúng ta đồng ý, tuy cần nói rõ hơn. Đại dịch đã cho thấy những chuỗi cung ứng dài như vậy mong manh đến mức nào.\nVALLE: Đúng vậy, và chính vì thế mọi thứ cho thấy chúng ta sẽ chứng kiến một kiểu toàn cầu hoá khác: mang tính khu vực hơn, có lẽ kém hiệu quả hơn, nhưng cũng an toàn hơn."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Ortega dùng câu hỏi tu từ “¿Acaso podemos pedir…?” để làm gì?",
+     "What does Ortega achieve with the rhetorical question “¿Acaso podemos pedir…?”"
+    ],
+    "o": [
+     [
+      "Nhấn mạnh rằng giá rẻ không bù đắp được việc mất việc",
+      "Stress that cheaper prices don't compensate for lost jobs"
+     ],
+     [
+      "Hỏi ý kiến người dẫn",
+      "Ask the moderator's opinion"
+     ],
+     [
+      "Đồng ý với Valle",
+      "Agree with Valle"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“¿Acaso…?” là câu hỏi tu từ – người nói không chờ câu trả lời mà ngụ ý “không thể”. Đây là kỹ thuật thuyết phục.",
+     "“¿Acaso…?” is a rhetorical question – no answer expected; it implies “we can't”. A persuasive technique."
+    ],
+    "f": [
+     "¿Acaso podemos pedir a esos trabajadores…?",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo Valle, vấn đề thật sự là gì?",
+     "According to Valle, what is the real problem?"
+    ],
+    "o": [
+     [
+      "Chính phủ không bảo vệ người mất việc",
+      "Governments failed to protect those who lost their jobs"
+     ],
+     [
+      "Bản thân toàn cầu hoá",
+      "Globalisation itself"
+     ],
+     [
+      "Giá cả quá thấp",
+      "Prices being too low"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“El problema no es la globalización en sí, sino que los gobiernos no supieron proteger a quienes perdieron su trabajo.” – “no… sino que”.",
+     "“El problema no es la globalización en sí, sino que los gobiernos no supieron proteger…” – “no… sino que”."
+    ],
+    "f": [
+     "sino que los gobiernos no supieron proteger",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hai người đi đến kết luận chung nào?",
+     "What do both speakers end up agreeing on?"
+    ],
+    "o": [
+     [
+      "Toàn cầu hoá sẽ thay đổi: mang tính khu vực và an toàn hơn",
+      "Globalisation will change: more regional and safer"
+     ],
+     [
+      "Toàn cầu hoá sẽ chấm dứt",
+      "Globalisation will end"
+     ],
+     [
+      "Chuỗi cung ứng nên dài hơn",
+      "Supply chains should be longer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Ortega nêu sự mong manh của chuỗi cung ứng, Valle đồng ý (“Cierto”) và kết luận “una globalización distinta: más regional… más segura”.",
+     "Ortega mentions fragile supply chains, Valle agrees (“Cierto”) and concludes “una globalización distinta: más regional… más segura”."
+    ],
+    "f": [
+     "una globalización distinta",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "___ las exportaciones del país crecieron un ocho por ciento el año pasado, los salarios reales de la mayoría de los trabajadores apenas se movieron.",
+    "o": [
+     "Si bien",
+     "Por mucho que",
+     "A no ser que"
+    ],
+    "a": 0,
+    "e": [
+     "“Si bien” (trang trọng) + indicativo (crecieron) thừa nhận một sự thật rồi đối lập. “Por mucho que” cần subjuntivo; “a no ser que” = trừ khi.",
+     "“Si bien” (formal) + indicative (crecieron) concedes a fact, then contrasts. “Por mucho que” needs the subjunctive; “a no ser que” = unless."
+    ],
+    "f": [
+     "Si bien las exportaciones del país crecieron",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Por más que el gobierno ___ los aranceles a los productos importados, las empresas locales no podrán competir sin invertir en tecnología.",
+    "o": [
+     "suba",
+     "sube",
+     "subirá"
+    ],
+    "a": 0,
+    "e": [
+     "“Por más que / por mucho que” nói về giả định tương lai → **subjuntivo**: suba. (Dù chính phủ có tăng thuế quan đến đâu…)",
+     "“Por más que / por mucho que” about a hypothetical → **subjunctive**: suba. (However much the government raises tariffs…)"
+    ],
+    "f": [
+     "Por más que el gobierno suba los aranceles",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El país ha experimentado un fuerte ___ económico en la última década, pero eso no significa que la sanidad o la educación hayan mejorado al mismo ritmo.",
+    "o": [
+     "crecimiento",
+     "desarrollo",
+     "precio"
+    ],
+    "a": 0,
+    "e": [
+     "Tăng GDP = **crecimiento** (số lượng). “Desarrollo” bao gồm cả y tế, giáo dục – chính là điều câu sau phủ nhận. Đây là cặp gần nghĩa then chốt.",
+     "GDP rising = **crecimiento** (quantity). “Desarrollo” includes health and education – exactly what the second half denies. A key near-synonym pair."
+    ],
+    "f": [
+     "un fuerte crecimiento económico",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Muchas multinacionales decidieron ___ su producción a países con mano de obra más barata, lo que provocó el cierre de numerosas fábricas en Europa. (chuyển sản xuất ra nước ngoài)",
+    "a": [
+     "deslocalizar",
+     "trasladar"
+    ],
+    "e": [
+     "**Deslocalizar** = chuyển địa điểm sản xuất sang nước có chi phí thấp. Khác với “externalizar” (thuê công ty khác làm).",
+     "**Deslocalizar** = to move production to a low-cost country. Different from “externalizar” (to outsource to another company)."
+    ],
+    "f": [
+     "deslocalizar su producción",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Todo ___ a que la inflación seguirá moderándose en los próximos meses, aunque los expertos no descartan sorpresas por el precio de la energía.",
+    "a": [
+     "apunta"
+    ],
+    "e": [
+     "**Todo apunta a que** = mọi dấu hiệu cho thấy – cụm rào đón khi dự báo. Đi với indicativo (seguirá).",
+     "**Todo apunta a que** = everything suggests that – a hedge for forecasts. Takes the indicative (seguirá)."
+    ],
+    "f": [
+     "Todo apunta a que",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Aunque la globalización ha traído beneficios evidentes, por mucho que lo niegan algunos sectores, sus costes sociales tampoco pueden ignorarse.",
+    "a": [
+     "Aunque la globalización ha traído beneficios evidentes, por mucho que lo nieguen algunos sectores, sus costes sociales tampoco pueden ignorarse."
+    ],
+    "e": [
+     "“Por mucho que” luôn + **subjuntivo**: nieguen (negar → niegue, e → ie). “Aunque ha traído” đúng vì thừa nhận sự thật.",
+     "“Por mucho que” always takes the **subjunctive**: nieguen (negar → niegue, e → ie). “Aunque ha traído” is fine – a conceded fact."
+    ],
+    "f": [
+     "por mucho que lo nieguen",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Para producir este teléfono, el precio de los componentes y de la mano de obra ha aumentado casi un veinte por ciento desde el año pasado.",
+    "a": [
+     "Para producir este teléfono, el coste de los componentes y de la mano de obra ha aumentado casi un veinte por ciento desde el año pasado.",
+     "Para producir este teléfono, el costo de los componentes y de la mano de obra ha aumentado casi un veinte por ciento desde el año pasado."
+    ],
+    "e": [
+     "Chi phí để **sản xuất** = **coste** (Mỹ Latinh: costo). “Precio” là giá bán cho khách hàng – nhầm cặp gần nghĩa.",
+     "The cost of **producing** = **coste** (Latin America: costo). “Precio” is the selling price – a near-synonym mix-up."
+    ],
+    "f": [
+     "el coste de los componentes",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đúng là thương mại tự do đã giúp hàng hóa rẻ hơn, nhưng cũng không thể phủ nhận rằng nhiều người lao động đã mất việc vì nó.",
+    "a": [
+     "Es cierto que el libre comercio ha abaratado los productos, pero no es menos cierto que muchos trabajadores han perdido su empleo por ello.",
+     "Es verdad que el libre comercio ha hecho que los productos sean más baratos, pero es innegable que muchos trabajadores han perdido su trabajo a causa de ello.",
+     "Si bien el libre comercio ha abaratado los productos, no se puede negar que muchos trabajadores han perdido su empleo por su culpa."
+    ],
+    "e": [
+     "Khung tu từ “Es cierto que… pero no es menos cierto que / es innegable que…”. “Abaratar” = làm rẻ đi (gọn và trang trọng hơn “hacer más barato”).",
+     "Rhetorical frame “Es cierto que… pero no es menos cierto que / es innegable que…”. “Abaratar” = to make cheaper (more concise and formal)."
+    ],
+    "f": [
+     "no es menos cierto que",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin lỗi đã ngắt lời ông, nhưng tôi nghĩ cần nói rõ hơn con số đó, vì nó không tính đến lạm phát.",
+    "a": [
+     "Perdone que le interrumpa, pero creo que habría que matizar esa cifra, porque no tiene en cuenta la inflación.",
+     "Disculpe que le interrumpa, pero creo que esa cifra habría que matizarla, ya que no tiene en cuenta la inflación.",
+     "Perdone que le interrumpa, pero me parece que convendría matizar ese dato, porque no tiene en cuenta la inflación."
+    ],
+    "e": [
+     "Ngắt lời lịch sự: “Perdone/Disculpe que le interrumpa” (+ subjuntivo). Phản bác mềm bằng condicional: “habría que / convendría matizar”. “Tener en cuenta” = tính đến.",
+     "Polite interruption: “Perdone/Disculpe que le interrumpa” (+ subjunctive). Soft objection with the conditional: “habría que / convendría matizar”. “Tener en cuenta” = to take into account."
+    ],
+    "f": [
+     "habría que matizar esa cifra",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu phản bác thẳng thừng này thành lời phản bác lịch sự, có rào đón (dùng usted)",
+     "Rewrite this blunt objection as a polite, hedged one (use usted)"
+    ],
+    "s": "Eso que dice es falso: los aranceles no protegen el empleo.",
+    "a": [
+     "Yo no lo veo exactamente así; según los datos que conozco, los aranceles no siempre protegen el empleo.",
+     "Permítame discrepar: no está tan claro que los aranceles protejan el empleo.",
+     "Con todo respeto, no comparto del todo su opinión; cabe pensar que los aranceles no siempre protegen el empleo."
+    ],
+    "e": [
+     "Thay “es falso” (đe dọa thể diện) bằng “yo no lo veo exactamente así / permítame discrepar / con todo respeto”; làm mềm khẳng định bằng “no siempre”, “no está tan claro que + subjuntivo”.",
+     "Replace face-threatening “es falso” with “yo no lo veo exactamente así / permítame discrepar / con todo respeto”; soften the claim with “no siempre”, “no está tan claro que + subjunctive”."
+    ],
+    "f": [
+     "Yo no lo veo exactamente así",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "No se trata de|frenar|la globalización,|sino de|garantizar|que sus beneficios|lleguen|a toda la sociedad",
+    "m": [
+     "Vấn đề không phải là kìm hãm toàn cầu hoá, mà là bảo đảm lợi ích của nó đến được với toàn xã hội.",
+     "It's not about stopping globalisation but about ensuring its benefits reach the whole of society."
+    ],
+    "e": [
+     "“No se trata de… sino de…” = vấn đề không phải… mà là… – cấu trúc tái định khung (reframing) rất hay dùng trong tranh luận. “Garantizar que + subjuntivo” (lleguen).",
+     "“No se trata de… sino de…” = it's not about… but about… – a reframing device common in debate. “Garantizar que + subjunctive” (lleguen)."
+    ],
+    "f": [
+     "No se trata de frenar la globalización, sino de",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết bài phát biểu tranh luận khoảng 180 từ: “¿Debe Vietnam seguir apostando por la inversión extranjera?” Dùng ít nhất 1 nhượng bộ chiến lược (es cierto que… pero…), 1 câu hỏi tu từ, 1 bộ ba và 2 cụm rào đón.",
+     "Write a ~180-word debate speech: “Should Vietnam keep betting on foreign investment?” Use at least one strategic concession (es cierto que… pero…), one rhetorical question, one rule of three and two hedges."
+    ],
+    "m": "Señoras y señores: es cierto que la inversión extranjera ha transformado Vietnam en pocas décadas. Gracias a ella, millones de jóvenes han encontrado empleo en fábricas de electrónica y textil, y el país se ha integrado en las cadenas de suministro globales. Sin embargo, no es menos cierto que gran parte del valor añadido sigue quedándose fuera: diseñamos poco, investigamos poco y patentamos aún menos. ¿Acaso queremos ser para siempre el taller del mundo? Todo apunta a que la mano de obra barata no será una ventaja eterna, ya que los salarios suben y la automatización avanza. Por eso, en mi opinión, no se trata de cerrar la puerta a la inversión extranjera, sino de exigirle algo más: transferencia de tecnología, formación para los trabajadores y colaboración con empresas locales. Cabe pensar que, si lo hacemos bien, dentro de veinte años no solo fabricaremos productos, sino que también los inventaremos. Muchas gracias.",
+    "e": [
+     "Checklist: • “es cierto que… no es menos cierto que…” • câu hỏi tu từ (¿Acaso…?) • bộ ba (transferencia, formación, colaboración) • ≥ 2 rào đón (todo apunta a que, cabe pensar que) • lời chào/kết của bài phát biểu.",
+     "Checklist: • “es cierto que… no es menos cierto que…” • rhetorical question (¿Acaso…?) • rule of three • ≥ 2 hedges (todo apunta a que, cabe pensar que) • speech opening/closing."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-r",
+  "t": [
+   "Bài đọc: Đọc trong thời đại số",
+   "Reading: Reading in the digital age"
+  ],
+  "rd": {
+   "tx": "Nunca se ha leído tanto como ahora, aunque quizá nunca se haya leído tan deprisa. Pasamos el día saltando de un mensaje a otro, de un titular a otro, y esa costumbre parece estar modificando nuestra forma de leer textos largos. Diversos investigadores advierten de que la lectura en pantalla favorece un barrido rápido de la información en detrimento de la comprensión profunda. No obstante, sería simplista culpar únicamente a la tecnología. Lo que está en juego no es el soporte, sino la atención. De ahí que algunos especialistas propongan recuperar la lectura lenta: reservar cada día un tiempo sin notificaciones para un texto exigente, igual que reservamos tiempo para el ejercicio físico.",
+   "tr": "Chưa bao giờ con người đọc nhiều như bây giờ, dù có lẽ cũng chưa bao giờ đọc vội đến thế. Ta dành cả ngày nhảy từ tin nhắn này sang tin nhắn khác, từ tiêu đề này sang tiêu đề khác, và thói quen đó dường như đang thay đổi cách ta đọc văn bản dài. Nhiều nhà nghiên cứu cảnh báo rằng đọc trên màn hình khuyến khích lướt nhanh thông tin, làm giảm khả năng hiểu sâu. Tuy vậy, sẽ là quá đơn giản nếu chỉ đổ lỗi cho công nghệ. Điều thực sự quan trọng không phải là phương tiện, mà là sự chú ý. Vì thế một số chuyên gia đề xuất khôi phục việc đọc chậm: mỗi ngày dành ra một khoảng thời gian không thông báo cho một văn bản khó, giống như ta dành thời gian để tập thể dục."
+  },
+  "vo": [
+   [
+    "deprisa",
+    "de-PRI-sa",
+    "vội vàng, nhanh",
+    "quickly"
+   ],
+   [
+    "el titular",
+    "el ti-tu-LAR",
+    "tiêu đề (báo)",
+    "headline"
+   ],
+   [
+    "en detrimento de",
+    "en de-tri-MEN-to de",
+    "gây hại cho",
+    "at the expense of"
+   ],
+   [
+    "simplista",
+    "sim-PLIS-ta",
+    "quá đơn giản",
+    "simplistic"
+   ],
+   [
+    "estar en juego",
+    "es-TAR en JUE-go",
+    "bị đặt cược, quan trọng",
+    "to be at stake"
+   ],
+   [
+    "exigente",
+    "e-xi-GEN-te",
+    "đòi hỏi cao",
+    "demanding"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Theo bài, ngày nay ta đọc thế nào?",
+     "How do we read nowadays?"
+    ],
+    [
+     [
+      "nhiều nhưng rất vội",
+      "a lot but very fast"
+     ],
+     [
+      "ít và chậm",
+      "little and slowly"
+     ],
+     [
+      "chỉ đọc sách giấy",
+      "only paper books"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Tác giả có đổ lỗi hoàn toàn cho công nghệ?",
+     "Does the author fully blame technology?"
+    ],
+    [
+     [
+      "Không, vấn đề là sự chú ý",
+      "No, the issue is attention"
+     ],
+     [
+      "Có",
+      "Yes"
+     ],
+     [
+      "Không nhắc đến",
+      "Not mentioned"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“en detrimento de” nghĩa là?",
+     "“en detrimento de” means?"
+    ],
+    [
+     [
+      "gây hại cho, làm giảm",
+      "at the expense of"
+     ],
+     [
+      "nhờ vào",
+      "thanks to"
+     ],
+     [
+      "ngoài ra",
+      "besides"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Nunca se ha leído tanto, aunque quizá nunca se ___ leído tan deprisa.",
+    [
+     "ha",
+     "haya",
+     "había"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "___ que algunos especialistas propongan recuperar la lectura lenta.",
+    [
+     "De ahí",
+     "Por eso",
+     "Así"
+    ],
+    0,
+    [
+     "De ahí que + subjuntivo; “por eso” đi với indicativo.",
+     "De ahí que takes the subjunctive; “por eso” takes the indicative."
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Giải pháp được đề xuất?",
+     "The proposed solution?"
+    ],
+    [
+     [
+      "mỗi ngày dành thời gian đọc chậm, không thông báo",
+      "daily notification-free slow reading"
+     ],
+     [
+      "bỏ điện thoại",
+      "getting rid of phones"
+     ],
+     [
+      "chỉ đọc tin tức",
+      "reading only news"
+     ]
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Diversos investigadores advierten de que la lectura en pantalla favorece un barrido rápido de la información en detrimento de la comprensión profunda.",
+    "q": [
+     "Các nhà nghiên cứu cảnh báo điều gì?",
+     "What do the researchers warn about?"
+    ],
+    "o": [
+     [
+      "Đọc trên màn hình khiến ta lướt nhanh, giảm hiểu sâu",
+      "Screen reading encourages skimming at the expense of deep understanding"
+     ],
+     [
+      "Màn hình gây hại cho mắt",
+      "Screens damage the eyes"
+     ],
+     [
+      "Người ta không còn đọc nữa",
+      "People no longer read"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“En detrimento de” = gây hại cho, làm giảm. “Advertir de que” = cảnh báo rằng.",
+     "“En detrimento de” = at the expense of. “Advertir de que” = to warn that."
+    ],
+    "f": [
+     "en detrimento de",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Nunca se ha leído tanto como ahora, aunque quizá nunca se haya leído tan deprisa ni con tan poca atención.",
+    "e": [
+     "“Quizá” + subjuntivo (se haya leído) thể hiện sự không chắc chắn. “Tanto como” (so sánh bằng), “tan deprisa”.",
+     "“Quizá” + subjunctive (se haya leído) expresses uncertainty. “Tanto como” (equal comparison), “tan deprisa”."
+    ],
+    "f": [
+     "quizá nunca se haya leído",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Algunos especialistas proponen reservar cada día un tiempo sin notificaciones para un texto exigente, igual que reservamos tiempo para el ejercicio.",
+    "e": [
+     "Chú ý âm “x” trong “exigente” đọc như /ks/ và “g” trước e đọc như /x/ (âm “h” mạnh).",
+     "Note “x” in “exigente” sounds /ks/ and “g” before e sounds /x/ (strong “h”)."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "Pasamos el día saltando de un titular a otro; ___ que nos cueste cada vez más concentrarnos en un libro largo durante una hora seguida.",
+    "o": [
+     "de ahí",
+     "por eso",
+     "así"
+    ],
+    "a": 0,
+    "e": [
+     "Động từ sau chỗ trống ở subjuntivo (cueste) → chỉ “**de ahí** que” phù hợp. “Por eso” đi với indicativo và không cần “que”.",
+     "The verb after the blank is subjunctive (cueste) → only “**de ahí** que” fits. “Por eso” takes the indicative and no “que”."
+    ],
+    "f": [
+     "de ahí que nos cueste",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Sería simplista culpar únicamente a la tecnología, ya que lo que está ___ (bị đặt cược/quan trọng) no es el soporte, sino nuestra capacidad de atención.",
+    "a": [
+     "en juego"
+    ],
+    "e": [
+     "“Estar en juego” = bị đặt cược, là điều thực sự quan trọng (như trong bài đọc). Cấu trúc “no es X, sino Y” làm rõ điều gì mới là then chốt.",
+     "“Estar en juego” = to be at stake (as in the text). The structure “no es X, sino Y” clarifies what really matters."
+    ],
+    "f": [
+     "en juego",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Algunos especialistas proponen que recuperamos la lectura lenta y que reservemos cada día un tiempo sin notificaciones para un texto exigente.",
+    "a": [
+     "Algunos especialistas proponen que recuperemos la lectura lenta y que reservemos cada día un tiempo sin notificaciones para un texto exigente."
+    ],
+    "e": [
+     "“Proponer que” (đề xuất ai làm gì) + **subjuntivo**: recuperemos, giống “reservemos” ở vế sau. “Recuperamos” là indicativo.",
+     "“Proponer que” (to propose that someone does something) + **subjunctive**: recuperemos, like “reservemos” later on. “Recuperamos” is indicative."
+    ],
+    "f": [
+     "proponen que recuperemos",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Vấn đề không phải là chúng ta đọc trên giấy hay trên màn hình, mà là chúng ta có thể duy trì sự chú ý trong bao lâu.",
+    "a": [
+     "El problema no es si leemos en papel o en pantalla, sino cuánto tiempo somos capaces de mantener la atención.",
+     "Lo que importa no es si leemos en papel o en pantalla, sino durante cuánto tiempo podemos mantener la atención.",
+     "La cuestión no es si leemos en papel o en pantalla, sino cuánto tiempo somos capaces de mantener la atención."
+    ],
+    "e": [
+     "“Không phải… mà là…” = **no es…, sino…** (không dùng “pero”). Câu hỏi gián tiếp: “si leemos”, “cuánto tiempo” (có dấu).",
+     "“Not… but…” = **no es…, sino…** (not “pero”). Indirect questions: “si leemos”, “cuánto tiempo” (with accent)."
+    ],
+    "f": [
+     "no es si leemos en papel o en pantalla, sino",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “en detrimento de”",
+     "Rewrite the sentence using “en detrimento de”"
+    ],
+    "s": "La lectura rápida en pantalla nos permite procesar mucha información, pero perjudica la comprensión profunda de los textos largos y complejos.",
+    "a": [
+     "La lectura rápida en pantalla nos permite procesar mucha información en detrimento de la comprensión profunda de los textos largos y complejos.",
+     "La lectura rápida en pantalla nos permite procesar mucha información, en detrimento de la comprensión profunda de los textos largos y complejos."
+    ],
+    "e": [
+     "“En detrimento de” + danh từ thay cho “pero perjudica”: nối thẳng hai ý, văn phong trang trọng hơn.",
+     "“En detrimento de” + noun replaces “pero perjudica”: it links the ideas directly in a more formal register."
+    ],
+    "f": [
+     "en detrimento de la comprensión profunda",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Lo que|está en juego|no es|el soporte|en el que leemos,|sino|la calidad|de nuestra atención|cuando leemos",
+    "m": [
+     "Điều thực sự quan trọng không phải là phương tiện ta đọc, mà là chất lượng sự chú ý khi ta đọc.",
+     "What is at stake is not the medium we read on, but the quality of our attention when we read."
+    ],
+    "e": [
+     "“Lo que está en juego” làm chủ ngữ; “no es X, sino Y” đối lập hai ý. “En el que” = trên đó (mệnh đề quan hệ có giới từ).",
+     "“Lo que está en juego” is the subject; “no es X, sino Y” contrasts two ideas. “En el que” = on which (relative clause with a preposition)."
+    ],
+    "f": [
+     "Lo que está en juego",
+     "C1"
+    ]
+   }
+  ]
+ }
+]

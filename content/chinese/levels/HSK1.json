@@ -1,0 +1,4543 @@
+[
+ {
+  "id": "h1-1",
+  "t": [
+   "Pinyin & 4 thanh điệu",
+   "Pinyin & the four tones"
+  ],
+  "hz": "你好马",
+  "th": [
+   [
+    "Mỗi âm tiết = **thanh mẫu** (phụ âm đầu) + **vận mẫu** (vần) + **thanh điệu**. Ví dụ: hǎo = h + ao + thanh 3.",
+    "Each syllable = **initial** + **final** + **tone**. Example: hǎo = h + ao + tone 3."
+   ],
+   [
+    "Bốn thanh và thanh nhẹ:\n• **Thanh 1** (ā): cao, ngang, giữ đều\n• **Thanh 2** (á): đi lên, như khi hỏi lại “hả?”\n• **Thanh 3** (ǎ): xuống thấp rồi hơi lên\n• **Thanh 4** (à): rơi mạnh, dứt khoát\n• **Thanh nhẹ**: không dấu, ngắn và nhẹ – māma, xièxie",
+    "Four tones plus neutral:\n• **Tone 1** (ā): high and level\n• **Tone 2** (á): rising, like “huh?”\n• **Tone 3** (ǎ): dips low, then rises slightly\n• **Tone 4** (à): sharp falling\n• **Neutral**: unmarked, short and light – māma, xièxie"
+   ],
+   [
+    "Sai thanh là sai nghĩa: mā 妈 (mẹ) – má 麻 (tê, gai) – mǎ 马 (ngựa) – mà 骂 (mắng).",
+    "A wrong tone changes the word: mā 妈 (mother) – má 麻 (hemp, numb) – mǎ 马 (horse) – mà 骂 (scold)."
+   ],
+   [
+    "Đặt dấu thanh: ưu tiên **a > o > e** (hǎo, gǒu, xiè). Với **iu / ui**, đặt ở chữ cái thứ hai (liù, duì).",
+    "Tone mark placement: **a > o > e** (hǎo, gǒu, xiè). In **iu / ui**, mark the second letter (liù, duì)."
+   ],
+   [
+    "**Biến điệu**: hai thanh 3 liền nhau → thanh 3 đầu đọc thành thanh 2: nǐ hǎo đọc là **ní hǎo**. 不 bù đứng trước thanh 4 đọc thành **bú**: bú kèqi.",
+    "**Tone sandhi**: two third tones in a row → the first becomes tone 2: nǐ hǎo is said **ní hǎo**. 不 bù before a fourth tone becomes **bú**: bú kèqi."
+   ],
+   [
+    "Âm khó với người Việt: **zh / ch / sh** (uốn lưỡi), **j / q / x** (mặt lưỡi chạm sát răng dưới; q gần “ch” bật hơi, x gần “s” mỏng), **ü** (tròn môi như nói “u” nhưng đọc “i”).",
+    "Tricky sounds: **zh / ch / sh** (retroflex), **j / q / x** (tongue flat behind lower teeth; q is aspirated), **ü** (round lips as for “u”, say “i”)."
+   ]
+  ],
+  "vo": [
+   [
+    "你好",
+    "nǐ hǎo",
+    "xin chào",
+    "hello"
+   ],
+   [
+    "谢谢",
+    "xièxie",
+    "cảm ơn",
+    "thank you"
+   ],
+   [
+    "不客气",
+    "bú kèqi",
+    "không có gì",
+    "you're welcome"
+   ],
+   [
+    "再见",
+    "zàijiàn",
+    "tạm biệt",
+    "goodbye"
+   ],
+   [
+    "对不起",
+    "duìbuqǐ",
+    "xin lỗi",
+    "sorry"
+   ],
+   [
+    "没关系",
+    "méi guānxi",
+    "không sao",
+    "it doesn't matter"
+   ],
+   [
+    "妈妈",
+    "māma",
+    "mẹ",
+    "mother"
+   ],
+   [
+    "马",
+    "mǎ",
+    "con ngựa",
+    "horse"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "“mǎ” mang thanh mấy?",
+     "Which tone is “mǎ”?"
+    ],
+    [
+     [
+      "Thanh 1",
+      "Tone 1"
+     ],
+     [
+      "Thanh 2",
+      "Tone 2"
+     ],
+     [
+      "Thanh 3",
+      "Tone 3"
+     ],
+     [
+      "Thanh 4",
+      "Tone 4"
+     ]
+    ],
+    2
+   ],
+   [
+    "mc",
+    [
+     "“xièxie” nghĩa là?",
+     "“xièxie” means?"
+    ],
+    [
+     [
+      "xin lỗi",
+      "sorry"
+     ],
+     [
+      "cảm ơn",
+      "thank you"
+     ],
+     [
+      "tạm biệt",
+      "goodbye"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Đặt dấu đúng cho “liu” thanh 4:",
+     "Correct tone mark for “liu”, tone 4:"
+    ],
+    [
+     "lìu",
+     "liù"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "“nǐ hǎo” thực tế đọc là?",
+     "“nǐ hǎo” is actually pronounced?"
+    ],
+    [
+     "nǐ hǎo",
+     "ní hǎo",
+     "nì hào"
+    ],
+    1
+   ],
+   [
+    "listen",
+    "谢谢",
+    [
+     "xièxie",
+     "zàijiàn",
+     "duìbuqǐ"
+    ],
+    0
+   ],
+   [
+    "listen",
+    "再见",
+    [
+     "nǐ hǎo",
+     "zàijiàn",
+     "méi guānxi"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Ai đó nói 对不起. Bạn đáp:",
+     "Someone says 对不起. You reply:"
+    ],
+    [
+     "不客气",
+     "没关系",
+     "再见"
+    ],
+    1
+   ],
+   [
+    "say",
+    "你好"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "你好，我是越南人，我很喜欢学习汉语。",
+    "q": [
+     "Câu vừa nghe được phiên âm đúng là câu nào?",
+     "Which pinyin matches the sentence you heard?"
+    ],
+    "o": [
+     "Nǐ hǎo, wǒ shì Yuènán rén, wǒ hěn xǐhuan xuéxí Hànyǔ.",
+     "Nǐ hào, wǒ shì Yuènán rén, wǒ hěn xǐhuan xuéxí Hànyú.",
+     "Nǐ hǎo, wǒ shì Yuēnán rén, wǒ hěn xíhuan xuéxí Hànyǔ."
+    ],
+    "a": 0,
+    "e": [
+     "Phương án đúng giữ đủ thanh: hǎo, hěn, xǐ, yǔ đều là thanh 3, Yuè là thanh 4. Hai phương án còn lại đổi thanh của hǎo/yǔ hoặc Yuè/xǐ – sai một thanh là thành từ khác.",
+     "The correct option keeps every tone: hǎo, hěn, xǐ, yǔ are tone 3 and Yuè is tone 4. The others change hǎo/yǔ or Yuè/xǐ – one wrong tone makes a different word."
+    ],
+    "f": [
+     "Hànyǔ",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "妈妈骑马，马很慢，妈妈骂马。",
+    "q": [
+     "Chữ 马 (ngựa) và chữ 骂 (mắng) lần lượt mang thanh mấy?",
+     "Which tones do 马 (horse) and 骂 (scold) carry?"
+    ],
+    "o": [
+     [
+      "thanh 3 – thanh 4",
+      "tone 3 – tone 4"
+     ],
+     [
+      "thanh 4 – thanh 3",
+      "tone 4 – tone 3"
+     ],
+     [
+      "thanh 1 – thanh 4",
+      "tone 1 – tone 4"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "马 là mǎ (thanh 3, xuống thấp rồi hơi lên), 骂 là mà (thanh 4, rơi mạnh). 妈 mā mới là thanh 1 – đây là ba chữ người học hay nhầm nhất.",
+     "马 is mǎ (tone 3, dipping) and 骂 is mà (tone 4, sharply falling). 妈 mā is the tone-1 one – these three are the classic mix-up."
+    ],
+    "f": [
+     "骂马",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "老师，对不起，我今天不去学校，我们明天见。",
+    "e": [
+     "Chú ý 对不起 đọc duìbuqǐ (chữ 不 đọc nhẹ), còn 不去 đọc là bú qù vì 不 đứng trước thanh 4. Viết đúng 学校 (trường) chứ không phải 学生 (học sinh).",
+     "Note 对不起 is duìbuqǐ (light 不), while 不去 is said bú qù because 不 precedes a 4th tone. Write 学校 (school), not 学生 (student)."
+    ],
+    "f": [
+     "对不起",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你好，我叫阮兰，我是越南人，很高兴认识你。",
+    "e": [
+     "你好 đọc thành ní hǎo (biến điệu thanh 3). 很高兴 = hěn gāoxìng, 认识 = rènshi (chữ shi đọc nhẹ).",
+     "你好 is said ní hǎo (third-tone sandhi). 很高兴 = hěn gāoxìng, 认识 = rènshi with a light shi."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我叫阮明，我是越南人，我在河内学习汉语。汉语有四个声调，我觉得第三声很难。老师说：“‘你好’不读nǐ hǎo，读ní hǎo。”每天早上，我先听老师说话，然后跟老师读。我的中国朋友说我的发音很好，我很高兴。",
+   "tr": "Tôi tên là Nguyễn Minh, tôi là người Việt Nam, tôi học tiếng Hán ở Hà Nội. Tiếng Hán có bốn thanh điệu, tôi thấy thanh 3 rất khó. Thầy giáo nói: “‘你好’ không đọc là nǐ hǎo mà đọc là ní hǎo.” Mỗi sáng, tôi nghe thầy nói trước, sau đó đọc theo thầy. Bạn Trung Quốc của tôi nói phát âm của tôi rất tốt, tôi rất vui."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Minh thấy thanh điệu nào khó nhất?",
+     "Which tone does Minh find hard?"
+    ],
+    "o": [
+     [
+      "thanh 3",
+      "tone 3"
+     ],
+     [
+      "thanh 1",
+      "tone 1"
+     ],
+     [
+      "thanh 4",
+      "tone 4"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Bài viết: 我觉得第三声很难 – “tôi thấy thanh 3 rất khó”. 第三声 nghĩa là thanh thứ ba.",
+     "The text says 我觉得第三声很难 – “I find the third tone hard”. 第三声 means the third tone."
+    ],
+    "f": [
+     "第三声很难",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo thầy giáo, 你好 thực tế đọc thế nào?",
+     "According to the teacher, how is 你好 actually pronounced?"
+    ],
+    "o": [
+     "ní hǎo",
+     "nǐ hǎo",
+     "nì hào"
+    ],
+    "a": 0,
+    "e": [
+     "Thầy nói 不读nǐ hǎo，读ní hǎo: hai thanh 3 đi liền nhau thì thanh 3 đầu biến thành thanh 2. Chữ viết vẫn giữ dấu thanh 3.",
+     "The teacher says 不读nǐ hǎo，读ní hǎo: with two third tones in a row, the first becomes tone 2. The written mark stays tone 3."
+    ],
+    "f": [
+     "读ní hǎo",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mỗi sáng Minh luyện phát âm thế nào?",
+     "How does Minh practise every morning?"
+    ],
+    "o": [
+     [
+      "nghe thầy nói rồi đọc theo",
+      "listens to the teacher, then repeats"
+     ],
+     [
+      "xem phim Trung Quốc",
+      "watches Chinese films"
+     ],
+     [
+      "luyện viết chữ Hán",
+      "practises writing characters"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu 我先听老师说话，然后跟老师读 cho thấy thứ tự: nghe trước (先), sau đó (然后) đọc theo (跟…读).",
+     "我先听老师说话，然后跟老师读 shows the order: first (先) listen, then (然后) read after (跟…读) the teacher."
+    ],
+    "f": [
+     "跟老师读",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我们说“不是”的时候，“不”要读 ___，因为“是”是第四声。",
+    "o": [
+     "bú",
+     "bù",
+     "bǔ"
+    ],
+    "a": 0,
+    "e": [
+     "不 vốn là bù (thanh 4), nhưng khi đứng trước một thanh 4 khác (shì) thì đọc thành bú. Vì vậy 不是 đọc là bú shì; trước thanh 1, 2, 3 vẫn đọc bù (bù hǎo).",
+     "不 is normally bù (tone 4), but before another 4th tone (shì) it becomes bú, so 不是 is bú shì. Before tones 1–3 it stays bù (bù hǎo)."
+    ],
+    "f": [
+     "bú",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我有一个中国朋友，她叫李月，她不是学生，是 ___（lǎoshī）。",
+    "a": [
+     "老师"
+    ],
+    "e": [
+     "lǎoshī = 老师 (giáo viên). Đừng nhầm với 学生 xuésheng (học sinh) – câu đã nói 她不是学生 nên vế sau phải là nghề khác.",
+     "lǎoshī = 老师 (teacher). Don't confuse it with 学生 xuésheng (student) – the sentence already says 她不是学生."
+    ],
+    "f": [
+     "老师",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我的马马是老师，她很喜欢喝茶，也喜欢说汉语。",
+    "a": [
+     "我的妈妈是老师，她很喜欢喝茶，也喜欢说汉语。",
+     "我妈妈是老师，她很喜欢喝茶，也喜欢说汉语。"
+    ],
+    "e": [
+     "“Mẹ” là 妈妈 māma (thanh 1 + thanh nhẹ). 马 mǎ là “con ngựa” – sai thanh dẫn đến sai chữ, sai nghĩa. Nói về người thân có thể bỏ 的: 我妈妈.",
+     "“Mother” is 妈妈 māma (tone 1 + neutral). 马 mǎ means “horse” – a wrong tone gives a wrong character. With family members 的 is often dropped: 我妈妈."
+    ],
+    "f": [
+     "妈妈",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin lỗi, hôm nay tôi không đi, ngày mai chúng ta gặp nhau nhé.",
+    "a": [
+     "对不起，我今天不去，我们明天见。",
+     "对不起，今天我不去，我们明天见。",
+     "对不起，我今天不去了，我们明天见。",
+     "对不起，我今天不去，我们明天再见。",
+     "对不起，今天我不去了，我们明天见吧。"
+    ],
+    "e": [
+     "对不起 = xin lỗi; 不去 đọc bú qù; “gặp nhau ngày mai” là 明天见. Từ chỉ thời gian 今天 đứng trước hoặc sau chủ ngữ, nhưng luôn trước động từ: không nói 我不去今天.",
+     "对不起 = sorry; 不去 is said bú qù; “see you tomorrow” is 明天见. The time word 今天 goes before or after the subject but always before the verb – never 我不去今天."
+    ],
+    "f": [
+     "我今天不去",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "老师|说|我的|发音|很好|，所以我|今天|很|高兴",
+    "m": [
+     "Thầy nói phát âm của tôi rất tốt, nên hôm nay tôi rất vui.",
+     "The teacher says my pronunciation is very good, so I'm very happy today."
+    ],
+    "e": [
+     "Trật tự: chủ ngữ + 说 + nội dung được nói; vế sau dùng 所以 (nên). 今天 đứng trước 很高兴, vì từ chỉ thời gian luôn đứng trước vị ngữ.",
+     "Order: subject + 说 + what was said; the second clause uses 所以 (so). 今天 comes before 很高兴 because time words precede the predicate."
+    ],
+    "f": [
+     "所以我今天很高兴",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "“你好”两个字都是第三声，所以我们说的时候，“你”要读成 ___。",
+    "o": [
+     "ní",
+     "nì",
+     "nī"
+    ],
+    "a": 0,
+    "e": [
+     "Hai thanh 3 liền nhau: thanh 3 thứ nhất đổi thành thanh 2 → ní hǎo. Lỗi hay gặp là đọc cả hai chữ thanh 3 nặng nề, nghe rất “cứng”.",
+     "Two third tones in a row: the first changes to tone 2 → ní hǎo. A common mistake is saying both as full third tones, which sounds stiff."
+    ],
+    "f": [
+     "ní",
+     "HSK1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h1-2",
+  "t": [
+   "Giới thiệu bản thân: 是 · 叫 · 吗",
+   "Introducing yourself: 是 · 叫 · 吗"
+  ],
+  "hz": "我是人",
+  "th": [
+   [
+    "Câu với **是 shì** (là): A 是 B. 我是学生 (Wǒ shì xuésheng). Phủ định dùng **不**: 我**不**是老师.",
+    "**是 shì** (to be): A 是 B. 我是学生 (Wǒ shì xuésheng). Negate with **不**: 我**不**是老师."
+   ],
+   [
+    "Câu hỏi có/không: thêm **吗 ma** cuối câu, không đổi trật tự: 你是老师**吗**？ → 是。/ 不是。",
+    "Yes/no question: add **吗 ma** at the end, word order unchanged: 你是老师**吗**？ → 是。/ 不是。"
+   ],
+   [
+    "Hỏi tên: 你**叫**什么名字？(Nǐ jiào shénme míngzi?) → 我叫阮兰。Lịch sự: 您贵姓？→ 我姓阮。",
+    "Asking a name: 你**叫**什么名字？→ 我叫阮兰。Polite: 您贵姓？→ 我姓阮。"
+   ],
+   [
+    "Quốc tịch: tên nước + **人**: 中国人, 越南人. Hỏi: 你是哪国人？→ 我是越南人。",
+    "Nationality: country + **人**: 中国人, 越南人. Ask: 你是哪国人？→ 我是越南人。"
+   ]
+  ],
+  "vo": [
+   [
+    "我",
+    "wǒ",
+    "tôi",
+    "I, me"
+   ],
+   [
+    "是",
+    "shì",
+    "là",
+    "to be"
+   ],
+   [
+    "叫",
+    "jiào",
+    "gọi, tên là",
+    "to be called"
+   ],
+   [
+    "名字",
+    "míngzi",
+    "tên",
+    "name"
+   ],
+   [
+    "学生",
+    "xuésheng",
+    "học sinh",
+    "student"
+   ],
+   [
+    "老师",
+    "lǎoshī",
+    "giáo viên",
+    "teacher"
+   ],
+   [
+    "中国",
+    "Zhōngguó",
+    "Trung Quốc",
+    "China"
+   ],
+   [
+    "越南人",
+    "Yuènán rén",
+    "người Việt Nam",
+    "Vietnamese person"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我___学生。",
+    [
+     "是",
+     "叫",
+     "吗"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "你是老师___？",
+    [
+     "吗",
+     "呢",
+     "不"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我___阮兰。",
+    [
+     "叫",
+     "吗",
+     "不"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "我不是中国人。",
+    [
+     [
+      "Tôi là người Trung Quốc.",
+      "I am Chinese."
+     ],
+     [
+      "Tôi không phải người Trung Quốc.",
+      "I am not Chinese."
+     ],
+     [
+      "Bạn là người Trung Quốc à?",
+      "Are you Chinese?"
+     ]
+    ],
+    1
+   ],
+   [
+    "order",
+    "我|是|越南|人",
+    [
+     "Tôi là người Việt Nam.",
+     "I am Vietnamese."
+    ]
+   ],
+   [
+    "order",
+    "你|叫|什么|名字",
+    [
+     "Bạn tên là gì?",
+     "What is your name?"
+    ]
+   ],
+   [
+    "listen",
+    "老师",
+    [
+     "lǎoshī",
+     "xuésheng",
+     "míngzi"
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Bạn là học sinh phải không?",
+     "Are you a student?"
+    ],
+    [
+     "你是学生吗？",
+     "你学生是吗？",
+     "你吗是学生？"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "你好，我叫阮兰，我是越南人，我不是中国人。",
+    "q": [
+     "Người nói là người nước nào?",
+     "Where is the speaker from?"
+    ],
+    "o": [
+     [
+      "Việt Nam",
+      "Vietnam"
+     ],
+     [
+      "Trung Quốc",
+      "China"
+     ],
+     [
+      "Nhật Bản",
+      "Japan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Người nói khẳng định 我是越南人 và phủ định 我不是中国人. Chú ý 不 + 是 → đọc bú shì.",
+     "The speaker says 我是越南人 and denies 我不是中国人. Note 不 + 是 is said bú shì."
+    ],
+    "f": [
+     "我是越南人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "他叫王明，他不是老师，他是我的同学。",
+    "q": [
+     "王明 là ai?",
+     "Who is Wang Ming?"
+    ],
+    "o": [
+     [
+      "bạn cùng lớp của người nói",
+      "the speaker's classmate"
+     ],
+     [
+      "giáo viên",
+      "a teacher"
+     ],
+     [
+      "bố của người nói",
+      "the speaker's father"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu 他不是老师，他是我的同学: phủ định nghề giáo viên, khẳng định là 同学 (bạn học).",
+     "他不是老师，他是我的同学: he is not a teacher but a 同学 (classmate)."
+    ],
+    "f": [
+     "他是我的同学",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "你是老师吗？我不是老师，我是学生。",
+    "e": [
+     "Câu hỏi có/không chỉ cần thêm 吗 ở cuối, trật tự không đổi. Câu trả lời phủ định dùng 不是, không dùng 没是.",
+     "A yes/no question just adds 吗 at the end with no change in word order. The negative answer is 不是, never 没是."
+    ],
+    "f": [
+     "你是老师吗",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "您好，我姓阮，叫阮文明，我是越南学生，很高兴认识您。",
+    "e": [
+     "您 nín là cách xưng hô lịch sự. 我姓阮 (họ Nguyễn) dùng 姓 cho họ, 叫 cho họ tên đầy đủ.",
+     "您 nín is the polite “you”. 我姓阮 uses 姓 for the surname and 叫 for the full name."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "大家好！我叫阮兰，我是越南人。我是学生，我在北京学习汉语。我的老师姓李，她是中国人。我有一个同学，他叫大卫，他不是中国人，他是美国人。今天大卫问我：“你是老师吗？”我说：“我不是老师，我是学生。”",
+   "tr": "Chào mọi người! Tôi tên là Nguyễn Lan, tôi là người Việt Nam. Tôi là sinh viên, tôi học tiếng Hán ở Bắc Kinh. Cô giáo của tôi họ Lý, cô là người Trung Quốc. Tôi có một bạn cùng lớp tên là David, cậu ấy không phải người Trung Quốc, cậu ấy là người Mỹ. Hôm nay David hỏi tôi: “Bạn là giáo viên à?” Tôi nói: “Tôi không phải giáo viên, tôi là sinh viên.”"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Cô giáo của Lan họ gì?",
+     "What is the teacher's surname?"
+    ],
+    "o": [
+     "李",
+     "王",
+     "阮"
+    ],
+    "a": 0,
+    "e": [
+     "Bài viết 我的老师姓李. 姓 dùng để nói họ; 阮 là họ của Lan, không phải của cô giáo.",
+     "The text says 我的老师姓李. 姓 gives the surname; 阮 is Lan's own surname."
+    ],
+    "f": [
+     "我的老师姓李",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "David là người nước nào?",
+     "Where is David from?"
+    ],
+    "o": [
+     [
+      "Mỹ",
+      "the USA"
+     ],
+     [
+      "Trung Quốc",
+      "China"
+     ],
+     [
+      "Việt Nam",
+      "Vietnam"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他不是中国人，他是美国人 – phủ định trước rồi khẳng định. Bẫy: đọc lướt chỉ thấy chữ 中国人.",
+     "他不是中国人，他是美国人 – first a denial, then the fact. Trap: skimming and only seeing 中国人."
+    ],
+    "f": [
+     "他是美国人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "David hỏi Lan điều gì?",
+     "What does David ask Lan?"
+    ],
+    "o": [
+     [
+      "Bạn có phải giáo viên không?",
+      "Are you a teacher?"
+     ],
+     [
+      "Bạn tên là gì?",
+      "What's your name?"
+     ],
+     [
+      "Bạn là người nước nào?",
+      "Where are you from?"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu hỏi là 你是老师吗？ – câu hỏi có/không với 吗, hỏi về nghề nghiệp.",
+     "The question is 你是老师吗？ – a yes/no question with 吗 about her job."
+    ],
+    "f": [
+     "你是老师吗",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你好，请问你___什么名字？我叫阮兰，我是越南人。",
+    "o": [
+     "叫",
+     "是",
+     "姓"
+    ],
+    "a": 0,
+    "e": [
+     "Hỏi tên dùng cố định 你叫什么名字？. 你是什么名字 là lỗi dịch từng chữ từ tiếng Việt; 姓 chỉ hỏi họ (您贵姓？), không đi với 名字.",
+     "Asking a name is fixed: 你叫什么名字？. 你是什么名字 is a word-for-word error; 姓 asks only for the surname and doesn't go with 名字."
+    ],
+    "f": [
+     "叫什么名字",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我们的老师不是越南人，她是中国人，你是中国人___？",
+    "a": [
+     "吗"
+    ],
+    "e": [
+     "Câu hỏi có/không: giữ nguyên câu trần thuật rồi thêm 吗 ở cuối. Không dùng 呢 vì đây không phải câu hỏi lại “còn bạn thì sao”.",
+     "Yes/no question: keep the statement and add 吗. Not 呢, since this isn't a “what about you” follow-up."
+    ],
+    "f": [
+     "你是中国人吗",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他是中国人吗？不，他不叫中国人，他是越南人。",
+    "a": [
+     "他是中国人吗？不，他不是中国人，他是越南人。",
+     "他是中国人吗？不是，他不是中国人，他是越南人。"
+    ],
+    "e": [
+     "叫 chỉ dùng cho tên gọi (他叫王明). Nói quốc tịch dùng 是, nên phủ định là 不是中国人.",
+     "叫 is only for names (他叫王明). Nationality uses 是, so the negative is 不是中国人."
+    ],
+    "f": [
+     "不是中国人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi tên là Nguyễn Lan, tôi là người Việt Nam, tôi không phải là giáo viên.",
+    "a": [
+     "我叫阮兰，我是越南人，我不是老师。",
+     "我叫阮兰，是越南人，不是老师。",
+     "我叫阮兰，我是越南人，不是老师。",
+     "我叫阮兰，我是越南人，我不是老师。"
+    ],
+    "e": [
+     "Tên → 叫, quốc tịch và nghề → 是, phủ định → 不是. Không dịch “là” trong “tên là” thành 是 (✗ 我是叫阮兰).",
+     "Name → 叫, nationality and job → 是, negative → 不是. Don't translate “tên là” with 是 (✗ 我是叫阮兰)."
+    ],
+    "f": [
+     "我不是老师",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "你|的|中国朋友|叫|什么|名字",
+    "m": [
+     "Người bạn Trung Quốc của bạn tên là gì?",
+     "What's your Chinese friend's name?"
+    ],
+    "e": [
+     "Từ để hỏi 什么名字 đứng đúng chỗ của câu trả lời (他叫王明), không đưa lên đầu câu. 你的 + danh từ chỉ sở hữu.",
+     "The question phrase 什么名字 stays where the answer goes (他叫王明); it isn't moved to the front. 你的 + noun shows possession."
+    ],
+    "f": [
+     "叫什么名字",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển thành câu hỏi có/không với 吗",
+     "Turn it into a yes/no question with 吗"
+    ],
+    "s": "你的同学大卫是美国人。",
+    "a": [
+     "你的同学大卫是美国人吗？"
+    ],
+    "e": [
+     "Chỉ cần thêm 吗 và dấu hỏi ở cuối, không đảo trật tự như tiếng Anh (✗ 是你的同学大卫美国人吗).",
+     "Just add 吗 and a question mark; never invert as in English (✗ 是你的同学大卫美国人吗)."
+    ],
+    "f": [
+     "是美国人吗",
+     "HSK1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h1-3",
+  "t": [
+   "Số đếm, tuổi & ngày tháng",
+   "Numbers, age & dates"
+  ],
+  "hz": "一二三十",
+  "th": [
+   [
+    "一 yī · 二 èr · 三 sān · 四 sì · 五 wǔ · 六 liù · 七 qī · 八 bā · 九 jiǔ · 十 shí\nGhép số: 11 = 十一 · 20 = 二十 · 35 = 三十五 · 100 = 一百",
+    "一 yī · 二 èr · 三 sān · 四 sì · 五 wǔ · 六 liù · 七 qī · 八 bā · 九 jiǔ · 十 shí\nBuilding numbers: 11 = 十一 · 20 = 二十 · 35 = 三十五 · 100 = 一百"
+   ],
+   [
+    "**二 hay 两?** Đếm số và số thứ tự dùng 二 (十二, 第二). Trước lượng từ dùng **两 liǎng**: 两个人 (hai người).",
+    "**二 or 两?** Use 二 in counting and ordinals (十二, 第二). Before a measure word use **两 liǎng**: 两个人 (two people)."
+   ],
+   [
+    "Hỏi số lượng: **几 jǐ** cho số nhỏ (thường dưới 10): 你几岁？(hỏi trẻ em). **多少 duōshao** cho số lớn / không rõ: 多少钱？Hỏi tuổi người lớn: 你多大？",
+    "Asking numbers: **几 jǐ** for small numbers (under ~10): 你几岁？(to a child). **多少 duōshao** for larger/unknown: 多少钱？Adult's age: 你多大？"
+   ],
+   [
+    "Ngày tháng viết **từ lớn đến nhỏ**: 2025年3月8号. Thứ trong tuần: 星期一 (thứ Hai), 星期二 … 星期六, **星期天 / 星期日** (Chủ nhật).",
+    "Dates go **from large to small**: 2025年3月8号. Weekdays: 星期一 (Monday), 星期二 … 星期六, **星期天 / 星期日** (Sunday)."
+   ]
+  ],
+  "vo": [
+   [
+    "几",
+    "jǐ",
+    "mấy",
+    "how many (small)"
+   ],
+   [
+    "多少",
+    "duōshao",
+    "bao nhiêu",
+    "how many / how much"
+   ],
+   [
+    "岁",
+    "suì",
+    "tuổi",
+    "years old"
+   ],
+   [
+    "月",
+    "yuè",
+    "tháng",
+    "month"
+   ],
+   [
+    "号",
+    "hào",
+    "ngày (trong tháng)",
+    "date"
+   ],
+   [
+    "星期",
+    "xīngqī",
+    "tuần, thứ",
+    "week"
+   ],
+   [
+    "今天",
+    "jīntiān",
+    "hôm nay",
+    "today"
+   ],
+   [
+    "明天",
+    "míngtiān",
+    "ngày mai",
+    "tomorrow"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Số 35 viết là?",
+     "How do you write 35?"
+    ],
+    [
+     "三五",
+     "三十五",
+     "五十三"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "我有___个哥哥。(2)",
+    [
+     "二",
+     "两"
+    ],
+    1,
+    [
+     "Trước lượng từ 个 dùng 两.",
+     "Before the measure word 个 use 两."
+    ]
+   ],
+   [
+    "fill",
+    "小朋友，你今年___岁？",
+    [
+     "几",
+     "多少"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“星期三” là?",
+     "“星期三” is?"
+    ],
+    [
+     [
+      "Thứ Ba",
+      "Tuesday"
+     ],
+     [
+      "Thứ Tư",
+      "Wednesday"
+     ],
+     [
+      "Thứ Năm",
+      "Thursday"
+     ]
+    ],
+    1
+   ],
+   [
+    "listen",
+    "九月十号",
+    [
+     "jiǔ yuè shí hào",
+     "liù yuè sì hào",
+     "jiǔ yuè sì hào"
+    ],
+    0
+   ],
+   [
+    "order",
+    "今天|是|星期|几",
+    [
+     "Hôm nay là thứ mấy?",
+     "What day is it today?"
+    ]
+   ],
+   [
+    "tr",
+    [
+     "Ngày mai là ngày 8 tháng 3.",
+     "Tomorrow is March 8th."
+    ],
+    [
+     "明天是三月八号。",
+     "明天是八号三月。",
+     "明天三月是八号。"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Hỏi giá tiền dùng?",
+     "To ask a price:"
+    ],
+    [
+     "几钱？",
+     "多少钱？",
+     "什么钱？"
+    ],
+    1
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我妹妹今年八岁，她的生日是十月二十五号。",
+    "q": [
+     "Sinh nhật em gái là ngày nào?",
+     "When is the younger sister's birthday?"
+    ],
+    "o": [
+     [
+      "25 tháng 10",
+      "25 October"
+     ],
+     [
+      "15 tháng 10",
+      "15 October"
+     ],
+     [
+      "25 tháng 4",
+      "25 April"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "十月 = tháng 10, 二十五号 = ngày 25. Ngày tháng tiếng Trung đi từ lớn đến nhỏ: tháng trước, ngày sau.",
+     "十月 = October, 二十五号 = the 25th. Chinese dates go from large to small: month, then day."
+    ],
+    "f": [
+     "十月二十五号",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "今天是星期三，明天是星期四，我们星期四去北京。",
+    "q": [
+     "Họ đi Bắc Kinh vào thứ mấy?",
+     "Which day are they going to Beijing?"
+    ],
+    "o": [
+     [
+      "thứ Năm",
+      "Thursday"
+     ],
+     [
+      "thứ Tư",
+      "Wednesday"
+     ],
+     [
+      "thứ Ba",
+      "Tuesday"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "星期四 = thứ Năm (星期一 mới là thứ Hai). Người Việt hay dịch nhầm 星期四 thành “thứ Tư”.",
+     "星期四 is Thursday (星期一 is Monday). Vietnamese learners often mistake 星期四 for “thứ Tư”."
+    ],
+    "f": [
+     "星期四",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我家有四口人，我爸爸今年五十岁。",
+    "e": [
+     "Đếm thành viên gia đình dùng lượng từ 口; tuổi dùng 岁 và không cần 是 (✗ 我爸爸是五十岁).",
+     "Family members are counted with 口; age uses 岁 without 是 (✗ 我爸爸是五十岁)."
+    ],
+    "f": [
+     "我家有四口人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "二〇二五年三月八号是星期六，我们去饭馆吃饭。",
+    "e": [
+     "Năm đọc từng chữ số: èr líng èr wǔ nián. 八号 = bā hào, 星期六 = xīngqīliù.",
+     "Years are read digit by digit: èr líng èr wǔ nián. 八号 = bā hào, 星期六 = xīngqīliù."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "今天是九月十号，星期三，是我的生日。我今年二十岁。我家有四口人：爸爸、妈妈、哥哥和我。爸爸五十二岁，妈妈四十九岁，哥哥二十四岁，他在北京工作。晚上我们一起去饭馆吃饭。明天是星期四，我上午九点有汉语课。",
+   "tr": "Hôm nay là ngày 10 tháng 9, thứ Tư, là sinh nhật của tôi. Năm nay tôi 20 tuổi. Nhà tôi có bốn người: bố, mẹ, anh trai và tôi. Bố 52 tuổi, mẹ 49 tuổi, anh trai 24 tuổi, anh ấy làm việc ở Bắc Kinh. Buổi tối cả nhà cùng đi ăn ở nhà hàng. Ngày mai là thứ Năm, buổi sáng lúc 9 giờ tôi có giờ học tiếng Hán."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Năm nay người viết bao nhiêu tuổi?",
+     "How old is the writer this year?"
+    ],
+    "o": [
+     "20",
+     "24",
+     "12"
+    ],
+    "a": 0,
+    "e": [
+     "我今年二十岁 = năm nay tôi 20 tuổi. 二十 là 2 × 10 = 20; 二十四 (24) là tuổi của anh trai.",
+     "我今年二十岁 = I'm 20 this year. 二十 is 2 × 10; 二十四 (24) is the brother's age."
+    ],
+    "f": [
+     "我今年二十岁",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nhà người viết có mấy người?",
+     "How many people are in the writer's family?"
+    ],
+    "o": [
+     "4",
+     "3",
+     "5"
+    ],
+    "a": 0,
+    "e": [
+     "我家有四口人 – lượng từ 口 đếm thành viên gia đình. Liệt kê: 爸爸、妈妈、哥哥和我 = 4 người.",
+     "我家有四口人 – 口 counts family members. The list 爸爸、妈妈、哥哥和我 makes four."
+    ],
+    "f": [
+     "我家有四口人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ngày mai người viết có tiết tiếng Hán lúc nào?",
+     "When is the writer's Chinese class tomorrow?"
+    ],
+    "o": [
+     [
+      "thứ Năm, 9 giờ sáng",
+      "Thursday, 9 a.m."
+     ],
+     [
+      "thứ Tư, 9 giờ sáng",
+      "Wednesday, 9 a.m."
+     ],
+     [
+      "thứ Năm, 9 giờ tối",
+      "Thursday, 9 p.m."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "明天是星期四 (thứ Năm), 上午九点 (9 giờ sáng). Hôm nay mới là thứ Tư (星期三).",
+     "明天是星期四 (Thursday), 上午九点 (9 a.m.). Today is Wednesday (星期三)."
+    ],
+    "f": [
+     "上午九点",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我有___个中国朋友，一个叫李明，一个叫王月，她们都是老师。",
+    "o": [
+     "两",
+     "二",
+     "几"
+    ],
+    "a": 0,
+    "e": [
+     "Trước lượng từ (个) số 2 phải là 两: 两个朋友. 二 chỉ dùng khi đếm số, số thứ tự (第二) hoặc trong số lớn (十二).",
+     "Before a measure word (个) “two” is 两: 两个朋友. 二 is for counting, ordinals (第二) or inside numbers (十二)."
+    ],
+    "f": [
+     "两个",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "小朋友，你今年___岁？我今年六岁，我很喜欢看书。",
+    "a": [
+     "几"
+    ],
+    "e": [
+     "Hỏi tuổi trẻ nhỏ (dưới 10) dùng 几岁. Với người lớn nên hỏi 你多大？; 多少岁 nghe thiếu tự nhiên với trẻ con.",
+     "Ask a young child's age with 几岁. For adults use 你多大？; 多少岁 sounds odd for a child."
+    ],
+    "f": [
+     "几岁",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "今天是八号九月，星期五，我和朋友去商店买东西。",
+    "a": [
+     "今天是九月八号，星期五，我和朋友去商店买东西。",
+     "今天是九月八日，星期五，我和朋友去商店买东西。"
+    ],
+    "e": [
+     "Ngày tháng tiếng Trung đi từ lớn đến nhỏ: năm → tháng → ngày, nên là 九月八号, ngược với tiếng Việt “ngày 8 tháng 9”.",
+     "Chinese dates go from large to small: year → month → day, so 九月八号 – the reverse of Vietnamese order."
+    ],
+    "f": [
+     "九月八号",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố tôi năm nay năm mươi tuổi, sinh nhật của bố là ngày 3 tháng 6.",
+    "a": [
+     "我爸爸今年五十岁，他的生日是六月三号。",
+     "我爸爸今年五十岁，他的生日是六月三日。",
+     "我爸爸今年五十岁，爸爸的生日是六月三号。",
+     "我爸爸今年五十岁，他生日是六月三号。"
+    ],
+    "e": [
+     "Tuổi: 今年 + số + 岁, không cần 是. Ngày tháng: 六月三号 (tháng trước, ngày sau); 号 dùng trong khẩu ngữ, 日 trong văn viết.",
+     "Age: 今年 + number + 岁, no 是. Date: 六月三号 (month before day); 号 is spoken, 日 is written."
+    ],
+    "f": [
+     "六月三号",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我明天|上午|九点|去|学校|学习|汉语",
+    "m": [
+     "Sáng mai lúc 9 giờ tôi đến trường học tiếng Hán.",
+     "Tomorrow at 9 a.m. I'm going to school to study Chinese."
+    ],
+    "e": [
+     "Thời gian xếp từ lớn đến nhỏ (明天 → 上午 → 九点) và đứng trước động từ. Hành động đi trước, mục đích sau: 去学校 + 学习汉语.",
+     "Time goes from large to small (明天 → 上午 → 九点) and comes before the verb. Movement first, then purpose: 去学校 + 学习汉语."
+    ],
+    "f": [
+     "明天上午九点",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đặt câu hỏi về tuổi (người lớn) bằng 多大",
+     "Ask about the (adult's) age using 多大"
+    ],
+    "s": "你的汉语老师王先生今年四十五岁。",
+    "a": [
+     "你的汉语老师王先生今年多大？",
+     "你的汉语老师王先生今年多大了？",
+     "你的汉语老师王先生今年多大年纪？"
+    ],
+    "e": [
+     "Thay phần số tuổi bằng từ để hỏi, giữ nguyên vị trí: 今年多大？. Hỏi người lớn không dùng 几岁 (nghe như hỏi trẻ con) và không thêm 吗.",
+     "Replace the age with the question word in the same slot: 今年多大？. Don't use 几岁 for adults (sounds childish) and don't add 吗."
+    ],
+    "f": [
+     "今年多大",
+     "HSK1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h1-4",
+  "t": [
+   "Lượng từ & 这 / 那",
+   "Measure words & this / that"
+  ],
+  "hz": "个本水",
+  "th": [
+   [
+    "Công thức bắt buộc: **số + lượng từ + danh từ**: 一个人, 三本书, 两杯水. Không nói 三书.",
+    "Required pattern: **number + measure word + noun**: 一个人, 三本书, 两杯水. Never 三书."
+   ],
+   [
+    "Lượng từ thường gặp:\n• **个 gè** – chung (người, nhiều vật)\n• **本 běn** – sách, vở\n• **杯 bēi** – cốc, ly\n• **口 kǒu** – thành viên gia đình: 我家有四口人\n• **块 kuài** – đồng (tiền), miếng",
+    "Common measure words:\n• **个 gè** – general\n• **本 běn** – books\n• **杯 bēi** – cups, glasses\n• **口 kǒu** – family members: 我家有四口人\n• **块 kuài** – yuan, pieces"
+   ],
+   [
+    "**这 zhè** (này), **那 nà** (kia), **哪 nǎ** (nào) + lượng từ: 这个, 那本书, 哪个？",
+    "**这 zhè** (this), **那 nà** (that), **哪 nǎ** (which) + measure word: 这个, 那本书, 哪个？"
+   ],
+   [
+    "**的 de** chỉ sở hữu: 我**的**书 (sách của tôi), 老师**的**名字.",
+    "**的 de** marks possession: 我**的**书 (my book), 老师**的**名字."
+   ]
+  ],
+  "vo": [
+   [
+    "个",
+    "gè",
+    "cái, con (lượng từ chung)",
+    "general measure word"
+   ],
+   [
+    "本",
+    "běn",
+    "quyển",
+    "measure word for books"
+   ],
+   [
+    "杯",
+    "bēi",
+    "cốc, ly",
+    "cup"
+   ],
+   [
+    "书",
+    "shū",
+    "sách",
+    "book"
+   ],
+   [
+    "水",
+    "shuǐ",
+    "nước",
+    "water"
+   ],
+   [
+    "茶",
+    "chá",
+    "trà",
+    "tea"
+   ],
+   [
+    "这",
+    "zhè",
+    "này",
+    "this"
+   ],
+   [
+    "那",
+    "nà",
+    "kia",
+    "that"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我有三___书。",
+    [
+     "个",
+     "本",
+     "杯"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "我要一___茶。",
+    [
+     "本",
+     "口",
+     "杯"
+    ],
+    2
+   ],
+   [
+    "fill",
+    "我家有五___人。",
+    [
+     "口",
+     "本",
+     "杯"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___个是你的？",
+    [
+     "哪",
+     "那么",
+     "什么"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Cách nói nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "两书",
+     "两本书",
+     "二本书"
+    ],
+    1
+   ],
+   [
+    "order",
+    "这|是|我|的|书",
+    [
+     "Đây là sách của tôi.",
+     "This is my book."
+    ]
+   ],
+   [
+    "listen",
+    "那杯茶",
+    [
+     "nà bēi chá",
+     "zhè běn shū",
+     "nà běn shū"
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Cái này bao nhiêu tiền?",
+     "How much is this one?"
+    ],
+    [
+     "这个多少钱？",
+     "多少钱这个？",
+     "这个几钱？"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "服务员，我们要三杯茶和一杯水，谢谢。",
+    "q": [
+     "Họ gọi mấy cốc trà?",
+     "How many cups of tea do they order?"
+    ],
+    "o": [
+     "3",
+     "2",
+     "1"
+    ],
+    "a": 0,
+    "e": [
+     "三杯茶 = ba cốc trà; 一杯水 là một cốc nước. Lượng từ 杯 dùng cho đồ uống trong cốc, ly.",
+     "三杯茶 = three cups of tea; 一杯水 is one glass of water. 杯 is the measure word for drinks in cups."
+    ],
+    "f": [
+     "三杯茶",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这本书是我的，那本书是我朋友的。",
+    "q": [
+     "Quyển sách kia là của ai?",
+     "Whose is that book?"
+    ],
+    "o": [
+     [
+      "của bạn người nói",
+      "the speaker's friend's"
+     ],
+     [
+      "của người nói",
+      "the speaker's"
+     ],
+     [
+      "của giáo viên",
+      "the teacher's"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "这 = này (gần), 那 = kia (xa). 那本书是我朋友的: quyển kia là của bạn tôi; 的 cuối câu thay cho “sách của…”.",
+     "这 = this (near), 那 = that (far). 那本书是我朋友的: that book is my friend's; final 的 stands for “…'s (book)”."
+    ],
+    "f": [
+     "那本书是我朋友的",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我家有五口人，我有两个哥哥和一个妹妹。",
+    "e": [
+     "Gia đình đếm bằng 口, người đếm bằng 个; số 2 trước lượng từ là 两 (两个哥哥), không phải 二.",
+     "Family size uses 口, people use 个; “two” before a measure word is 两 (两个哥哥), not 二."
+    ],
+    "f": [
+     "两个哥哥",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "这个杯子是我妈妈的，那个杯子是我的。",
+    "e": [
+     "这个 zhège, 那个 nàge, 杯子 bēizi (chữ zi đọc nhẹ).",
+     "这个 zhège, 那个 nàge, 杯子 bēizi with a light zi."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "这是我的房间。我的房间不大，但是很漂亮。桌子上有三本书，两本是中文书，一本是英文书。那个杯子是我妈妈的，这个杯子是我的。我每天在这儿喝两杯茶，看一个小时的书。我很喜欢我的房间。",
+   "tr": "Đây là phòng của tôi. Phòng tôi không lớn nhưng rất đẹp. Trên bàn có ba quyển sách, hai quyển là sách tiếng Trung, một quyển là sách tiếng Anh. Cái cốc kia là của mẹ tôi, cái cốc này là của tôi. Mỗi ngày tôi ở đây uống hai cốc trà, đọc sách một tiếng. Tôi rất thích phòng của mình."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Trên bàn có mấy quyển sách tiếng Trung?",
+     "How many Chinese books are on the desk?"
+    ],
+    "o": [
+     "2",
+     "3",
+     "1"
+    ],
+    "a": 0,
+    "e": [
+     "Có 三本书 tổng cộng, nhưng 两本是中文书 – chỉ hai quyển là sách tiếng Trung. Bẫy: chọn con số 3.",
+     "There are 三本书 in total, but 两本是中文书 – only two are Chinese. Trap: picking 3."
+    ],
+    "f": [
+     "两本是中文书",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cái cốc kia là của ai?",
+     "Whose is that cup?"
+    ],
+    "o": [
+     [
+      "của mẹ người viết",
+      "the writer's mother's"
+     ],
+     [
+      "của người viết",
+      "the writer's"
+     ],
+     [
+      "của bạn người viết",
+      "the writer's friend's"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "那个杯子是我妈妈的: 那个 = cái kia; cái 这个 (này) mới là của người viết.",
+     "那个杯子是我妈妈的: 那个 = that one; 这个 (this one) is the writer's."
+    ],
+    "f": [
+     "那个杯子是我妈妈的",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mỗi ngày người viết uống mấy cốc trà?",
+     "How many cups of tea does the writer drink a day?"
+    ],
+    "o": [
+     "2",
+     "3",
+     "1"
+    ],
+    "a": 0,
+    "e": [
+     "我每天在这儿喝两杯茶 – 两杯 = hai cốc. 两 dùng trước lượng từ 杯.",
+     "我每天在这儿喝两杯茶 – 两杯 = two cups. 两 is used before the measure word 杯."
+    ],
+    "f": [
+     "喝两杯茶",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我的桌子上有一___汉语书和两个杯子，那本书是我朋友的。",
+    "o": [
+     "本",
+     "个",
+     "杯"
+    ],
+    "a": 0,
+    "e": [
+     "Sách, vở dùng lượng từ 本. 个 là lượng từ chung nhưng không dùng cho sách; 杯 dùng cho đồ uống.",
+     "Books take 本. 个 is general but not used for books; 杯 is for drinks."
+    ],
+    "f": [
+     "一本汉语书",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "服务员，我们有四个人，我们要四___水和两杯茶。",
+    "a": [
+     "杯"
+    ],
+    "e": [
+     "Nước uống trong cốc đếm bằng 杯: 四杯水. Không được bỏ lượng từ (✗ 四水) vì số đếm phải đi kèm lượng từ.",
+     "Water in glasses is counted with 杯: 四杯水. The measure word can't be dropped (✗ 四水)."
+    ],
+    "f": [
+     "四杯水",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我有三书，这本是汉语书，那两本是英语书。",
+    "a": [
+     "我有三本书，这本是汉语书，那两本是英语书。"
+    ],
+    "e": [
+     "Công thức bắt buộc: số + lượng từ + danh từ → 三本书. Tiếng Việt có thể nói “ba sách” nhưng tiếng Trung không bao giờ bỏ lượng từ.",
+     "Required pattern: number + measure word + noun → 三本书. The measure word can never be dropped."
+    ],
+    "f": [
+     "三本书",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cái cốc này là của tôi, cái cốc kia là của mẹ tôi.",
+    "a": [
+     "这个杯子是我的，那个杯子是我妈妈的。",
+     "这个杯子是我的，那个是我妈妈的。",
+     "这个杯子是我的，那个杯子是我妈的。",
+     "这个杯子是我的，那个杯子是妈妈的。"
+    ],
+    "e": [
+     "这/那 + lượng từ (个) + danh từ; “của tôi” cuối câu là 是我的. Đừng quên 的 ở cuối: ✗ 那个杯子是我妈妈.",
+     "这/那 + measure word (个) + noun; “mine” at the end is 是我的. Don't drop the final 的: ✗ 那个杯子是我妈妈."
+    ],
+    "f": [
+     "那个杯子是我妈妈的",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "那|两本|汉语书|是|我|朋友|的",
+    "m": [
+     "Hai quyển sách tiếng Hán kia là của bạn tôi.",
+     "Those two Chinese books are my friend's."
+    ],
+    "e": [
+     "Thứ tự: 那 + số + lượng từ + danh từ (那两本汉语书). Phần sở hữu 是我朋友的 đứng cuối, 的 ở cuối thay cho danh từ.",
+     "Order: 那 + number + measure word + noun (那两本汉语书). Possession 是我朋友的 comes last, with 的 standing for the noun."
+    ],
+    "f": [
+     "那两本汉语书",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Gộp hai câu thành một câu, dùng 的",
+     "Combine into one sentence using 的"
+    ],
+    "s": "那是一个杯子。那个杯子是我中国朋友王月的。",
+    "a": [
+     "那是我中国朋友王月的杯子。",
+     "那个杯子是我中国朋友王月的。"
+    ],
+    "e": [
+     "Người sở hữu + 的 + vật: 王月的杯子. Phần bổ nghĩa luôn đứng TRƯỚC danh từ, ngược với tiếng Việt “cốc của Vương Nguyệt”.",
+     "Owner + 的 + thing: 王月的杯子. The modifier always comes BEFORE the noun, unlike Vietnamese."
+    ],
+    "f": [
+     "王月的杯子",
+     "HSK1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h1-5",
+  "t": [
+   "Từ để hỏi & 想 / 喜欢",
+   "Question words & want / like"
+  ],
+  "hz": "吃喝去",
+  "th": [
+   [
+    "Từ để hỏi **đứng đúng vị trí của thông tin cần hỏi**, không đưa lên đầu câu như tiếng Anh:\n• 你去**哪儿**？→ 我去学校。\n• 他是**谁**？→ 他是我老师。\n• 你吃**什么**？→ 我吃米饭。",
+    "Question words **stay where the answer goes** – no fronting as in English:\n• 你去**哪儿**？→ 我去学校。\n• 他是**谁**？→ 他是我老师。\n• 你吃**什么**？→ 我吃米饭。"
+   ],
+   [
+    "Câu đã có từ để hỏi thì **không thêm 吗**.",
+    "A sentence with a question word **never takes 吗**."
+   ],
+   [
+    "**想 xiǎng** + động từ: muốn (我想喝茶). **喜欢 xǐhuan** + danh từ / động từ: thích (我喜欢看书).",
+    "**想 xiǎng** + verb: want to (我想喝茶). **喜欢 xǐhuan** + noun/verb: like (我喜欢看书)."
+   ],
+   [
+    "**呢 ne** để hỏi lại: 我很好，你**呢**？(Tôi khỏe, còn bạn?)",
+    "**呢 ne** bounces the question back: 我很好，你**呢**？(I'm fine, and you?)"
+   ]
+  ],
+  "vo": [
+   [
+    "什么",
+    "shénme",
+    "cái gì",
+    "what"
+   ],
+   [
+    "哪儿",
+    "nǎr",
+    "ở đâu",
+    "where"
+   ],
+   [
+    "谁",
+    "shéi",
+    "ai",
+    "who"
+   ],
+   [
+    "想",
+    "xiǎng",
+    "muốn",
+    "to want to"
+   ],
+   [
+    "喜欢",
+    "xǐhuan",
+    "thích",
+    "to like"
+   ],
+   [
+    "吃",
+    "chī",
+    "ăn",
+    "to eat"
+   ],
+   [
+    "喝",
+    "hē",
+    "uống",
+    "to drink"
+   ],
+   [
+    "去",
+    "qù",
+    "đi",
+    "to go"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "你想喝___？",
+    [
+     "什么",
+     "吗",
+     "谁"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "你去哪儿吗？",
+     "你去哪儿？",
+     "哪儿你去？"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "他是___？— 他是我的朋友。",
+    [
+     "谁",
+     "什么",
+     "哪儿"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我很好，你___？",
+    [
+     "吗",
+     "呢",
+     "什么"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "我___喝咖啡。(muốn)",
+    [
+     "想",
+     "是",
+     "叫"
+    ],
+    0
+   ],
+   [
+    "order",
+    "我|喜欢|吃|中国菜",
+    [
+     "Tôi thích ăn món Trung Quốc.",
+     "I like Chinese food."
+    ]
+   ],
+   [
+    "listen",
+    "你想去哪儿？",
+    [
+     "Nǐ xiǎng qù nǎr?",
+     "Nǐ xǐhuan chī shénme?",
+     "Tā shì shéi?"
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Bạn muốn ăn gì?",
+     "What do you want to eat?"
+    ],
+    [
+     "你想吃什么？",
+     "你什么想吃？",
+     "你想吃什么吗？"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我朋友不喜欢喝咖啡，她喜欢喝中国茶。",
+    "q": [
+     "Bạn của người nói thích uống gì?",
+     "What does the speaker's friend like to drink?"
+    ],
+    "o": [
+     [
+      "trà Trung Quốc",
+      "Chinese tea"
+     ],
+     [
+      "cà phê",
+      "coffee"
+     ],
+     [
+      "nước",
+      "water"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "不喜欢喝咖啡 = không thích cà phê; 喜欢喝中国茶 = thích trà Trung Quốc. Bẫy: nghe thấy 咖啡 trước nên chọn vội.",
+     "不喜欢喝咖啡 = doesn't like coffee; 喜欢喝中国茶 = likes Chinese tea. Trap: choosing 咖啡 because it comes first."
+    ],
+    "f": [
+     "喜欢喝中国茶",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "明天是星期天，你想去哪儿？我想去商店买衣服。",
+    "q": [
+     "Người trả lời muốn đi đâu?",
+     "Where does the second speaker want to go?"
+    ],
+    "o": [
+     [
+      "cửa hàng",
+      "a shop"
+     ],
+     [
+      "trường học",
+      "school"
+     ],
+     [
+      "nhà hàng",
+      "a restaurant"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Hỏi 去哪儿 → đáp 去商店, và mục đích 买衣服. Từ để hỏi 哪儿 được thay đúng chỗ bằng 商店.",
+     "去哪儿 is answered by 去商店, with the purpose 买衣服. The answer 商店 replaces 哪儿 in the same slot."
+    ],
+    "f": [
+     "我想去商店",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "你喜欢吃什么菜？我喜欢吃中国菜。",
+    "e": [
+     "Câu đã có 什么 thì không thêm 吗. 什么菜 đứng sau động từ, đúng chỗ của câu trả lời 中国菜.",
+     "A sentence with 什么 takes no 吗. 什么菜 stays after the verb, where 中国菜 goes in the answer."
+    ],
+    "f": [
+     "吃什么菜",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我很好，谢谢，你呢？你今天想去哪儿吃饭？",
+    "e": [
+     "你呢 đọc lên giọng nhẹ ở cuối; 想 xiǎng và 哪儿 nǎr đều thanh 3, nên xiǎng qù đọc rõ, nǎr hơi lên giọng.",
+     "你呢 has a light rising end; 想 xiǎng and 哪儿 nǎr are both tone 3."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "星期六中午，大卫问我：“你想去哪儿吃饭？”我说：“我想去学校前面的中国饭馆。”大卫又问：“你喜欢吃什么？”我喜欢吃米饭和鱼，不喜欢吃肉。大卫不喜欢喝茶，他想喝咖啡。我问他：“你想吃什么呢？”他说他想吃饺子。",
+   "tr": "Trưa thứ Bảy, David hỏi tôi: “Bạn muốn đi đâu ăn cơm?” Tôi nói: “Tôi muốn đến nhà hàng Trung Quốc trước cổng trường.” David lại hỏi: “Bạn thích ăn gì?” Tôi thích ăn cơm và cá, không thích ăn thịt. David không thích uống trà, cậu ấy muốn uống cà phê. Tôi hỏi cậu ấy: “Thế bạn muốn ăn gì?” Cậu ấy nói muốn ăn sủi cảo."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết muốn đi ăn ở đâu?",
+     "Where does the writer want to eat?"
+    ],
+    "o": [
+     [
+      "nhà hàng Trung Quốc trước cổng trường",
+      "the Chinese restaurant in front of the school"
+     ],
+     [
+      "ở nhà",
+      "at home"
+     ],
+     [
+      "quán cà phê",
+      "a café"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu trả lời 我想去学校前面的中国饭馆 thay vào đúng chỗ của 哪儿 trong câu hỏi.",
+     "The answer 我想去学校前面的中国饭馆 fills the slot of 哪儿 in the question."
+    ],
+    "f": [
+     "学校前面的中国饭馆",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết không thích ăn gì?",
+     "What doesn't the writer like to eat?"
+    ],
+    "o": [
+     [
+      "thịt",
+      "meat"
+     ],
+     [
+      "cá",
+      "fish"
+     ],
+     [
+      "cơm",
+      "rice"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我喜欢吃米饭和鱼，不喜欢吃肉 – thích cơm và cá, không thích thịt.",
+     "我喜欢吃米饭和鱼，不喜欢吃肉 – likes rice and fish, not meat."
+    ],
+    "f": [
+     "不喜欢吃肉",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "David muốn uống gì?",
+     "What does David want to drink?"
+    ],
+    "o": [
+     [
+      "cà phê",
+      "coffee"
+     ],
+     [
+      "trà",
+      "tea"
+     ],
+     [
+      "nước",
+      "water"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "大卫不喜欢喝茶，他想喝咖啡 – không thích trà, muốn uống cà phê.",
+     "大卫不喜欢喝茶，他想喝咖啡 – he dislikes tea and wants coffee."
+    ],
+    "f": [
+     "他想喝咖啡",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你好，请问你明天下午想去___？我想去商店买一个杯子。",
+    "o": [
+     "哪儿",
+     "什么",
+     "谁"
+    ],
+    "a": 0,
+    "e": [
+     "Câu trả lời là một nơi chốn (商店) nên hỏi bằng 哪儿. 什么 hỏi sự vật, 谁 hỏi người.",
+     "The answer is a place (商店), so the question word is 哪儿. 什么 asks “what”, 谁 asks “who”."
+    ],
+    "f": [
+     "想去哪儿",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我很喜欢喝中国茶，不太喜欢喝咖啡，你___？",
+    "a": [
+     "呢"
+    ],
+    "e": [
+     "呢 dùng để hỏi lại “còn bạn thì sao?” sau khi đã nói về mình. Dùng 吗 sẽ thành “bạn à?”, không đủ nghĩa.",
+     "呢 bounces the question back: “and you?”. 吗 would make an incomplete “you?” question."
+    ],
+    "f": [
+     "你呢",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "你明天想去哪儿吗？我想去饭馆吃中国菜。",
+    "a": [
+     "你明天想去哪儿？我想去饭馆吃中国菜。",
+     "明天你想去哪儿？我想去饭馆吃中国菜。"
+    ],
+    "e": [
+     "Câu đã có từ để hỏi (哪儿) thì không thêm 吗. Đây là lỗi rất phổ biến vì người học quen “câu hỏi nào cũng có 吗”.",
+     "A sentence with a question word (哪儿) never takes 吗 – a very common slip."
+    ],
+    "f": [
+     "想去哪儿",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn muốn uống gì? Tôi muốn uống một cốc trà, tôi không thích cà phê.",
+    "a": [
+     "你想喝什么？我想喝一杯茶，我不喜欢咖啡。",
+     "你想喝什么？我想喝一杯茶，我不喜欢喝咖啡。",
+     "你想喝什么？我想喝杯茶，我不喜欢喝咖啡。",
+     "你想喝什么？我想喝一杯茶，不喜欢喝咖啡。"
+    ],
+    "e": [
+     "什么 đứng sau động từ 喝, đúng vị trí của câu trả lời. 想 + động từ = muốn làm; 喜欢 đi với danh từ hoặc động từ.",
+     "什么 stays after 喝, where the answer goes. 想 + verb = want to; 喜欢 takes a noun or verb."
+    ],
+    "f": [
+     "你想喝什么",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "星期天你|想|和|谁|一起|去|看|电影",
+    "m": [
+     "Chủ nhật bạn muốn đi xem phim cùng ai?",
+     "Who do you want to see a film with on Sunday?"
+    ],
+    "e": [
+     "和谁一起 (cùng với ai) đứng trước động từ 去看电影. 谁 nằm đúng chỗ của câu trả lời: 和朋友一起去.",
+     "和谁一起 (with whom) goes before the verb phrase 去看电影. 谁 sits where the answer would: 和朋友一起去."
+    ],
+    "f": [
+     "和谁一起",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đặt câu hỏi về nơi chốn bằng 哪儿",
+     "Ask about the location using 哪儿"
+    ],
+    "s": "我的中国朋友王月现在在学校前面的饭馆。",
+    "a": [
+     "你的中国朋友王月现在在哪儿？",
+     "你的中国朋友王月现在在哪里？"
+    ],
+    "e": [
+     "Thay cụm nơi chốn bằng 哪儿 ngay tại chỗ, đổi 我的 thành 你的, không thêm 吗 và không đưa 哪儿 lên đầu câu.",
+     "Replace the place with 哪儿 in situ, change 我的 to 你的, add no 吗 and don't front 哪儿."
+    ],
+    "f": [
+     "现在在哪儿",
+     "HSK1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d01",
+  "g": "daily",
+  "t": [
+   "Giới thiệu bản thân & gia đình",
+   "Introducing yourself & family"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: câu với 是 và 有**\n• 是 (shì) = “là”, nối hai danh từ: 我是越南人。Tôi là người Việt Nam. / 我爸爸是老师。Bố tôi là giáo viên.\n• 有 (yǒu) = “có”, phủ định là **没有** (không nói 不有): 我有一个姐姐。/ 我没有弟弟。\n• Đếm người trong gia đình dùng lượng từ **口**: 我家有四口人。Nhà tôi có bốn người. (Khi nói từng người thì dùng 个: 两个哥哥.)\n• Hỏi tên: 你叫什么名字？– 我叫安。Hỏi quốc tịch: 你是哪国人？",
+    "**Grammar: sentences with 是 and 有**\n• 是 (shì) = “to be”, linking two nouns: 我是越南人。I'm Vietnamese. / 我爸爸是老师。My father is a teacher.\n• 有 (yǒu) = “to have / there is”; its negative is **没有** (never 不有): 我有一个姐姐。/ 我没有弟弟。\n• To count the people in a family use the measure word **口**: 我家有四口人。There are four people in my family. (For individual people use 个: 两个哥哥.)\n• Asking a name: 你叫什么名字？– 我叫安。Asking nationality: 你是哪国人？"
+   ],
+   [
+    "**Phát âm: thanh nhẹ & biến điệu thanh 3**\n• Âm tiết thứ hai trong từ lặp chỉ người thân đọc **thanh nhẹ** (ngắn, không dấu): bàba, māma, gēge, jiějie, dìdi, mèimei. Tương tự míngzi (名字).\n• Hai thanh 3 liền nhau: thanh 3 đầu đọc thành thanh 2 → 你好 đọc **ní hǎo**, 我也 đọc wó yě. Chữ viết vẫn giữ dấu thanh 3.\n• Tự kiểm tra: míngzi · bàba · jiějie · àihào.",
+    "**Pronunciation: neutral tone & third-tone sandhi**\n• The second syllable of reduplicated family words is in the **neutral tone** (short, no mark): bàba, māma, gēge, jiějie, dìdi, mèimei. Likewise míngzi (名字).\n• Two third tones in a row: the first becomes tone 2 → 你好 is said **ní hǎo**, 我也 is wó yě. The written mark stays tone 3.\n• Check yourself: míngzi · bàba · jiějie · àihào."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết mỗi chữ 10 lần đúng thứ tự nét: **我** (7 nét), **你** (7), **叫** (5), **家** (10), **人** (2).\n• 你 có bộ 亻(người đứng) bên trái; 家 có bộ 宀 (mái nhà) ở trên – nhà là nơi có mái.\n• 人 chỉ 2 nét: phẩy trước, mác sau. Đừng viết nhầm thành 入 (vào).\n• Đọc to và tự kiểm tra thanh điệu: míngzi (2 + nhẹ) · bàba (4 + nhẹ) · jiějie (3 + nhẹ) · àihào (4-4).",
+    "**Characters & tones**\nWrite each character 10 times in the right stroke order: **我** (7 strokes), **你** (7), **叫** (5), **家** (10), **人** (2).\n• 你 has the 亻(standing person) radical on the left; 家 has the 宀 (roof) radical on top – a home is a place with a roof.\n• 人 has only 2 strokes: left-falling first, then right-falling. Don't confuse it with 入 (to enter).\n• Read aloud and check the tones: míngzi (2 + neutral) · bàba (4 + neutral) · jiějie (3 + neutral) · àihào (4-4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 3 đoạn tự giới thiệu trình độ sơ cấp, ghi lại tên, tuổi, nghề của từng người.\n• Nói (20 phút): ghi âm 1 phút tự giới thiệu dùng cả 4 mẫu câu, nghe lại và sửa 3 lỗi.\n• Đọc (20 phút): đọc 1 hồ sơ cá nhân ngắn (profile mạng xã hội, thẻ học viên), trả lời 5 câu đúng/sai.\n• Viết (30 phút): viết đoạn 60–80 chữ giới thiệu gia đình.\n• Từ vựng (15 phút): làm flashcard 10 từ của bài, ôn theo khoảng cách 1-3-7 ngày.\n• Thử thách thực tế (10 phút): viết phần giới thiệu bản thân trên HelloTalk hoặc Tandem bằng tiếng Trung.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 3 beginner self-introductions and note each person's name, age and job.\n• Speaking (20 min): record a 1-minute self-introduction using all 4 key phrases, listen back and fix 3 mistakes.\n• Reading (20 min): read a short personal profile (social media, student card) and answer 5 true/false questions.\n• Writing (30 min): write 60–80 characters introducing your family.\n• Vocabulary (15 min): make flashcards for the 10 words and review them after 1, 3 and 7 days.\n• Real-life challenge (10 min): write your self-introduction on HelloTalk or Tandem in Chinese."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我叫安。Wǒ jiào Ān.",
+    "Tôi tên là An."
+   ],
+   [
+    "我二十五岁。Wǒ èrshíwǔ suì.",
+    "Tôi 25 tuổi."
+   ],
+   [
+    "我家有四口人。Wǒ jiā yǒu sì kǒu rén.",
+    "Nhà tôi có 4 người."
+   ],
+   [
+    "我是越南人。Wǒ shì Yuènán rén.",
+    "Tôi đến từ Việt Nam (tôi là người Việt Nam)."
+   ],
+   [
+    "你叫什么名字？Nǐ jiào shénme míngzi?",
+    "Bạn tên là gì?"
+   ],
+   [
+    "你是哪国人？Nǐ shì nǎ guó rén?",
+    "Bạn là người nước nào?"
+   ],
+   [
+    "你做什么工作？Nǐ zuò shénme gōngzuò?",
+    "Bạn làm nghề gì?"
+   ],
+   [
+    "很高兴认识你。Hěn gāoxìng rènshi nǐ.",
+    "Rất vui được làm quen với bạn."
+   ]
+  ],
+  "vo": [
+   [
+    "名字",
+    "míngzi",
+    "tên",
+    "name"
+   ],
+   [
+    "年龄",
+    "niánlíng",
+    "tuổi",
+    "age"
+   ],
+   [
+    "爸爸",
+    "bàba",
+    "bố",
+    "father"
+   ],
+   [
+    "妈妈",
+    "māma",
+    "mẹ",
+    "mother"
+   ],
+   [
+    "哥哥 / 弟弟",
+    "gēge / dìdi",
+    "anh trai / em trai",
+    "older / younger brother"
+   ],
+   [
+    "姐姐 / 妹妹",
+    "jiějie / mèimei",
+    "chị gái / em gái",
+    "older / younger sister"
+   ],
+   [
+    "工作",
+    "gōngzuò",
+    "nghề nghiệp, công việc",
+    "job"
+   ],
+   [
+    "老家",
+    "lǎojiā",
+    "quê",
+    "hometown"
+   ],
+   [
+    "爱好",
+    "àihào",
+    "sở thích",
+    "hobby"
+   ],
+   [
+    "结婚了",
+    "jiéhūn le",
+    "đã kết hôn",
+    "married"
+   ]
+  ],
+  "hz": "我你叫家人",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我叫安。",
+    "e": [
+     "叫 (jiào) = “tên là”, đứng ngay sau chủ ngữ. Đừng viết nhầm thành 是安 khi giới thiệu tên – người Trung nói 我叫… hoặc 我的名字是….",
+     "叫 (jiào) = “to be called”, right after the subject. Don't write 是安 to give your name – Chinese say 我叫… or 我的名字是…."
+    ],
+    "f": [
+     "我叫",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我二十五岁。",
+    "e": [
+     "Nói tuổi không cần động từ 是: 我二十五岁, không nói 我是二十五岁 trong câu thường. 二十五 = 2 × 10 + 5.",
+     "Age needs no verb 是: 我二十五岁, not usually 我是二十五岁. 二十五 = 2 × 10 + 5."
+    ],
+    "f": [
+     "二十五岁",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我家有四口人：爸爸、妈妈、哥哥和我，我哥哥是医生。",
+    "q": [
+     "Nhà người nói có những ai?",
+     "Who is in the speaker's family?"
+    ],
+    "o": [
+     [
+      "bố, mẹ, anh trai và người nói",
+      "dad, mum, older brother and the speaker"
+     ],
+     [
+      "bố, mẹ, chị gái và người nói",
+      "dad, mum, older sister and the speaker"
+     ],
+     [
+      "bố, mẹ, em trai và người nói",
+      "dad, mum, younger brother and the speaker"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "哥哥 gēge là anh trai; 姐姐 là chị gái, 弟弟 là em trai. Bốn người = 四口人, gồm cả người nói.",
+     "哥哥 gēge is an older brother; 姐姐 is an older sister and 弟弟 a younger brother. Four people = 四口人, including the speaker."
+    ],
+    "f": [
+     "哥哥",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我是越南人，我家有四口人，我很高兴认识你。",
+    "e": [
+     "Chú ý 我是 đọc wǒ shì (thanh 3 đọc thấp), 很高兴 hěn gāoxìng. 口 kǒu thanh 3, 人 rén thanh 2.",
+     "Note 我是 wǒ shì (low third tone), 很高兴 hěn gāoxìng. 口 kǒu is tone 3, 人 rén tone 2."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你是哪国人？我是越南人，我的老家在河内，现在我在胡志明市工作。",
+    "e": [
+     "Câu hỏi: 你是哪国人？– Gợi ý trả lời mẫu. 哪国 nǎ guó (thanh 3 + thanh 2); 胡志明市 Húzhìmíng shì. Câu trả lời mở rộng bằng quê (老家) và nơi làm việc.",
+     "Question: 你是哪国人？– A model answer. 哪国 nǎ guó (tone 3 + tone 2); 胡志明市 Húzhìmíng shì. The answer adds hometown (老家) and workplace."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你做什么工作？我是老师，我在一个大学工作，我很喜欢我的工作。",
+    "e": [
+     "Câu hỏi: 你做什么工作？– Gợi ý trả lời mẫu. Dùng 是 + nghề, rồi 在 + nơi + 工作. 喜欢 xǐhuan, chữ huan đọc nhẹ.",
+     "Question: 你做什么工作？– A model answer. Use 是 + job, then 在 + place + 工作. 喜欢 xǐhuan with a light huan."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "你好！我叫阮安，今年二十五岁，我是越南人，老家在顺化。我家有四口人：爸爸、妈妈、姐姐和我。爸爸是老师，妈妈是医生。姐姐结婚了，她的工作很忙。我的爱好是看书和学汉语。你呢？你有兄弟姐妹吗？",
+   "tr": "Chào bạn! Mình tên là Nguyễn An, năm nay hai mươi lăm tuổi, mình là người Việt Nam, quê ở Huế. Nhà mình có bốn người: bố, mẹ, chị gái và mình. Bố là giáo viên, mẹ là bác sĩ. Chị gái đã kết hôn, công việc của chị ấy rất bận. Sở thích của mình là đọc sách và học tiếng Trung. Còn bạn thì sao? Bạn có anh chị em không?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Quê của An ở đâu?",
+     "Where is An's hometown?"
+    ],
+    "o": [
+     [
+      "Huế",
+      "Huế"
+     ],
+     [
+      "Hà Nội",
+      "Hanoi"
+     ],
+     [
+      "Thành phố Hồ Chí Minh",
+      "Ho Chi Minh City"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Bài viết: 老家在顺化 – quê ở Huế (顺化 Shùnhuà). 老家 là quê gốc, không phải nơi đang sống.",
+     "The text says 老家在顺化 – her hometown is Huế (顺化 Shùnhuà). 老家 is one's hometown, not where one lives now."
+    ],
+    "f": [
+     "老家在顺化",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mẹ của An làm nghề gì?",
+     "What does An's mother do?"
+    ],
+    "o": [
+     [
+      "bác sĩ",
+      "a doctor"
+     ],
+     [
+      "giáo viên",
+      "a teacher"
+     ],
+     [
+      "nhân viên văn phòng",
+      "an office worker"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "妈妈是医生 – mẹ là bác sĩ. Người là giáo viên (老师) là bố. Đề hay đánh lừa bằng cách đảo hai nghề.",
+     "妈妈是医生 – the mother is a doctor. The teacher (老师) is the father; the trap swaps the two jobs."
+    ],
+    "f": [
+     "妈妈是医生",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào đúng về chị gái của An?",
+     "Which is true about An's older sister?"
+    ],
+    "o": [
+     [
+      "Chị đã kết hôn và công việc rất bận.",
+      "She is married and her job is very busy."
+     ],
+     [
+      "Chị chưa kết hôn và thích đọc sách.",
+      "She is single and likes reading."
+     ],
+     [
+      "Chị là giáo viên tiếng Trung.",
+      "She is a Chinese teacher."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "姐姐结婚了，她的工作很忙. Đọc sách và học tiếng Trung là sở thích của An, không phải của chị.",
+     "姐姐结婚了，她的工作很忙. Reading and learning Chinese are An's hobbies, not her sister's."
+    ],
+    "f": [
+     "姐姐结婚了",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我___安，我是越南人，今年二十五岁。(tên là)",
+    "a": [
+     "叫"
+    ],
+    "e": [
+     "叫 jiào = “tên là”. 是 cũng có nghĩa “là” nhưng giới thiệu tên ngắn gọn thì dùng 叫.",
+     "叫 jiào = “to be called”. 是 also means “to be”, but to give your name simply you use 叫."
+    ],
+    "f": [
+     "叫",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我家有四___人：爸爸、妈妈、哥哥和我。",
+    "a": [
+     "口"
+    ],
+    "e": [
+     "Đếm số người trong gia đình dùng lượng từ 口 kǒu. Nói 四个人 cũng hiểu được nhưng không phải cách nói chuẩn khi hỏi/trả lời “nhà có mấy người”.",
+     "For the number of people in a family use the measure word 口 kǒu. 四个人 is understandable but not the standard “how many in your family” pattern."
+    ],
+    "f": [
+     "四口人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你___哪国人？我是越南人，你呢？",
+    "a": [
+     "是"
+    ],
+    "e": [
+     "Hỏi quốc tịch: 你是哪国人？ – dùng 是 nối “bạn” với “người nước nào”. Không dùng 叫 ở đây.",
+     "Asking nationality: 你是哪国人？ – 是 links “you” and “which country's person”. 叫 is wrong here."
+    ],
+    "f": [
+     "是",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố tôi là giáo viên.",
+    "a": [
+     "我爸爸是老师。",
+     "我的爸爸是老师。",
+     "我父亲是老师。"
+    ],
+    "e": [
+     "Câu 是: 我爸爸 + 是 + 老师. Với người thân thường bỏ 的: 我爸爸. Không thêm 很 trước danh từ (不说 很老师).",
+     "A 是 sentence: 我爸爸 + 是 + 老师. With family members 的 is usually dropped. Never put 很 before a noun."
+    ],
+    "f": [
+     "是老师",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn có anh chị em không?",
+    "a": [
+     "你有兄弟姐妹吗？",
+     "你有没有兄弟姐妹？"
+    ],
+    "e": [
+     "兄弟姐妹 = anh chị em nói chung. Câu hỏi có/không: thêm 吗 cuối câu, hoặc dùng 有没有 (không dùng cả hai cùng lúc).",
+     "兄弟姐妹 = siblings in general. Yes/no question: add 吗, or use 有没有 (not both at once)."
+    ],
+    "f": [
+     "兄弟姐妹",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我不有弟弟，但是我有一个姐姐，她是医生。",
+    "a": [
+     "我没有弟弟，但是我有一个姐姐，她是医生。",
+     "我没有弟弟，可是我有一个姐姐，她是医生。"
+    ],
+    "e": [
+     "Phủ định của 有 luôn là 没有, không bao giờ là 不有. 不 dùng để phủ định 是 và hầu hết động từ khác.",
+     "The negative of 有 is always 没有, never 不有. 不 negates 是 and most other verbs."
+    ],
+    "f": [
+     "没有",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我妈妈是很医生，她在医院工作，工作很忙。",
+    "a": [
+     "我妈妈是医生，她在医院工作，工作很忙。"
+    ],
+    "e": [
+     "很 chỉ đứng trước tính từ (很忙, 很好), không đứng trước danh từ nghề nghiệp. Bỏ 很: 我妈妈是医生.",
+     "很 only goes before adjectives (很忙, 很好), never before a job noun. Drop it: 我妈妈是医生."
+    ],
+    "f": [
+     "是医生",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我有两个哥哥，没有姐姐，所以我家一共有五 ___ 人。",
+    "o": [
+     "口",
+     "个",
+     "岁"
+    ],
+    "a": 0,
+    "e": [
+     "Bố, mẹ, hai anh và tôi = 5 người; số người trong nhà dùng 口. 岁 là tuổi – bẫy vì cũng đi sau con số.",
+     "Dad, mum, two brothers and me = 5; family size uses 口. 岁 means years of age – a trap since it also follows numbers."
+    ],
+    "f": [
+     "五口人",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我|姐姐|结婚了|，她|和|她爱人|都是|老师",
+    "m": [
+     "Chị tôi đã kết hôn, chị và chồng chị đều là giáo viên.",
+     "My sister is married; she and her husband are both teachers."
+    ],
+    "e": [
+     "了 đứng sau 结婚 cho biết tình trạng đã thay đổi. 都 (đều) luôn đứng trước động từ 是, không đặt trước chủ ngữ.",
+     "了 after 结婚 shows a change of state. 都 (both/all) goes before the verb 是, never before the subject."
+    ],
+    "f": [
+     "都是老师",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu hỏi có/không bằng 吗",
+     "Rewrite as a yes/no question with 吗"
+    ],
+    "s": "你的爱好是看书和学汉语。",
+    "a": [
+     "你的爱好是看书和学汉语吗？"
+    ],
+    "e": [
+     "Câu hỏi có/không đơn giản: giữ nguyên trật tự và thêm 吗 ở cuối, đổi dấu chấm thành dấu hỏi. Không đảo động từ lên đầu như tiếng Anh.",
+     "A simple yes/no question: keep the word order, add 吗 at the end and use a question mark. Don't move the verb as in English."
+    ],
+    "f": [
+     "吗",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 80 chữ gửi một bạn qua thư người Trung Quốc: tên, tuổi, quê, gia đình, sở thích, và hỏi lại họ 2 câu.",
+     "Write an email of about 80 characters to a Chinese pen friend: name, age, hometown, family, hobbies, and ask them 2 questions."
+    ],
+    "m": "你好！我叫阮兰，今年二十岁，我是越南人，老家在河内。我家有五口人：爸爸、妈妈、哥哥、妹妹和我。爸爸是医生，妈妈是老师。我的爱好是听音乐和学汉语。你叫什么名字？你家有几口人？",
+    "e": [
+     "Cần có: • 叫 + tên, số + 岁 • 老家在… • 我家有…口人 + liệt kê • 我的爱好是… • 2 câu hỏi (什么 / 几 / 吗).",
+     "Must include: • 叫 + name, number + 岁 • 老家在… • 我家有…口人 + list • 我的爱好是… • 2 questions (什么 / 几 / 吗)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d02",
+  "g": "daily",
+  "t": [
+   "Sinh hoạt hằng ngày",
+   "Daily routine"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: vị trí của thời điểm và thời lượng**\n• **Thời điểm** (lúc mấy giờ, buổi nào) đứng **trước động từ**: 我一般六点起床。Tôi thường dậy lúc 6 giờ. (Không nói 我起床六点.)\n• Thời điểm có thể đứng đầu câu hoặc ngay sau chủ ngữ: 晚上我学汉语 = 我晚上学汉语.\n• **Thời lượng** (bao lâu) đứng **sau động từ**: 我学一个小时汉语。Tôi học tiếng Trung một tiếng. / 我每天跑半个小时。\n• 一般 (yìbān) = thường thường; 每天 = mỗi ngày; 才 = mới (muộn hơn bình thường): 周末我九点才起床。",
+    "**Grammar: where time points and durations go**\n• A **time point** (at what time, which part of the day) goes **before the verb**: 我一般六点起床。I usually get up at six. (Not 我起床六点.)\n• It can open the sentence or follow the subject: 晚上我学汉语 = 我晚上学汉语.\n• A **duration** (how long) goes **after the verb**: 我学一个小时汉语。I study Chinese for an hour. / 我每天跑半个小时。\n• 一般 (yìbān) = usually; 每天 = every day; 才 = not until (later than normal): 周末我九点才起床。"
+   ],
+   [
+    "**Phát âm: j / q / x và zh / ch / sh**\n• j, q, x: mặt lưỡi chạm sát ngạc, môi hơi bè, luôn đi với i hoặc ü: qǐchuáng, xǐzǎo, jiào.\n• zh, ch, sh: uốn đầu lưỡi lên, môi hơi tròn: chuáng, shàngbān, shuìjiào, zhōumò.\n• Người Việt hay đọc x như “x” tiếng Việt và sh như “s” – hãy đặt hai từ cạnh nhau để luyện: xǐ – shì, qǐ – chī.\n• Cặp thanh: shàngbān (4-1) · xiàbān (4-1) · shuìjiào (4-4) · zhōumò (1-4).",
+    "**Pronunciation: j / q / x vs zh / ch / sh**\n• j, q, x: the blade of the tongue near the palate, lips spread, always before i or ü: qǐchuáng, xǐzǎo, jiào.\n• zh, ch, sh: tongue tip curled up, lips slightly rounded: chuáng, shàngbān, shuìjiào, zhōumò.\n• Vietnamese speakers often read x like Vietnamese “x” and sh like “s” – practise in pairs: xǐ – shì, qǐ – chī.\n• Tone pairs: shàngbān (4-1) · xiàbān (4-1) · shuìjiào (4-4) · zhōumò (1-4)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **早** (6 nét), **饭** (7), **点** (9), **起** (10), **睡** (13).\n• 早 = 日 (mặt trời) trên 十: mặt trời vừa lên – buổi sớm.\n• 饭 có bộ 饣(ăn uống); 睡 có bộ 目 (mắt) – nhắm mắt để ngủ.\n• 点 có 4 chấm bên dưới (bộ 灬), viết từ trái sang phải.\n• Luyện cặp thanh: shàngbān · xiàbān · shuìjiào · zhōumò. Chú ý 一般 đọc yìbān (一 trước thanh 1 đọc thanh 4).",
+    "**Characters & tones**\nWrite: **早** (6 strokes), **饭** (7), **点** (9), **起** (10), **睡** (13).\n• 早 = 日 (sun) above 十: the sun has just risen – morning.\n• 饭 has the 饣(food) radical; 睡 has 目 (eye) – close your eyes to sleep.\n• 点 ends with 4 dots (灬), written left to right.\n• Tone pairs: shàngbān · xiàbān · shuìjiào · zhōumò. Note 一般 is yìbān (一 before tone 1 becomes tone 4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem 1 video “我的一天”, ghi lại 8 hoạt động kèm giờ.\n• Nói (20 phút): kể một ngày của bạn từ sáng đến tối trong 90 giây, dùng ít nhất 3 từ tần suất (一般, 每天, 常常).\n• Đọc (20 phút): đọc 1 bài ngắn về lịch sinh hoạt, sắp xếp 8 hoạt động theo đúng thứ tự.\n• Viết (30 phút): viết nhật ký 80–100 chữ về ngày hôm nay.\n• Từ vựng (15 phút): ghép 10 động từ với khung giờ trong ngày, nói thành câu.\n• Thử thách (cả ngày): tự nói thầm việc mình đang làm (我在刷牙), ít nhất 10 lần trong ngày.",
+    "**Practice outside the app**\n• Listening (20 min): watch a “我的一天” video and note 8 activities with times.\n• Speaking (20 min): describe your day from morning to night in 90 seconds using at least 3 frequency words (一般, 每天, 常常).\n• Reading (20 min): read a short routine text and put 8 activities in order.\n• Writing (30 min): write an 80–100-character diary entry about today.\n• Vocabulary (15 min): match 10 verbs to times of day and say them as sentences.\n• Challenge (all day): narrate what you are doing (我在刷牙) at least 10 times a day."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "我一般六点起床。Wǒ yìbān liù diǎn qǐchuáng.",
+    "Tôi thường dậy lúc 6 giờ."
+   ],
+   [
+    "我骑摩托车上班。Wǒ qí mótuōchē shàngbān.",
+    "Tôi đi làm bằng xe máy."
+   ],
+   [
+    "晚上我学一个小时英语。Wǎnshang wǒ xué yí ge xiǎoshí Yīngyǔ.",
+    "Buổi tối tôi học tiếng Anh một tiếng."
+   ],
+   [
+    "周末你一般做什么？Zhōumò nǐ yìbān zuò shénme?",
+    "Cuối tuần bạn thường làm gì?"
+   ],
+   [
+    "你几点下班？Nǐ jǐ diǎn xiàbān?",
+    "Bạn mấy giờ tan làm?"
+   ],
+   [
+    "我每天早上喝咖啡。Wǒ měitiān zǎoshang hē kāfēi.",
+    "Sáng nào tôi cũng uống cà phê."
+   ]
+  ],
+  "vo": [
+   [
+    "起床",
+    "qǐchuáng",
+    "thức dậy",
+    "get up"
+   ],
+   [
+    "刷牙",
+    "shuāyá",
+    "đánh răng",
+    "brush your teeth"
+   ],
+   [
+    "吃早饭",
+    "chī zǎofàn",
+    "ăn sáng",
+    "have breakfast"
+   ],
+   [
+    "上班",
+    "shàngbān",
+    "đi làm",
+    "go to work"
+   ],
+   [
+    "下班",
+    "xiàbān",
+    "tan làm",
+    "finish work"
+   ],
+   [
+    "做饭",
+    "zuòfàn",
+    "nấu ăn",
+    "cook"
+   ],
+   [
+    "洗澡",
+    "xǐzǎo",
+    "tắm",
+    "take a shower"
+   ],
+   [
+    "睡觉",
+    "shuìjiào",
+    "đi ngủ",
+    "go to bed"
+   ],
+   [
+    "周末",
+    "zhōumò",
+    "cuối tuần",
+    "weekend"
+   ],
+   [
+    "一般",
+    "yìbān",
+    "thường",
+    "usually"
+   ]
+  ],
+  "hz": "早饭点起睡",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我一般六点起床。",
+    "e": [
+     "六点 (thời điểm) đứng trước động từ 起床. 起床 viết 起 (dậy) + 床 (giường), không phải 起来.",
+     "六点 (time point) comes before the verb 起床. 起床 = 起 (rise) + 床 (bed), not 起来."
+    ],
+    "f": [
+     "六点起床",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "晚上我学一个小时英语。",
+    "e": [
+     "Thời lượng 一个小时 đứng sau động từ 学 và trước tân ngữ 英语. 一个 đọc yí ge.",
+     "The duration 一个小时 follows the verb 学 and precedes the object 英语. 一个 is said yí ge."
+    ],
+    "f": [
+     "学一个小时英语",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我每天七点半骑摩托车上班，下午五点下班，晚上十一点睡觉。",
+    "q": [
+     "Người nói tan làm lúc mấy giờ?",
+     "What time does the speaker finish work?"
+    ],
+    "o": [
+     [
+      "5 giờ chiều",
+      "5 p.m."
+     ],
+     [
+      "7 giờ rưỡi sáng",
+      "7:30 a.m."
+     ],
+     [
+      "11 giờ đêm",
+      "11 p.m."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "下午五点下班 – 5 giờ chiều tan làm. 七点半 là giờ đi làm (上班), 十一点 là giờ đi ngủ. Phân biệt 上班 (đi làm) và 下班 (tan làm).",
+     "下午五点下班 – finishes at 5 p.m. 七点半 is when they go to work (上班) and 十一点 is bedtime. Don't mix up 上班 and 下班."
+    ],
+    "f": [
+     "五点下班",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我骑摩托车上班，周末你一般做什么？",
+    "e": [
+     "骑 qí (thanh 2), 摩托车 mótuōchē. 一般 đọc yìbān. Câu hỏi có 什么 không thêm 吗.",
+     "骑 qí (tone 2), 摩托车 mótuōchē. 一般 is yìbān. A question with 什么 takes no 吗."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你平时一天是怎么过的？我一般六点起床，白天上班，晚上学一个小时汉语，十一点睡觉。",
+    "e": [
+     "Câu hỏi: 你平时一天是怎么过的？– Gợi ý trả lời mẫu. Giữ trật tự: giờ trước động từ (六点起床), thời lượng sau động từ (学一个小时).",
+     "Question: 你平时一天是怎么过的？– A model answer. Keep the order: time before verb (六点起床), duration after verb (学一个小时)."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "我一般六点起床，刷牙以后吃早饭。七点半我骑摩托车上班。中午我在公司吃饭，下午五点下班，回家做饭。晚上我学一个小时汉语，然后洗澡，十一点睡觉。周末我不上班，一般九点才起床。",
+   "tr": "Tôi thường dậy lúc sáu giờ, đánh răng xong thì ăn sáng. Bảy giờ rưỡi tôi đi xe máy đi làm. Buổi trưa tôi ăn cơm ở công ty, năm giờ chiều tan làm, về nhà nấu cơm. Buổi tối tôi học tiếng Trung một tiếng, sau đó đi tắm, mười một giờ đi ngủ. Cuối tuần tôi không đi làm, thường chín giờ mới dậy."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết đi làm bằng gì?",
+     "How does the writer go to work?"
+    ],
+    "o": [
+     [
+      "xe máy",
+      "by motorbike"
+     ],
+     [
+      "xe buýt",
+      "by bus"
+     ],
+     [
+      "đi bộ",
+      "on foot"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "七点半我骑摩托车上班 – 骑摩托车 = đi xe máy. Động từ 骑 dùng cho xe hai bánh (xe máy, xe đạp).",
+     "七点半我骑摩托车上班 – 骑摩托车 = ride a motorbike. 骑 is used for two-wheelers."
+    ],
+    "f": [
+     "骑摩托车上班",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Buổi tối người viết học tiếng Trung bao lâu?",
+     "How long does the writer study Chinese in the evening?"
+    ],
+    "o": [
+     [
+      "một tiếng",
+      "one hour"
+     ],
+     [
+      "nửa tiếng",
+      "half an hour"
+     ],
+     [
+      "hai tiếng",
+      "two hours"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "学一个小时汉语 – một tiếng. 半 xuất hiện trong 七点半 (7 giờ rưỡi), không phải thời gian học.",
+     "学一个小时汉语 – one hour. 半 appears in 七点半 (7:30), not in the study time."
+    ],
+    "f": [
+     "一个小时",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cuối tuần người viết thường dậy lúc mấy giờ?",
+     "When does the writer usually get up at the weekend?"
+    ],
+    "o": [
+     [
+      "9 giờ",
+      "at nine"
+     ],
+     [
+      "6 giờ",
+      "at six"
+     ],
+     [
+      "7 giờ rưỡi",
+      "at 7:30"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "周末…一般九点才起床 – 9 giờ mới dậy. 才 cho thấy muộn hơn ngày thường (6 giờ).",
+     "周末…一般九点才起床 – not until nine. 才 shows it's later than on weekdays (six)."
+    ],
+    "f": [
+     "九点才起床",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我每天七点___床，然后刷牙、吃早饭。",
+    "a": [
+     "起"
+    ],
+    "e": [
+     "起床 = thức dậy (rời khỏi giường). Đừng nhầm với 睡 (ngủ) – 睡床 không phải từ.",
+     "起床 = to get up (leave the bed). Don't confuse it with 睡 (sleep)."
+    ],
+    "f": [
+     "起床",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "晚上我学一个___汉语，然后看一会儿书。(tiếng đồng hồ)",
+    "a": [
+     "小时"
+    ],
+    "e": [
+     "一个小时 = một tiếng đồng hồ; 点 chỉ thời điểm (六点), không chỉ khoảng thời gian.",
+     "一个小时 = one hour; 点 marks a clock time (六点), not a duration."
+    ],
+    "f": [
+     "一个小时",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "周末你一般做___？我一般在家看书。",
+    "a": [
+     "什么"
+    ],
+    "e": [
+     "什么 = gì. Câu hỏi đã có từ để hỏi thì không thêm 吗 ở cuối.",
+     "什么 = what. A question with a question word takes no 吗."
+    ],
+    "f": [
+     "什么",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thường đi ngủ lúc 11 giờ.",
+    "a": [
+     "我一般十一点睡觉。",
+     "我一般晚上十一点睡觉。",
+     "我通常十一点睡觉。"
+    ],
+    "e": [
+     "Thời điểm 十一点 đứng trước 睡觉. Lỗi hay gặp: 我睡觉十一点 (dịch theo trật tự tiếng Việt).",
+     "The time 十一点 goes before 睡觉. Common mistake: 我睡觉十一点 (following Vietnamese word order)."
+    ],
+    "f": [
+     "十一点睡觉",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Sáng nào tôi cũng uống cà phê.",
+    "a": [
+     "我每天早上喝咖啡。",
+     "我每天早上都喝咖啡。",
+     "每天早上我都喝咖啡。"
+    ],
+    "e": [
+     "“Sáng nào cũng” = 每天早上 (+ 都). Từ chỉ thời gian đứng trước động từ 喝.",
+     "“Every morning” = 每天早上 (often + 都). The time phrase precedes the verb 喝."
+    ],
+    "f": [
+     "每天早上",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我起床六点，然后吃早饭，七点半骑摩托车上班。",
+    "a": [
+     "我六点起床，然后吃早饭，七点半骑摩托车上班。",
+     "六点我起床，然后吃早饭，七点半骑摩托车上班。"
+    ],
+    "e": [
+     "Thời điểm phải đứng trước động từ: 六点起床. Tiếng Việt nói “dậy lúc 6 giờ” nên người Việt hay đặt giờ ra sau.",
+     "Time points must precede the verb: 六点起床. Vietnamese says “get up at six”, so learners often put the time last."
+    ],
+    "f": [
+     "六点起床",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我每天学汉语一个小时，因为我很喜欢中国电影。",
+    "a": [
+     "我每天学一个小时汉语，因为我很喜欢中国电影。",
+     "我每天学汉语学一个小时，因为我很喜欢中国电影。"
+    ],
+    "e": [
+     "Có tân ngữ thì thời lượng đứng giữa động từ và tân ngữ (学一个小时汉语), hoặc lặp động từ (学汉语学一个小时).",
+     "With an object, the duration goes between verb and object (学一个小时汉语), or repeat the verb (学汉语学一个小时)."
+    ],
+    "f": [
+     "学一个小时汉语",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我一般下午五点下班，回家以后 ___ 饭，七点和家人一起吃。",
+    "o": [
+     "做",
+     "吃",
+     "刷"
+    ],
+    "a": 0,
+    "e": [
+     "做饭 = nấu cơm; câu sau mới nói ăn (吃) lúc 7 giờ. 刷 chỉ đi với 牙 (刷牙).",
+     "做饭 = to cook; eating (吃) comes later at seven. 刷 goes with 牙 (刷牙)."
+    ],
+    "f": [
+     "做饭",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "周末|我|一般|九点|才|起床|，下午|和朋友|去|喝咖啡",
+    "m": [
+     "Cuối tuần tôi thường 9 giờ mới dậy, buổi chiều đi uống cà phê với bạn.",
+     "At the weekend I usually don't get up until nine, and in the afternoon I go for coffee with friends."
+    ],
+    "e": [
+     "Trật tự: thời gian chung (周末) – chủ ngữ – tần suất (一般) – giờ (九点) – 才 – động từ. 和朋友 đứng trước động từ 去.",
+     "Order: general time (周末) – subject – frequency (一般) – clock time (九点) – 才 – verb. 和朋友 goes before 去."
+    ],
+    "f": [
+     "九点才起床",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "So sánh một ngày thường và một ngày cuối tuần của bạn trong khoảng 100 chữ, dùng ít nhất 4 từ tần suất (一般, 每天, 常常, 有时候…).",
+     "Compare a weekday and a weekend day in about 100 characters, using at least 4 frequency words (一般, 每天, 常常, 有时候…)."
+    ],
+    "m": "我每天六点起床，七点吃早饭，七点半上班。中午我常常在公司吃饭，下午五点下班。晚上我一般学一个小时汉语，十一点睡觉。周末我不上班，一般九点才起床。上午我常常去买东西，下午有时候和朋友喝咖啡，晚上在家看电影。",
+    "e": [
+     "Cần có: • ≥ 4 từ tần suất • giờ đứng trước động từ • ít nhất 1 thời lượng sau động từ • so sánh ngày thường / cuối tuần.",
+     "Must include: • ≥ 4 frequency words • times before verbs • at least 1 duration after a verb • weekday vs weekend contrast."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d16",
+  "g": "daily",
+  "t": [
+   "Thời tiết & các mùa",
+   "Weather & seasons"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: tính từ làm vị ngữ · 太…了 · 会 (sẽ)**\n• Trong tiếng Trung, tính từ làm vị ngữ **không cần 是**: 今天**很**冷。Hôm nay lạnh. (Không nói 今天是冷.) 很 ở đây gần như chỉ để câu tròn nghĩa.\n• Phủ định: **不** + tính từ: 今天不热。“Không lạnh cũng không nóng” = 不冷也不热。\n• **太 + tính từ + 了** = quá…: 夏天**太**热**了**！\n• Hỏi thời tiết: 天气**怎么样**？ Dự đoán: **会** + động từ: 明天**会**下雨。Ngày mai sẽ mưa.",
+    "**Grammar: adjectives as predicates · 太…了 · 会 (will)**\n• Adjectives work as predicates **without 是**: 今天**很**冷。It's cold today. (Not 今天是冷.) 很 here mostly just completes the sentence.\n• Negative: **不** + adjective: 今天不热。“Neither cold nor hot” = 不冷也不热。\n• **太 + adjective + 了** = too…: 夏天**太**热**了**！\n• Asking about weather: 天气**怎么样**？ Predicting: **会** + verb: 明天**会**下雨。It will rain tomorrow."
+   ],
+   [
+    "**Phát âm: r trong 热 và biến điệu của 不**\n• **热 rè**: uốn lưỡi, rung nhẹ – gần âm “r” nhẹ, KHÔNG đọc thành “dơ” hay “lơ”. So sánh 热 rè – 了 le.\n• **冷 lěng** thanh 3: xuống thấp rồi lên; trong câu nhanh thường chỉ đọc phần thấp.\n• **不** đổi thành **bú** trước thanh 4: 不热 **bú rè**, 不去 bú qù; giữ **bù** trước thanh 1, 2, 3: 不冷 bù lěng.\n• Các mùa: 春天 chūntiān · 夏天 xiàtiān · 秋天 qiūtiān · 冬天 dōngtiān.",
+    "**Pronunciation: r in 热 and the tone change of 不**\n• **热 rè**: curl the tongue, a soft buzzing r – not “z” or “l”. Compare 热 rè – 了 le.\n• **冷 lěng** tone 3: low dip; in fast speech usually only the low part.\n• **不** becomes **bú** before tone 4: 不热 **bú rè**, 不去 bú qù; stays **bù** before tones 1, 2, 3: 不冷 bù lěng.\n• Seasons: 春天 chūntiān · 夏天 xiàtiān · 秋天 qiūtiān · 冬天 dōngtiān."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết mỗi chữ 10 lần: **天** (4 nét), **冬** (5), **冷** (7), **雨** (8), **热** (10).\n• 冷 có bộ **冫** (băng, 2 chấm) – liên quan đến lạnh, băng. 热 có bộ **灬** (lửa, 4 chấm) ở dưới – liên quan đến nóng.\n• 雨 trông như bầu trời với 4 giọt mưa bên trong. 冬 phía dưới cũng có 2 chấm băng.\n• Đọc to: 天气 tiānqì (1-4) · 下雨 xià yǔ (4-3) · 很冷 hěn lěng (3-3 → hén lěng).",
+    "**Characters & tones**\nWrite each 10 times: **天** (4 strokes), **冬** (5), **冷** (7), **雨** (8), **热** (10).\n• 冷 has the **冫** (ice, 2 dots) radical – cold things. 热 has **灬** (fire, 4 dots) at the bottom – hot things.\n• 雨 looks like the sky with 4 raindrops inside. 冬 also has 2 ice dots at the bottom.\n• Read aloud: 天气 tiānqì (1-4) · 下雨 xià yǔ (4-3) · 很冷 hěn lěng (3-3 → hén lěng)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): nghe 2 bản tin thời tiết ngắn cho người mới học, ghi thời tiết và nhiệt độ của 3 thành phố.\n• Nói (15 phút): mỗi sáng nói 3 câu về thời tiết hôm nay và ngày mai, ghi âm.\n• Đọc (15 phút): mở ứng dụng thời tiết bằng tiếng Trung, đọc dự báo 5 ngày.\n• Viết (20 phút): viết 60–80 chữ về mùa bạn thích nhất và lý do.\n• Từ vựng (10 phút): flashcard 10 từ thời tiết + 4 mùa, ôn sau 1-3-7 ngày.",
+    "**Practice outside the app**\n• Listening (15 min): listen to 2 short beginner weather reports; note the weather and temperature of 3 cities.\n• Speaking (15 min): every morning say 3 sentences about today's and tomorrow's weather; record them.\n• Reading (15 min): switch a weather app to Chinese and read the 5-day forecast.\n• Writing (20 min): write 60–80 characters about your favourite season and why.\n• Vocabulary (10 min): flashcards for the 10 weather words + 4 seasons; review after 1-3-7 days."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "今天天气怎么样？Jīntiān tiānqì zěnmeyàng?",
+    "Hôm nay thời tiết thế nào?"
+   ],
+   [
+    "今天很冷。Jīntiān hěn lěng.",
+    "Hôm nay trời lạnh."
+   ],
+   [
+    "夏天太热了！Xiàtiān tài rè le!",
+    "Mùa hè nóng quá!"
+   ],
+   [
+    "明天会下雨。Míngtiān huì xià yǔ.",
+    "Ngày mai trời sẽ mưa."
+   ],
+   [
+    "不冷也不热。Bù lěng yě bú rè.",
+    "Không lạnh cũng không nóng."
+   ],
+   [
+    "你喜欢什么季节？Nǐ xǐhuan shénme jìjié?",
+    "Bạn thích mùa nào?"
+   ],
+   [
+    "今天多少度？Jīntiān duōshao dù?",
+    "Hôm nay bao nhiêu độ?"
+   ]
+  ],
+  "vo": [
+   [
+    "天气",
+    "tiānqì",
+    "thời tiết",
+    "weather"
+   ],
+   [
+    "冷",
+    "lěng",
+    "lạnh",
+    "cold"
+   ],
+   [
+    "热",
+    "rè",
+    "nóng",
+    "hot"
+   ],
+   [
+    "下雨",
+    "xià yǔ",
+    "mưa",
+    "to rain"
+   ],
+   [
+    "春天",
+    "chūntiān",
+    "mùa xuân",
+    "spring"
+   ],
+   [
+    "夏天",
+    "xiàtiān",
+    "mùa hè",
+    "summer"
+   ],
+   [
+    "秋天",
+    "qiūtiān",
+    "mùa thu",
+    "autumn"
+   ],
+   [
+    "冬天",
+    "dōngtiān",
+    "mùa đông",
+    "winter"
+   ],
+   [
+    "今天",
+    "jīntiān",
+    "hôm nay",
+    "today"
+   ],
+   [
+    "明天",
+    "míngtiān",
+    "ngày mai",
+    "tomorrow"
+   ]
+  ],
+  "hz": "天冬冷雨热",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "今天天气怎么样？",
+    "e": [
+     "怎么样 zěnmeyàng = thế nào; câu đã có từ hỏi nên không thêm 吗. 天气 = thời tiết (气 không viết thành 汽).",
+     "怎么样 zěnmeyàng = how; it is already a question, so no 吗. 天气 = weather (气, not 汽)."
+    ],
+    "f": [
+     "怎么样",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "今天很冷，明天会下雨。",
+    "e": [
+     "很冷: tính từ làm vị ngữ, không có 是. 会 + 下雨 = sẽ mưa (dự đoán). 雨 có 4 chấm bên trong.",
+     "很冷: adjective predicate, no 是. 会 + 下雨 = will rain (prediction). 雨 has 4 dots inside."
+    ],
+    "f": [
+     "会下雨",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我很喜欢夏天，因为夏天可以去海边，可是我妈妈不喜欢夏天，她说太热了。",
+    "q": [
+     "Ai không thích mùa hè?",
+     "Who doesn't like summer?"
+    ],
+    "o": [
+     [
+      "mẹ của người nói",
+      "the speaker's mother"
+     ],
+     [
+      "người nói",
+      "the speaker"
+     ],
+     [
+      "bố của người nói",
+      "the speaker's father"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我妈妈不喜欢夏天，她说太热了 – mẹ không thích vì quá nóng. Người nói thì 很喜欢夏天.",
+     "我妈妈不喜欢夏天 – the mother finds it too hot. The speaker 很喜欢夏天."
+    ],
+    "f": [
+     "太热了",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢什么季节？我喜欢秋天，因为秋天不冷也不热，天气很好。",
+    "e": [
+     "Câu hỏi: 你喜欢什么季节？– Gợi ý trả lời mẫu. 不冷也不热 đọc bù lěng yě bú rè (不 trước thanh 4 thành bú).",
+     "Question: 你喜欢什么季节？– A model answer. 不冷也不热 = bù lěng yě bú rè (不 before tone 4 → bú)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你那儿今天天气怎么样？我这儿今天很热，三十五度，我不想出去。",
+    "e": [
+     "Câu hỏi: 你那儿今天天气怎么样？– Gợi ý trả lời mẫu. 那儿 nàr / 这儿 zhèr; 三十五度 sānshíwǔ dù.",
+     "Question: 你那儿今天天气怎么样？– A model answer. 那儿 nàr / 这儿 zhèr; 三十五度 sānshíwǔ dù."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nghe nói ngày mai trời mưa to, hay là chúng ta đi xem phim nhé?",
+    "a": [
+     "听说明天会下大雨，要不我们去看电影吧。",
+     "听说明天要下大雨，我们还是去看电影吧。",
+     "听说明天会下大雨，要不我们去看电影吧？"
+    ],
+    "e": [
+     "听说 = nghe nói; 下大雨 = mưa to; 要不 / 还是…吧 = hay là… (gợi ý nhẹ nhàng).",
+     "听说 = I heard; 下大雨 = heavy rain; 要不 / 还是…吧 = how about… (a soft suggestion)."
+    ],
+    "f": [
+     "要不我们去看电影吧",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối hai câu thành một câu so sánh với 比",
+     "Combine into one comparison with 比"
+    ],
+    "s": "河内的冬天很冷。胡志明市的冬天不冷。",
+    "a": [
+     "河内的冬天比胡志明市冷。",
+     "河内的冬天比胡志明市的冬天冷。",
+     "胡志明市的冬天没有河内冷。"
+    ],
+    "e": [
+     "A 比 B + tính từ, KHÔNG thêm 很: 比胡志明市冷. Hoặc dùng B 没有 A 冷.",
+     "A 比 B + adjective, WITHOUT 很. Or B 没有 A 冷."
+    ],
+    "f": [
+     "比胡志明市冷",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "今天比昨天很冷，你出门的时候多穿点儿衣服吧。",
+    "a": [
+     "今天比昨天冷，你出门的时候多穿点儿衣服吧。",
+     "今天比昨天冷多了，你出门的时候多穿点儿衣服吧。",
+     "今天比昨天还冷，你出门的时候多穿点儿衣服吧。"
+    ],
+    "e": [
+     "Câu 比 không dùng 很/非常. Muốn nhấn mạnh: 冷多了 / 冷得多 / 还冷. 多穿点儿衣服 = mặc thêm áo – lời dặn thân mật.",
+     "比 sentences can't take 很. For emphasis: 冷多了 / 还冷. 多穿点儿衣服 = wrap up warm."
+    ],
+    "f": [
+     "今天比昨天冷",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "外边正___着雨呢，你别出去了，在家好好休息吧。",
+    "a": [
+     "下"
+    ],
+    "e": [
+     "正 + động từ + 着 + …呢 = đang… (tiếp diễn): 正下着雨呢 = trời đang mưa. 别…了 = đừng… nữa.",
+     "正 + verb + 着 + …呢 = in progress: 正下着雨呢 = it's raining right now. 别…了 = don't…."
+    ],
+    "f": [
+     "正下着雨呢",
+     "HSK2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "今天是星期六，天气很好，不冷也不热。我很喜欢秋天，因为北京的秋天天气很好。夏天太热了，冬天太冷了，我不喜欢。明天会下雨，所以我和朋友不去公园，我们在家看电视、喝茶。你呢？你喜欢什么天气？",
+   "tr": "Hôm nay là thứ Bảy, thời tiết rất đẹp, không lạnh cũng không nóng. Mình rất thích mùa thu, vì mùa thu ở Bắc Kinh thời tiết rất đẹp. Mùa hè nóng quá, mùa đông lạnh quá, mình không thích. Ngày mai trời sẽ mưa, nên mình và bạn không đi công viên, chúng mình ở nhà xem ti vi, uống trà. Còn bạn? Bạn thích thời tiết thế nào?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Thời tiết hôm nay thế nào?",
+     "What is the weather like today?"
+    ],
+    "o": [
+     [
+      "Đẹp, không lạnh cũng không nóng.",
+      "Nice, neither cold nor hot."
+     ],
+     [
+      "Nóng quá.",
+      "Too hot."
+     ],
+     [
+      "Trời mưa.",
+      "Rainy."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "天气很好，不冷也不热. Mưa (下雨) là ngày mai, “nóng quá” là mùa hè.",
+     "天气很好，不冷也不热. The rain (下雨) is tomorrow; “too hot” is summer."
+    ],
+    "f": [
+     "不冷也不热",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết thích mùa thu?",
+     "Why does the writer like autumn?"
+    ],
+    "o": [
+     [
+      "Vì mùa thu ở Bắc Kinh thời tiết rất đẹp.",
+      "Beijing's autumn weather is very nice."
+     ],
+     [
+      "Vì mùa thu có nhiều mưa.",
+      "Autumn has a lot of rain."
+     ],
+     [
+      "Vì mùa thu được nghỉ học.",
+      "There is no school in autumn."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "因为北京的秋天天气很好 – 因为 = vì, giới thiệu lý do.",
+     "因为北京的秋天天气很好 – 因为 = because, giving the reason."
+    ],
+    "f": [
+     "因为北京的秋天天气很好",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ngày mai người viết sẽ làm gì?",
+     "What will the writer do tomorrow?"
+    ],
+    "o": [
+     [
+      "Ở nhà xem ti vi, uống trà với bạn.",
+      "Stay home watching TV and drinking tea with a friend."
+     ],
+     [
+      "Đi công viên với bạn.",
+      "Go to the park with a friend."
+     ],
+     [
+      "Đi Bắc Kinh du lịch.",
+      "Travel to Beijing."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "明天会下雨，所以…不去公园，我们在家看电视、喝茶. 不去公园 là bẫy: họ KHÔNG đi công viên.",
+     "明天会下雨，所以…不去公园，在家看电视、喝茶. The park is the trap: they are NOT going."
+    ],
+    "f": [
+     "在家看电视",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "今天天气很好，不冷___不热，我们去公园吧。",
+    "a": [
+     "也"
+    ],
+    "e": [
+     "不 A 也不 B = không A cũng không B. 也 đứng trước 不热. Không dùng 和 để nối hai tính từ phủ định.",
+     "不 A 也不 B = neither A nor B. 也 goes before 不热. 和 can't link these."
+    ],
+    "f": [
+     "不冷也不热",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "明天会下___，所以我们不去公园，在家看电视。",
+    "a": [
+     "雨"
+    ],
+    "e": [
+     "下雨 = mưa (động từ 下 “rơi xuống” + 雨 “mưa”). Tuyết là 下雪.",
+     "下雨 = to rain (下 “fall” + 雨 “rain”). Snow is 下雪."
+    ],
+    "f": [
+     "下雨",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "北京的冬天___冷了，我不喜欢冬天，我喜欢夏天。",
+    "a": [
+     "太"
+    ],
+    "e": [
+     "太 + tính từ + 了 = quá…. 了 đã có sẵn trong câu, thiếu 太 thì câu không trọn.",
+     "太 + adjective + 了 = too…. 了 is already there; 太 is needed."
+    ],
+    "f": [
+     "太冷了",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你那儿天气___？——很热，今天三十五度。",
+    "o": [
+     "怎么样",
+     "什么",
+     "几"
+    ],
+    "a": 0,
+    "e": [
+     "Hỏi thời tiết “thế nào” → 怎么样. 什么 = cái gì (cần danh từ phía sau), 几 = mấy (cần lượng từ).",
+     "“How is the weather” → 怎么样. 什么 needs a noun after it, 几 a measure word."
+    ],
+    "f": [
+     "怎么样",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "今天是很热，我不想去学校，我想在家喝茶。",
+    "a": [
+     "今天很热，我不想去学校，我想在家喝茶。"
+    ],
+    "e": [
+     "Tính từ làm vị ngữ không dùng 是: 今天很热. Đây là lỗi rất phổ biến của người Việt (“hôm nay là nóng”).",
+     "Adjective predicates take no 是: 今天很热. A very common learner error."
+    ],
+    "f": [
+     "今天很热",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我很喜欢河内的冬天，因为河内的冬天不很冷。",
+    "a": [
+     "我很喜欢河内的冬天，因为河内的冬天不太冷。",
+     "我很喜欢河内的冬天，因为河内的冬天不冷。"
+    ],
+    "e": [
+     "“Không lạnh lắm” = 不太冷, không nói 不很冷. Hoặc đơn giản 不冷.",
+     "“Not very cold” = 不太冷, not 不很冷. Or simply 不冷."
+    ],
+    "f": [
+     "不太冷",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hôm nay trời rất nóng, tôi không muốn ra ngoài.",
+    "a": [
+     "今天很热，我不想出去。",
+     "今天天气很热，我不想出去。",
+     "今天太热了，我不想出去。"
+    ],
+    "e": [
+     "很热 không cần 是. Không muốn = 不想 + động từ; ra ngoài = 出去.",
+     "很热 needs no 是. Don't want = 不想 + verb; go out = 出去."
+    ],
+    "f": [
+     "我不想出去",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thích mùa xuân vì mùa xuân không lạnh cũng không nóng.",
+    "a": [
+     "我喜欢春天，因为春天不冷也不热。",
+     "我很喜欢春天，因为春天不冷也不热。"
+    ],
+    "e": [
+     "因为 + lý do đứng ở vế sau. 不冷也不热 = không lạnh cũng không nóng.",
+     "因为 + reason in the second clause. 不冷也不热 = neither cold nor hot."
+    ],
+    "f": [
+     "因为春天不冷也不热",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đặt câu hỏi về thời tiết bằng 怎么样 (thay cho 很冷)",
+     "Ask about the weather with 怎么样 (replacing 很冷)"
+    ],
+    "s": "北京今天的天气很冷。",
+    "a": [
+     "北京今天的天气怎么样？",
+     "北京今天天气怎么样？"
+    ],
+    "e": [
+     "Thay phần trả lời (很冷) bằng 怎么样, giữ nguyên trật tự, thêm dấu hỏi. Không thêm 吗.",
+     "Replace the answer (很冷) with 怎么样, keep the word order, add a question mark. No 吗."
+    ],
+    "f": [
+     "怎么样",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "明天|会下雨|，所以|我们|在家|看电视",
+    "m": [
+     "Ngày mai trời sẽ mưa, nên chúng tôi ở nhà xem ti vi.",
+     "It will rain tomorrow, so we'll stay home and watch TV."
+    ],
+    "e": [
+     "Thời gian (明天) đứng đầu; 在家 (nơi chốn) đứng trước động từ 看电视.",
+     "Time (明天) first; the place 在家 comes before the verb 看电视."
+    ],
+    "f": [
+     "在家看电视",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 60 chữ về mùa bạn thích nhất: thời tiết thế nào, vì sao thích, mùa nào không thích.",
+     "Write about 60 characters on your favourite season: what the weather is like, why you like it, which season you don't like."
+    ],
+    "m": "我最喜欢春天。河内的春天不冷也不热，天气很好，有很多花。我和朋友常常去公园看花、喝茶。我不喜欢夏天，因为夏天太热了，常常下雨。你喜欢什么季节？",
+    "e": [
+     "Cần có: • 我最喜欢 + mùa • tính từ không dùng 是 (很好, 不冷也不热) • 因为… • 太…了 • một câu hỏi lại người đọc.",
+     "Must include: • 我最喜欢 + season • adjectives without 是 • 因为… • 太…了 • a question back to the reader."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d17",
+  "g": "daily",
+  "t": [
+   "Sở thích & thời gian rảnh",
+   "Hobbies & free time"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 喜欢 + động từ · 会 (biết làm) · 常常 & 一起**\n• **喜欢 + động từ** = thích làm gì: 我**喜欢**听音乐。Thích nhiều: **很**喜欢 (很 đứng TRƯỚC 喜欢).\n• **会 + động từ** = biết (kỹ năng đã học): 我**会**游泳。Phủ định: 我**不会**跳舞。\n• Trật tự trạng từ: chủ ngữ + thời gian + **常常** + **和 + người + 一起** + động từ: 我周末**常常和**朋友**一起**去看电影。\n• Hỏi sở thích: 你的爱好是什么？/ 周末你喜欢做什么？",
+    "**Grammar: 喜欢 + verb · 会 (can, know how) · 常常 & 一起**\n• **喜欢 + verb** = like doing: 我**喜欢**听音乐。“Really like”: **很**喜欢 (很 goes BEFORE 喜欢).\n• **会 + verb** = can (a learned skill): 我**会**游泳。Negative: 我**不会**跳舞。\n• Adverb order: subject + time + **常常** + **和 + person + 一起** + verb: 我周末**常常和**朋友**一起**去看电影。\n• Asking about hobbies: 你的爱好是什么？/ 周末你喜欢做什么？"
+   ],
+   [
+    "**Phát âm: thanh nhẹ trong 喜欢 & âm ü**\n• **喜欢 xǐhuan**: âm sau đọc nhẹ, ngắn – không đọc huān đầy đủ.\n• **音乐 yīnyuè**, **电影 diànyǐng**: âm **üe / yue** – môi tròn như “uy” nhưng giữ lưỡi trước.\n• **唱歌 chàng gē**: ch uốn lưỡi + bật hơi. **跳舞 tiào wǔ**: t bật hơi mạnh hơn “t” tiếng Việt.\n• **我很喜欢** = wǒ hěn xǐhuan: ba thanh 3 liền nhau → thường đọc wó hén xǐhuan.",
+    "**Pronunciation: neutral tone in 喜欢 & the ü sound**\n• **喜欢 xǐhuan**: the second syllable is light and short.\n• **音乐 yīnyuè**, **电影 diànyǐng**: **üe / yue** – rounded lips, tongue forward.\n• **唱歌 chàng gē**: curled, aspirated ch. **跳舞 tiào wǔ**: t with a strong puff of air.\n• **我很喜欢** = wǒ hěn xǐhuan: three tone 3s → usually wó hén xǐhuan."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **书** (4 nét), **听** (7), **看** (9), **爱** (10), **唱** (11).\n• 听 và 唱 đều có bộ **口** (miệng) bên trái – nghe, hát đều liên quan đến miệng/âm thanh.\n• 看 = 手 (tay) trên 目 (mắt): đưa tay che mắt nhìn xa – xem.\n• 书 chỉ 4 nét, nét chấm viết cuối cùng. Đọc to: 爱好 àihào (4-4) · 看书 kàn shū (4-1) · 听音乐 tīng yīnyuè (1-1-4).",
+    "**Characters & tones**\nWrite: **书** (4 strokes), **听** (7), **看** (9), **爱** (10), **唱** (11).\n• 听 and 唱 both have the **口** (mouth) radical – sound-related.\n• 看 = 手 (hand) over 目 (eye): shading your eyes to look.\n• 书 has 4 strokes; the dot comes last. Read: 爱好 àihào (4-4) · 看书 kàn shū (4-1) · 听音乐 tīng yīnyuè (1-1-4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): nghe 2 đoạn hội thoại “你的爱好是什么” cho người mới học, ghi sở thích của từng người.\n• Nói (15 phút): ghi âm 1 phút nói về sở thích và việc bạn làm cuối tuần.\n• Đọc (15 phút): đọc 3 hồ sơ bạn bè trên ứng dụng trao đổi ngôn ngữ, gạch chân các sở thích.\n• Viết (20 phút): viết 60–80 chữ về một ngày cuối tuần lý tưởng.\n• Từ vựng (10 phút): flashcard 10 từ + 5 môn thể thao/hoạt động bạn thích.",
+    "**Practice outside the app**\n• Listening (15 min): listen to 2 beginner dialogues “你的爱好是什么” and note each person's hobbies.\n• Speaking (15 min): record 1 minute about your hobbies and your weekend.\n• Reading (15 min): read 3 profiles on a language-exchange app and underline the hobbies.\n• Writing (20 min): write 60–80 characters about an ideal weekend.\n• Vocabulary (10 min): flashcards for the 10 words + 5 activities you like."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "你的爱好是什么？Nǐ de àihào shì shénme?",
+    "Sở thích của bạn là gì?"
+   ],
+   [
+    "我的爱好是听音乐。Wǒ de àihào shì tīng yīnyuè.",
+    "Sở thích của tôi là nghe nhạc."
+   ],
+   [
+    "我很喜欢看书。Wǒ hěn xǐhuan kàn shū.",
+    "Tôi rất thích đọc sách."
+   ],
+   [
+    "我不会跳舞。Wǒ bú huì tiàowǔ.",
+    "Tôi không biết nhảy."
+   ],
+   [
+    "周末你喜欢做什么？Zhōumò nǐ xǐhuan zuò shénme?",
+    "Cuối tuần bạn thích làm gì?"
+   ],
+   [
+    "我们一起去看电影吧！Wǒmen yìqǐ qù kàn diànyǐng ba!",
+    "Chúng mình cùng đi xem phim nhé!"
+   ]
+  ],
+  "vo": [
+   [
+    "爱好",
+    "àihào",
+    "sở thích",
+    "hobby"
+   ],
+   [
+    "看书",
+    "kàn shū",
+    "đọc sách",
+    "to read"
+   ],
+   [
+    "听音乐",
+    "tīng yīnyuè",
+    "nghe nhạc",
+    "to listen to music"
+   ],
+   [
+    "唱歌",
+    "chàng gē",
+    "hát",
+    "to sing"
+   ],
+   [
+    "跳舞",
+    "tiào wǔ",
+    "nhảy, khiêu vũ",
+    "to dance"
+   ],
+   [
+    "游泳",
+    "yóuyǒng",
+    "bơi",
+    "to swim"
+   ],
+   [
+    "运动",
+    "yùndòng",
+    "thể thao, vận động",
+    "sport, exercise"
+   ],
+   [
+    "电影",
+    "diànyǐng",
+    "phim",
+    "film"
+   ],
+   [
+    "周末",
+    "zhōumò",
+    "cuối tuần",
+    "weekend"
+   ],
+   [
+    "一起",
+    "yìqǐ",
+    "cùng nhau",
+    "together"
+   ]
+  ],
+  "hz": "书听看爱唱",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我的爱好是听音乐。",
+    "e": [
+     "我的爱好是… = sở thích của tôi là…. 音乐 yīnyuè – chữ 乐 ở đây đọc yuè, không phải lè (vui).",
+     "我的爱好是… = my hobby is…. In 音乐, 乐 is yuè, not lè (happy)."
+    ],
+    "f": [
+     "我的爱好是",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我不会跳舞，可是我很喜欢唱歌。",
+    "e": [
+     "不会 = không biết (kỹ năng); 可是 = nhưng. 很 đứng trước 喜欢. 不会 đọc bú huì.",
+     "不会 = can't (skill); 可是 = but. 很 goes before 喜欢. 不会 = bú huì."
+    ],
+    "f": [
+     "不会跳舞",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "周末我不想在家，上午我想和朋友一起去游泳，下午再去看电影。",
+    "q": [
+     "Buổi sáng cuối tuần người nói muốn làm gì?",
+     "What does the speaker want to do on the weekend morning?"
+    ],
+    "o": [
+     [
+      "đi bơi với bạn",
+      "go swimming with a friend"
+     ],
+     [
+      "xem phim",
+      "watch a film"
+     ],
+     [
+      "ở nhà",
+      "stay home"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "上午…去游泳，下午再去看电影 – sáng bơi, chiều mới xem phim. 不想在家 = không muốn ở nhà.",
+     "上午…去游泳，下午再去看电影 – swim in the morning, film in the afternoon. 不想在家 = doesn't want to stay home."
+    ],
+    "f": [
+     "上午我想和朋友一起去游泳",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你的爱好是什么？我的爱好是看书和听音乐，我也很喜欢游泳。",
+    "e": [
+     "Câu hỏi: 你的爱好是什么？– Gợi ý trả lời mẫu. 爱好 àihào (4-4); 游泳 yóuyǒng (2-3).",
+     "Question: 你的爱好是什么？– A model answer. 爱好 àihào (4-4); 游泳 yóuyǒng (2-3)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "周末你喜欢做什么？周末我常常和朋友一起去看电影，有时候在家睡觉。",
+    "e": [
+     "Câu hỏi: 周末你喜欢做什么？– Gợi ý trả lời mẫu. 常常 chángcháng; 有时候 yǒu shíhou; 睡觉 shuìjiào (sh uốn lưỡi).",
+     "Question: 周末你喜欢做什么？– A model answer. 常常 chángcháng; 有时候 yǒu shíhou; 睡觉 shuìjiào."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Trước đây tôi rất thích chơi bóng rổ, nhưng dạo này bận quá, không có thời gian chơi.",
+    "a": [
+     "我以前很喜欢打篮球，可是最近太忙了，没有时间打。",
+     "我以前很喜欢打篮球，但是最近太忙了，没时间打。",
+     "以前我很喜欢打篮球，可是最近太忙了，没有时间打篮球。"
+    ],
+    "e": [
+     "以前 = trước đây; 最近 = dạo này; 没有时间 + động từ = không có thời gian làm. Động từ cuối có thể lặp 打 thay vì cả cụm.",
+     "以前 = before; 最近 = lately; 没有时间 + verb = no time to…."
+    ],
+    "f": [
+     "最近太忙了，没有时间打",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối hai câu bằng 一边……一边……",
+     "Join with 一边……一边……"
+    ],
+    "s": "我喜欢听音乐。我同时跑步。",
+    "a": [
+     "我喜欢一边听音乐一边跑步。",
+     "我喜欢一边跑步一边听音乐。"
+    ],
+    "e": [
+     "一边 A 一边 B = vừa làm A vừa làm B (cùng lúc). Mỗi 一边 đứng ngay trước một động từ.",
+     "一边 A 一边 B = do A while doing B. Each 一边 goes right before a verb."
+    ],
+    "f": [
+     "一边听音乐一边跑步",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我会游泳得很好，你周末想跟我一起去游泳馆吗？",
+    "a": [
+     "我游泳游得很好，你周末想跟我一起去游泳馆吗？",
+     "我游得很好，你周末想跟我一起去游泳馆吗？"
+    ],
+    "e": [
+     "Bổ ngữ trạng thái: động từ + 得 + đánh giá. Với động từ li hợp 游泳 phải lặp động từ: 游泳游得很好. Bỏ 会.",
+     "Degree complement: verb + 得 + comment. With 游泳 repeat the verb: 游泳游得很好. Drop 会."
+    ],
+    "f": [
+     "游泳游得很好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "看完电影___，我们去吃点儿东西吧，你想吃什么？",
+    "a": [
+     "以后",
+     "后"
+    ],
+    "e": [
+     "Động từ + 完 + 以后 = sau khi làm xong…. 吧 cuối câu là lời rủ rê; 吃点儿东西 = ăn chút gì.",
+     "Verb + 完 + 以后 = after finishing…. 吧 makes a suggestion; 吃点儿东西 = grab a bite."
+    ],
+    "f": [
+     "看完电影以后",
+     "HSK2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我叫小月，我的爱好是听音乐和看书。我也很喜欢唱歌，可是我不会跳舞。周末我常常和朋友一起去看电影，有时候我们去学校游泳。我哥哥喜欢运动，他每天下午都去打篮球。你的爱好是什么？周末你喜欢做什么？",
+   "tr": "Mình tên là Tiểu Nguyệt, sở thích của mình là nghe nhạc và đọc sách. Mình cũng rất thích hát, nhưng mình không biết nhảy. Cuối tuần mình thường cùng bạn đi xem phim, thỉnh thoảng chúng mình đến trường bơi. Anh trai mình thích thể thao, chiều nào anh ấy cũng đi chơi bóng rổ. Sở thích của bạn là gì? Cuối tuần bạn thích làm gì?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Nguyệt KHÔNG biết làm gì?",
+     "What can't Xiao Yue do?"
+    ],
+    "o": [
+     [
+      "nhảy",
+      "dance"
+     ],
+     [
+      "hát",
+      "sing"
+     ],
+     [
+      "bơi",
+      "swim"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我不会跳舞 – không biết nhảy. Cô ấy 很喜欢唱歌 và thỉnh thoảng 游泳.",
+     "我不会跳舞 – she can't dance. She 很喜欢唱歌 and sometimes swims."
+    ],
+    "f": [
+     "我不会跳舞",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cuối tuần Tiểu Nguyệt thường làm gì?",
+     "What does Xiao Yue usually do at weekends?"
+    ],
+    "o": [
+     [
+      "đi xem phim với bạn",
+      "watch films with friends"
+     ],
+     [
+      "chơi bóng rổ",
+      "play basketball"
+     ],
+     [
+      "ở nhà đọc sách",
+      "stay home reading"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "周末我常常和朋友一起去看电影 – 常常 = thường. Bóng rổ là của anh trai.",
+     "周末我常常和朋友一起去看电影 – 常常 = often. Basketball is her brother's."
+    ],
+    "f": [
+     "常常和朋友一起去看电影",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Anh trai cô ấy làm gì mỗi chiều?",
+     "What does her brother do every afternoon?"
+    ],
+    "o": [
+     [
+      "chơi bóng rổ",
+      "play basketball"
+     ],
+     [
+      "đi bơi",
+      "go swimming"
+     ],
+     [
+      "nghe nhạc",
+      "listen to music"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他每天下午都去打篮球 – 每天…都… = ngày nào cũng…; 打篮球 = chơi bóng rổ.",
+     "他每天下午都去打篮球 – 每天…都… = every day; 打篮球 = play basketball."
+    ],
+    "f": [
+     "每天下午都去打篮球",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我的爱好___听音乐和看书，你呢？你的爱好是什么？",
+    "a": [
+     "是"
+    ],
+    "e": [
+     "爱好 (danh từ) + 是 + hoạt động: 我的爱好是听音乐. Không dùng 有 hay 喜欢 ở vị trí này.",
+     "爱好 (noun) + 是 + activity. 有 or 喜欢 don't fit here."
+    ],
+    "f": [
+     "我的爱好是",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我很喜欢唱歌，可是我不___跳舞，你可以教我吗？",
+    "a": [
+     "会"
+    ],
+    "e": [
+     "不会 + động từ = không biết làm (chưa học). 不能 là “không thể” vì hoàn cảnh – ở đây nói về kỹ năng.",
+     "不会 + verb = can't (never learned). 不能 is “unable” due to circumstances."
+    ],
+    "f": [
+     "不会跳舞",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "周末我常常和朋友___去看电影，有时候去游泳。",
+    "a": [
+     "一起"
+    ],
+    "e": [
+     "和 + người + 一起 + động từ = cùng ai làm gì. 一起 yìqǐ (一 đổi thành thanh 4 trước thanh 3).",
+     "和 + person + 一起 + verb = do with someone. 一起 = yìqǐ."
+    ],
+    "f": [
+     "和朋友一起",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我哥哥___天下午都去打篮球，他很喜欢运动。",
+    "o": [
+     "每",
+     "都",
+     "常"
+    ],
+    "a": 0,
+    "e": [
+     "每天…都… = ngày nào cũng. 都 đã có sau 下午; 常 thiếu 常 thứ hai và không đi với 天.",
+     "每天…都… = every day. 都 is already there; 常天 is not a word."
+    ],
+    "f": [
+     "每天",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我喜欢很看书，所以我常常去书店买书。",
+    "a": [
+     "我很喜欢看书，所以我常常去书店买书。"
+    ],
+    "e": [
+     "很 bổ nghĩa cho 喜欢 nên đứng trước nó: 很喜欢看书. Không đặt 很 trước động từ 看.",
+     "很 modifies 喜欢, so it goes before it: 很喜欢看书."
+    ],
+    "f": [
+     "很喜欢看书",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我和朋友周末一起常常去看电影。",
+    "a": [
+     "我和朋友周末常常一起去看电影。",
+     "周末我常常和朋友一起去看电影。"
+    ],
+    "e": [
+     "Trạng từ tần suất 常常 đứng trước 一起: 常常一起去. Thứ tự: thời gian → 常常 → 一起 → động từ.",
+     "The frequency adverb 常常 comes before 一起: 常常一起去."
+    ],
+    "f": [
+     "常常一起去看电影",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Sở thích của tôi là bơi và nghe nhạc.",
+    "a": [
+     "我的爱好是游泳和听音乐。",
+     "我的爱好是游泳、听音乐。"
+    ],
+    "e": [
+     "我的爱好是 + hoạt động 1 + 和 + hoạt động 2. 和 nối hai danh từ/hoạt động, không nối hai câu.",
+     "我的爱好是 + activity + 和 + activity. 和 links nouns/activities, not clauses."
+    ],
+    "f": [
+     "我的爱好是游泳和听音乐",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cuối tuần bạn thường làm gì? Tôi thường đi xem phim với bạn bè.",
+    "a": [
+     "周末你常常做什么？我常常和朋友一起去看电影。",
+     "周末你常常做什么？我常常跟朋友去看电影。",
+     "你周末常常做什么？我常常和朋友一起看电影。"
+    ],
+    "e": [
+     "Thời gian (周末) đứng trước động từ, có thể đầu câu. “Với bạn bè” = 和/跟朋友 (一起) đứng TRƯỚC 去看电影.",
+     "Time (周末) precedes the verb. “With friends” = 和/跟朋友 (一起) BEFORE 去看电影."
+    ],
+    "f": [
+     "和朋友一起去看电影",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết thành câu hỏi có/không bằng 吗",
+     "Make it a yes/no question with 吗"
+    ],
+    "s": "你哥哥每天下午都去打篮球。",
+    "a": [
+     "你哥哥每天下午都去打篮球吗？"
+    ],
+    "e": [
+     "Giữ nguyên trật tự, thêm 吗 và dấu hỏi. Không đảo trật tự như tiếng Anh.",
+     "Keep the order, add 吗 and a question mark."
+    ],
+    "f": [
+     "吗",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我|周末|常常|和朋友|一起|去|看电影",
+    "m": [
+     "Cuối tuần tôi thường cùng bạn đi xem phim.",
+     "At weekends I often go to the cinema with friends."
+    ],
+    "e": [
+     "Thời gian (周末) → tần suất (常常) → với ai (和朋友一起) → 去 + việc.",
+     "Time → frequency → with whom → 去 + activity."
+    ],
+    "f": [
+     "常常和朋友一起去",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 60 chữ về sở thích của bạn: thích làm gì, biết/không biết làm gì, cuối tuần thường làm gì với ai.",
+     "Write about 60 characters on your hobbies: what you like, what you can/can't do, what you do at weekends and with whom."
+    ],
+    "m": "我的爱好是游泳和看电影。我会游泳，可是我不会唱歌。周末我常常和朋友一起去学校游泳，下午我们去看电影。我妹妹喜欢跳舞，她每天晚上都跳舞。你的爱好是什么？",
+    "e": [
+     "Cần có: • 我的爱好是… • 会 / 不会 • 常常和…一起… • 每天…都… • một câu hỏi lại.",
+     "Must include: • 我的爱好是… • 会 / 不会 • 常常和…一起… • 每天…都… • a question back."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h1-r",
+  "t": [
+   "Bài đọc: Bạn của tôi",
+   "Reading: My friend"
+  ],
+  "rd": {
+   "tx": "我叫王月。我是越南人，我是学生。我有一个中国朋友，她叫李明。她是老师。李明喜欢喝茶，我喜欢喝咖啡。今天是星期六，我们去饭馆吃中国菜。",
+   "py": "Wǒ jiào Wáng Yuè. Wǒ shì Yuènán rén, wǒ shì xuésheng. Wǒ yǒu yí ge Zhōngguó péngyou, tā jiào Lǐ Míng. Tā shì lǎoshī. Lǐ Míng xǐhuan hē chá, wǒ xǐhuan hē kāfēi. Jīntiān shì xīngqīliù, wǒmen qù fànguǎn chī Zhōngguó cài.",
+   "tr": "Tôi tên Vương Nguyệt. Tôi là người Việt Nam, tôi là học sinh. Tôi có một người bạn Trung Quốc, cô ấy tên Lý Minh. Cô ấy là giáo viên. Lý Minh thích uống trà, tôi thích uống cà phê. Hôm nay là thứ Bảy, chúng tôi đi quán ăn món Trung Quốc."
+  },
+  "vo": [
+   [
+    "朋友",
+    "péngyou",
+    "bạn bè",
+    "friend"
+   ],
+   [
+    "有",
+    "yǒu",
+    "có",
+    "to have"
+   ],
+   [
+    "咖啡",
+    "kāfēi",
+    "cà phê",
+    "coffee"
+   ],
+   [
+    "菜",
+    "cài",
+    "món ăn",
+    "dish"
+   ],
+   [
+    "我们",
+    "wǒmen",
+    "chúng tôi",
+    "we"
+   ],
+   [
+    "饭馆",
+    "fànguǎn",
+    "quán ăn",
+    "restaurant"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "王月 là người nước nào?",
+     "Where is Wang Yue from?"
+    ],
+    [
+     [
+      "Việt Nam",
+      "Vietnam"
+     ],
+     [
+      "Trung Quốc",
+      "China"
+     ],
+     [
+      "Nhật Bản",
+      "Japan"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "李明 làm nghề gì?",
+     "What is Li Ming's job?"
+    ],
+    [
+     [
+      "giáo viên",
+      "teacher"
+     ],
+     [
+      "học sinh",
+      "student"
+     ],
+     [
+      "bác sĩ",
+      "doctor"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "李明 thích uống gì?",
+     "What does Li Ming like to drink?"
+    ],
+    [
+     "茶",
+     "咖啡",
+     "水"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Hôm nay là thứ mấy?",
+     "What day is it today?"
+    ],
+    [
+     [
+      "thứ Bảy",
+      "Saturday"
+     ],
+     [
+      "Chủ nhật",
+      "Sunday"
+     ],
+     [
+      "thứ Sáu",
+      "Friday"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我___一个中国朋友。",
+    [
+     "有",
+     "是",
+     "叫"
+    ],
+    0
+   ],
+   [
+    "order",
+    "我们|去|饭馆|吃|中国菜",
+    [
+     "Chúng tôi đi quán ăn món Trung Quốc.",
+     "We go to a restaurant to eat Chinese food."
+    ]
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我有一个中国朋友，她叫李明，她是汉语老师。",
+    "q": [
+     "李明 làm nghề gì?",
+     "What does Li Ming do?"
+    ],
+    "o": [
+     [
+      "giáo viên tiếng Hán",
+      "a Chinese teacher"
+     ],
+     [
+      "học sinh",
+      "a student"
+     ],
+     [
+      "bác sĩ",
+      "a doctor"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "她是汉语老师 – 汉语 bổ nghĩa cho 老师, đứng trước danh từ chính.",
+     "她是汉语老师 – 汉语 modifies 老师 and comes before it."
+    ],
+    "f": [
+     "汉语老师",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "今天是星期六，我和李明去饭馆吃中国菜。",
+    "q": [
+     "Hôm nay họ làm gì?",
+     "What are they doing today?"
+    ],
+    "o": [
+     [
+      "đi nhà hàng ăn món Trung Quốc",
+      "eat Chinese food at a restaurant"
+     ],
+     [
+      "đi học",
+      "go to class"
+     ],
+     [
+      "uống cà phê ở nhà",
+      "drink coffee at home"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "去饭馆吃中国菜: đi (去) đến nhà hàng (饭馆) để ăn (吃) món Trung Quốc – nơi chốn trước, mục đích sau.",
+     "去饭馆吃中国菜: go to a restaurant to eat Chinese food – place first, purpose second."
+    ],
+    "f": [
+     "去饭馆吃中国菜",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "李明喜欢喝茶，我喜欢喝咖啡。",
+    "e": [
+     "喜欢 + động từ + tân ngữ: 喜欢喝茶. Viết đúng 咖啡 (bộ khẩu 口 bên trái cả hai chữ).",
+     "喜欢 + verb + object: 喜欢喝茶. 咖啡 has the mouth radical 口 on both characters."
+    ],
+    "f": [
+     "喜欢喝茶",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我叫王月，我是越南人，我有一个中国朋友。",
+    "e": [
+     "我有一个: wǒ yǒu yí ge – 一 trước 个 (vốn thanh 4) đọc thành yí.",
+     "我有一个: wǒ yǒu yí ge – 一 before 个 (originally tone 4) becomes yí."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "王月是越南人，她___一个中国朋友，她们星期六去饭馆吃饭。",
+    "o": [
+     "有",
+     "是",
+     "叫"
+    ],
+    "a": 0,
+    "e": [
+     "“Có một người bạn” = 有一个朋友. 是 nối hai danh từ đồng nhất (她是学生), 叫 dùng cho tên.",
+     "“Have a friend” = 有一个朋友. 是 equates two nouns (她是学生); 叫 is for names."
+    ],
+    "f": [
+     "有一个中国朋友",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我的朋友李明是中国人，她___学生，她是老师。",
+    "a": [
+     "不是"
+    ],
+    "e": [
+     "Phủ định của 是 là 不是 (không dùng 没是). Câu sau 她是老师 cho thấy vế trước phải phủ định.",
+     "The negative of 是 is 不是 (never 没是). 她是老师 shows the first clause must be negative."
+    ],
+    "f": [
+     "不是学生",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我有一个中国朋友，她是叫李明，她是老师。",
+    "a": [
+     "我有一个中国朋友，她叫李明，她是老师。"
+    ],
+    "e": [
+     "叫 đã có nghĩa “tên là”, không thêm 是 (✗ 是叫). Lỗi này do dịch từng chữ “là” trong tiếng Việt.",
+     "叫 already means “is called”; don't add 是 (✗ 是叫). It comes from translating Vietnamese “là” word by word."
+    ],
+    "f": [
+     "她叫李明",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn Trung Quốc của tôi thích uống trà, còn tôi thích uống cà phê.",
+    "a": [
+     "我的中国朋友喜欢喝茶，我喜欢喝咖啡。",
+     "我的中国朋友喜欢喝茶，我呢，喜欢喝咖啡。",
+     "我中国朋友喜欢喝茶，我喜欢喝咖啡。",
+     "我的中国朋友喜欢喝茶，可是我喜欢喝咖啡。"
+    ],
+    "e": [
+     "Đối lập đơn giản chỉ cần đặt hai vế cạnh nhau như trong bài. “Thích uống” = 喜欢喝, cần có động từ 喝.",
+     "A simple contrast just puts two clauses side by side, as in the text. “Like to drink” = 喜欢喝, with the verb 喝."
+    ],
+    "f": [
+     "喜欢喝咖啡",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "你|的|中国朋友|喜欢|喝|什么|茶",
+    "m": [
+     "Bạn Trung Quốc của bạn thích uống trà gì?",
+     "What tea does your Chinese friend like?"
+    ],
+    "e": [
+     "什么 + danh từ (什么茶) đứng sau động từ, đúng vị trí câu trả lời (喜欢喝绿茶). Không thêm 吗.",
+     "什么 + noun (什么茶) follows the verb, where the answer goes (喜欢喝绿茶). No 吗."
+    ],
+    "f": [
+     "喝什么茶",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển thành câu hỏi có/không với 吗",
+     "Turn it into a yes/no question with 吗"
+    ],
+    "s": "王月的中国朋友李明是汉语老师。",
+    "a": [
+     "王月的中国朋友李明是汉语老师吗？"
+    ],
+    "e": [
+     "Giữ nguyên câu, thêm 吗 + dấu hỏi. Không dùng 呢 vì đây là câu hỏi có/không.",
+     "Keep the sentence, add 吗 and a question mark. Not 呢, since it's a yes/no question."
+    ],
+    "f": [
+     "是汉语老师吗",
+     "HSK1"
+    ]
+   }
+  ]
+ }
+]

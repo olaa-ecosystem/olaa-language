@@ -1,0 +1,2300 @@
+[
+ {
+  "id": "c2-1",
+  "t": [
+   "Cụm động từ (perífrasis)",
+   "Verbal periphrases"
+  ],
+  "th": [
+   [
+    "• **acabar de** + inf: vừa mới – Acabo de llegar\n• **volver a** + inf: lại – Volvió a llamar\n• **dejar de** + inf: ngừng – Dejé de fumar\n• **ponerse a** + inf: bắt đầu (đột ngột) – Se puso a llorar",
+    "• **acabar de** + inf: to have just – Acabo de llegar\n• **volver a** + inf: to do again – Volvió a llamar\n• **dejar de** + inf: to stop – Dejé de fumar\n• **ponerse a** + inf: to start (suddenly) – Se puso a llorar"
+   ],
+   [
+    "• **estar a punto de** + inf: sắp – Está a punto de empezar\n• **llevar** + thời gian + gerundio: đã làm … được bao lâu – Llevo tres años estudiando chino\n• **seguir** + gerundio: vẫn tiếp tục – Sigue trabajando aquí",
+    "• **estar a punto de** + inf: to be about to – Está a punto de empezar\n• **llevar** + time + gerund: have been doing for – Llevo tres años estudiando chino\n• **seguir** + gerund: to keep doing – Sigue trabajando aquí"
+   ],
+   [
+    "• **deber** + inf: bổn phận – Debes estudiar\n• **deber de** + inf: phỏng đoán – Debe de tener 30 años\n• **tener que**: bắt buộc · **hay que** (vô nhân xưng): Hay que reciclar",
+    "• **deber** + inf: obligation – Debes estudiar\n• **deber de** + inf: supposition – Debe de tener 30 años\n• **tener que**: must · **hay que** (impersonal): Hay que reciclar"
+   ]
+  ],
+  "vo": [
+   [
+    "acabar de",
+    "a-ca-BAR de",
+    "vừa mới",
+    "to have just"
+   ],
+   [
+    "volver a",
+    "vol-VER a",
+    "làm lại",
+    "to do again"
+   ],
+   [
+    "dejar de",
+    "de-JAR de",
+    "ngừng",
+    "to stop doing"
+   ],
+   [
+    "ponerse a",
+    "po-NER-se a",
+    "bắt đầu (đột ngột)",
+    "to start doing"
+   ],
+   [
+    "estar a punto de",
+    "es-TAR a PUN-to de",
+    "sắp sửa",
+    "to be about to"
+   ],
+   [
+    "llevar + gerundio",
+    "ye-VAR",
+    "đã … được (thời gian)",
+    "to have been doing"
+   ],
+   [
+    "seguir + gerundio",
+    "se-GUIR",
+    "vẫn tiếp tục",
+    "to keep doing"
+   ],
+   [
+    "deber de",
+    "de-BER de",
+    "chắc là (phỏng đoán)",
+    "must (supposition)"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "___ de terminar el informe, ¿lo quieres ver?",
+    [
+     "Acabo",
+     "Vuelvo",
+     "Dejo"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Llevo dos horas ___ .",
+    [
+     "esperar",
+     "esperando",
+     "esperado"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "El tren está a punto ___ salir.",
+    [
+     "a",
+     "de",
+     "para"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Al oír la noticia, se puso ___ reír.",
+    [
+     "de",
+     "a",
+     "en"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "No veo luz; ___ de estar dormidos.",
+    [
+     "deben",
+     "tienen",
+     "hay"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Dejé ___ comer carne hace un año.",
+    [
+     "a",
+     "de",
+     "que"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Sigue viviendo en la misma casa",
+    [
+     "Anh ấy vẫn sống trong căn nhà đó.",
+     "He still lives in the same house."
+    ]
+   ],
+   [
+    "dict",
+    "Volvió a llamarme esta mañana."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Llevo casi tres años estudiando chino por las tardes, y aunque a veces he estado a punto de dejarlo, sigo yendo a clase cada semana.",
+    "q": [
+     "Người nói đã học tiếng Trung được bao lâu?",
+     "How long has the speaker been studying Chinese?"
+    ],
+    "o": [
+     [
+      "Gần ba năm",
+      "Almost three years"
+     ],
+     [
+      "Hơn ba năm",
+      "More than three years"
+     ],
+     [
+      "Ba tuần",
+      "Three weeks"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Llevo casi tres años estudiando” – llevar + thời gian + gerundio = đã làm được bao lâu; “casi” = gần. “Estar a punto de” = suýt; “seguir yendo” = vẫn tiếp tục đi.",
+     "“Llevo casi tres años estudiando” – llevar + time + gerund = have been doing for; “casi” = almost. “Estar a punto de” = to be on the verge of; “seguir yendo” = to keep going."
+    ],
+    "f": [
+     "Llevo casi tres años estudiando",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Acabábamos de sentarnos a cenar cuando el niño se puso a llorar y tuvimos que volver a calentar toda la comida.",
+    "e": [
+     "“Acabar de” ở imperfecto (acabábamos de) = vừa mới (trong quá khứ); “ponerse a” = đột nhiên bắt đầu; “volver a” = làm lại.",
+     "“Acabar de” in the imperfect (acabábamos de) = had just; “ponerse a” = to suddenly start; “volver a” = to do again."
+    ],
+    "f": [
+     "Acabábamos de sentarnos",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Por el acento que tiene, el nuevo profesor debe de ser del sur, aunque lleva muchos años viviendo en el norte del país.",
+    "e": [
+     "“Debe de ser” = chắc là (phỏng đoán), khác “debe ser” (phải là – bổn phận). “Lleva muchos años viviendo” = đã sống nhiều năm.",
+     "“Debe de ser” = must be (supposition), unlike “debe ser” (obligation). “Lleva muchos años viviendo” = has been living for many years."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hace exactamente un año dejé de fumar. Llevaba más de quince años haciéndolo y había intentado abandonar el tabaco tantas veces que ya había dejado de creer que lo conseguiría. Cada vez que lo intentaba, aguantaba unas semanas y, en cuanto surgía un problema en el trabajo, volvía a encender un cigarrillo casi sin darme cuenta. La última vez fue distinta, aunque no sabría decir exactamente por qué. Quizá influyó que mi hija, que acababa de cumplir seis años, se puso a toser una tarde en el coche y me preguntó, con toda la inocencia del mundo, por qué el humo olía tan mal. Aquella misma noche tiré los paquetes que quedaban en casa. Las primeras semanas estuve a punto de rendirme en más de una ocasión y, de hecho, sigo teniendo algún momento de debilidad después de comer. Pero ya no tengo que pelear conmigo misma cada mañana. Mi médico dice que mis pulmones deben de estar agradecidos; yo, desde luego, lo estoy.",
+   "tr": "Đúng một năm trước tôi đã bỏ thuốc lá. Tôi đã hút hơn mười lăm năm và đã cố bỏ nhiều lần đến mức không còn tin mình sẽ làm được. Mỗi lần thử, tôi cầm cự được vài tuần, rồi hễ có chuyện gì ở chỗ làm là tôi lại châm một điếu gần như không hề nhận ra. Lần cuối cùng thì khác, dù tôi không thể nói chính xác vì sao. Có lẽ là vì một buổi chiều trên xe, con gái tôi, vừa tròn sáu tuổi, bỗng ho sặc sụa và hỏi tôi, với tất cả sự ngây thơ, tại sao khói lại hôi đến thế. Ngay tối hôm đó tôi vứt hết những bao thuốc còn lại trong nhà. Những tuần đầu, đã hơn một lần tôi suýt bỏ cuộc và, thực ra, đến giờ tôi vẫn có lúc yếu lòng sau bữa ăn. Nhưng tôi không còn phải vật lộn với chính mình mỗi sáng nữa. Bác sĩ nói chắc hẳn phổi của tôi đang rất biết ơn; còn tôi thì chắc chắn là vậy."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao tác giả từng không còn tin mình sẽ bỏ được thuốc?",
+     "Why had the writer stopped believing she could quit?"
+    ],
+    "o": [
+     [
+      "Vì đã thử bỏ rất nhiều lần mà không thành",
+      "Because she had tried and failed so many times"
+     ],
+     [
+      "Vì bác sĩ bảo là không thể",
+      "Because her doctor said it was impossible"
+     ],
+     [
+      "Vì cô ấy chưa bao giờ thử",
+      "Because she had never tried"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Había intentado abandonar el tabaco tantas veces que ya había dejado de creer…” – cấu trúc “tantas… que” chỉ hệ quả; “dejar de” = thôi, ngừng.",
+     "“Había intentado abandonar el tabaco tantas veces que ya había dejado de creer…” – “tantas… que” shows consequence; “dejar de” = to stop."
+    ],
+    "f": [
+     "había intentado abandonar el tabaco tantas veces",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Điều gì thường khiến tác giả hút thuốc trở lại?",
+     "What usually made the writer start smoking again?"
+    ],
+    "o": [
+     [
+      "Có vấn đề ở chỗ làm",
+      "A problem at work"
+     ],
+     [
+      "Đi chơi với bạn bè",
+      "Going out with friends"
+     ],
+     [
+      "Ăn tối xong",
+      "Finishing dinner"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“En cuanto surgía un problema en el trabajo, volvía a encender un cigarrillo” – “volver a” + nguyên mẫu = lại làm. Câu về bữa ăn nói về hiện tại, không phải nguyên nhân tái nghiện.",
+     "“En cuanto surgía un problema en el trabajo, volvía a encender un cigarrillo” – “volver a” + infinitive = to do again. The meal sentence refers to the present, not to relapses."
+    ],
+    "f": [
+     "volvía a encender un cigarrillo",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “mis pulmones deben de estar agradecidos” diễn đạt điều gì?",
+     "What does “mis pulmones deben de estar agradecidos” express?"
+    ],
+    "o": [
+     [
+      "Một phỏng đoán: chắc hẳn phổi đang biết ơn",
+      "A supposition: her lungs must be grateful"
+     ],
+     [
+      "Một nghĩa vụ: phổi phải biết ơn",
+      "An obligation: her lungs have to be grateful"
+     ],
+     [
+      "Một hành động vừa xảy ra",
+      "An action that has just happened"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Deber de” + nguyên mẫu = phỏng đoán (chắc là). Nghĩa vụ sẽ là “deber” không có “de”; “vừa mới” là “acabar de”.",
+     "“Deber de” + infinitive = supposition (must be). Obligation would be “deber” without “de”; “just done” is “acabar de”."
+    ],
+    "f": [
+     "deben de estar agradecidos",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "No contesta al teléfono ni responde a los mensajes desde esta mañana; ___ de estar en alguna reunión larga, como le pasa casi todos los jueves.",
+    "o": [
+     "debe",
+     "tiene",
+     "acaba"
+    ],
+    "a": 0,
+    "e": [
+     "Phỏng đoán → **debe de** + nguyên mẫu (chắc là đang họp). Bẫy: “tiene de” không tồn tại (phải là “tiene que”), “acaba de estar” = vừa mới ở, sai nghĩa.",
+     "Supposition → **debe de** + infinitive (he must be in a meeting). Trap: “tiene de” doesn't exist (it's “tiene que”); “acaba de estar” = has just been, wrong meaning."
+    ],
+    "f": [
+     "debe de estar",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Mis vecinos llevan más de seis meses ___ (reformar) la cocina, y el ruido de los taladros empieza a las ocho en punto todos los días.",
+    "a": [
+     "reformando"
+    ],
+    "e": [
+     "“Llevar + thời gian + **gerundio**” = đã làm gì được bao lâu (và vẫn đang tiếp diễn): llevan seis meses reformando. Bẫy: “reformar” (nguyên mẫu) hoặc “reformado” (phân từ).",
+     "“Llevar + time + **gerund**” = have been doing for (still ongoing): llevan seis meses reformando. Trap: “reformar” (infinitive) or “reformado” (participle)."
+    ],
+    "f": [
+     "llevan más de seis meses reformando",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Después de dos años sin escribirnos, mi antiguo compañero de piso volvió de llamarme para invitarme a su boda en Galicia.",
+    "a": [
+     "Después de dos años sin escribirnos, mi antiguo compañero de piso volvió a llamarme para invitarme a su boda en Galicia."
+    ],
+    "e": [
+     "“Volver **a** + nguyên mẫu” = làm lại (gọi lại cho tôi). “Volver de” nghĩa là trở về từ một nơi, không đi với nguyên mẫu. Dễ nhầm với “dejar de / acabar de”.",
+     "“Volver **a** + infinitive” = to do again (called me again). “Volver de” means to come back from a place. Easily confused with “dejar de / acabar de”."
+    ],
+    "f": [
+     "volvió a llamarme",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Khi chúng tôi sắp ra khỏi nhà thì trời đột nhiên đổ mưa, nên chúng tôi quyết định ở lại và tiếp tục xem bộ phim.",
+    "a": [
+     "Cuando estábamos a punto de salir de casa, de repente se puso a llover, así que decidimos quedarnos y seguir viendo la película.",
+     "Estábamos a punto de salir de casa cuando de repente se puso a llover, así que decidimos quedarnos y seguir viendo la película.",
+     "Cuando estábamos a punto de salir de casa, de pronto empezó a llover, así que decidimos quedarnos y seguir viendo la película."
+    ],
+    "e": [
+     "“Sắp” = **estar a punto de**; “đột nhiên bắt đầu” = **ponerse a** (se puso a llover); “tiếp tục” = **seguir + gerundio** (seguir viendo, không phải “seguir ver”).",
+     "“About to” = **estar a punto de**; “suddenly start” = **ponerse a** (se puso a llover); “keep on” = **seguir + gerund** (seguir viendo, not “seguir ver”)."
+    ],
+    "f": [
+     "estábamos a punto de salir",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “llevar + thời gian + gerundio”",
+     "Rewrite the sentence using “llevar + time + gerund”"
+    ],
+    "s": "Trabajo como enfermera en este hospital desde hace doce años y todavía me emociono cada vez que un paciente recibe el alta.",
+    "a": [
+     "Llevo doce años trabajando como enfermera en este hospital y todavía me emociono cada vez que un paciente recibe el alta.",
+     "Llevo doce años trabajando en este hospital como enfermera y todavía me emociono cada vez que un paciente recibe el alta."
+    ],
+    "e": [
+     "“Desde hace doce años” → **llevo doce años + gerundio** (trabajando). Bỏ “desde hace” vì “llevar” đã chứa ý thời lượng.",
+     "“Desde hace doce años” → **llevo doce años + gerund** (trabajando). Drop “desde hace” because “llevar” already expresses duration."
+    ],
+    "f": [
+     "Llevo doce años trabajando",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Aunque|el médico|le ha dicho|mil veces|que deje de|tomar tanto café,|mi padre|sigue bebiendo|cuatro tazas al día",
+    "m": [
+     "Dù bác sĩ đã nói cả nghìn lần là ông nên bỏ uống nhiều cà phê, bố tôi vẫn uống bốn tách mỗi ngày.",
+     "Although the doctor has told him a thousand times to stop drinking so much coffee, my father keeps drinking four cups a day."
+    ],
+    "e": [
+     "“Dejar de” + nguyên mẫu = ngừng làm; “seguir” + gerundio = vẫn tiếp tục. “Que deje” ở subjuntivo vì là lời khuyên/yêu cầu.",
+     "“Dejar de” + infinitive = to stop doing; “seguir” + gerund = to keep doing. “Que deje” is subjunctive because it's advice/a request."
+    ],
+    "f": [
+     "sigue bebiendo",
+     "C2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c2-2",
+  "t": [
+   "Thành ngữ & sắc thái vùng miền",
+   "Idioms & regional nuance"
+  ],
+  "th": [
+   [
+    "Thành ngữ thường gặp:\n• **tomar el pelo** – trêu, lừa ai\n• **estar en las nubes** – lơ đãng\n• **meter la pata** – lỡ lời, phạm sai lầm\n• **costar un ojo de la cara** – cực kỳ đắt\n• **no tener pelos en la lengua** – nói thẳng\n• **ser pan comido** – dễ như ăn bánh\n• **echar de menos** – nhớ (ai / cái gì)\n• **dar en el clavo** – nói trúng, đoán trúng",
+    "Common idioms:\n• **tomar el pelo** – to pull someone's leg\n• **estar en las nubes** – to daydream\n• **meter la pata** – to put your foot in it\n• **costar un ojo de la cara** – to cost an arm and a leg\n• **no tener pelos en la lengua** – to be outspoken\n• **ser pan comido** – to be a piece of cake\n• **echar de menos** – to miss (someone)\n• **dar en el clavo** – to hit the nail on the head"
+   ],
+   [
+    "Sắc thái vùng miền: “coger” bình thường ở Tây Ban Nha nhưng thô tục ở nhiều nước Mỹ Latinh – an toàn hơn khi dùng “tomar”. “Vale” (Tây Ban Nha), “Órale” (México), “Dale” (Argentina, Caribe) đều mang nghĩa “OK”.",
+    "Regional nuance: “coger” is neutral in Spain but vulgar in much of Latin America – “tomar” is safer. “Vale” (Spain), “Órale” (Mexico), “Dale” (Argentina, Caribbean) all mean “OK”."
+   ]
+  ],
+  "vo": [
+   [
+    "tomar el pelo",
+    "to-MAR el PE-lo",
+    "trêu chọc",
+    "to tease"
+   ],
+   [
+    "estar en las nubes",
+    "es-TAR en las NU-bes",
+    "lơ đãng",
+    "to daydream"
+   ],
+   [
+    "meter la pata",
+    "me-TER la PA-ta",
+    "lỡ lời",
+    "to blunder"
+   ],
+   [
+    "costar un ojo de la cara",
+    "cos-TAR un O-jo",
+    "rất đắt",
+    "to be very expensive"
+   ],
+   [
+    "no tener pelos en la lengua",
+    "PE-los en la LEN-gua",
+    "nói thẳng",
+    "to be outspoken"
+   ],
+   [
+    "ser pan comido",
+    "PAN co-MI-do",
+    "rất dễ",
+    "to be very easy"
+   ],
+   [
+    "echar de menos",
+    "e-CHAR de ME-nos",
+    "nhớ",
+    "to miss"
+   ],
+   [
+    "dar en el clavo",
+    "DAR en el CLA-vo",
+    "nói trúng",
+    "to get it exactly right"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    "“El examen fue pan comido.”",
+    [
+     [
+      "Kỳ thi rất dễ",
+      "The exam was very easy"
+     ],
+     [
+      "Kỳ thi rất khó",
+      "The exam was very hard"
+     ],
+     [
+      "Kỳ thi bị hủy",
+      "The exam was cancelled"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    "“Metí la pata en la reunión.”",
+    [
+     [
+      "Tôi lỡ lời / phạm sai lầm",
+      "I blundered"
+     ],
+     [
+      "Tôi đến muộn",
+      "I arrived late"
+     ],
+     [
+      "Tôi phát biểu hay",
+      "I spoke well"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Este coche cuesta un ojo de la ___ .",
+    [
+     "cabeza",
+     "cara",
+     "mano"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Echo ___ menos a mi familia.",
+    [
+     "a",
+     "de",
+     "en"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "¡No me tomes el ___ !",
+    [
+     "pelo",
+     "brazo",
+     "pie"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "“Siempre está en las nubes.”",
+    [
+     [
+      "luôn lơ đãng",
+      "always daydreaming"
+     ],
+     [
+      "luôn vui vẻ",
+      "always cheerful"
+     ],
+     [
+      "hay đi máy bay",
+      "flies a lot"
+     ]
+    ],
+    0
+   ],
+   [
+    "order",
+    "Mi jefe no tiene pelos en la lengua",
+    [
+     "Sếp tôi rất thẳng tính.",
+     "My boss doesn't mince words."
+    ]
+   ],
+   [
+    "dict",
+    "Con esa respuesta diste en el clavo."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Cuando le pregunté por su nuevo trabajo, se puso nervioso y metió la pata al decir delante de todos que pensaba dejar la empresa.",
+    "q": [
+     "Anh ấy đã mắc lỗi gì?",
+     "What blunder did he make?"
+    ],
+    "o": [
+     [
+      "Nói trước mọi người rằng định nghỉ việc",
+      "He said in front of everyone that he planned to leave the company"
+     ],
+     [
+      "Đến muộn buổi phỏng vấn",
+      "He was late for the interview"
+     ],
+     [
+      "Quên tên sếp mới",
+      "He forgot his new boss's name"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Meter la pata” = lỡ lời, phạm sai lầm ngớ ngẩn; ở đây là tiết lộ ý định nghỉ việc “delante de todos”.",
+     "“Meter la pata” = to put your foot in it; here, revealing his plan to leave “delante de todos”."
+    ],
+    "f": [
+     "metió la pata",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Desde que se mudó a Londres por trabajo, mi hermana echa muchísimo de menos la comida de mi madre y el sol de Málaga.",
+    "e": [
+     "“Echar de menos” = nhớ (cách nói của Tây Ban Nha; Mỹ Latinh hay dùng “extrañar”). Trạng từ “muchísimo” chen giữa “echa” và “de menos”.",
+     "“Echar de menos” = to miss (Spain; Latin America often uses “extrañar”). “Muchísimo” sits between “echa” and “de menos”."
+    ],
+    "f": [
+     "echa muchísimo de menos",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Mi abuela no tiene pelos en la lengua: si una comida le parece sosa, se lo dice al cocinero a la cara, aunque estemos en un restaurante elegante.",
+    "e": [
+     "“No tener pelos en la lengua” = nói thẳng; “decir algo a la cara” = nói thẳng mặt. Đọc “sosa” với âm s rõ.",
+     "“No tener pelos en la lengua” = to be outspoken; “decir algo a la cara” = to say it to someone's face. Pronounce the s in “sosa” clearly."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Cuando llegué a Ciudad de México para trabajar en una agencia de publicidad, pensaba que el idioma iba a ser pan comido: al fin y al cabo, yo había nacido en Valladolid. Me equivocaba. La primera semana metí la pata varias veces. En una reunión dije con toda naturalidad que iba a coger un taxi, y dos compañeros se miraron conteniendo la risa; más tarde me explicaron, con mucho tacto, que allí era mejor decir “tomar”. Tampoco entendía por qué todo el mundo me respondía “órale” cuando yo esperaba un simple “vale”. Al principio creía que me estaban tomando el pelo, pero poco a poco descubrí que cada expresión tenía su lógica. Mi jefa, que no tiene pelos en la lengua, me dijo un día que hablaba “como un libro antiguo”, y la verdad es que dio en el clavo. Hoy, tres años después, echo de menos algunas cosas de España, pero cuando vuelvo de vacaciones, son mis amigos de Valladolid quienes no entienden la mitad de lo que digo.",
+   "tr": "Khi đến Thành phố Mexico làm việc cho một công ty quảng cáo, tôi nghĩ ngôn ngữ sẽ dễ như ăn bánh: dù sao tôi cũng sinh ra ở Valladolid. Tôi đã nhầm. Tuần đầu tiên tôi lỡ lời mấy lần. Trong một cuộc họp, tôi thản nhiên nói mình sẽ “coger” taxi, và hai đồng nghiệp nhìn nhau cố nhịn cười; sau đó họ khéo léo giải thích rằng ở đây nên nói “tomar” thì hơn. Tôi cũng không hiểu vì sao ai cũng đáp “órale” khi tôi chờ một tiếng “vale” đơn giản. Lúc đầu tôi tưởng họ đang trêu mình, nhưng dần dần tôi nhận ra mỗi cách nói đều có logic riêng. Sếp tôi, người nói thẳng không kiêng nể, có lần bảo tôi nói chuyện “như một cuốn sách cổ”, và thật ra chị ấy nói trúng phóc. Giờ đây, ba năm sau, tôi nhớ vài thứ ở Tây Ban Nha, nhưng mỗi khi về nghỉ phép, chính những người bạn ở Valladolid lại không hiểu một nửa những gì tôi nói."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao hai đồng nghiệp cố nhịn cười?",
+     "Why did two colleagues try not to laugh?"
+    ],
+    "o": [
+     [
+      "Vì tác giả dùng động từ “coger” cho taxi",
+      "Because the writer used the verb “coger” for a taxi"
+     ],
+     [
+      "Vì tác giả đến họp muộn",
+      "Because the writer was late for the meeting"
+     ],
+     [
+      "Vì tác giả nói “órale”",
+      "Because the writer said “órale”"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Dije… que iba a coger un taxi” – ở Mexico “coger” mang nghĩa thô tục, nên họ khuyên dùng “tomar”. “Órale” là cách người Mexico nói, không phải tác giả.",
+     "“Dije… que iba a coger un taxi” – in Mexico “coger” is vulgar, so they advised “tomar”. “Órale” is what Mexicans said, not the writer."
+    ],
+    "f": [
+     "iba a coger un taxi",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tác giả đánh giá thế nào về nhận xét của sếp?",
+     "What does the writer think of the boss's comment?"
+    ],
+    "o": [
+     [
+      "Sếp đã nói hoàn toàn đúng",
+      "The boss was exactly right"
+     ],
+     [
+      "Sếp đang trêu cô ấy",
+      "The boss was teasing her"
+     ],
+     [
+      "Sếp đã lỡ lời",
+      "The boss put her foot in it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Y la verdad es que dio en el clavo” – “dar en el clavo” = nói trúng phóc. Bẫy: “tomar el pelo” (trêu) là điều tác giả từng nghĩ về người khác.",
+     "“Y la verdad es que dio en el clavo” – “dar en el clavo” = to hit the nail on the head. Trap: “tomar el pelo” (tease) is what she once suspected of others."
+    ],
+    "f": [
+     "dio en el clavo",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bây giờ, khi về Tây Ban Nha nghỉ phép thì chuyện gì xảy ra?",
+     "What happens now when she goes back to Spain on holiday?"
+    ],
+    "o": [
+     [
+      "Bạn bè ở Valladolid không hiểu một nửa những gì cô nói",
+      "Her friends in Valladolid don't understand half of what she says"
+     ],
+     [
+      "Cô ấy quên tiếng Tây Ban Nha",
+      "She forgets Spanish"
+     ],
+     [
+      "Cô ấy không muốn quay lại Mexico",
+      "She doesn't want to return to Mexico"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Son mis amigos de Valladolid quienes no entienden la mitad de lo que digo” – cấu trúc nhấn mạnh “son… quienes”: chính họ mới là người không hiểu.",
+     "“Son mis amigos de Valladolid quienes no entienden la mitad de lo que digo” – the cleft “son… quienes” stresses that now it is they who don't understand."
+    ],
+    "f": [
+     "no entienden la mitad de lo que digo",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Durante toda la reunión estuve en las ___, pensando en el viaje, y cuando el director me hizo una pregunta no supe qué responder.",
+    "o": [
+     "nubes",
+     "estrellas",
+     "olas"
+    ],
+    "a": 0,
+    "e": [
+     "“Estar en las **nubes**” = lơ đãng, đầu óc để đâu đâu. Các lựa chọn khác không tạo thành thành ngữ.",
+     "“Estar en las **nubes**” = to have your head in the clouds. The other options don't form an idiom."
+    ],
+    "f": [
+     "estar en las nubes",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "No te preocupes tanto por el examen práctico de conducir: si has practicado tanto como dices, para ti será ___, ya verás.",
+    "a": [
+     "pan comido"
+    ],
+    "e": [
+     "“Ser pan comido” = dễ như ăn bánh. Cụm cố định, không chia “comido” theo giống/số (el examen será pan comido).",
+     "“Ser pan comido” = to be a piece of cake. A fixed phrase; “comido” doesn't agree with the subject (el examen será pan comido)."
+    ],
+    "f": [
+     "pan comido",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Cuando vivía en Japón echaba en menos a mis amigos, pero sobre todo extrañaba las largas sobremesas de los domingos con mi familia.",
+    "a": [
+     "Cuando vivía en Japón echaba de menos a mis amigos, pero sobre todo extrañaba las largas sobremesas de los domingos con mi familia."
+    ],
+    "e": [
+     "Thành ngữ cố định là “echar **de** menos”, không phải “echar en menos”. Nhớ “a” trước người: echar de menos a mis amigos.",
+     "The fixed idiom is “echar **de** menos”, not “echar en menos”. Remember the personal “a”: echar de menos a mis amigos."
+    ],
+    "f": [
+     "echaba de menos",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đừng trêu tôi nữa! Tôi biết hôm qua tôi đã lỡ lời trước mặt bố mẹ bạn gái, nhưng tôi không cố ý mà.",
+    "a": [
+     "¡Deja de tomarme el pelo! Ya sé que ayer metí la pata delante de los padres de mi novia, pero no lo hice a propósito.",
+     "¡No me tomes más el pelo! Ya sé que ayer metí la pata delante de los padres de mi novia, pero no lo hice queriendo.",
+     "¡Deja de tomarme el pelo! Sé que ayer metí la pata delante de los padres de mi novia, pero no fue a propósito."
+    ],
+    "e": [
+     "“Trêu” = **tomar el pelo** (đại từ “me” gắn sau nguyên mẫu: tomarme); “lỡ lời” = **meter la pata** (ayer → indefinido “metí”). “Không cố ý” = no lo hice a propósito / queriendo.",
+     "“Tease” = **tomar el pelo** (pronoun attached: tomarme); “put my foot in it” = **meter la pata** (ayer → preterite “metí”). “Not on purpose” = no lo hice a propósito / queriendo."
+    ],
+    "f": [
+     "tomarme el pelo",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu, thay “acertaste completamente” bằng một thành ngữ cùng nghĩa",
+     "Rewrite the sentence, replacing “acertaste completamente” with an idiom of the same meaning"
+    ],
+    "s": "Cuando dijiste que el problema del proyecto era la falta de comunicación entre los departamentos, acertaste completamente.",
+    "a": [
+     "Cuando dijiste que el problema del proyecto era la falta de comunicación entre los departamentos, diste en el clavo."
+    ],
+    "e": [
+     "“Dar en el clavo” = nói/đoán trúng phóc. Chia indefinido ngôi tú: **diste** (không có dấu). Bẫy: “diste en la clava”.",
+     "“Dar en el clavo” = to hit the nail on the head. Preterite tú: **diste** (no accent). Trap: “diste en la clava”."
+    ],
+    "f": [
+     "diste en el clavo",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Mi jefa|no tiene|pelos en la lengua|y, si un informe|le parece flojo,|te lo dice|a la cara|delante de todos",
+    "m": [
+     "Sếp tôi rất thẳng tính: nếu thấy bản báo cáo nào yếu, chị ấy sẽ nói thẳng mặt bạn trước mọi người.",
+     "My boss doesn't mince her words: if she thinks a report is weak, she tells you to your face in front of everyone."
+    ],
+    "e": [
+     "“No tener pelos en la lengua” = nói thẳng; “decir algo a la cara” = nói thẳng mặt. Đại từ “te lo” đứng trước động từ chia.",
+     "“No tener pelos en la lengua” = to be outspoken; “decir algo a la cara” = to say it to someone's face. “Te lo” goes before the conjugated verb."
+    ],
+    "f": [
+     "no tiene pelos en la lengua",
+     "C2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d31",
+  "g": "study",
+  "t": [
+   "Tư duy phản biện & tranh luận",
+   "Critical thinking & debate"
+  ],
+  "th": [
+   [
+    "**Liên từ lập luận ở trình độ cao (và thức đi kèm)**\n• **de ahí que + subjuntivo** (vì thế mà): Los datos eran incompletos; **de ahí que** las conclusiones **fueran** precipitadas.\n• **el hecho de que + subjuntivo** (việc… – thường): **El hecho de que** algo **sea** popular no lo hace verdadero.\n• **no porque… sino porque** (không phải vì… mà vì): Lo rechazo **no porque sea** nuevo, **sino porque** no está probado. (vế phủ định → subjuntivo)\n• **ahora bien** (tuy nhiên), **dicho de otro modo** (nói cách khác), **cabe preguntarse si** (cần đặt câu hỏi liệu), **que yo sepa** (theo những gì tôi biết – + subjuntivo).",
+    "**High-level argumentative connectors (and their moods)**\n• **de ahí que + subjunctive** (hence): Los datos eran incompletos; **de ahí que** las conclusiones **fueran** precipitadas.\n• **el hecho de que + subjunctive** (the fact that – usually): **El hecho de que** algo **sea** popular no lo hace verdadero.\n• **no porque… sino porque** (not because… but because): Lo rechazo **no porque sea** nuevo, **sino porque** no está probado. (negated clause → subjunctive)\n• **ahora bien** (that said), **dicho de otro modo** (in other words), **cabe preguntarse si** (one may ask whether), **que yo sepa** (as far as I know – + subjunctive)."
+   ],
+   [
+    "**Nhận diện ngụy biện (falacias) và phản bác tinh tế**\n• **ad hominem**: tấn công con người thay vì lập luận → “Eso lo dice porque es de izquierdas.”\n• **hombre de paja** (người rơm): bóp méo ý đối phương → “Así que usted quiere prohibir los coches.”\n• **generalización apresurada**: “Conozco a dos que…, luego todos…”\n• **correlación no implica causalidad**.\n**Ngữ dụng – mỉa mai & hàm ý**: “Muy convincente su argumento… si ignoramos los datos.” (khen bề ngoài, chê bên trong). Phản bác lịch sự cấp cao: “**Con el debido respeto**, eso **no se sostiene**”; “**Me temo que** está confundiendo…”; “**Concedo que**…, **pero de ello no se deduce que**…”",
+    "**Spotting fallacies and refined rebuttal**\n• **ad hominem**: attacking the person, not the argument → “Eso lo dice porque es de izquierdas.”\n• **hombre de paja** (straw man): distorting the opponent's view → “Así que usted quiere prohibir los coches.”\n• **generalización apresurada** (hasty generalisation): “Conozco a dos que…, luego todos…”\n• **correlation does not imply causation**.\n**Pragmatics – irony & implicature**: “Muy convincente su argumento… si ignoramos los datos.” (praise on the surface, criticism underneath). High-level polite rebuttal: “**Con el debido respeto**, eso **no se sostiene**”; “**Me temo que** está confundiendo…”; “**Concedo que**…, **pero de ello no se deduce que**…”"
+   ],
+   [
+    "**Từ gần nghĩa**: **refutar** (bác bỏ bằng chứng cứ) ≠ **rebatir** (phản bác bằng lý lẽ) ≠ **negar** (phủ nhận, không cần lý lẽ). **demostrar / probar** (chứng minh chắc chắn) ≠ **mostrar** (cho thấy) ≠ **sugerir** (gợi ý, chưa chắc). **argumento** (luận cứ) ≠ **razonamiento** (chuỗi suy luận) ≠ **pretexto** (cái cớ). **sesgo** (thiên kiến) ≠ **prejuicio** (định kiến).\n**Phát âm & ngữ điệu**: mỉa mai tiếng Tây Ban Nha thường kéo dài và nâng cao âm tiết nhấn: “Muy con-vin-**CEEN**-te…”, rồi ngừng trước vế đảo ngược. Khi liệt kê luận điểm, giữ giọng lửng (↗) ở mỗi ý và chỉ hạ (↘) ở ý cuối.",
+    "**Near-synonyms**: **refutar** (disprove with evidence) ≠ **rebatir** (counter with reasoning) ≠ **negar** (deny, no reasoning needed). **demostrar / probar** (prove) ≠ **mostrar** (show) ≠ **sugerir** (suggest, tentative). **argumento** (argument) ≠ **razonamiento** (line of reasoning) ≠ **pretexto** (excuse). **sesgo** (bias) ≠ **prejuicio** (prejudice).\n**Pronunciation & intonation**: Spanish irony often lengthens and raises the stressed syllable: “Muy con-vin-CEEN-te…”, then pauses before the twist. When listing points, keep a suspended rise (↗) on each and fall (↘) only on the last."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem 1 cuộc tranh luận học thuật/chính trị bằng tiếng Tây Ban Nha, ghi lại 3 ngụy biện và cách đối phương phản bác.\n• Nói (30 phút): luyện “steelman”: tóm tắt quan điểm ngược lại một cách công bằng nhất trong 1 phút, rồi phản bác trong 2 phút.\n• Đọc (30 phút): đọc 1 bài xã luận, đánh dấu luận đề, luận cứ, bằng chứng và ngụy biện (nếu có).\n• Viết (45 phút): viết bài phản biện 250 từ cho một bài báo, dùng “de ahí que”, “ahora bien”, “de ello no se deduce que”.\n• Từ vựng (15 phút): phân biệt refutar/rebatir/negar, demostrar/mostrar/sugerir, sesgo/prejuicio.",
+    "**Practice outside the app**\n• Listening (30 min): watch a Spanish academic/political debate; note 3 fallacies and how they were rebutted.\n• Speaking (30 min): practise “steelmanning”: summarise the opposing view as fairly as possible in 1 minute, then rebut it in 2.\n• Reading (30 min): read an editorial and mark thesis, arguments, evidence and any fallacies.\n• Writing (45 min): a 250-word rebuttal of an article using “de ahí que”, “ahora bien”, “de ello no se deduce que”.\n• Vocabulary (15 min): distinguish refutar/rebatir/negar, demostrar/mostrar/sugerir, sesgo/prejuicio."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Con el debido respeto, ese argumento no se sostiene.",
+    "Với tất cả sự tôn trọng, lập luận đó không đứng vững."
+   ],
+   [
+    "Concedo que…, pero de ello no se deduce que…",
+    "Tôi thừa nhận rằng…, nhưng từ đó không thể suy ra rằng…"
+   ],
+   [
+    "Correlación no implica causalidad.",
+    "Tương quan không có nghĩa là nhân quả."
+   ],
+   [
+    "Me temo que está confundiendo dos cosas distintas.",
+    "E rằng anh đang nhầm lẫn hai chuyện khác nhau."
+   ],
+   [
+    "Dicho de otro modo, ¿qué pruebas tiene?",
+    "Nói cách khác, anh có bằng chứng gì?"
+   ],
+   [
+    "Que yo sepa, no hay ningún estudio que lo demuestre.",
+    "Theo tôi biết, không có nghiên cứu nào chứng minh điều đó."
+   ],
+   [
+    "Eso es un ataque personal, no un argumento.",
+    "Đó là công kích cá nhân, không phải lập luận."
+   ]
+  ],
+  "vo": [
+   [
+    "la falacia",
+    "/la faˈlaθja/ la fa-LA-cia",
+    "ngụy biện",
+    "fallacy"
+   ],
+   [
+    "el sesgo",
+    "/el ˈsesɣo/ el SES-go",
+    "thiên kiến",
+    "bias"
+   ],
+   [
+    "la premisa",
+    "/la pɾeˈmisa/ la pre-MI-sa",
+    "tiền đề",
+    "premise"
+   ],
+   [
+    "refutar",
+    "/refuˈtaɾ/ re-fu-TAR",
+    "bác bỏ (bằng chứng cứ)",
+    "to refute"
+   ],
+   [
+    "rebatir",
+    "/reβaˈtiɾ/ re-ba-TIR",
+    "phản bác",
+    "to counter, rebut"
+   ],
+   [
+    "la evidencia",
+    "/la eβiˈðenθja/ la e-vi-DEN-cia",
+    "bằng chứng (hiển nhiên)",
+    "evidence"
+   ],
+   [
+    "sostenerse",
+    "/sosteˈneɾse/ sos-te-NER-se",
+    "đứng vững (lập luận)",
+    "to hold up"
+   ],
+   [
+    "deducir",
+    "/deðuˈθiɾ/ de-du-CIR",
+    "suy ra",
+    "to deduce, infer"
+   ],
+   [
+    "el razonamiento",
+    "/el raθonaˈmjento/ el ra-zo-na-MIEN-to",
+    "lập luận, suy luận",
+    "reasoning"
+   ],
+   [
+    "matizar",
+    "/matiˈθaɾ/ ma-ti-ZAR",
+    "điều chỉnh sắc thái",
+    "to nuance, qualify"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "El hecho de que una idea sea popular en las redes sociales no significa, ni mucho menos, que sea verdadera.",
+    "e": [
+     "“El hecho de que + subjuntivo” (sea). “Ni mucho menos” = hoàn toàn không – nhấn mạnh phủ định.",
+     "“El hecho de que + subjunctive” (sea). “Ni mucho menos” = by no means – emphatic negation."
+    ],
+    "f": [
+     "El hecho de que una idea sea popular",
+     "C2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Concedo que los dos fenómenos aparecen juntos en los datos; ahora bien, de ello no se deduce que uno sea la causa del otro.",
+    "q": [
+     "Người nói phản bác điều gì?",
+     "What is the speaker objecting to?"
+    ],
+    "o": [
+     [
+      "Việc suy ra quan hệ nhân quả từ tương quan",
+      "Inferring causation from correlation"
+     ],
+     [
+      "Việc dữ liệu bị làm giả",
+      "The data being fake"
+     ],
+     [
+      "Việc hai hiện tượng xuất hiện cùng nhau",
+      "The two phenomena appearing together"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Người nói **thừa nhận** tương quan (concedo que… aparecen juntos) nhưng bác bỏ suy luận nhân quả (de ello no se deduce que + subjuntivo).",
+     "The speaker **concedes** the correlation (concedo que… aparecen juntos) but rejects the causal inference (de ello no se deduce que + subjunctive)."
+    ],
+    "f": [
+     "de ello no se deduce que",
+     "C2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Muy convincente su razonamiento, desde luego, siempre y cuando ignoremos los tres estudios que dicen exactamente lo contrario.",
+    "q": [
+     "Người nói thực sự nghĩ gì?",
+     "What does the speaker really mean?"
+    ],
+    "o": [
+     [
+      "Lập luận không thuyết phục vì bỏ qua bằng chứng ngược lại",
+      "The reasoning is unconvincing because it ignores counter-evidence"
+     ],
+     [
+      "Lập luận rất thuyết phục",
+      "The reasoning is very convincing"
+     ],
+     [
+      "Ba nghiên cứu kia sai",
+      "The three studies are wrong"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "**Mỉa mai** (ironía): khen bề ngoài “muy convincente… desde luego” rồi đảo ngược bằng điều kiện “siempre y cuando ignoremos…”. Hàm ý: lập luận chỉ đứng vững nếu bỏ qua bằng chứng.",
+     "**Irony**: surface praise “muy convincente… desde luego”, then a twist with “siempre y cuando ignoremos…”. Implicature: it only holds if you ignore the evidence."
+    ],
+    "f": [
+     "siempre y cuando ignoremos",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Con el debido respeto, me temo que está atacando a la persona y no al argumento, y eso, en un debate serio, no se sostiene.",
+    "e": [
+     "Phản bác lịch sự cấp cao: “Con el debido respeto” + “me temo que” (rào đón) + gọi tên ngụy biện ad hominem. Nhấn vào “PERsona” và “arguMENto”.",
+     "High-register rebuttal: “Con el debido respeto” + “me temo que” (hedge) + naming the ad hominem. Stress “PERsona” and “arguMENto”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Por qué es importante el pensamiento crítico? – Porque nos permite distinguir entre lo que es cierto y lo que simplemente queremos creer, algo cada vez más difícil en la era de la desinformación.",
+    "e": [
+     "Câu hỏi: Vì sao tư duy phản biện quan trọng? – Gợi ý: đối lập “lo que es cierto / lo que queremos creer” + đồng vị ngữ “algo cada vez más difícil…”.",
+     "Question: Why does critical thinking matter? – Model: contrast “lo que es cierto / lo que queremos creer” + appositive “algo cada vez más difícil…”."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thôi, cậu đừng có vơ đũa cả nắm thế; chỉ vì hai người cậu quen làm vậy không có nghĩa là ai cũng thế.",
+    "a": [
+     "Venga, no metas a todos en el mismo saco; que dos personas que conoces lo hagan no significa que todo el mundo sea así.",
+     "Anda, no generalices tanto: el hecho de que dos conocidos tuyos lo hagan no quiere decir que todos lo hagan.",
+     "Venga, no hay que meter a todo el mundo en el mismo saco; que dos personas que tú conoces lo hagan no significa que todos sean iguales."
+    ],
+    "e": [
+     "Thành ngữ **meter a todos en el mismo saco** = vơ đũa cả nắm (ngụy biện khái quát vội vàng, nói theo kiểu đời thường). “Que + subjuntivo” làm chủ ngữ; “no significa que + subjuntivo”.",
+     "Idiom **meter a todos en el mismo saco** = to lump everyone together (hasty generalisation, everyday style). “Que + subjunctive” as subject; “no significa que + subjunctive”."
+    ],
+    "f": [
+     "no metas a todos en el mismo saco",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang lời gián tiếp, bắt đầu bằng “El moderador nos pidió que…”",
+     "Report it, starting with “El moderador nos pidió que…”"
+    ],
+    "s": "Moderador: “Céntrense en los argumentos, no se interrumpan y, si alguien cita un estudio, que diga de dónde lo ha sacado.”",
+    "a": [
+     "El moderador nos pidió que nos centráramos en los argumentos, que no nos interrumpiéramos y que, si alguien citaba un estudio, dijera de dónde lo había sacado.",
+     "El moderador nos pidió que nos centrásemos en los argumentos, que no nos interrumpiésemos y que, si alguien citaba un estudio, dijese de dónde lo había sacado."
+    ],
+    "e": [
+     "Mệnh lệnh ustedes → “pedir que + subjuntivo quá khứ” (nos centráramos, no nos interrumpiéramos); “que diga” → dijera; “cita” → citaba; “ha sacado” → había sacado.",
+     "Ustedes commands → “pedir que + past subjunctive” (nos centráramos, no nos interrumpiéramos); “que diga” → dijera; “cita” → citaba; “ha sacado” → había sacado."
+    ],
+    "f": [
+     "nos pidió que nos centráramos",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Vale, entiendo tu punto, pero no me vengas con que todos los expertos están de acuerdo, porque eso no es cierto ni mucho más.",
+    "a": [
+     "Vale, entiendo tu punto, pero no me vengas con que todos los expertos están de acuerdo, porque eso no es cierto ni mucho menos."
+    ],
+    "e": [
+     "Thành ngữ là **ni mucho menos** (hoàn toàn không), không phải “ni mucho más”. “No me vengas con que…” = đừng có nói với tôi rằng… (khẩu ngữ, hơi gay gắt).",
+     "The idiom is **ni mucho menos** (not at all), not “ni mucho más”. “No me vengas con que…” = don't give me that… (colloquial, a bit sharp)."
+    ],
+    "f": [
+     "ni mucho menos",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Cada vez que le llevas la contraria, sale por la ___ y empieza a hablar de otra cosa para no reconocer que se ha equivocado.",
+    "a": [
+     "tangente"
+    ],
+    "e": [
+     "Thành ngữ **salirse / irse por la tangente** = đánh trống lảng, lái sang chuyện khác – một chiến thuật né tránh trong tranh luận (cá trích đỏ).",
+     "Idiom **salir(se) / irse por la tangente** = to dodge the issue, go off on a tangent – an evasive move in debate (red herring)."
+    ],
+    "f": [
+     "sale por la tangente",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Querida Nerea:\nTe escribo con algunas notas sobre el debate de ayer, que, para ser tu primera final, estuvo francamente bien. Tu introducción fue clara y la estadística sobre el uso del móvil en clase estaba bien elegida. Ahora bien, hay un par de cosas que conviene pulir.\nPrimero, cuando tu rival citó el estudio de Finlandia, respondiste que “ese estudio lo financió una empresa tecnológica, así que no vale nada”. Entiendo la tentación, pero el jurado lo percibió como un ataque a la fuente más que una refutación de los datos. Habría sido mucho más eficaz señalar que la muestra era pequeña, de ahí que sus conclusiones no puedan generalizarse.\nSegundo, cuando dijiste “o prohibimos los móviles o renunciamos a la educación”, planteaste un falso dilema, y tu rival lo aprovechó con bastante ironía.\nNo te lo digo para desanimarte, sino porque creo sinceramente que puedes ganar el próximo torneo. Que yo sepa, nadie ha empezado tan bien. ¿Lo hablamos el jueves?\nUn abrazo,\nMarcos",
+   "tr": "Nerea thân mến:\nThầy viết cho em vài nhận xét về cuộc tranh luận hôm qua – với một trận chung kết đầu tiên thì em làm thực sự tốt. Phần mở đầu của em rõ ràng và số liệu thống kê về việc dùng điện thoại trong lớp được chọn rất khéo. Tuy nhiên, có vài điều nên trau chuốt thêm.\nThứ nhất, khi đối thủ dẫn nghiên cứu ở Phần Lan, em đáp rằng “nghiên cứu đó do một công ty công nghệ tài trợ, nên chẳng có giá trị gì”. Thầy hiểu sự cám dỗ đó, nhưng ban giám khảo xem đó là công kích nguồn hơn là bác bỏ dữ liệu. Hiệu quả hơn nhiều sẽ là chỉ ra rằng mẫu nghiên cứu nhỏ, vì thế kết luận của nó không thể khái quát hóa.\nThứ hai, khi em nói “hoặc chúng ta cấm điện thoại, hoặc chúng ta từ bỏ giáo dục”, em đã đưa ra một song đề sai, và đối thủ đã tận dụng điều đó với khá nhiều mỉa mai.\nThầy nói điều này không phải để làm em nản lòng, mà vì thầy thật sự tin em có thể thắng giải đấu tới. Theo thầy biết, chưa ai khởi đầu tốt như vậy. Thứ Năm mình nói chuyện nhé?\nThân,\nMarcos"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao giám khảo không đánh giá cao câu trả lời về nghiên cứu Phần Lan?",
+     "Why did the judges not value the reply about the Finnish study?"
+    ],
+    "o": [
+     [
+      "Vì nó công kích nguồn tài trợ chứ không bác bỏ dữ liệu",
+      "It attacked the funding source rather than refuting the data"
+     ],
+     [
+      "Vì Nerea không biết nghiên cứu đó",
+      "Nerea didn't know the study"
+     ],
+     [
+      "Vì nghiên cứu đó có mẫu lớn",
+      "The study had a large sample"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“El jurado lo percibió como un ataque a la fuente más que una refutación de los datos.” – một dạng ngụy biện nguồn gốc (genética / ad hominem).",
+     "“El jurado lo percibió como un ataque a la fuente más que una refutación de los datos.” – a genetic / ad hominem fallacy."
+    ],
+    "f": [
+     "un ataque a la fuente más que una refutación",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Marcos gợi ý cách phản bác tốt hơn là gì?",
+     "What better rebuttal does Marcos suggest?"
+    ],
+    "o": [
+     [
+      "Chỉ ra mẫu nghiên cứu nhỏ nên không thể khái quát",
+      "Point out the small sample, so it can't be generalised"
+     ],
+     [
+      "Phủ nhận nghiên cứu tồn tại",
+      "Deny the study exists"
+     ],
+     [
+      "Dẫn một công ty công nghệ khác",
+      "Cite another tech company"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Habría sido mucho más eficaz señalar que la muestra era pequeña, de ahí que sus conclusiones no puedan generalizarse.” – “de ahí que + subjuntivo”.",
+     "“Habría sido mucho más eficaz señalar que la muestra era pequeña, de ahí que sus conclusiones no puedan generalizarse.” – “de ahí que + subjunctive”."
+    ],
+    "f": [
+     "de ahí que sus conclusiones no puedan generalizarse",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “No te lo digo para desanimarte, sino porque…” có chức năng gì?",
+     "What is the function of “No te lo digo para desanimarte, sino porque…”?"
+    ],
+    "o": [
+     [
+      "Giảm nhẹ lời phê bình và động viên",
+      "To soften the criticism and encourage"
+     ],
+     [
+      "Cảnh báo Nerea sẽ bị loại",
+      "To warn Nerea she'll be dropped"
+     ],
+     [
+      "Xin lỗi vì đã khen",
+      "To apologise for praising her"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Chiến lược lịch sự “bánh mì kẹp”: khen – góp ý – động viên. “No… para… sino porque…” loại trừ cách hiểu tiêu cực.",
+     "Politeness “sandwich”: praise – critique – encouragement. “No… para… sino porque…” rules out a negative reading."
+    ],
+    "f": [
+     "No te lo digo para desanimarte",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El experimento se realizó solo con veinte voluntarios de la misma universidad; ___ sus resultados deban tomarse con muchísima cautela.",
+    "o": [
+     "de ahí que",
+     "por lo tanto",
+     "ya que"
+    ],
+    "a": 0,
+    "e": [
+     "Sau chỗ trống động từ ở **subjuntivo** (deban) → chỉ **de ahí que** phù hợp. “Por lo tanto” cần indicativo (deben); “ya que” chỉ nguyên nhân, sai logic.",
+     "The blank is followed by a **subjunctive** (deban) → only **de ahí que** fits. “Por lo tanto” needs the indicative (deben); “ya que” gives a cause – wrong logic."
+    ],
+    "f": [
+     "de ahí que sus resultados deban",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El ponente no logró ___ los datos de su adversario, así que se limitó a negarlos sin aportar ninguna prueba que respaldara su postura.",
+    "o": [
+     "refutar",
+     "negar",
+     "sugerir"
+    ],
+    "a": 0,
+    "e": [
+     "**Refutar** = bác bỏ bằng chứng cứ – đúng điều ông ta *không làm được*; ông chỉ **negar** (phủ nhận suông). Cặp gần nghĩa then chốt.",
+     "**Refutar** = to disprove with evidence – what he *failed* to do; he merely **negó** (denied). A key near-synonym pair."
+    ],
+    "f": [
+     "no logró refutar los datos",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Que yo ___, no existe ningún metaanálisis serio que confirme que esa dieta mejore el rendimiento académico de los estudiantes.",
+    "o": [
+     "sepa",
+     "sé",
+     "supiera"
+    ],
+    "a": 0,
+    "e": [
+     "Cụm cố định **que yo sepa** (theo những gì tôi biết) luôn dùng subjuntivo hiện tại. Lưu ý thêm: “ningún… que confirme” – tiền ngữ phủ định → subjuntivo.",
+     "Fixed phrase **que yo sepa** (as far as I know) always uses the present subjunctive. Also: “ningún… que confirme” – negative antecedent → subjunctive."
+    ],
+    "f": [
+     "Que yo sepa",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Lo critico no porque ___ una idea nueva, sino porque nadie ha demostrado todavía que funcione fuera del laboratorio. (ser)",
+    "a": [
+     "sea"
+    ],
+    "e": [
+     "“No porque + **subjuntivo**” (lý do bị phủ nhận), “sino porque + indicativo” (lý do thật). Vì vậy: no porque **sea**.",
+     "“No porque + **subjunctive**” (the rejected reason), “sino porque + indicative” (the real one). So: no porque **sea**."
+    ],
+    "f": [
+     "no porque sea una idea nueva",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Concedo que la medida ha reducido el tráfico en el centro; ahora bien, de ello no se ___ que haya mejorado la calidad del aire en toda la ciudad.",
+    "a": [
+     "deduce",
+     "desprende",
+     "sigue"
+    ],
+    "e": [
+     "**De ello no se deduce / desprende / sigue que + subjuntivo** = từ đó không thể suy ra rằng – công thức bác bỏ suy luận vội vàng.",
+     "**De ello no se deduce / desprende / sigue que + subjunctive** = it does not follow that – a formula to block a hasty inference."
+    ],
+    "f": [
+     "de ello no se deduce que",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "El hecho de que los países con más bibliotecas tienen menos delincuencia no demuestra que las bibliotecas reduzcan el crimen.",
+    "a": [
+     "El hecho de que los países con más bibliotecas tengan menos delincuencia no demuestra que las bibliotecas reduzcan el crimen."
+    ],
+    "e": [
+     "“El hecho de que” làm chủ ngữ, đứng đầu câu → **subjuntivo**: tengan. (Câu này cũng là ví dụ kinh điển: tương quan ≠ nhân quả.)",
+     "“El hecho de que” as a sentence-initial subject → **subjunctive**: tengan. (Also a classic example: correlation ≠ causation.)"
+    ],
+    "f": [
+     "El hecho de que… tengan",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mi oponente ha mostrado de forma concluyente que el impuesto destruye empleo, aunque, curiosamente, no ha aportado ni un solo dato que lo pruebe.",
+    "a": [
+     "Mi oponente ha sugerido que el impuesto destruye empleo, aunque, curiosamente, no ha aportado ni un solo dato que lo pruebe.",
+     "Mi oponente ha afirmado que el impuesto destruye empleo, aunque, curiosamente, no ha aportado ni un solo dato que lo pruebe."
+    ],
+    "e": [
+     "Mâu thuẫn ngữ nghĩa: “ha mostrado de forma concluyente” (đã chứng minh dứt khoát) nhưng “no ha aportado ni un solo dato”. Phải là động từ không hàm ý bằng chứng: **ha sugerido / ha afirmado**.",
+     "Semantic clash: “ha mostrado de forma concluyente” (has shown conclusively) yet “no ha aportado ni un solo dato”. Use a verb without implied proof: **ha sugerido / ha afirmado**."
+    ],
+    "f": [
+     "ha sugerido",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thừa nhận rằng số liệu của anh là đúng; tuy nhiên, từ đó không thể suy ra rằng chính sách này là nguyên nhân của sự cải thiện.",
+    "a": [
+     "Concedo que sus datos son correctos; ahora bien, de ello no se deduce que esta política sea la causa de la mejora.",
+     "Admito que sus cifras son correctas; sin embargo, de ello no se desprende que esta política haya causado la mejora.",
+     "Concedo que sus datos son exactos; no obstante, eso no implica que esta política sea la causa de la mejora."
+    ],
+    "e": [
+     "“Concedo/Admito que + indicativo” (thừa nhận sự thật) → “ahora bien / sin embargo” → “de ello no se deduce/desprende que + **subjuntivo**”.",
+     "“Concedo/Admito que + indicative” (a conceded fact) → “ahora bien / sin embargo” → “de ello no se deduce/desprende que + **subjunctive**”."
+    ],
+    "f": [
+     "de ello no se deduce que esta política sea",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Nói cách khác, anh đang bóp méo lập luận của tôi: tôi chưa bao giờ nói rằng chúng ta nên cấm hoàn toàn mạng xã hội.",
+    "a": [
+     "Dicho de otro modo, está usted tergiversando mi argumento: yo nunca he dicho que debamos prohibir por completo las redes sociales.",
+     "Dicho de otra manera, usted está distorsionando mi argumento: en ningún momento he dicho que haya que prohibir totalmente las redes sociales.",
+     "En otras palabras, está tergiversando mi razonamiento: jamás he afirmado que debamos prohibir del todo las redes sociales."
+    ],
+    "e": [
+     "Gọi tên ngụy biện “người rơm” bằng “tergiversar / distorsionar” (bóp méo). “Nunca he dicho que + subjuntivo” (debamos) vì mệnh đề bị phủ định.",
+     "Name the straw man with “tergiversar / distorsionar” (to twist). “Nunca he dicho que + subjunctive” (debamos) because the clause is negated."
+    ],
+    "f": [
+     "está usted tergiversando mi argumento",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại lời công kích cá nhân này thành lời phản bác tập trung vào lập luận, lịch sự, có rào đón",
+     "Rewrite this personal attack as a polite, hedged rebuttal focused on the argument"
+    ],
+    "s": "Usted no tiene ni idea de economía, así que lo que dice no vale nada.",
+    "a": [
+     "Con el debido respeto, me temo que su argumento no se sostiene, ya que no tiene en cuenta los datos de inflación de los últimos años.",
+     "Con todo respeto, creo que su razonamiento presenta algunas lagunas: por ejemplo, no explica por qué el paro subió a pesar del crecimiento."
+    ],
+    "e": [
+     "Bỏ công kích con người (no tiene ni idea) → nhắm vào lập luận (su argumento no se sostiene) + nêu lý do cụ thể. Rào đón: “con el debido respeto”, “me temo que”, “creo que… presenta algunas lagunas”.",
+     "Drop the personal attack → target the argument (su argumento no se sostiene) + give a concrete reason. Hedges: “con el debido respeto”, “me temo que”, “creo que… presenta algunas lagunas”."
+    ],
+    "f": [
+     "me temo que su argumento no se sostiene",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Que algo|se repita|mil veces|en internet|no lo convierte|en verdad;|dicho de otro modo,|la popularidad|no es una prueba",
+    "m": [
+     "Việc một điều được lặp lại nghìn lần trên mạng không biến nó thành sự thật; nói cách khác, sự phổ biến không phải là bằng chứng.",
+     "Something being repeated a thousand times online doesn't make it true; in other words, popularity is not proof."
+    ],
+    "e": [
+     "“Que + subjuntivo” làm chủ ngữ (que algo se repita) – rút gọn của “el hecho de que”. Ngụy biện “ad populum”.",
+     "“Que + subjunctive” as subject (que algo se repita) – a shorter “el hecho de que”. The ad populum fallacy."
+    ],
+    "f": [
+     "Que algo se repita mil veces",
+     "C2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết bài phản biện khoảng 200 từ cho nhận định: “Los videojuegos causan violencia, porque muchos jóvenes violentos juegan a videojuegos.” Nêu tên ít nhất 2 ngụy biện, dùng “concedo que… ahora bien”, “de ahí que / de ello no se deduce que + subj.” và kết thúc bằng một câu hỏi tu từ.",
+     "Write a ~200-word rebuttal of: “Video games cause violence, because many violent young people play video games.” Name at least 2 fallacies, use “concedo que… ahora bien”, “de ahí que / de ello no se deduce que + subj.” and end with a rhetorical question."
+    ],
+    "m": "La afirmación de que los videojuegos causan violencia porque muchos jóvenes violentos juegan a ellos resulta, a primera vista, intuitiva. Concedo que existe una coincidencia estadística: una gran parte de los jóvenes que cometen delitos violentos juegan a videojuegos. Ahora bien, de ello no se deduce que lo uno sea la causa de lo otro. Dicho de otro modo, se está confundiendo correlación con causalidad, ya que la inmensa mayoría de los jóvenes, violentos o no, también juega; de ahí que el dato, por sí solo, no explique nada. Además, el argumento incurre en una generalización apresurada, pues extrae una conclusión universal a partir de unos pocos casos llamativos que suelen aparecer en los medios. Que yo sepa, los metaanálisis más rigurosos no han encontrado una relación causal sólida entre videojuegos y delitos graves; sí señalan, en cambio, factores como la pobreza o la violencia en el entorno familiar. Por supuesto, conviene debatir sobre el contenido de ciertos juegos y el tiempo que pasan los menores delante de las pantallas. Pero, ¿no sería más honesto ocuparnos de las causas que los datos sí señalan?",
+    "e": [
+     "Checklist: • tóm tắt công bằng luận điểm đối phương • gọi tên ≥ 2 ngụy biện (correlación/causalidad, generalización apresurada…) • “concedo que… ahora bien”, “de ello no se deduce que + subj.”, “de ahí que + subj.” • rào đón (que yo sepa) • câu hỏi tu từ kết bài.",
+     "Checklist: • fair summary of the opposing claim • name ≥ 2 fallacies • “concedo que… ahora bien”, “de ello no se deduce que + subj.”, “de ahí que + subj.” • a hedge (que yo sepa) • closing rhetorical question."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d32",
+  "g": "study",
+  "t": [
+   "Ngôn ngữ, dịch thuật & giao tiếp liên văn hoá",
+   "Language, translation & intercultural communication"
+  ],
+  "th": [
+   [
+    "**Cấu trúc nhượng bộ & so sánh giả định ở trình độ C2**\n• **por (muy) + tính từ/trạng từ + que + subjuntivo** (dù… đến đâu): **Por muy bien que** **hables** español, siempre habrá expresiones que se te escapen.\n• **como si + imperfecto / pluscuamperfecto de subjuntivo** (như thể): Me miró **como si hubiera dicho** algo terrible.\n• **no es que… sino que** (không phải là… mà là): **No es que** los españoles **sean** maleducados, **sino que** su cortesía funciona de otra manera.\n• Khái quát hóa có rào đón: **se suele + nguyên mẫu**, **tiende a**, **por lo general**, **en muchos casos** – tránh định kiến (estereotipos).",
+    "**C2 concessive & hypothetical-comparison structures**\n• **por (muy) + adjective/adverb + que + subjunctive** (however…): **Por muy bien que hables** español, siempre habrá expresiones que se te escapen.\n• **como si + imperfect / pluperfect subjunctive** (as if): Me miró **como si hubiera dicho** algo terrible.\n• **no es que… sino que** (it's not that… but rather): **No es que** los españoles **sean** maleducados, **sino que** su cortesía funciona de otra manera.\n• Hedged generalisation: **se suele + infinitive**, **tiende a**, **por lo general**, **en muchos casos** – avoid stereotypes."
+   ],
+   [
+    "**Ngữ dụng liên văn hoá & biến thể**\n• **tú / usted / vos**: ở Tây Ban Nha “tú” rất phổ biến, kể cả với người lạ trẻ tuổi; ở nhiều nước Mỹ Latinh (Colombia, Costa Rica…) “usted” dùng cả trong gia đình; ở Argentina, Uruguay dùng **vos** (vos tenés, vos sabés). Mỹ Latinh **không dùng “vosotros”** → luôn “ustedes”.\n• **Lời mời/từ chối mơ hồ**: “**A ver si quedamos** un día” thường chỉ là phép lịch sự, chưa phải lời hẹn. “**Ya veremos**” thường ngụ ý “chắc là không”.\n• **Thời gian**: ở Mexico “**ahorita**” có thể là “ngay bây giờ” hoặc “lát nữa (không rõ khi nào)”.\n• **Trực tiếp**: người Tây Ban Nha hay ngắt lời và nói thẳng (“Eso no es así”) mà không coi là bất lịch sự; người Việt nên hiểu đúng, không “bắt lỗi” văn hoá.",
+    "**Intercultural pragmatics & variation**\n• **tú / usted / vos**: in Spain “tú” is very common, even with young strangers; in many Latin American countries (Colombia, Costa Rica…) “usted” is used even within families; in Argentina and Uruguay people use **vos** (vos tenés, vos sabés). Latin America **does not use “vosotros”** → always “ustedes”.\n• **Vague invitations/refusals**: “**A ver si quedamos** un día” is often mere politeness, not a real plan. “**Ya veremos**” often implies “probably not”.\n• **Time**: in Mexico “**ahorita**” can mean “right now” or “later (who knows when)”.\n• **Directness**: Spaniards often interrupt and speak bluntly (“Eso no es así”) without meaning to be rude; interpret it correctly rather than taking offence."
+   ],
+   [
+    "**Bạn giả (falsos amigos) & từ gần nghĩa**: **embarazada** = có thai (không phải “embarrassed” = avergonzado); **constipado** = bị cảm (không phải táo bón = estreñido); **actual** = hiện nay; **realizar** = thực hiện (không phải “nhận ra” = darse cuenta); **éxito** = thành công. **idioma** (ngôn ngữ của một dân tộc) ≠ **lengua** (ngôn ngữ; cũng là cái lưỡi) ≠ **lenguaje** (khả năng/kiểu ngôn ngữ: lenguaje corporal, jurídico). **traducir** (dịch viết) ≠ **interpretar** (phiên dịch nói).\n**Phát âm – biến thể**: seseo (Mỹ Latinh, Andalucía: “cielo” /ˈsjelo/), yeísmo rehilado ở Buenos Aires (“calle” /ˈkaʃe/), s cuối bị hơi hoá ở Caribe (“los amigos” /loh aˈmiɣoh/). Hiểu được, nhưng chọn một chuẩn để nói cho nhất quán.",
+    "**False friends & near-synonyms**: **embarazada** = pregnant (not “embarrassed” = avergonzado); **constipado** = having a cold (not constipated = estreñido); **actual** = current; **realizar** = to carry out (not “realise” = darse cuenta); **éxito** = success. **idioma** (a people's language) ≠ **lengua** (language; also tongue) ≠ **lenguaje** (language as faculty/style: lenguaje corporal, jurídico). **traducir** (written translation) ≠ **interpretar** (oral interpreting).\n**Pronunciation – variation**: seseo (Latin America, Andalusia: “cielo” /ˈsjelo/), Buenos Aires “sh” yeísmo (“calle” /ˈkaʃe/), aspirated final s in the Caribbean (“los amigos” /loh aˈmiɣoh/). Understand them all, but pick one model to speak consistently."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe cùng một tin tức từ đài Tây Ban Nha, Mexico và Argentina; ghi 5 khác biệt về phát âm và từ vựng.\n• Nói (25 phút): kể 2 phút về một lần hiểu lầm văn hoá của bạn, dùng “como si + subj.” và “no es que… sino que”.\n• Đọc (30 phút): đọc 1 bài về falsos amigos hoặc về ngữ dụng giao tiếp (cortesía) bằng tiếng Tây Ban Nha.\n• Viết (45 phút): dịch 1 đoạn văn 150 từ từ tiếng Việt sang tiếng Tây Ban Nha, rồi viết 80 từ giải thích các lựa chọn dịch (thành ngữ, văn phong).\n• Từ vựng (15 phút): làm danh sách 20 falsos amigos Anh–Tây Ban Nha và 10 từ khác nhau giữa Tây Ban Nha và Mỹ Latinh (coche/carro, móvil/celular…).",
+    "**Practice outside the app**\n• Listening (30 min): hear the same news item from Spanish, Mexican and Argentine radio; note 5 differences in pronunciation and vocabulary.\n• Speaking (25 min): tell for 2 min about a cultural misunderstanding you had, using “como si + subj.” and “no es que… sino que”.\n• Reading (30 min): read an article in Spanish on false friends or politeness pragmatics (cortesía).\n• Writing (45 min): translate a 150-word Vietnamese paragraph into Spanish, then write 80 words justifying your choices (idioms, register).\n• Vocabulary (15 min): list 20 English–Spanish false friends and 10 Spain vs Latin America differences (coche/carro, móvil/celular…)."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "¿Nos tuteamos?",
+    "Mình xưng hô thân mật (tú) nhé?"
+   ],
+   [
+    "A ver si quedamos un día de estos.",
+    "Hôm nào mình gặp nhau nhé (thường chỉ là phép lịch sự)."
+   ],
+   [
+    "Ya veremos.",
+    "Để xem đã (thường ngụ ý: chắc không)."
+   ],
+   [
+    "Ahorita lo hago.",
+    "Lát nữa / ngay đây tôi làm (Mexico)."
+   ],
+   [
+    "Perdona, no te he pillado el chiste.",
+    "Xin lỗi, mình không hiểu câu đùa."
+   ],
+   [
+    "Esa expresión no tiene una traducción literal.",
+    "Thành ngữ đó không dịch sát nghĩa được."
+   ],
+   [
+    "¿Cómo se dice esto en tu país?",
+    "Ở nước bạn người ta nói cái này thế nào?"
+   ]
+  ],
+  "vo": [
+   [
+    "el idioma",
+    "/el iˈðjoma/ el i-DIO-ma",
+    "ngôn ngữ (của một dân tộc)",
+    "language"
+   ],
+   [
+    "la lengua materna",
+    "/la ˈleŋɡwa maˈteɾna/ la LEN-gua ma-TER-na",
+    "tiếng mẹ đẻ",
+    "mother tongue"
+   ],
+   [
+    "el falso amigo",
+    "/el ˈfalso aˈmiɣo/ el FAL-so a-MI-go",
+    "từ bạn giả",
+    "false friend"
+   ],
+   [
+    "traducir",
+    "/tɾaðuˈθiɾ/ tra-du-CIR",
+    "dịch (viết)",
+    "to translate"
+   ],
+   [
+    "interpretar",
+    "/inteɾpɾeˈtaɾ/ in-ter-pre-TAR",
+    "phiên dịch (nói); diễn giải",
+    "to interpret"
+   ],
+   [
+    "el malentendido",
+    "/el malentenˈdiðo/ el ma-len-ten-DI-do",
+    "sự hiểu lầm",
+    "misunderstanding"
+   ],
+   [
+    "tutear",
+    "/tuteˈaɾ/ tu-te-AR",
+    "xưng “tú” (thân mật)",
+    "to address as tú"
+   ],
+   [
+    "la cortesía",
+    "/la koɾteˈsia/ la cor-te-SÍ-a",
+    "phép lịch sự",
+    "politeness"
+   ],
+   [
+    "el matiz",
+    "/el maˈtiθ/ el ma-TIZ",
+    "sắc thái",
+    "nuance"
+   ],
+   [
+    "el estereotipo",
+    "/el esteɾeoˈtipo/ el es-te-re-o-TI-po",
+    "định kiến khuôn mẫu",
+    "stereotype"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Por muy bien que domines la gramática, siempre habrá expresiones coloquiales que no aparezcan en ningún diccionario.",
+    "e": [
+     "“Por muy + trạng từ + que + subjuntivo” (domines). “Expresiones que no aparezcan” – tiền ngữ không xác định trong câu phủ định → subjuntivo.",
+     "“Por muy + adverb + que + subjunctive” (domines). “Expresiones que no aparezcan” – undetermined antecedent in a negative context → subjunctive."
+    ],
+    "f": [
+     "Por muy bien que domines",
+     "C2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Cuando le dije a mi compañero mexicano que me ayudara, me contestó “ahorita”, y no apareció hasta dos horas después.",
+    "q": [
+     "“Ahorita” ở đây thực tế có nghĩa gì?",
+     "What did “ahorita” actually mean here?"
+    ],
+    "o": [
+     [
+      "Lát nữa, không rõ khi nào",
+      "Later, at some unclear time"
+     ],
+     [
+      "Ngay lập tức",
+      "Immediately"
+     ],
+     [
+      "Không bao giờ",
+      "Never"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Ở Mexico “ahorita” có thể là “ngay” hoặc “lát nữa”; ngữ cảnh (hai tiếng sau mới đến) cho thấy nghĩa thứ hai.",
+     "In Mexico “ahorita” can mean “right now” or “later”; the context (he came two hours later) shows the second."
+    ],
+    "f": [
+     "me contestó “ahorita”",
+     "C1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Mi vecina me dijo “a ver si quedamos un día de estos para tomar algo”, pero en dos años nunca ha concretado ninguna fecha.",
+    "q": [
+     "Câu “a ver si quedamos” thực chất là gì?",
+     "What was “a ver si quedamos” really?"
+    ],
+    "o": [
+     [
+      "Một câu xã giao lịch sự, không phải lời hẹn thật",
+      "A polite social formula, not a real plan"
+     ],
+     [
+      "Một lời mời cụ thể",
+      "A specific invitation"
+     ],
+     [
+      "Một lời từ chối thẳng thừng",
+      "A blunt refusal"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“A ver si quedamos un día de estos” là công thức xã giao; người nghe không nên chờ ngày cụ thể. Hàm ý (implicature) – không phải nói dối.",
+     "“A ver si quedamos un día de estos” is a social formula; don't expect a date. It's implicature, not a lie."
+    ],
+    "f": [
+     "a ver si quedamos un día de estos",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "No es que los españoles sean maleducados, sino que interrumpir en una conversación se interpreta como señal de interés.",
+    "e": [
+     "“No es que + subjuntivo (sean)…, sino que + indicativo (se interpreta)” – sửa một định kiến. Nhấn “inte-RRUM-pir” với rr rung.",
+     "“No es que + subjunctive (sean)…, sino que + indicative (se interpreta)” – correcting a stereotype. Trill the rr in “inte-RRUM-pir”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Qué es lo más difícil de traducir? – Para mí, lo más difícil son el humor y los juegos de palabras, porque dependen de matices culturales que no siempre tienen equivalente.",
+    "e": [
+     "Câu hỏi: Điều gì khó dịch nhất? – Gợi ý: “lo más difícil son…” (động từ hợp với danh từ số nhiều sau) + mệnh đề quan hệ “que no siempre tienen equivalente”.",
+     "Question: What's hardest to translate? – Model: “lo más difícil son…” (verb agrees with the plural noun after it) + relative clause “que no siempre tienen equivalente”."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Ngại quá, mình nghe không kịp câu đùa đó; bạn giải thích lại giúp mình được không, mình vẫn chưa quen cách nói ở đây.",
+    "a": [
+     "Qué vergüenza, no he pillado el chiste; ¿me lo explicas otra vez? Es que todavía no me he hecho a la forma de hablar de aquí.",
+     "Perdona, pero no he pillado la broma; ¿me la puedes explicar? Todavía no estoy acostumbrada a cómo se habla aquí.",
+     "Uy, no he cogido el chiste; ¿me lo vuelves a explicar? Es que aún no me he acostumbrado a la manera de hablar de aquí."
+    ],
+    "e": [
+     "“Pillar / coger el chiste” = hiểu câu đùa (khẩu ngữ Tây Ban Nha). “Hacerse a / acostumbrarse a” = quen với. “Es que…” = giải thích lý do một cách tự nhiên.",
+     "“Pillar / coger el chiste” = to get the joke (colloquial Spain). “Hacerse a / acostumbrarse a” = to get used to. “Es que…” = a natural way to give a reason."
+    ],
+    "f": [
+     "no he pillado el chiste",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại lời từ chối thẳng này thành lời từ chối mềm, kiểu Tây Ban Nha (giữ quan hệ)",
+     "Rewrite this blunt refusal as a soft, Spanish-style refusal (keep the relationship)"
+    ],
+    "s": "No quiero ir a tu cena del sábado.",
+    "a": [
+     "¡Qué pena! Este sábado lo tengo complicadísimo, pero a ver si quedamos otro día con más calma, ¿vale?",
+     "Uf, me encantaría, pero el sábado no me viene nada bien; ¿lo dejamos para otra ocasión?",
+     "¡Gracias por invitarme! El sábado me va fatal, pero la próxima no me la pierdo."
+    ],
+    "e": [
+     "Từ chối lịch sự kiểu Tây Ban Nha: biểu cảm tiếc nuối (qué pena / me encantaría) + lý do mơ hồ (lo tengo complicado / no me viene bien) + đề xuất tương lai (a ver si quedamos otro día). Tránh “no quiero”.",
+     "Spanish-style polite refusal: regret (qué pena / me encantaría) + vague reason (lo tengo complicado / no me viene bien) + future offer (a ver si quedamos otro día). Avoid “no quiero”."
+    ],
+    "f": [
+     "no me viene nada bien",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Cuando llegué a Buenos Aires, me costó acostumbrarme a que todo el mundo me hablara de vos y me dijera cosas como “¿vos sabes dónde está?”.",
+    "a": [
+     "Cuando llegué a Buenos Aires, me costó acostumbrarme a que todo el mundo me hablara de vos y me dijera cosas como “¿vos sabés dónde está?”."
+    ],
+    "e": [
+     "Với **vos** (voseo Rioplatense), động từ hiện tại có trọng âm ở cuối và mang dấu: vos **sabés**, vos tenés, vos querés – không phải “sabes”.",
+     "With **vos** (River Plate voseo), present verbs are stressed on the last syllable with an accent: vos **sabés**, vos tenés, vos querés – not “sabes”."
+    ],
+    "f": [
+     "¿vos sabés",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Intenté traducir el chiste palabra por palabra y, claro, no tuvo ninguna gracia: se perdió todo en la traducción y quedé como un ___.",
+    "a": [
+     "tonto",
+     "idiota",
+     "pasmarote"
+    ],
+    "e": [
+     "“Quedar como un tonto” = bị bẽ mặt, trông ngớ ngẩn. “No tener gracia” = không buồn cười. “Palabra por palabra” = dịch từng chữ.",
+     "“Quedar como un tonto” = to look like a fool. “No tener gracia” = not to be funny. “Palabra por palabra” = word for word."
+    ],
+    "f": [
+     "quedé como un tonto",
+     "C1"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Cuando llegué a Madrid para hacer el máster de Traducción, creía que mi español era impecable. Al fin y al cabo, llevaba seis años estudiándolo en Hanói. Sin embargo, la primera semana mi tutora me miró como si hubiera dicho algo grosero cuando le pedí, muy formal, que “tuviera la amabilidad de revisar mi trabajo”. Se rio y me contestó: “Mujer, aquí nos tuteamos todos”. No es que yo fuera maleducada, sino que había trasladado al español la cortesía vietnamita, con sus pronombres jerárquicos.\nMás tarde descubrí otros matices. Cuando un compañero decía “a ver si quedamos”, yo apuntaba la cita en la agenda; tardé meses en entender que era una fórmula amable, no una promesa. Y aprendí a no ofenderme cuando me interrumpían: en muchos casos es una forma de mostrar interés.\nHoy, como intérprete, sé que traducir no consiste en cambiar palabras, sino en trasladar intenciones. Por muy bien que se conozca un idioma, si se ignora la cultura que lo sostiene, el mensaje llega incompleto.",
+   "tr": "Khi tôi đến Madrid học thạc sĩ Dịch thuật, tôi cứ tưởng tiếng Tây Ban Nha của mình hoàn hảo. Suy cho cùng, tôi đã học nó sáu năm ở Hà Nội. Thế nhưng, tuần đầu tiên, cô hướng dẫn nhìn tôi như thể tôi vừa nói điều gì thô lỗ khi tôi rất trang trọng nhờ cô “vui lòng xem lại bài của em”. Cô bật cười và đáp: “Ôi em ơi, ở đây tất cả chúng ta đều xưng hô thân mật mà”. Không phải tôi vô lễ, mà là tôi đã chuyển nguyên phép lịch sự của tiếng Việt, với hệ thống đại từ theo thứ bậc, sang tiếng Tây Ban Nha.\nVề sau tôi còn khám phá những sắc thái khác. Khi một bạn học nói “hôm nào mình gặp nhé”, tôi ghi ngay cuộc hẹn vào sổ; phải mất nhiều tháng tôi mới hiểu đó là một câu xã giao thân thiện, không phải lời hứa. Và tôi học cách không phật lòng khi bị ngắt lời: trong nhiều trường hợp, đó là cách thể hiện sự quan tâm.\nGiờ đây, là một phiên dịch viên, tôi biết dịch không phải là thay từ này bằng từ khác, mà là chuyển tải ý định. Dù có thông thạo một ngôn ngữ đến đâu, nếu bỏ qua nền văn hoá nâng đỡ nó, thông điệp sẽ đến nơi không trọn vẹn."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao cô hướng dẫn phản ứng lạ khi người viết nhờ xem bài?",
+     "Why did the tutor react oddly to the writer's request?"
+    ],
+    "o": [
+     [
+      "Vì lời nhờ quá trang trọng so với thói quen xưng “tú” ở đây",
+      "The request was far too formal for the local habit of using “tú”"
+     ],
+     [
+      "Vì người viết nói sai ngữ pháp",
+      "The writer made a grammar mistake"
+     ],
+     [
+      "Vì cô không muốn xem bài",
+      "She didn't want to review the work"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Le pedí, muy formal, que ‘tuviera la amabilidad de…’” → “Aquí nos tuteamos todos”. Vấn đề là văn phong, không phải ngữ pháp.",
+     "“Le pedí, muy formal, que ‘tuviera la amabilidad de…’” → “Aquí nos tuteamos todos”. The issue was register, not grammar."
+    ],
+    "f": [
+     "aquí nos tuteamos todos",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết giải thích sai lầm của mình thế nào?",
+     "How does the writer explain her mistake?"
+    ],
+    "o": [
+     [
+      "Cô đã chuyển phép lịch sự tiếng Việt sang tiếng Tây Ban Nha",
+      "She transferred Vietnamese politeness into Spanish"
+     ],
+     [
+      "Cô vốn là người vô lễ",
+      "She was naturally rude"
+     ],
+     [
+      "Cô chưa từng học tiếng Tây Ban Nha",
+      "She had never studied Spanish"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“No es que yo fuera maleducada, sino que había trasladado al español la cortesía vietnamita.” – chuyển di ngữ dụng (transferencia pragmática).",
+     "“No es que yo fuera maleducada, sino que había trasladado al español la cortesía vietnamita.” – pragmatic transfer."
+    ],
+    "f": [
+     "había trasladado al español la cortesía vietnamita",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo người viết, dịch thuật thực chất là gì?",
+     "According to the writer, what is translation really about?"
+    ],
+    "o": [
+     [
+      "Chuyển tải ý định, không chỉ thay từ",
+      "Conveying intentions, not just swapping words"
+     ],
+     [
+      "Tìm từ tương đương chính xác nhất",
+      "Finding the most exact equivalent words"
+     ],
+     [
+      "Giữ nguyên trật tự câu",
+      "Keeping the sentence order"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Traducir no consiste en cambiar palabras, sino en trasladar intenciones.” – cấu trúc “no… sino”.",
+     "“Traducir no consiste en cambiar palabras, sino en trasladar intenciones.” – “no… sino”."
+    ],
+    "f": [
+     "sino en trasladar intenciones",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Me sentí fatal cuando dije en la reunión que estaba “embarazada” por mi error, porque todos me miraron ___ hubiera anunciado un bebé.",
+    "o": [
+     "como si",
+     "como",
+     "aunque"
+    ],
+    "a": 0,
+    "e": [
+     "“Como si + pluscuamperfecto de subjuntivo” (hubiera anunciado) = như thể. Câu chuyện là lỗi falso amigo: “embarrassed” = **avergonzada**, không phải “embarazada” (có thai).",
+     "“Como si + pluperfect subjunctive” (hubiera anunciado) = as if. The story is a false-friend slip: “embarrassed” = **avergonzada**, not “embarazada” (pregnant)."
+    ],
+    "f": [
+     "como si hubiera anunciado un bebé",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "En la conferencia contrataron a dos profesionales para ___ simultáneamente los discursos del español al inglés, ya que no había tiempo para traducciones escritas.",
+    "o": [
+     "interpretar",
+     "traducir",
+     "realizar"
+    ],
+    "a": 0,
+    "e": [
+     "Dịch **nói** (đồng thời, cabin) = **interpretar**; “traducir” thường chỉ dịch **viết**. “Realizar” = thực hiện.",
+     "**Oral** (simultaneous) translation = **interpretar**; “traducir” usually means **written** translation. “Realizar” = to carry out."
+    ],
+    "f": [
+     "interpretar simultáneamente",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El niño adquirió muy pronto el ___ corporal de su abuela italiana y ahora gesticula con las manos cada vez que habla.",
+    "o": [
+     "lenguaje",
+     "idioma",
+     "lengua"
+    ],
+    "a": 0,
+    "e": [
+     "“Lenguaje corporal” (ngôn ngữ cơ thể) – “lenguaje” chỉ hệ thống/kiểu biểu đạt. “Idioma / lengua” là ngôn ngữ của một dân tộc.",
+     "“Lenguaje corporal” (body language) – “lenguaje” = a system/style of expression. “Idioma / lengua” = a people's language."
+    ],
+    "f": [
+     "el lenguaje corporal",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Por muy natural que te ___ hablar de usted con todo el mundo, en un bar de Madrid quizá suene demasiado distante. (parecer)",
+    "a": [
+     "parezca"
+    ],
+    "e": [
+     "“Por muy + tính từ + que + **subjuntivo**”: te **parezca** (parecer → parezca).",
+     "“Por muy + adjective + que + **subjunctive**”: te **parezca** (parecer → parezca)."
+    ],
+    "f": [
+     "Por muy natural que te parezca",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Cuando le pregunté si vendría a mi boda, se limitó a responder “ya ___”, lo que en España suele significar que probablemente no vendrá. (ver, nosotros, futuro)",
+    "a": [
+     "veremos"
+    ],
+    "e": [
+     "“**Ya veremos**” (để xem đã) – công thức trì hoãn lịch sự, thường ngụ ý từ chối. Nghe hàm ý, không chỉ nghĩa đen.",
+     "“**Ya veremos**” (we'll see) – a polite stalling formula, often implying no. Listen for the implicature, not just the literal meaning."
+    ],
+    "f": [
+     "ya veremos",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Estoy un poco constipado desde que volví del viaje, así que el médico me ha recetado un laxante para que pueda ir al baño con normalidad.",
+    "a": [
+     "Estoy un poco estreñido desde que volví del viaje, así que el médico me ha recetado un laxante para que pueda ir al baño con normalidad."
+    ],
+    "e": [
+     "**Falso amigo**: “constipado” = bị cảm lạnh. Táo bón = **estreñido** – đúng với thuốc nhuận tràng (laxante).",
+     "**False friend**: “constipado” = having a cold. Constipated = **estreñido** – which fits the laxative."
+    ],
+    "f": [
+     "estreñido",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "No es que el traductor no conocía la expresión, sino que decidió adaptarla para que los lectores hispanos entendieran el chiste.",
+    "a": [
+     "No es que el traductor no conociera la expresión, sino que decidió adaptarla para que los lectores hispanos entendieran el chiste.",
+     "No es que el traductor no conociese la expresión, sino que decidió adaptarla para que los lectores hispanos entendieran el chiste."
+    ],
+    "e": [
+     "“No es que” luôn + **subjuntivo**: ở quá khứ → no conociera / conociese. Vế “sino que” giữ indicativo (decidió).",
+     "“No es que” always takes the **subjunctive**: in the past → no conociera / conociese. The “sino que” clause stays indicative (decidió)."
+    ],
+    "f": [
+     "No es que el traductor no conociera",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Dù bạn có giỏi tiếng Tây Ban Nha đến đâu, nếu bạn không hiểu văn hoá của nước đó thì trong cuộc sống hằng ngày vẫn sẽ có những hiểu lầm.",
+    "a": [
+     "Por muy bien que hables español, si no entiendes la cultura del país, seguirá habiendo malentendidos en tu día a día.",
+     "Por mucho español que sepas, si no comprendes la cultura del país, seguirá habiendo malentendidos en la vida diaria.",
+     "Por muy bien que domines el español, si no entiendes la cultura del país, siempre habrá malentendidos en el día a día."
+    ],
+    "e": [
+     "“Dù… đến đâu” = **por muy + adv + que + subjuntivo** / **por mucho + N + que + subjuntivo**. “Seguirá habiendo” = vẫn sẽ có (haber không ngôi).",
+     "“However well…” = **por muy + adv + que + subjunctive** / **por mucho + N + que + subjunctive**. “Seguirá habiendo” = there will still be (impersonal haber)."
+    ],
+    "f": [
+     "Por muy bien que hables español",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Câu thành ngữ “nước đổ đầu vịt” không thể dịch sát nghĩa; tốt hơn là tìm một cách nói tương đương trong tiếng Tây Ban Nha.",
+    "a": [
+     "La expresión “nước đổ đầu vịt” no puede traducirse literalmente; es mejor buscar un equivalente en español, como “hablarle a la pared”.",
+     "El modismo “nước đổ đầu vịt” no tiene traducción literal; conviene buscar una expresión equivalente en español, por ejemplo “predicar en el desierto”.",
+     "La frase hecha “nước đổ đầu vịt” no se puede traducir al pie de la letra; lo mejor es buscar un equivalente en español."
+    ],
+    "e": [
+     "“Traducir literalmente / al pie de la letra” = dịch sát chữ. Tương đương ý: “hablarle a la pared”, “predicar en el desierto” (nói mà chẳng ai nghe).",
+     "“Traducir literalmente / al pie de la letra” = to translate word for word. Functional equivalents: “hablarle a la pared”, “predicar en el desierto” (talking to a brick wall)."
+    ],
+    "f": [
+     "no puede traducirse literalmente",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu khái quát hóa định kiến này thành câu có rào đón, tránh stereotipo",
+     "Rewrite this stereotyping generalisation as a hedged statement"
+    ],
+    "s": "Los latinos siempre llegan tarde a todo.",
+    "a": [
+     "En algunos países latinoamericanos se suele tener una concepción del tiempo más flexible, sobre todo en contextos sociales.",
+     "Por lo general, en ciertos contextos sociales de algunos países latinoamericanos, la puntualidad tiende a ser más flexible que en el norte de Europa."
+    ],
+    "e": [
+     "Bỏ khái quát tuyệt đối (“los latinos”, “siempre”, “a todo”) → giới hạn phạm vi (en algunos países, en contextos sociales) + rào đón (se suele, tiende a, por lo general).",
+     "Drop absolutes (“los latinos”, “siempre”, “a todo”) → limit the scope (en algunos países, en contextos sociales) + hedge (se suele, tiende a, por lo general)."
+    ],
+    "f": [
+     "se suele tener una concepción del tiempo más flexible",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Traducir|no consiste en|cambiar unas palabras|por otras,|sino en|trasladar|intenciones|de una cultura a otra",
+    "m": [
+     "Dịch không phải là thay từ này bằng từ khác, mà là chuyển tải ý định từ nền văn hoá này sang nền văn hoá khác.",
+     "Translating isn't about swapping some words for others, but about carrying intentions from one culture to another."
+    ],
+    "e": [
+     "“No consiste en… sino en…” – cả hai vế đều cần giới từ “en” + nguyên mẫu. Cấu trúc định nghĩa lại (reframing).",
+     "“No consiste en… sino en…” – both halves need “en” + infinitive. A reframing structure."
+    ],
+    "f": [
+     "no consiste en… sino en",
+     "C2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 200 từ (bài blog) kể về một hiểu lầm văn hoá hoặc ngôn ngữ bạn từng gặp với người nói tiếng Tây Ban Nha (hoặc tưởng tượng). Dùng: “como si + subj.”, “no es que… sino que”, “por muy… que + subj.”, ít nhất 1 falso amigo hoặc thành ngữ, và một kết luận có rào đón.",
+     "Write a ~200-word blog post about a cultural or linguistic misunderstanding with Spanish speakers (real or imagined). Use “como si + subj.”, “no es que… sino que”, “por muy… que + subj.”, at least one false friend or idiom, and a hedged conclusion."
+    ],
+    "m": "El primer día que trabajé en una empresa de Bogotá, cometí un error que todavía me hace reír. Mi jefe, un señor muy amable de unos sesenta años, me preguntó cómo estaba y yo, con mi español aprendido en España, le contesté: “Bien, ¿y tú?”. Se hizo un silencio incómodo y todos me miraron como si hubiera insultado a alguien. Más tarde, una compañera me explicó que en Colombia se suele hablar de usted incluso a los amigos y, desde luego, al jefe. No es que yo fuera una maleducada, sino que en Madrid me habían enseñado que el tuteo era lo normal. Unas semanas después, para compensar, intenté ser muy cercana y le dije a otra compañera que estaba “embarazada” por haber olvidado su cumpleaños. Esta vez el silencio duró todavía más. Desde entonces he aprendido que, por muy bien que se domine la gramática, el idioma está lleno de matices locales. En mi opinión, la mejor estrategia suele ser observar, preguntar sin miedo y reírse de uno mismo, porque en la mayoría de los casos los nativos agradecen el esfuerzo más que la perfección.",
+    "e": [
+     "Checklist: • kể chuyện có mở – thắt – kết • “como si + subj.”, “no es que… sino que”, “por muy… que + subj.” • ≥ 1 falso amigo / thành ngữ được giải thích • kết luận có rào đón (suele, en mi opinión, en la mayoría de los casos).",
+     "Checklist: • a story with setup – twist – resolution • “como si + subj.”, “no es que… sino que”, “por muy… que + subj.” • ≥ 1 false friend / idiom explained • a hedged conclusion (suele, en mi opinión, en la mayoría de los casos)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c2-r",
+  "t": [
+   "Bài đọc: Ca ngợi sự kiên trì",
+   "Reading: In praise of persistence"
+  ],
+  "rd": {
+   "tx": "Solemos admirar el talento, ese don que parece caer del cielo sobre unos pocos elegidos. Sin embargo, quien haya intentado dominar un oficio, un instrumento o una lengua extranjera sabe que el talento, por sí solo, rara vez basta. Lo que distingue a quienes llegan lejos no es tanto una chispa inicial como la terca disposición a volver, día tras día, sobre aquello que todavía no les sale. La constancia carece del brillo del genio; no protagoniza anécdotas ni titulares. Es, más bien, una virtud gris, hecha de pequeñas renuncias y de horas que nadie ve. Y, no obstante, a la larga suele ser ella, y no el talento, la que acaba marcando la diferencia.",
+   "tr": "Ta thường ngưỡng mộ tài năng, món quà như từ trên trời rơi xuống cho số ít người được chọn. Thế nhưng ai từng cố làm chủ một nghề, một nhạc cụ hay một ngoại ngữ đều biết rằng chỉ tài năng thì hiếm khi đủ. Điều phân biệt những người đi xa không phải là tia lửa ban đầu, mà là sự bền bỉ cứng đầu quay lại, ngày này qua ngày khác, với những gì mình vẫn chưa làm được. Sự kiên trì không có hào quang của thiên tài; nó không xuất hiện trong giai thoại hay tiêu đề báo. Đúng hơn, nó là một đức tính xám, làm nên từ những hy sinh nhỏ và những giờ không ai thấy. Vậy mà về lâu dài, chính nó chứ không phải tài năng thường là thứ tạo nên khác biệt."
+  },
+  "vo": [
+   [
+    "el don",
+    "el DON",
+    "năng khiếu, món quà",
+    "gift, talent"
+   ],
+   [
+    "el oficio",
+    "el o-FI-cio",
+    "nghề",
+    "trade, craft"
+   ],
+   [
+    "la chispa",
+    "la CHIS-pa",
+    "tia lửa",
+    "spark"
+   ],
+   [
+    "terco",
+    "TER-co",
+    "cứng đầu, bền bỉ",
+    "stubborn"
+   ],
+   [
+    "la renuncia",
+    "la re-NUN-cia",
+    "sự từ bỏ, hy sinh",
+    "sacrifice"
+   ],
+   [
+    "a la larga",
+    "a la LAR-ga",
+    "về lâu dài",
+    "in the long run"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Theo tác giả, tài năng…",
+     "According to the writer, talent…"
+    ],
+    [
+     [
+      "hiếm khi đủ nếu chỉ có một mình",
+      "rarely suffices on its own"
+     ],
+     [
+      "là tất cả",
+      "is everything"
+     ],
+     [
+      "không tồn tại",
+      "doesn't exist"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“lo que todavía no les sale” nghĩa là?",
+     "“lo que todavía no les sale” means?"
+    ],
+    [
+     [
+      "điều họ vẫn chưa làm tốt được",
+      "what they still can't do well"
+     ],
+     [
+      "điều họ ghét",
+      "what they hate"
+     ],
+     [
+      "nơi họ chưa đến",
+      "where they haven't been"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Vì sao kiên trì là “virtud gris”?",
+     "Why is persistence a “grey virtue”?"
+    ],
+    [
+     [
+      "vì không hào nhoáng, gồm những giờ không ai thấy",
+      "it lacks glamour and is made of unseen hours"
+     ],
+     [
+      "vì buồn",
+      "because it's sad"
+     ],
+     [
+      "vì hiếm",
+      "because it's rare"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Quien ___ intentado dominar una lengua sabe que el talento no basta.",
+    [
+     "ha",
+     "haya",
+     "había"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "“a la larga” nghĩa là?",
+     "“a la larga” means?"
+    ],
+    [
+     [
+      "về lâu dài",
+      "in the long run"
+     ],
+     [
+      "ngay lập tức",
+      "immediately"
+     ],
+     [
+      "hiếm khi",
+      "rarely"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Thông điệp chính?",
+     "Main message?"
+    ],
+    [
+     [
+      "Kiên trì tạo khác biệt về lâu dài",
+      "Persistence makes the difference in the long run"
+     ],
+     [
+      "Tài năng quan trọng nhất",
+      "Talent matters most"
+     ],
+     [
+      "Nên đổi nghề thường xuyên",
+      "Change careers often"
+     ]
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Quien haya intentado dominar un instrumento o una lengua extranjera sabe que el talento, por sí solo, rara vez basta para llegar lejos.",
+    "q": [
+     "Người từng cố làm chủ một nhạc cụ hay ngoại ngữ biết điều gì?",
+     "What does anyone who has tried to master an instrument or a language know?"
+    ],
+    "o": [
+     [
+      "Chỉ tài năng thì hiếm khi đủ",
+      "Talent alone is rarely enough"
+     ],
+     [
+      "Tài năng là đủ",
+      "Talent is enough"
+     ],
+     [
+      "Ngoại ngữ dễ hơn nhạc cụ",
+      "Languages are easier than instruments"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Rara vez basta” = hiếm khi đủ. “Quien haya intentado” – chủ ngữ chung chung, không xác định → subjuntivo.",
+     "“Rara vez basta” = is rarely enough. “Quien haya intentado” – generic, unspecified subject → subjunctive."
+    ],
+    "f": [
+     "rara vez basta",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "La constancia carece del brillo del genio y no protagoniza anécdotas ni titulares, pero a la larga marca la diferencia.",
+    "e": [
+     "“Carecer de” = thiếu (de + el → del). “Ni” nối hai yếu tố phủ định; “a la larga” = về lâu dài.",
+     "“Carecer de” = to lack (de + el → del). “Ni” links two negatives; “a la larga” = in the long run."
+    ],
+    "f": [
+     "carece del brillo",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Lo que distingue a quienes llegan lejos no es tanto una chispa inicial como la terca disposición a volver sobre lo que todavía no les sale.",
+    "e": [
+     "Ngắt hơi sau “llegan lejos” và trước “como”; cấu trúc “no tanto X como Y” = không hẳn là X mà là Y.",
+     "Pause after “llegan lejos” and before “como”; “no tanto X como Y” = not so much X as Y."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "Lo que distingue a los grandes músicos no es tanto su talento natural ___ las miles de horas de ensayo que nadie ve.",
+    "o": [
+     "como",
+     "que",
+     "sino"
+    ],
+    "a": 0,
+    "e": [
+     "Cấu trúc cố định “no tanto X **como** Y” = không hẳn X bằng Y. Bẫy: “sino” dùng sau “no es X” (không có “tanto”); “que” dùng cho so sánh hơn.",
+     "The fixed structure is “no tanto X **como** Y” = not so much X as Y. Trap: “sino” follows “no es X” (without “tanto”); “que” is for comparatives."
+    ],
+    "f": [
+     "no es tanto su talento natural como",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Quien ___ (vivir) alguna vez en el extranjero sabe que aprender el idioma local exige pequeñas renuncias y muchas horas de estudio solitario.",
+    "a": [
+     "haya vivido"
+    ],
+    "e": [
+     "“Quien” với nghĩa “bất cứ ai” (không xác định) + **pretérito perfecto de subjuntivo**: haya vivido, giống “quien haya intentado” trong bài đọc.",
+     "Generic “quien” (whoever) + **perfect subjunctive**: haya vivido, like “quien haya intentado” in the text."
+    ],
+    "f": [
+     "Quien haya vivido",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Muchos estudiantes descubren demasiado tarde que el talento, por sí solo, rara vez bastan para dominar un oficio o una lengua extranjera.",
+    "a": [
+     "Muchos estudiantes descubren demasiado tarde que el talento, por sí solo, rara vez basta para dominar un oficio o una lengua extranjera."
+    ],
+    "e": [
+     "Chủ ngữ là “el talento” (số ít) → **basta**. Cụm chen “por sí solo” và chủ ngữ số nhiều ở đầu câu dễ gây nhầm.",
+     "The subject is “el talento” (singular) → **basta**. The inserted “por sí solo” and the plural subject earlier in the sentence cause the slip."
+    ],
+    "f": [
+     "rara vez basta",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Sự kiên trì không có hào quang như tài năng, nhưng về lâu dài, chính nó mới là thứ giúp chúng ta đạt được mục tiêu.",
+    "a": [
+     "La constancia no tiene el brillo del talento, pero, a la larga, es ella la que nos permite alcanzar nuestros objetivos.",
+     "La constancia carece del brillo del talento, pero a la larga es ella la que nos permite alcanzar nuestras metas.",
+     "La constancia no tiene el brillo del talento, pero, a la larga, es lo que nos permite conseguir nuestros objetivos."
+    ],
+    "e": [
+     "“Về lâu dài” = **a la larga**; “chính nó mới là…” = câu nhấn “es ella la que…” (hòa hợp với “la constancia”). “Carecer de” là lựa chọn trang trọng hơn “no tener”.",
+     "“In the long run” = **a la larga**; “it is persistence that…” = cleft “es ella la que…” (agreeing with “la constancia”). “Carecer de” is more formal than “no tener”."
+    ],
+    "f": [
+     "a la larga",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng cấu trúc “no es tanto… como…”",
+     "Rewrite the sentence using “no es tanto… como…”"
+    ],
+    "s": "Para aprender un idioma, el talento importa menos que la disposición a volver cada día sobre lo que todavía no te sale.",
+    "a": [
+     "Para aprender un idioma, lo que importa no es tanto el talento como la disposición a volver cada día sobre lo que todavía no te sale.",
+     "Para aprender un idioma, lo importante no es tanto el talento como la disposición a volver cada día sobre lo que todavía no te sale."
+    ],
+    "e": [
+     "“X importa menos que Y” → “lo que importa no es tanto X **como** Y”. Giữ “como”, không dùng “que” hay “sino”.",
+     "“X matters less than Y” → “lo que importa no es tanto X **como** Y”. Keep “como”, not “que” or “sino”."
+    ],
+    "f": [
+     "no es tanto el talento como",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "La constancia|es, más bien,|una virtud gris,|hecha de|pequeñas renuncias|y de horas|que nadie ve|ni aplaude",
+    "m": [
+     "Đúng hơn, sự kiên trì là một đức tính xám, làm nên từ những hy sinh nhỏ và những giờ không ai thấy, cũng chẳng ai tán thưởng.",
+     "Persistence is, rather, a grey virtue, made of small sacrifices and of hours that nobody sees or applauds."
+    ],
+    "e": [
+     "“Más bien” = đúng hơn (chen giữa hai dấu phẩy); “hecha” hòa hợp với “virtud” (giống cái); “ni” nối hai động từ phủ định.",
+     "“Más bien” = rather (between commas); “hecha” agrees with “virtud” (feminine); “ni” links two negative verbs."
+    ],
+    "f": [
+     "es, más bien, una virtud gris",
+     "C2"
+    ]
+   }
+  ]
+ }
+]

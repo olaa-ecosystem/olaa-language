@@ -50,5 +50,23 @@ export function gradeExercise(exercise: Exercise, response: string): GradeResult
     case 'match':
       // Matching is validated pair-by-pair in the UI; finishing it is always a success.
       return { correct: true, correctAnswer: '' };
+    case 'choice':
+      return {
+        correct: response === String(exercise.answerIndex),
+        correctAnswer: exercise.options[exercise.answerIndex] ?? '',
+      };
+    case 'text':
+      return gradeText(response, exercise.accepted);
+    case 'dictation': {
+      const result = gradeText(response, [exercise.audioText]);
+      return result.note === 'typo'
+        ? { correct: false, correctAnswer: exercise.audioText }
+        : result;
+    }
+    case 'say':
+      // Self-checked: the learner confirms they said it aloud.
+      return { correct: response === 'said', correctAnswer: exercise.text };
+    case 'free':
+      return { correct: response.trim().length > 0, correctAnswer: exercise.model ?? '' };
   }
 }

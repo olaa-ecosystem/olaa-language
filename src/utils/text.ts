@@ -1,4 +1,4 @@
-const PUNCTUATION = /[.,!?;:"“”«»()¿¡…]/g;
+const PUNCTUATION = /[.,!?;:"“”«»()¿¡…，。？！、：；「」『』《》（）]/g;
 
 /** Splits a sentence into word tiles, dropping punctuation but keeping apostrophes. */
 export function tokenize(text: string): string[] {

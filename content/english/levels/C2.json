@@ -1,0 +1,2165 @@
+[
+ {
+  "id": "c2-1",
+  "t": [
+   "Thức giả định & cấu trúc trang trọng",
+   "Subjunctive & formal structures"
+  ],
+  "th": [
+   [
+    "Sau **suggest, recommend, insist, demand, propose** và **It is essential / vital / important that**, dùng **động từ nguyên mẫu cho mọi ngôi**: I suggest that he **be** present. It is vital that she **arrive** on time. (Anh–Anh hay dùng should + V.)",
+    "After **suggest, recommend, insist, demand, propose** and **It is essential / vital / important that**, use the **base form for every person**: I suggest that he **be** present. It is vital that she **arrive** on time. (British English often uses should + V.)"
+   ],
+   [
+    "**were to + V**: giả định trang trọng, khó xảy ra: If the government **were to** raise taxes, …",
+    "**were to + V**: formal, unlikely hypothesis: If the government **were to** raise taxes, …"
+   ],
+   [
+    "Đảo ngữ thay if: **Should** you need help, contact us. (= If you should need) **Were** I in your position, I'd resign. (= If I were)",
+    "Inversion instead of if: **Should** you need help, contact us. **Were** I in your position, I'd resign."
+   ],
+   [
+    "Cụm cố định: **Be that as it may** (dù vậy), **Come what may** (dù thế nào), **so be it** (đành vậy).",
+    "Fixed phrases: **Be that as it may**, **Come what may**, **so be it**."
+   ]
+  ],
+  "vo": [
+   [
+    "insist",
+    "/ɪnˈsɪst/",
+    "khăng khăng, yêu cầu",
+    "to demand firmly"
+   ],
+   [
+    "essential",
+    "/ɪˈsenʃl/",
+    "thiết yếu",
+    "absolutely necessary"
+   ],
+   [
+    "vital",
+    "/ˈvaɪtl/",
+    "sống còn",
+    "extremely important"
+   ],
+   [
+    "assistance",
+    "/əˈsɪstəns/",
+    "sự hỗ trợ",
+    "help"
+   ],
+   [
+    "resign",
+    "/rɪˈzaɪn/",
+    "từ chức",
+    "to leave a job formally"
+   ],
+   [
+    "propose",
+    "/prəˈpoʊz/",
+    "đề xuất",
+    "to suggest formally"
+   ],
+   [
+    "be that as it may",
+    "/biː ðæt æz ɪt meɪ/",
+    "dù vậy đi nữa",
+    "nevertheless"
+   ],
+   [
+    "come what may",
+    "/kʌm wɑːt meɪ/",
+    "dù chuyện gì xảy ra",
+    "whatever happens"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "The doctor recommended that he ___ smoking.",
+    [
+     "stops",
+     "stop",
+     "stopped"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "It is essential that every student ___ the form.",
+    [
+     "submits",
+     "submit",
+     "submitted"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "___ you require further information, please contact us.",
+    [
+     "Should",
+     "Would",
+     "Had"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___ I in your position, I would accept the offer.",
+    [
+     "Was",
+     "Were",
+     "Am"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào trang trọng nhất?",
+     "Which is the most formal?"
+    ],
+    [
+     "If the CEO resigned, …",
+     "If the CEO were to resign, …",
+     "If the CEO resigns, …"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "They insisted that the meeting ___ postponed.",
+    [
+     "is",
+     "be",
+     "was"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Should you have any questions please let me know",
+    "Nếu có câu hỏi, xin hãy báo tôi."
+   ],
+   [
+    "dict",
+    "It is vital that she be informed immediately."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "The committee has recommended that every applicant submit two references, and it is essential that both be received before the end of March.",
+    "q": [
+     "Theo hội đồng, điều gì là bắt buộc?",
+     "What is essential according to the committee?"
+    ],
+    "o": [
+     [
+      "Cả hai thư giới thiệu đến trước cuối tháng Ba",
+      "Both references arrive before the end of March"
+     ],
+     [
+      "Ứng viên chỉ cần nộp một thư",
+      "Applicants submit only one reference"
+     ],
+     [
+      "Ứng viên phỏng vấn vào tháng Ba",
+      "Applicants attend an interview in March"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Thức giả định: recommended that every applicant submit (không thêm -s); it is essential that both be received (dùng be cho mọi ngôi).",
+     "Subjunctive: recommended that every applicant submit (no -s); it is essential that both be received (be for every person)."
+    ],
+    "f": [
+     "it is essential that both be received",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Should you require any further assistance during your stay, please do not hesitate to contact the reception desk at any time.",
+    "e": [
+     "Should you require = If you require (đảo ngữ trang trọng). Chú ý chính tả assistance và hesitate.",
+     "Should you require = If you require (formal inversion). Watch the spelling of assistance and hesitate."
+    ],
+    "f": [
+     "Should you require any further assistance",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Were the government to raise fuel taxes again next year, the cost of public transport would almost certainly rise as well.",
+    "e": [
+     "Were … to + V là giả định trang trọng; nhấn Were ở đầu câu và hạ giọng ở cuối “as well”.",
+     "Were … to + V is a formal hypothesis; stress Were at the start and fall at the end on “as well”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Dear Applicant,\nThank you for your application to the Master's programme in Applied Linguistics. The admissions committee has reviewed your file and is pleased to offer you a conditional place for the coming academic year. It is essential that you submit an official IELTS certificate showing an overall score of at least 7.0 no later than 30 June. The committee further recommends that all international students arrive at least one week before the start of term, so that they may attend the orientation programme. Should you be unable to meet the deadline, you are requested to inform the office in writing, stating the reason for the delay. Were the certificate not to reach us in time, we would regrettably be obliged to offer your place to another candidate. We are aware that preparing for an examination of this kind is demanding; be that as it may, the requirement cannot be waived. We look forward to welcoming you in September.\nYours faithfully,\nAdmissions Office",
+   "tr": "Kính gửi Ứng viên,\nCảm ơn bạn đã nộp hồ sơ vào chương trình Thạc sĩ Ngôn ngữ học Ứng dụng. Hội đồng tuyển sinh đã xem xét hồ sơ và vui mừng cấp cho bạn một suất học có điều kiện cho năm học tới. Bạn bắt buộc phải nộp chứng chỉ IELTS chính thức với điểm tổng tối thiểu 7.0 chậm nhất vào ngày 30 tháng 6. Hội đồng cũng khuyến nghị tất cả sinh viên quốc tế đến trước ngày khai giảng ít nhất một tuần để có thể tham dự chương trình định hướng. Trong trường hợp không kịp hạn, bạn được yêu cầu thông báo bằng văn bản cho văn phòng, nêu rõ lý do chậm trễ. Nếu chứng chỉ không đến kịp, rất tiếc chúng tôi buộc phải trao suất học cho ứng viên khác. Chúng tôi hiểu rằng việc chuẩn bị cho một kỳ thi như vậy rất vất vả; dù vậy, yêu cầu này không thể được miễn. Chúng tôi mong được đón bạn vào tháng Chín.\nTrân trọng,\nVăn phòng Tuyển sinh"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Ứng viên phải nộp gì và hạn chót là khi nào?",
+     "What must the applicant submit, and by when?"
+    ],
+    "o": [
+     [
+      "Chứng chỉ IELTS từ 7.0 trở lên, chậm nhất 30/6",
+      "An IELTS certificate of at least 7.0 by 30 June"
+     ],
+     [
+      "Hai thư giới thiệu trước tháng Chín",
+      "Two references before September"
+     ],
+     [
+      "Bài luận trước buổi định hướng",
+      "An essay before orientation"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“It is essential that you submit an official IELTS certificate … no later than 30 June” – submit ở dạng giả định sau It is essential that.",
+     "“It is essential that you submit an official IELTS certificate … no later than 30 June” – submit is subjunctive after It is essential that."
+    ],
+    "f": [
+     "It is essential that you submit an official IELTS certificate",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nếu không kịp hạn, ứng viên cần làm gì?",
+     "What should applicants do if they cannot meet the deadline?"
+    ],
+    "o": [
+     [
+      "Thông báo bằng văn bản và nêu lý do",
+      "Inform the office in writing, giving the reason"
+     ],
+     [
+      "Gọi điện cho hội đồng",
+      "Phone the committee"
+     ],
+     [
+      "Đến trường sớm một tuần",
+      "Arrive a week early"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Should you be unable to meet the deadline, you are requested to inform the office in writing, stating the reason” – Should you… = If you…",
+     "“Should you be unable to meet the deadline, you are requested to inform the office in writing, stating the reason” – Should you… = If you…"
+    ],
+    "f": [
+     "you are requested to inform the office in writing",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cụm “be that as it may” trong thư có ý gì?",
+     "What does “be that as it may” signal in the letter?"
+    ],
+    "o": [
+     [
+      "Dù việc ôn thi vất vả, yêu cầu vẫn không được miễn",
+      "Although the exam is demanding, the rule still applies"
+     ],
+     [
+      "Yêu cầu có thể được miễn",
+      "The requirement may be waived"
+     ],
+     [
+      "Ứng viên nên thi lại",
+      "Applicants should retake the exam"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Be that as it may = dù vậy đi nữa: thừa nhận ý trước (kỳ thi vất vả) nhưng vẫn giữ quan điểm (yêu cầu không thể miễn).",
+     "Be that as it may = even so: it accepts the previous point (the exam is demanding) but keeps the position (the requirement cannot be waived)."
+    ],
+    "f": [
+     "be that as it may, the requirement cannot be waived",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "The union has demanded that the management ___ the new shift system immediately and consult the workers before making any further changes.",
+    "o": [
+     "withdraw",
+     "withdraws",
+     "withdrew"
+    ],
+    "a": 0,
+    "e": [
+     "Sau demand that dùng thức giả định: động từ nguyên mẫu cho mọi ngôi (withdraw), kể cả khi chủ ngữ số ít. Chú ý động từ thứ hai consult cũng ở dạng nguyên mẫu.",
+     "After demand that, use the subjunctive: the base form for every person (withdraw), even with a singular subject. Note that the second verb consult is also in the base form."
+    ],
+    "f": [
+     "withdraw",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ you wish to cancel your subscription at any point, simply send us an email and we will process your request within three working days.",
+    "a": [
+     "Should"
+    ],
+    "e": [
+     "Đảo ngữ Should + S + V = If + S + (should) V, rất hay dùng trong thư trang trọng, điều khoản dịch vụ. Không dùng Would hay Had ở đây.",
+     "The inversion Should + subject + V = If + subject + (should) V, common in formal letters and terms of service. Would or Had don't work here."
+    ],
+    "f": [
+     "Should you wish",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "It is vital that every passenger keeps their boarding pass until they have left the arrivals hall, as random checks may be carried out.",
+    "a": [
+     "It is vital that every passenger keep their boarding pass until they have left the arrivals hall, as random checks may be carried out.",
+     "It is vital that every passenger should keep their boarding pass until they have left the arrivals hall, as random checks may be carried out."
+    ],
+    "e": [
+     "Sau It is vital that dùng thức giả định: keep (không -s), hoặc should keep theo kiểu Anh–Anh. “keeps” là dạng thường gặp trong văn nói Anh nhưng không chuẩn ở văn phong trang trọng.",
+     "After It is vital that, use the subjunctive keep (no -s), or should keep in British style. “keeps” is heard in informal British English but is not standard in formal writing."
+    ],
+    "f": [
+     "every passenger keep",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại bằng đảo ngữ, bỏ “if” (bắt đầu bằng “Were…”)",
+     "Rewrite with inversion, dropping “if” (start with “Were…”)"
+    ],
+    "s": "If the company were to relocate its headquarters to Singapore, hundreds of employees in Hanoi would lose their jobs.",
+    "a": [
+     "Were the company to relocate its headquarters to Singapore, hundreds of employees in Hanoi would lose their jobs."
+    ],
+    "e": [
+     "If + S + were to + V → Were + S + to + V. Giữ nguyên to relocate; mệnh đề chính không đổi.",
+     "If + subject + were to + V → Were + subject + to + V. Keep to relocate; the main clause doesn't change."
+    ],
+    "f": [
+     "Were the company to relocate",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ban giám đốc đề xuất rằng cuộc họp được hoãn sang tuần sau để mọi phòng ban có đủ thời gian chuẩn bị số liệu.",
+    "a": [
+     "The board proposed that the meeting be postponed until next week so that every department would have enough time to prepare its figures.",
+     "The board of directors proposed that the meeting be postponed until the following week so that all departments have enough time to prepare the data.",
+     "The board suggested that the meeting be postponed to next week so that every department has enough time to prepare its figures.",
+     "The board proposed that the meeting should be postponed until next week so that every department could have enough time to prepare the figures."
+    ],
+    "e": [
+     "propose / suggest that + chủ ngữ + be + V3 (thức giả định bị động): the meeting be postponed. Không viết “is postponed” trong văn phong trang trọng.",
+     "propose / suggest that + subject + be + past participle (passive subjunctive): the meeting be postponed. Avoid “is postponed” in formal style."
+    ],
+    "f": [
+     "the meeting be postponed",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Come what may,|we are determined|to open|the new library|before the start|of the academic year|in September.",
+    "m": [
+     "Dù có chuyện gì xảy ra, chúng tôi vẫn quyết tâm khai trương thư viện mới trước khi năm học bắt đầu vào tháng Chín.",
+     "Come what may, we are determined to open the new library before the start of the academic year in September."
+    ],
+    "e": [
+     "Come what may (dù chuyện gì xảy ra) là cụm giả định cố định, luôn tách khỏi câu bằng dấu phẩy và thường đứng đầu câu.",
+     "Come what may (whatever happens) is a fixed subjunctive phrase, set off by a comma and usually placed first."
+    ],
+    "f": [
+     "Come what may",
+     "C2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c2-2",
+  "t": [
+   "Văn phong học thuật: hedging & collocation",
+   "Academic hedging & collocation"
+  ],
+  "th": [
+   [
+    "**Hedging** giảm mức khẳng định, thể hiện thái độ thận trọng: It could be argued that…, The data suggest that…, This may indicate…, … tends to …, … appears to …",
+    "**Hedging** softens claims to show academic caution: It could be argued that…, The data suggest that…, This may indicate…, … tends to …, … appears to …"
+   ],
+   [
+    "Trạng từ thận trọng: arguably, presumably, relatively, to some extent, in most cases, largely.",
+    "Cautious adverbs: arguably, presumably, relatively, to some extent, in most cases, largely."
+   ],
+   [
+    "Collocation chuẩn: **conduct** research, **draw** a conclusion, **raise** a question, **pose** a threat, **play** a crucial role, **a growing body** of evidence.",
+    "Standard collocations: **conduct** research, **draw** a conclusion, **raise** a question, **pose** a threat, **play** a crucial role, **a growing body** of evidence."
+   ],
+   [
+    "Tránh khẳng định tuyệt đối khi bằng chứng chưa đủ: “This proves…” → “This provides strong evidence that…”",
+    "Avoid absolute claims without full evidence: “This proves…” → “This provides strong evidence that…”"
+   ]
+  ],
+  "vo": [
+   [
+    "arguably",
+    "/ˈɑːrɡjuəbli/",
+    "có thể cho rằng",
+    "it can be argued"
+   ],
+   [
+    "presumably",
+    "/prɪˈzuːməbli/",
+    "có lẽ, cho là",
+    "probably"
+   ],
+   [
+    "tend to",
+    "/tend tuː/",
+    "có xu hướng",
+    "usually do"
+   ],
+   [
+    "indicate",
+    "/ˈɪndɪkeɪt/",
+    "cho thấy",
+    "to show"
+   ],
+   [
+    "conduct",
+    "/kənˈdʌkt/",
+    "tiến hành",
+    "to carry out"
+   ],
+   [
+    "draw a conclusion",
+    "/drɔː ə kənˈkluːʒn/",
+    "rút ra kết luận",
+    "to decide from evidence"
+   ],
+   [
+    "pose a threat",
+    "/poʊz ə θret/",
+    "gây ra mối đe dọa",
+    "to be a danger"
+   ],
+   [
+    "crucial",
+    "/ˈkruːʃl/",
+    "then chốt",
+    "extremely important"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "The results ___ that sleep improves memory.",
+    [
+     "prove",
+     "suggest",
+     "make"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Researchers ___ a study on 500 students.",
+    [
+     "made",
+     "did",
+     "conducted"
+    ],
+    2
+   ],
+   [
+    "fill",
+    "It is too early to ___ a conclusion.",
+    [
+     "draw",
+     "do",
+     "take"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Plastic waste ___ a serious threat to marine life.",
+    [
+     "makes",
+     "poses",
+     "does"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào thận trọng (hedged) nhất?",
+     "Which sentence is the most hedged?"
+    ],
+    [
+     "Social media causes depression.",
+     "Social media always causes depression.",
+     "Social media may contribute to depression in some users."
+    ],
+    2
+   ],
+   [
+    "fill",
+    "Teachers play a ___ role in motivating students.",
+    [
+     "crucial",
+     "strong",
+     "heavy"
+    ],
+    0
+   ],
+   [
+    "order",
+    "It could be argued that technology has made us less patient",
+    "Có thể cho rằng công nghệ đã khiến chúng ta kém kiên nhẫn hơn."
+   ],
+   [
+    "dict",
+    "This appears to be the most likely explanation."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "The findings appear to suggest that regular exercise may slow cognitive decline, although further research is needed to confirm this link.",
+    "q": [
+     "Các nhà nghiên cứu tự tin đến mức nào?",
+     "How confident are the researchers?"
+    ],
+    "o": [
+     [
+      "Thận trọng, cần thêm nghiên cứu",
+      "Cautious: more research is needed"
+     ],
+     [
+      "Hoàn toàn chắc chắn",
+      "Completely certain"
+     ],
+     [
+      "Không tìm thấy mối liên hệ nào",
+      "They found no link at all"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Ba lớp hedging: appear to, suggest, may – cộng với “further research is needed”. Kết quả có ý nghĩa nhưng chưa được khẳng định chắc chắn.",
+     "Three layers of hedging: appear to, suggest, may – plus “further research is needed”. The result matters but isn't presented as certain."
+    ],
+    "f": [
+     "appear to suggest",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "A growing body of evidence indicates that air pollution poses a serious threat to the health of young children in urban areas.",
+    "e": [
+     "Collocation chuẩn: a growing body of evidence, pose a serious threat to. evidence không đếm được nên đi với indicates (số ít).",
+     "Standard collocations: a growing body of evidence, pose a serious threat to. evidence is uncountable, and a body takes singular indicates."
+    ],
+    "f": [
+     "a growing body of evidence",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "It could be argued that social media has, to some extent, changed the way younger generations form and maintain friendships.",
+    "e": [
+     "Ngắt hơi ở hai dấu phẩy quanh “to some extent”; nhấn ARgued và main-TAIN.",
+     "Pause at the commas around “to some extent”; stress AR-gued and main-TAIN."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Abstract\nThis study set out to investigate whether short daily vocabulary reviews lead to better long-term retention than longer weekly sessions among adult learners of English. We conducted a twelve-week experiment with 120 university students in Ho Chi Minh City, who were randomly assigned to one of two groups. Both groups spent the same total time studying, but one reviewed for ten minutes a day, while the other studied for seventy minutes once a week. The results appear to indicate that daily review is associated with higher scores on a delayed test, although the difference was relatively modest. It should be noted that the sample was limited to a single institution and that participants' motivation was not directly measured. Consequently, the findings cannot necessarily be generalised to other contexts. Nevertheless, they are broadly consistent with a growing body of evidence on the spacing effect, and they raise the question of whether course timetables ought to be redesigned. Further research is needed to establish whether the effect persists over longer periods.",
+   "tr": "Tóm tắt\nNghiên cứu này nhằm tìm hiểu liệu việc ôn từ vựng ngắn hằng ngày có giúp ghi nhớ lâu dài tốt hơn các buổi học dài hằng tuần ở người lớn học tiếng Anh hay không. Chúng tôi tiến hành một thí nghiệm kéo dài mười hai tuần với 120 sinh viên đại học tại TP. Hồ Chí Minh, được phân ngẫu nhiên vào một trong hai nhóm. Cả hai nhóm dành tổng thời gian học như nhau, nhưng một nhóm ôn mười phút mỗi ngày, còn nhóm kia học bảy mươi phút mỗi tuần một lần. Kết quả dường như cho thấy việc ôn hằng ngày gắn với điểm cao hơn trong bài kiểm tra muộn, dù chênh lệch tương đối khiêm tốn. Cần lưu ý rằng mẫu nghiên cứu chỉ giới hạn trong một cơ sở đào tạo và động lực của người tham gia không được đo trực tiếp. Do đó, kết quả chưa hẳn đã khái quát hóa được cho các bối cảnh khác. Tuy vậy, chúng nhìn chung phù hợp với ngày càng nhiều bằng chứng về hiệu ứng giãn cách, và đặt ra câu hỏi liệu thời khóa biểu các khóa học có nên được thiết kế lại. Cần thêm nghiên cứu để xác định hiệu ứng này có duy trì trong thời gian dài hơn hay không."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Thời gian học của hai nhóm được phân bổ thế nào?",
+     "How was study time arranged for the two groups?"
+    ],
+    "o": [
+     [
+      "Tổng thời gian bằng nhau: 10 phút/ngày so với 70 phút/tuần",
+      "Same total: 10 minutes daily vs 70 minutes weekly"
+     ],
+     [
+      "Nhóm hằng ngày học nhiều giờ hơn",
+      "The daily group studied for more hours"
+     ],
+     [
+      "Nhóm hằng tuần học hai buổi mỗi tuần",
+      "The weekly group studied twice a week"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Both groups spent the same total time studying, but one reviewed for ten minutes a day, while the other studied for seventy minutes once a week.” 10 × 7 = 70, nên tổng thời gian bằng nhau.",
+     "“Both groups spent the same total time studying, but one reviewed for ten minutes a day, while the other studied for seventy minutes once a week.” 10 × 7 = 70, so the totals match."
+    ],
+    "f": [
+     "Both groups spent the same total time studying",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao kết quả chưa chắc khái quát được cho bối cảnh khác?",
+     "Why can't the findings necessarily be generalised?"
+    ],
+    "o": [
+     [
+      "Mẫu chỉ ở một trường và động lực không được đo",
+      "The sample came from one institution and motivation wasn't measured"
+     ],
+     [
+      "Thí nghiệm quá ngắn",
+      "The experiment was too short"
+     ],
+     [
+      "Người tham gia không phải sinh viên",
+      "The participants weren't students"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“It should be noted that the sample was limited to a single institution and that participants' motivation was not directly measured. Consequently…” – hai hạn chế dẫn đến kết luận thận trọng.",
+     "“It should be noted that the sample was limited to a single institution and that participants' motivation was not directly measured. Consequently…” – two limitations lead to the cautious conclusion."
+    ],
+    "f": [
+     "the sample was limited to a single institution",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Chênh lệch điểm giữa hai nhóm lớn đến đâu?",
+     "How big was the difference between the groups?"
+    ],
+    "o": [
+     [
+      "Tương đối khiêm tốn",
+      "Relatively modest"
+     ],
+     [
+      "Rất lớn",
+      "Very large"
+     ],
+     [
+      "Không có chênh lệch",
+      "There was no difference"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“although the difference was relatively modest” – relatively là trạng từ hedging, giảm mức độ khẳng định của kết quả.",
+     "“although the difference was relatively modest” – relatively is a hedging adverb that softens the claim."
+    ],
+    "f": [
+     "the difference was relatively modest",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Before any firm conclusions can be ___, the experiment will need to be repeated with a much larger and more diverse sample of participants.",
+    "o": [
+     "drawn",
+     "made",
+     "taken"
+    ],
+    "a": 0,
+    "e": [
+     "Collocation chuẩn là draw a conclusion → conclusions can be drawn. “make / take a conclusion” là lỗi dịch từ tiếng Việt “đưa ra / rút ra kết luận”.",
+     "The standard collocation is draw a conclusion → conclusions can be drawn. “make / take a conclusion” are translation errors."
+    ],
+    "f": [
+     "drawn",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Rising sea levels ___ a serious threat to low-lying coastal areas, including large parts of the Mekong Delta, according to most climate scientists.",
+    "a": [
+     "pose",
+     "present"
+    ],
+    "e": [
+     "Collocation: pose a threat (hoặc present a threat). Chủ ngữ số nhiều (sea levels) nên không thêm -s. Không dùng make / do a threat.",
+     "Collocation: pose a threat (or present a threat). The subject is plural (sea levels), so no -s. Don't say make / do a threat."
+    ],
+    "f": [
+     "pose",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "This experiment proves that bilingual children are more creative than monolingual ones, although only forty pupils from one school took part.",
+    "a": [
+     "This experiment suggests that bilingual children are more creative than monolingual ones, although only forty pupils from one school took part.",
+     "This experiment indicates that bilingual children are more creative than monolingual ones, although only forty pupils from one school took part."
+    ],
+    "e": [
+     "Với mẫu nhỏ (40 học sinh, một trường), “proves” là khẳng định quá mức. Văn học thuật cần hedging: suggests hoặc indicates.",
+     "With a small sample (40 pupils, one school), “proves” overstates the claim. Academic writing needs hedging: suggests or indicates."
+    ],
+    "f": [
+     "suggests",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho thận trọng hơn, bắt đầu bằng “It could be argued that…”",
+     "Hedge the claim, starting with “It could be argued that…”"
+    ],
+    "s": "Online learning is less effective than face-to-face teaching for students who struggle to manage their own time.",
+    "a": [
+     "It could be argued that online learning is less effective than face-to-face teaching for students who struggle to manage their own time.",
+     "It could be argued that online learning may be less effective than face-to-face teaching for students who struggle to manage their own time."
+    ],
+    "e": [
+     "“It could be argued that…” biến một khẳng định tuyệt đối thành một quan điểm có thể tranh luận; phần còn lại giữ nguyên.",
+     "“It could be argued that…” turns an absolute claim into an arguable position; the rest stays the same."
+    ],
+    "f": [
+     "It could be argued that",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Các nhà nghiên cứu đã tiến hành một cuộc khảo sát trên hơn hai nghìn hộ gia đình để tìm hiểu thói quen chi tiêu của họ trong thời kỳ lạm phát cao.",
+    "a": [
+     "The researchers conducted a survey of more than two thousand households to investigate their spending habits during the period of high inflation.",
+     "The researchers carried out a survey of over 2,000 households in order to examine their spending habits during a period of high inflation.",
+     "The researchers conducted a survey of more than 2,000 households to explore their spending habits during a period of high inflation."
+    ],
+    "e": [
+     "“tiến hành khảo sát” → conduct / carry out a survey (không dùng make / do a survey trong văn học thuật). “trên … hộ” → a survey of … households.",
+     "“tiến hành khảo sát” → conduct / carry out a survey (avoid make / do in academic writing). “a survey of … households”."
+    ],
+    "f": [
+     "conducted a survey of",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Teachers|arguably play|a crucial role|in shaping|students' attitudes|towards learning,|particularly|in the early years|of primary school.",
+    "m": [
+     "Có thể nói giáo viên đóng vai trò then chốt trong việc hình thành thái độ học tập của học sinh, đặc biệt là trong những năm đầu tiểu học.",
+     "Teachers arguably play a crucial role in shaping students' attitudes towards learning, particularly in the early years of primary school."
+    ],
+    "e": [
+     "Collocation play a crucial role in + V-ing; trạng từ hedging arguably đứng trước động từ chính.",
+     "The collocation play a crucial role in + -ing; the hedging adverb arguably goes before the main verb."
+    ],
+    "f": [
+     "play a crucial role in",
+     "C2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d31",
+  "g": "study",
+  "t": [
+   "Tư duy phản biện & tranh luận",
+   "Critical thinking & debate"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Rào đón & nhượng bộ (hedging & concession)**\n• Nhượng bộ trước khi phản bác: **Admittedly / Granted,** the sample was large, **but**… / **While it may be true that** X, **it does not follow that** Y.\n• **Be that as it may,** … (= dù vậy, trang trọng) / **albeit** + tính từ/cụm từ: a useful, **albeit** small, study.\n• Rào đón để nghe khách quan: **It may simply be that…**, **seem to have + V3** (The authors **seem to have cherry-picked** the data), **arguably**, **to some extent**.\n• Phản bác lịch sự: **I'm not sure that follows.** / **That's quite a leap.** (ngụ ý: kết luận thiếu căn cứ).",
+    "**Grammar 1 – Hedging & concession**\n• Concede before countering: **Admittedly / Granted,** the sample was large, **but**… / **While it may be true that** X, **it does not follow that** Y.\n• **Be that as it may,** … (= even so, formal) / **albeit** + adjective/phrase: a useful, **albeit** small, study.\n• Hedge to sound objective: **It may simply be that…**, **seem to have + past participle** (The authors **seem to have cherry-picked** the data), **arguably**, **to some extent**.\n• Polite rebuttal: **I'm not sure that follows.** / **That's quite a leap.** (implied: the conclusion isn't justified)."
+   ],
+   [
+    "**Ngữ pháp 2 – Câu chẻ để nhấn mạnh**\n• **What** + mệnh đề + **is/was** …: **What** the study actually shows **is** a correlation.\n• **It is/was** X **that/who** …: **It's** the headline, not the study, **that** misleads readers.\n• **It's not** X **so much as** Y: **It's not** the researchers we should doubt **so much as** the reporting.\n• **All** + mệnh đề + **is**…: **All** I'm saying **is** that we need more evidence.",
+    "**Grammar 2 – Cleft sentences for emphasis**\n• **What** + clause + **is/was** …: **What** the study actually shows **is** a correlation.\n• **It is/was** X **that/who** …: **It's** the headline, not the study, **that** misleads readers.\n• **It's not** X **so much as** Y: **It's not** the researchers we should doubt **so much as** the reporting.\n• **All** + clause + **is**…: **All** I'm saying **is** that we need more evidence."
+   ],
+   [
+    "**Ngụy biện & từ gần nghĩa**\n• **correlation ≠ causation** (tương quan ≠ nhân quả); **cherry-pick** (chọn lọc dữ liệu có lợi); **straw man** (bóp méo lập luận đối phương rồi bác bỏ); **false dilemma** (đưa ra chỉ 2 lựa chọn); **red herring** (chi tiết đánh lạc hướng); **ad hominem** (công kích cá nhân).\n• **imply** (người nói ngụ ý) ↔ **infer** (người nghe suy ra).\n• **sceptical** (hoài nghi, cần bằng chứng) ↔ **cynical** (cho rằng ai cũng vụ lợi).\n• **refute** (chứng minh là sai) ↔ **deny** (nói là không đúng) ↔ **rebut** (phản bác).\n• **evidence** (bằng chứng, không đếm được) ↔ **proof** (chứng cứ xác thực).",
+    "**Fallacies & near-synonyms**\n• **correlation ≠ causation**; **cherry-pick** (select only helpful data); **straw man** (distort an argument and attack that); **false dilemma** (only two options offered); **red herring** (a distraction); **ad hominem** (attacking the person).\n• **imply** (the speaker suggests) ↔ **infer** (the listener concludes).\n• **sceptical** (doubtful, wants evidence) ↔ **cynical** (believes everyone is selfish).\n• **refute** (prove wrong) ↔ **deny** (say it's untrue) ↔ **rebut** (argue against).\n• **evidence** (uncountable) ↔ **proof** (conclusive evidence)."
+   ],
+   [
+    "**Phát âm – Ngữ điệu bày tỏ dè dặt**\n• Giọng xuống-lên (fall-rise) ↘↗ thể hiện “đồng ý nhưng còn dè dặt”: Well… ↘↗**PART**ly. / In the **SHORT** term ↘↗, perhaps.\n• Nhấn tương phản trong câu chẻ: It's the **HEAD**line, not the **STUD**y, that misleads.\n• Từ dễ đọc sai: sceptical /ˈskep.tɪ.kəl/, hypothesis /haɪˈpɑː.θə.sɪs/, causation /kɑːˈzeɪ.ʃən/, fallacy /ˈfæl.ə.si/.",
+    "**Pronunciation – Intonation for reservations**\n• A fall-rise ↘↗ means “I agree, with reservations”: Well… ↘↗**PART**ly. / In the **SHORT** term ↘↗, perhaps.\n• Contrastive stress in clefts: It's the **HEAD**line, not the **STUD**y, that misleads.\n• Tricky words: sceptical /ˈskep.tɪ.kəl/, hypothesis /haɪˈpɑː.θə.sɪs/, causation /kɑːˈzeɪ.ʃən/, fallacy /ˈfæl.ə.si/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem 1 cuộc tranh luận có phản biện (debate club, chương trình truyền hình), ghi lại 5 câu nhượng bộ & 3 ngụy biện bạn nhận ra.\n• Nói (30 phút): chọn 1 tiêu đề báo giật gân, nói 2 phút “đóng vai phản biện” (devil's advocate) rồi 2 phút phản bác lại chính mình.\n• Đọc (30 phút): đọc 1 bài báo khoa học phổ thông và đối chiếu tiêu đề với nghiên cứu gốc – ghi những chỗ bị phóng đại.\n• Viết (40 phút): viết bài phản hồi 150–200 từ đánh giá một luận điểm, dùng ít nhất 2 câu chẻ và 3 cụm rào đón.\n• Từ vựng (15 phút): học các cặp imply/infer, sceptical/cynical, refute/deny, evidence/proof.",
+    "**Practice outside the app**\n• Listening (30 min): watch a debate (debate club or TV show) and note 5 concessions and 3 fallacies you spot.\n• Speaking (30 min): take a sensational headline, play devil's advocate for 2 minutes, then rebut yourself for 2 minutes.\n• Reading (30 min): read a popular science article and compare the headline with the original study – note any exaggeration.\n• Writing (40 min): write a 150–200-word response evaluating a claim, using at least 2 cleft sentences and 3 hedges.\n• Vocabulary (15 min): learn the pairs imply/infer, sceptical/cynical, refute/deny, evidence/proof."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Admittedly, …, but…",
+    "Phải thừa nhận là…, nhưng…"
+   ],
+   [
+    "What the study actually shows is…",
+    "Điều mà nghiên cứu thực sự cho thấy là…"
+   ],
+   [
+    "I'm not sure that follows.",
+    "Tôi không chắc kết luận đó hợp lý."
+   ],
+   [
+    "That's quite a leap.",
+    "Đó là một bước nhảy vọt (kết luận vội)."
+   ],
+   [
+    "Let me play devil's advocate for a moment.",
+    "Để tôi thử đóng vai phản biện một chút."
+   ],
+   [
+    "Correlation isn't causation.",
+    "Tương quan không phải là nhân quả."
+   ],
+   [
+    "Be that as it may, …",
+    "Dù vậy thì…"
+   ],
+   [
+    "Let's not jump to conclusions.",
+    "Đừng vội kết luận."
+   ]
+  ],
+  "vo": [
+   [
+    "correlation",
+    "/ˌkɔːr.əˈleɪ.ʃən/",
+    "sự tương quan",
+    "a connection between two things that change together"
+   ],
+   [
+    "causation",
+    "/kɑːˈzeɪ.ʃən/",
+    "quan hệ nhân quả",
+    "one thing directly causing another"
+   ],
+   [
+    "bias",
+    "/ˈbaɪ.əs/",
+    "thiên kiến",
+    "an unfair preference that affects judgement"
+   ],
+   [
+    "assumption",
+    "/əˈsʌmp.ʃən/",
+    "giả định",
+    "something accepted as true without proof"
+   ],
+   [
+    "fallacy",
+    "/ˈfæl.ə.si/",
+    "ngụy biện",
+    "a mistaken belief or faulty argument"
+   ],
+   [
+    "evidence",
+    "/ˈev.ə.dəns/",
+    "bằng chứng",
+    "facts that show something is true"
+   ],
+   [
+    "play devil's advocate",
+    "/pleɪ ˌdev.əlz ˈæd.və.kət/",
+    "đóng vai phản biện",
+    "argue the opposite view to test an idea"
+   ],
+   [
+    "cherry-pick",
+    "/ˈtʃer.i.pɪk/",
+    "chọn lọc (dữ liệu có lợi)",
+    "choose only the facts that support you"
+   ],
+   [
+    "jump to conclusions",
+    "/dʒʌmp tə kənˈkluː.ʒənz/",
+    "vội kết luận",
+    "decide too quickly without enough facts"
+   ],
+   [
+    "sceptical",
+    "/ˈskep.tɪ.kəl/",
+    "hoài nghi",
+    "doubting that something is true"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "That's an interesting idea, but I'm not sure it necessarily follows from the evidence you've presented so far.",
+    "q": [
+     "Người nói thực sự muốn nói gì?",
+     "What does the speaker really mean?"
+    ],
+    "o": [
+     [
+      "Kết luận chưa được bằng chứng chứng minh",
+      "The conclusion isn't supported by the evidence"
+     ],
+     [
+      "Ý tưởng rất thuyết phục",
+      "The idea is very convincing"
+     ],
+     [
+      "Họ chưa nghe hết phần trình bày",
+      "They haven't heard the presentation"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“That's an interesting idea, but…” là lời khen xã giao trước khi phản bác; “I'm not sure it follows” = kết luận không suy ra được từ bằng chứng.",
+     "“That's an interesting idea, but…” is polite padding before a rebuttal; “I'm not sure it follows” = the conclusion isn't justified."
+    ],
+    "f": [
+     "I'm not sure it necessarily follows",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "What concerns me is not the data itself but the conclusions that have been drawn from it.",
+    "e": [
+     "Câu chẻ **What concerns me is…**; cặp **not … but …**; “drawn” (draw conclusions = rút ra kết luận).",
+     "Cleft **What concerns me is…**; the pair **not … but …**; “drawn” (draw conclusions)."
+    ],
+    "f": [
+     "What concerns me is",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Granted, the sample was large; even so, a correlation on its own tells us very little about cause and effect.",
+    "e": [
+     "Ngắt sau “Granted” và “even so”; giọng xuống-lên ở “large” để thể hiện nhượng bộ có điều kiện.",
+     "Pause after “Granted” and “even so”; use a fall-rise on “large” to show a reserved concession."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Let me play devil's advocate for a moment: what if the students who drank more coffee were simply more motivated to begin with?",
+    "e": [
+     "Nhấn “DEVil's ADvocate” và “MOtivated”; “what if” lên giọng nhẹ như đưa ra giả thuyết.",
+     "Stress “DEVil's ADvocate” and “MOtivated”; let “what if” rise slightly as you propose a hypothesis."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Mẹ ơi, tin đó nghe hơi khó tin – mẹ nên dè chừng một chút trước khi chia sẻ lên nhóm gia đình nhé.",
+    "a": [
+     "Mum, that story sounds a bit far-fetched – maybe take it with a pinch of salt before you share it in the family group.",
+     "Mum, that story sounds a bit far-fetched – you might want to take it with a pinch of salt before sharing it in the family group.",
+     "Mum, that sounds a bit far-fetched – I'd take it with a grain of salt before you share it in the family group.",
+     "Mom, that story sounds a bit far-fetched – maybe take it with a pinch of salt before you post it in the family group."
+    ],
+    "e": [
+     "“khó tin” = **far-fetched**; “dè chừng, không tin hết” = **take sth with a pinch (grain) of salt**. “maybe / you might want to” làm lời khuyên với người lớn nhẹ nhàng hơn.",
+     "“hard to believe” = **far-fetched**; “don't fully believe it” = **take something with a pinch (grain) of salt**. “maybe / you might want to” softens advice to an older person."
+    ],
+    "f": [
+     "take it with a pinch of salt",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Bạn bè nói: “The new rule is a total disaster.” Viết lại câu đáp thẳng thừng thành lời phản đối tế nhị dùng “I'm not sure I'd go quite that far”.",
+     "A friend says: “The new rule is a total disaster.” Rewrite the blunt reply as tactful disagreement using “I'm not sure I'd go quite that far”."
+    ],
+    "s": "No, you're completely wrong.",
+    "a": [
+     "I'm not sure I'd go quite that far.",
+     "Hmm, I'm not sure I'd go quite that far.",
+     "Well, I'm not sure I'd go quite that far."
+    ],
+    "e": [
+     "**I'm not sure I'd go quite that far** = tôi không nghĩ đến mức đó – phản đối mức độ phóng đại mà không nói người kia sai. Người Anh rất hay dùng kiểu nói giảm này.",
+     "**I'm not sure I'd go quite that far** disagrees with the exaggeration without calling the person wrong – a typical British understatement."
+    ],
+    "f": [
+     "I'm not sure I'd go quite that far",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Let's not get sidetracked – whether he was rude in the meeting is a red ___; the real question is whether his figures are actually correct.",
+    "a": [
+     "herring"
+    ],
+    "e": [
+     "**a red herring** = chi tiết đánh lạc hướng khỏi vấn đề chính. Thành ngữ cố định, không thay bằng từ khác.",
+     "**a red herring** = something that distracts from the real issue. A fixed idiom."
+    ],
+    "f": [
+     "a red herring",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "You keep saying that I hate technology, but that's not what I said at all – please stop putting words into my mouths.",
+    "a": [
+     "You keep saying that I hate technology, but that's not what I said at all – please stop putting words into my mouth."
+    ],
+    "e": [
+     "Thành ngữ **put words into sb's mouth** (gán lời cho ai) dùng **mouth** số ít, vì mỗi người chỉ có một miệng.",
+     "The idiom **put words into someone's mouth** uses singular **mouth**."
+    ],
+    "f": [
+     "putting words into my mouth",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Tutor: So, the article claims that students who drink coffee get higher grades. Convinced?\nLinh: Not entirely. Admittedly, the sample was large, but what the study actually shows is a correlation, not a cause. It may simply be that more ambitious students both study late and drink more coffee.\nSam: I'll play devil's advocate. Granted, correlation isn't causation – but caffeine does improve concentration, doesn't it?\nLinh: In the short term, perhaps. Be that as it may, the authors seem to have cherry-picked their data: they ignored the students who dropped out.\nTutor: That's a fair point. And look at the headline: “Coffee makes you smarter.” That's quite a leap from “is associated with”.\nSam: True, though isn't dismissing the whole study because of one headline a bit of a straw man?\nTutor: Good – that's exactly the kind of challenge I want. It's not the researchers we should be sceptical of so much as the way their findings were reported. Before we jump to conclusions, let's look at the methodology.",
+   "tr": "Giảng viên: Vậy bài báo khẳng định sinh viên uống cà phê đạt điểm cao hơn. Các em có bị thuyết phục không?\nLinh: Không hoàn toàn ạ. Phải thừa nhận là mẫu nghiên cứu lớn, nhưng điều nghiên cứu thực sự cho thấy là một mối tương quan, không phải nguyên nhân. Có thể đơn giản là những sinh viên tham vọng hơn vừa học khuya vừa uống nhiều cà phê hơn.\nSam: Em xin đóng vai phản biện. Cứ cho là tương quan không phải nhân quả – nhưng caffeine đúng là giúp tập trung hơn, phải không?\nLinh: Trong ngắn hạn thì có thể. Dù vậy, các tác giả dường như đã chọn lọc dữ liệu có lợi: họ bỏ qua những sinh viên đã bỏ học.\nGiảng viên: Ý đó hợp lý. Và hãy nhìn tiêu đề: “Cà phê làm bạn thông minh hơn.” Đó là một bước nhảy khá xa so với “có liên quan đến”.\nSam: Đúng ạ, nhưng gạt bỏ cả nghiên cứu chỉ vì một tiêu đề chẳng phải là hơi bóp méo vấn đề sao?\nGiảng viên: Tốt – đó chính là kiểu chất vấn thầy muốn. Điều chúng ta nên hoài nghi không hẳn là các nhà nghiên cứu mà là cách kết quả của họ được đưa tin. Trước khi vội kết luận, hãy xem xét phương pháp nghiên cứu."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Phản bác chính của Linh là gì?",
+     "What is Linh's main objection?"
+    ],
+    "o": [
+     [
+      "Nghiên cứu chỉ cho thấy tương quan, có thể do yếu tố khác",
+      "The study only shows a correlation; another factor may explain it"
+     ],
+     [
+      "Mẫu nghiên cứu quá nhỏ",
+      "The sample was too small"
+     ],
+     [
+      "Cà phê có hại cho sức khỏe",
+      "Coffee is bad for your health"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“what the study actually shows is a correlation, not a cause” + “more ambitious students both study late and drink more coffee” (biến thứ ba). Linh thừa nhận mẫu LỚN, nên phương án 2 sai.",
+     "“what the study actually shows is a correlation, not a cause” + a third factor (ambition). Linh admits the sample was LARGE, so option 2 is wrong."
+    ],
+    "f": [
+     "what the study actually shows is a correlation, not a cause",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khi Sam nói “I'll play devil's advocate”, cậu ấy có ý gì?",
+     "What does Sam mean by “I'll play devil's advocate”?"
+    ],
+    "o": [
+     [
+      "Cậu sẽ bênh vực phía ngược lại để thử thách lập luận, dù chưa chắc tin vậy",
+      "He'll argue the other side to test the argument, not necessarily what he believes"
+     ],
+     [
+      "Cậu hoàn toàn đồng ý với Linh",
+      "He fully agrees with Linh"
+     ],
+     [
+      "Cậu muốn kết thúc cuộc thảo luận",
+      "He wants to end the discussion"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "**play devil's advocate** = cố ý đưa ra quan điểm đối lập để kiểm tra độ chắc của lập luận – không nhất thiết là niềm tin thật.",
+     "**play devil's advocate** = deliberately take the opposite view to test an argument – not necessarily your real belief."
+    ],
+    "f": [
+     "I'll play devil's advocate",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo giảng viên, nên hoài nghi điều gì?",
+     "According to the tutor, what should they be sceptical of?"
+    ],
+    "o": [
+     [
+      "Cách kết quả nghiên cứu được đưa tin",
+      "The way the findings were reported"
+     ],
+     [
+      "Bản thân các nhà nghiên cứu",
+      "The researchers themselves"
+     ],
+     [
+      "Mọi nghiên cứu về cà phê",
+      "All research on coffee"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu chẻ “It's not the researchers we should be sceptical of so much as the way their findings were reported” – trọng tâm là cách đưa tin (tiêu đề phóng đại).",
+     "The cleft “It's not the researchers… so much as the way their findings were reported” – the focus is the reporting (the exaggerated headline)."
+    ],
+    "f": [
+     "so much as the way their findings were reported",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "From the way she kept avoiding my question during the meeting, I ___ that the project had been quietly cancelled, although nobody had said so explicitly.",
+    "o": [
+     "inferred",
+     "implied",
+     "insinuated"
+    ],
+    "a": 0,
+    "e": [
+     "Người NGHE suy ra → **infer**. Người NÓI ngụ ý → **imply**; **insinuate** = ám chỉ điều xấu. Ở đây “I” là người suy luận.",
+     "The LISTENER concludes → **infer**. The SPEAKER suggests → **imply**; **insinuate** = hint at something unpleasant. Here “I” draws the conclusion."
+    ],
+    "f": [
+     "I inferred that",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "I'm ___ about the claim that a single supplement can cure anxiety, but I'd be willing to change my mind if I saw a well-designed clinical trial.",
+    "o": [
+     "sceptical",
+     "cynical",
+     "suspicious"
+    ],
+    "a": 0,
+    "e": [
+     "**sceptical** = hoài nghi nhưng sẵn sàng đổi ý nếu có bằng chứng – khớp với vế sau. **cynical** = cho rằng ai cũng vụ lợi; **suspicious** = nghi ai đó làm sai.",
+     "**sceptical** = doubtful but open to evidence – matching the second half. **cynical** = believing people are selfish; **suspicious** = thinking someone has done wrong."
+    ],
+    "f": [
+     "sceptical about the claim",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ worries me most about the proposal is not the cost but the complete lack of evidence that it will actually work in real classrooms.",
+    "a": [
+     "What"
+    ],
+    "e": [
+     "Câu chẻ **What + mệnh đề + is…** để nhấn mạnh: What worries me most is… (không dùng “That” hay “Which”).",
+     "A **What**-cleft for emphasis: What worries me most is… (not “That” or “Which”)."
+    ],
+    "f": [
+     "What worries me most",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The study was, admittedly, rather small; be that as it ___, its findings are consistent with several larger studies carried out in other countries.",
+    "a": [
+     "may"
+    ],
+    "e": [
+     "Cụm cố định **be that as it may** = dù vậy (trang trọng), dùng sau khi thừa nhận một điểm yếu.",
+     "The fixed phrase **be that as it may** = even so (formal), used after admitting a weakness."
+    ],
+    "f": [
+     "be that as it may",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Just because crime rose after the new mayor took office doesn't mean his policies caused it; you're confusing correlation with causation and jumping to conclusion.",
+    "a": [
+     "Just because crime rose after the new mayor took office doesn't mean his policies caused it; you're confusing correlation with causation and jumping to conclusions."
+    ],
+    "e": [
+     "Thành ngữ cố định luôn ở số nhiều: **jump to conclusions**.",
+     "The idiom is always plural: **jump to conclusions**."
+    ],
+    "f": [
+     "jumping to conclusions",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "The minister flatly refuted the allegations at the press conference, but he offered no evidence whatsoever to show that they were untrue.",
+    "a": [
+     "The minister flatly denied the allegations at the press conference, but he offered no evidence whatsoever to show that they were untrue.",
+     "The minister flatly rejected the allegations at the press conference, but he offered no evidence whatsoever to show that they were untrue."
+    ],
+    "e": [
+     "**refute** = CHỨNG MINH là sai (cần bằng chứng) – mâu thuẫn với “offered no evidence”. Chỉ nói là không đúng → **deny**.",
+     "**refute** = PROVE wrong (with evidence) – which contradicts “offered no evidence”. Simply saying it's untrue → **deny**."
+    ],
+    "f": [
+     "flatly denied",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Phải thừa nhận là mẫu nghiên cứu khá lớn, nhưng điều mà nó thực sự cho thấy chỉ là một mối tương quan chứ không phải quan hệ nhân quả.",
+    "a": [
+     "Admittedly, the sample was quite large, but what it actually shows is only a correlation, not a causal relationship.",
+     "Admittedly, the sample was fairly large, but what it really shows is merely a correlation rather than causation.",
+     "Granted, the sample was quite large, but all it actually shows is a correlation, not a causal relationship.",
+     "Admittedly, the sample was quite large, but what it actually shows is just a correlation, not causation."
+    ],
+    "e": [
+     "“Phải thừa nhận là” = **Admittedly / Granted**; “điều mà nó thực sự cho thấy là” = câu chẻ **what it actually shows is**.",
+     "“Phải thừa nhận là” = **Admittedly / Granted**; “điều mà nó thực sự cho thấy là” = the cleft **what it actually shows is**."
+    ],
+    "f": [
+     "what it actually shows is",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Trước khi vội kết luận, chúng ta nên xem xét liệu các tác giả có chỉ chọn lọc những dữ liệu có lợi cho giả thuyết của họ hay không.",
+    "a": [
+     "Before we jump to conclusions, we should consider whether the authors have cherry-picked the data that supports their hypothesis.",
+     "Before jumping to conclusions, we should consider whether the authors cherry-picked the data that supported their hypothesis.",
+     "Before we jump to conclusions, we ought to consider whether the authors have only selected data that supports their hypothesis.",
+     "Before we jump to conclusions, we should look at whether the authors have cherry-picked data to support their hypothesis."
+    ],
+    "e": [
+     "“vội kết luận” = **jump to conclusions**; “chọn lọc dữ liệu có lợi” = **cherry-pick the data**; “liệu … hay không” = **whether**.",
+     "“vội kết luận” = **jump to conclusions**; “chọn lọc dữ liệu có lợi” = **cherry-pick the data**; “liệu … hay không” = **whether**."
+    ],
+    "f": [
+     "cherry-picked the data",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu chẻ “It is … that …” để nhấn mạnh “the headline”.",
+     "Rewrite as an “It is … that …” cleft to emphasise “the headline”."
+    ],
+    "s": "The headline misleads readers, not the study itself.",
+    "a": [
+     "It is the headline, not the study itself, that misleads readers.",
+     "It's the headline, not the study itself, that misleads readers.",
+     "It is the headline that misleads readers, not the study itself.",
+     "It is not the study itself but the headline that misleads readers."
+    ],
+    "e": [
+     "Câu chẻ **It is X that + V**: đặt thành phần cần nhấn (the headline) giữa “It is” và “that”; động từ chia theo X.",
+     "Cleft **It is X that + verb**: put the emphasised part (the headline) between “It is” and “that”; the verb agrees with X."
+    ],
+    "f": [
+     "It is the headline … that misleads readers",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "While it may be true|that the new policy|has reduced costs,|it does not follow|that it has|improved|the quality of care|for patients.",
+    "m": [
+     "Dù có thể đúng là chính sách mới đã giảm chi phí, điều đó không có nghĩa là nó đã cải thiện chất lượng chăm sóc bệnh nhân.",
+     "While it may be true that the new policy has reduced costs, it does not follow that it has improved the quality of care for patients."
+    ],
+    "e": [
+     "Khung lập luận kinh điển: **While it may be true that X, it does not follow that Y** – nhượng bộ rồi chỉ ra lỗi suy luận.",
+     "A classic frame: **While it may be true that X, it does not follow that Y** – concede, then expose the faulty reasoning."
+    ],
+    "f": [
+     "it does not follow that",
+     "C2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết đoạn phản hồi (150–180 từ) đánh giá tiêu đề: “Người chơi game giỏi toán hơn.” Nhượng bộ ít nhất 1 điểm, chỉ ra ít nhất 2 vấn đề về lập luận/bằng chứng, dùng câu chẻ và rào đón.",
+     "Write a response (150–180 words) evaluating the headline “Gamers are better at maths.” Concede at least one point, identify at least two problems with the reasoning or evidence, and use clefts and hedges."
+    ],
+    "m": "At first glance, the headline “Gamers are better at maths” sounds convincing, and admittedly, the survey behind it involved more than five thousand teenagers. Be that as it may, what the data actually shows is a correlation, not a cause. It may simply be that students who are already confident with numbers are drawn to strategy games, rather than the games making them better at maths. What concerns me more is that the survey relied on self-reported grades, which are notoriously unreliable. The researchers also seem to have focused only on puzzle and strategy games, so it does not follow that all gaming has the same effect. To be fair, it is not the study itself that is the main problem so much as the way it has been summarised. Before we jump to conclusions, we would need a controlled experiment comparing similar students over time.",
+    "e": [
+     "Cần có: 1 câu nhượng bộ (admittedly / granted / be that as it may); ≥ 2 vấn đề (tương quan ≠ nhân quả, dữ liệu tự khai, chọn lọc…); ≥ 2 câu chẻ (What… is / It is… that); ≥ 2 cụm rào đón (may simply be, seem to have); đề xuất cách kiểm chứng.",
+     "Include: a concession (admittedly / granted / be that as it may); ≥ 2 problems (correlation vs causation, self-reported data, cherry-picking…); ≥ 2 clefts (What… is / It is… that); ≥ 2 hedges (may simply be, seem to have); a suggestion for testing the claim."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d32",
+  "g": "study",
+  "t": [
+   "Ngôn ngữ, dịch thuật & giao tiếp liên văn hoá",
+   "Language, translation & intercultural communication"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Nói giảm, nói tránh & lịch sự gián tiếp**\n• Lùi thì để lịch sự hơn: **I was wondering if** you could… / **I wanted to** ask…\n• Thêm từ làm mềm: **just, a bit, possibly, at all**: Would it be **at all** possible to…?\n• Câu hỏi phủ định để gợi ý: **Wouldn't it be** better to…? / **Would it be worth** + V-ing…?\n• Nói giảm kiểu Anh (understatement): “quite interesting” / “I'll bear it in mind” thường = không mặn mà; “not bad” có thể = khá tốt.\n• Giữ thể diện (face): nhận lỗi về mình thay vì chỉ trích: **I may not have made myself clear** (thay cho “You misunderstood”).",
+    "**Grammar 1 – Softening & indirect politeness**\n• Past forms for politeness: **I was wondering if** you could… / **I wanted to** ask…\n• Softeners: **just, a bit, possibly, at all**: Would it be **at all** possible to…?\n• Negative questions to suggest: **Wouldn't it be** better to…? / **Would it be worth** + -ing…?\n• British understatement: “quite interesting” / “I'll bear it in mind” often = not keen; “not bad” can = quite good.\n• Saving face: take the blame yourself instead of criticising: **I may not have made myself clear** (instead of “You misunderstood”)."
+   ],
+   [
+    "**Ngữ pháp 2 – Đảo ngữ & đưa thành phần lên đầu để nhấn mạnh**\n• Điều kiện đảo ngữ: **Had we spelt** things out (= If we had…), **Were it not for**…, **Should you need**…\n• Trạng từ phủ định/hạn chế lên đầu: **Rarely does** a dictionary help… / **Only later did** I realise…\n• **Such was** + danh từ + **that**…: **Such was** the confusion **that** we had to start again.\n• Cặp gần nghĩa: **translate** (văn bản viết) ↔ **interpret** (dịch nói; cũng = diễn giải); **literal** ↔ **figurative**; **accent** (giọng) ↔ **dialect** (phương ngữ); **fluent** ↔ **proficient** (thành thạo, trang trọng).",
+    "**Grammar 2 – Inversion & fronting for emphasis**\n• Inverted conditionals: **Had we spelt** things out (= If we had…), **Were it not for**…, **Should you need**…\n• Negative/limiting adverbs first: **Rarely does** a dictionary help… / **Only later did** I realise…\n• **Such was** + noun + **that**…: **Such was** the confusion **that** we had to start again.\n• Near-synonyms: **translate** (written) ↔ **interpret** (spoken; also = understand in a certain way); **literal** ↔ **figurative**; **accent** ↔ **dialect**; **fluent** ↔ **proficient** (more formal)."
+   ],
+   [
+    "**Phát âm – Ngữ điệu quyết định thái độ**\n• Giọng đều đều (flat) với người bản ngữ có thể nghe như chán hoặc khó chịu: “Fine.” ↘ (lạnh lùng) ↔ “Fine!” ↗↘ (vui vẻ).\n• Lời đề nghị lịch sự cần độ lên xuống rõ: I was **WON**dering if you could ↗ possibly…\n• Người Việt hay nuốt phụ âm cuối – trong giao tiếp quốc tế hãy giữ rõ: thank**s**, ask**ed**, cultur**e**.\n• in**TER**pret /ɪnˈtɝː.prɪt/, **NU**ance /ˈnuː.ɑːns/, **ID**iom, **CON**text.",
+    "**Pronunciation – Intonation shapes attitude**\n• A flat tone can sound bored or annoyed to native speakers: “Fine.” ↘ (cold) ↔ “Fine!” ↗↘ (warm).\n• Polite requests need a clear rise and fall: I was **WON**dering if you could ↗ possibly…\n• Vietnamese speakers often drop final consonants – keep them clear internationally: thank**s**, ask**ed**, cultur**e**.\n• in**TER**pret /ɪnˈtɝː.prɪt/, **NU**ance /ˈnuː.ɑːns/, **ID**iom, **CON**text."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem 1 cảnh phim/series Anh và 1 cảnh phim Mỹ; ghi lại các câu nói giảm và ý thật đằng sau.\n• Nói (30 phút): nói cùng một yêu cầu ở 3 mức: thân mật – trung tính – rất trang trọng; ghi âm và so sánh ngữ điệu.\n• Đọc (30 phút): so sánh 1 đoạn văn với 2 bản dịch khác nhau; ghi chỗ nào dịch sát nghĩa đen, chỗ nào dịch ý.\n• Viết (40 phút): viết email 150–180 từ gỡ rối một hiểu lầm văn hoá một cách tế nhị.\n• Từ vựng (15 phút): học 15 thành ngữ về giao tiếp (read between the lines, get the wrong end of the stick, take sth at face value…).",
+    "**Practice outside the app**\n• Listening (30 min): watch one British and one American TV scene; note the understatements and their real meaning.\n• Speaking (30 min): make the same request at 3 levels: informal – neutral – very formal; record and compare your intonation.\n• Reading (30 min): compare a passage with two different translations; note where they are literal and where they translate the meaning.\n• Writing (40 min): write a 150–180-word email tactfully clearing up a cultural misunderstanding.\n• Vocabulary (15 min): learn 15 idioms about communication (read between the lines, get the wrong end of the stick, take something at face value…)."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "I was wondering if you could possibly…",
+    "Không biết anh có thể vui lòng…"
+   ],
+   [
+    "I think something got lost in translation.",
+    "Tôi nghĩ có gì đó bị hiểu sai khi chuyển ngữ."
+   ],
+   [
+    "I may not have made myself clear.",
+    "Có lẽ tôi đã diễn đạt chưa rõ."
+   ],
+   [
+    "What I meant was…",
+    "Ý tôi là…"
+   ],
+   [
+    "You have to read between the lines.",
+    "Phải hiểu ý ngầm."
+   ],
+   [
+    "Could you spell that out for me?",
+    "Anh nói rõ hơn giúp tôi được không?"
+   ],
+   [
+    "That doesn't really translate into Vietnamese.",
+    "Câu đó không dịch sang tiếng Việt được."
+   ],
+   [
+    "I'll bear it in mind.",
+    "Tôi sẽ cân nhắc. (thường = không mặn mà)"
+   ]
+  ],
+  "vo": [
+   [
+    "interpret",
+    "/ɪnˈtɝː.prɪt/",
+    "phiên dịch; diễn giải",
+    "translate speech; understand in a certain way"
+   ],
+   [
+    "lost in translation",
+    "/lɑːst ɪn trænzˈleɪ.ʃən/",
+    "bị mất ý khi chuyển ngữ",
+    "meaning missed when moving between languages"
+   ],
+   [
+    "read between the lines",
+    "/riːd bɪˌtwiːn ðə ˈlaɪnz/",
+    "hiểu ý ngầm",
+    "understand what is meant but not said"
+   ],
+   [
+    "spell out",
+    "/spel ˈaʊt/",
+    "nói rõ ràng, cụ thể",
+    "explain something very clearly"
+   ],
+   [
+    "context",
+    "/ˈkɑːn.tekst/",
+    "ngữ cảnh",
+    "the situation that gives words their meaning"
+   ],
+   [
+    "nuance",
+    "/ˈnuː.ɑːns/",
+    "sắc thái",
+    "a small but important difference in meaning"
+   ],
+   [
+    "idiom",
+    "/ˈɪd.i.əm/",
+    "thành ngữ",
+    "a phrase whose meaning isn't literal"
+   ],
+   [
+    "register",
+    "/ˈredʒ.ɪ.stɚ/",
+    "văn phong (trang trọng/thân mật)",
+    "the level of formality of language"
+   ],
+   [
+    "understatement",
+    "/ˈʌn.dɚˌsteɪt.mənt/",
+    "lối nói giảm",
+    "saying something is less than it really is"
+   ],
+   [
+    "save face",
+    "/seɪv ˈfeɪs/",
+    "giữ thể diện",
+    "avoid embarrassment or losing respect"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "With the greatest respect, I'm not sure that's quite what we had in mind when we agreed to the project.",
+    "q": [
+     "Người nói thực sự muốn bày tỏ điều gì?",
+     "What is the speaker really expressing?"
+    ],
+    "o": [
+     [
+      "Phản đối khá mạnh, nhưng nói rất lịch sự",
+      "Fairly strong disagreement, said very politely"
+     ],
+     [
+      "Hoàn toàn đồng ý",
+      "Complete agreement"
+     ],
+     [
+      "Sự tôn trọng sâu sắc dành cho người nghe",
+      "Deep admiration for the listener"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Trong tiếng Anh-Anh, **With the greatest respect** thường báo trước lời phản đối mạnh; “I'm not sure that's quite what we had in mind” = điều này KHÔNG như chúng tôi muốn.",
+     "In British English, **With the greatest respect** usually introduces strong disagreement; “not quite what we had in mind” = this is NOT what we wanted."
+    ],
+    "f": [
+     "With the greatest respect",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Rarely does a literal translation capture the full meaning of an idiom, let alone its tone.",
+    "e": [
+     "Đảo ngữ **Rarely does + S + V**; **let alone** = huống chi, nói gì đến.",
+     "Inversion **Rarely does + subject + verb**; **let alone** = and certainly not."
+    ],
+    "f": [
+     "Rarely does a literal translation",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I was wondering if you could possibly send me the slides before the meeting, if it's not too much trouble.",
+    "e": [
+     "Ngữ điệu lên xuống rõ ở “WONdering” và “POSSibly”; tránh đọc đều đều kẻo nghe như ra lệnh.",
+     "Use a clear rise and fall on “WONdering” and “POSSibly”; a flat tone could sound like an order."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Had I known that silence is a sign of respect in their culture, I wouldn't have kept talking to fill every gap.",
+    "e": [
+     "Đảo ngữ “Had I known” – nhấn “KNOWN” và “WOULDn't”; ngắt nhịp sau “culture”.",
+     "Inverted “Had I known” – stress “KNOWN” and “WOULDn't”; pause after “culture”."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Mình không có ý chê đâu – chỉ là câu đùa đó không “dịch” sang tiếng Anh được thôi.",
+    "a": [
+     "I didn't mean it as a criticism – it's just that the joke doesn't really translate into English.",
+     "I didn't mean it as a criticism – it's just that the joke doesn't translate into English.",
+     "I wasn't criticising – it's just that the joke doesn't really translate into English.",
+     "I didn't mean that as a criticism – the joke just doesn't really translate into English."
+    ],
+    "e": [
+     "**doesn't translate (into English)** = không chuyển sang tiếng Anh mà vẫn giữ được ý/độ hài – cách dùng nội động từ rất tự nhiên. “không có ý chê” = **didn't mean it as a criticism**.",
+     "**doesn't translate (into English)** = loses its meaning or humour in English – a natural intransitive use. “không có ý chê” = **didn't mean it as a criticism**."
+    ],
+    "f": [
+     "doesn't really translate into English",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại để giữ thể diện cho người nghe – nhận phần lỗi về mình, dùng “I may not have made myself clear”.",
+     "Rewrite to save the listener's face – take the blame yourself, using “I may not have made myself clear”."
+    ],
+    "s": "You misunderstood me.",
+    "a": [
+     "I think I may not have made myself clear.",
+     "I may not have made myself clear.",
+     "Sorry, I may not have made myself clear.",
+     "I'm afraid I may not have made myself clear."
+    ],
+    "e": [
+     "Thay vì nói người khác hiểu sai, hãy nhận phần lỗi diễn đạt: **I may not have made myself clear** – giữ thể diện cho cả hai bên.",
+     "Instead of saying the other person got it wrong, take the blame for unclear wording: **I may not have made myself clear** – it saves face on both sides."
+    ],
+    "f": [
+     "I may not have made myself clear",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "When my British neighbour said “You must come round for dinner sometime”, I took it at face ___ and turned up the next evening – apparently it was just a polite thing to say!",
+    "a": [
+     "value"
+    ],
+    "e": [
+     "**take sth at face value** = hiểu theo nghĩa đen, tin ngay lời nói bề ngoài. Ví dụ điển hình về lời mời xã giao trong văn hoá Anh.",
+     "**take something at face value** = accept it literally. A classic example of a polite but empty British invitation."
+    ],
+    "f": [
+     "took it at face value",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Sorry, I completely got the wrong side of the stick – I thought you meant this Friday, not next Friday, so I've already booked the room.",
+    "a": [
+     "Sorry, I completely got the wrong end of the stick – I thought you meant this Friday, not next Friday, so I've already booked the room."
+    ],
+    "e": [
+     "Thành ngữ đúng là **get the wrong end of the stick** = hiểu nhầm hoàn toàn. Không dùng “side”.",
+     "The idiom is **get the wrong end of the stick** = completely misunderstand. Not “side”."
+    ],
+    "f": [
+     "got the wrong end of the stick",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hi Duc,\nJust a quick note about yesterday's call with the London team, as I suspect something may have got lost in translation. When Sarah said our proposal was “quite interesting” and that she would “bear it in mind”, you seemed to take that as a yes. I'm afraid that in British English this is often a polite way of saying no.\nInterestingly, the misunderstanding cut both ways. When you replied “It is difficult”, you meant it was impossible, whereas the team heard it as an invitation to negotiate. Had we spelt things out more clearly, we would have saved ourselves a week of emails.\nNone of this is anyone's fault – it is simply that the two cultures read between the lines differently. Rarely does a dictionary help in these situations; what matters is noticing tone and context. Would it be worth setting up a short session where we share these “hidden meanings” with the whole team?\nBest,\nHannah",
+   "tr": "Chào Đức,\nMình viết vài dòng về cuộc gọi hôm qua với nhóm London, vì mình ngờ rằng có điều gì đó đã bị hiểu sai khi chuyển ngữ. Khi Sarah nói đề xuất của chúng ta “khá thú vị” và chị ấy sẽ “cân nhắc”, có vẻ bạn đã hiểu đó là đồng ý. Mình e là trong tiếng Anh-Anh, đây thường là cách từ chối lịch sự.\nThú vị là hiểu lầm xảy ra từ cả hai phía. Khi bạn trả lời “Việc này khó”, ý bạn là không thể làm được, trong khi nhóm bên kia lại hiểu đó là lời mời thương lượng. Nếu chúng ta nói rõ mọi thứ hơn, thì đã tránh được cả một tuần trao đổi email.\nKhông ai có lỗi trong chuyện này cả – chỉ đơn giản là hai nền văn hoá hiểu ý ngầm theo cách khác nhau. Trong những tình huống này, từ điển hiếm khi giúp được; điều quan trọng là để ý giọng điệu và ngữ cảnh. Liệu có nên tổ chức một buổi ngắn để chia sẻ những “ý nghĩa ẩn” này với cả nhóm không?\nThân,\nHannah"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Có lẽ Sarah thực sự muốn nói gì?",
+     "What did Sarah probably really mean?"
+    ],
+    "o": [
+     [
+      "Từ chối một cách lịch sự",
+      "A polite no"
+     ],
+     [
+      "Rất hào hứng với đề xuất",
+      "She was very excited about the proposal"
+     ],
+     [
+      "Cần thêm thời gian để đồng ý",
+      "She needed more time before saying yes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Hannah giải thích “quite interesting” và “bear it in mind” trong tiếng Anh-Anh “is often a polite way of saying no” – lối nói giảm.",
+     "Hannah explains that “quite interesting” and “bear it in mind” are “often a polite way of saying no” – British understatement."
+    ],
+    "f": [
+     "a polite way of saying no",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “It is difficult” của Đức bị nhóm London hiểu thế nào?",
+     "How did the London team understand Duc's “It is difficult”?"
+    ],
+    "o": [
+     [
+      "Là lời mời thương lượng",
+      "As an invitation to negotiate"
+     ],
+     [
+      "Là “không thể”",
+      "As “impossible”"
+     ],
+     [
+      "Là lời phàn nàn về khối lượng công việc",
+      "As a complaint about workload"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Đức muốn nói “impossible”, “whereas the team heard it as an invitation to negotiate” – hiểu lầm theo chiều ngược lại.",
+     "Duc meant “impossible”, “whereas the team heard it as an invitation to negotiate” – a misunderstanding the other way."
+    ],
+    "f": [
+     "heard it as an invitation to negotiate",
+     "C2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hannah đề xuất điều gì?",
+     "What does Hannah suggest?"
+    ],
+    "o": [
+     [
+      "Tổ chức buổi chia sẻ ngắn về “ý nghĩa ẩn” cho cả nhóm",
+      "A short session sharing “hidden meanings” with the team"
+     ],
+     [
+      "Thuê phiên dịch chuyên nghiệp",
+      "Hiring a professional interpreter"
+     ],
+     [
+      "Chỉ trao đổi qua email",
+      "Communicating only by email"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu hỏi gợi ý lịch sự “Would it be worth setting up a short session…?” – thực chất là một đề xuất.",
+     "The polite question “Would it be worth setting up a short session…?” is really a suggestion."
+    ],
+    "f": [
+     "Would it be worth setting up a short session",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Because my grandmother doesn't speak any English, I had to ___ for her at the hospital, which was far more stressful than translating a written document.",
+    "o": [
+     "interpret",
+     "translate",
+     "transcribe"
+    ],
+    "a": 0,
+    "e": [
+     "Dịch NÓI trực tiếp → **interpret**. **translate** thường dùng cho văn bản viết; **transcribe** = ghi lại lời nói thành chữ.",
+     "Spoken, live translation → **interpret**. **translate** is usually for written text; **transcribe** = write down speech."
+    ],
+    "f": [
+     "interpret for her",
+     "C2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Her English is so ___ that colleagues are often surprised to learn that she only started studying it seriously in her final year at university.",
+    "o": [
+     "fluent",
+     "fluid",
+     "flowing"
+    ],
+    "a": 0,
+    "e": [
+     "Collocation cố định: **fluent English** (nói trôi chảy). “fluid” = (chất) lỏng / linh hoạt; “flowing” dùng cho tóc, nước, nét chữ.",
+     "The fixed collocation is **fluent English**. “fluid” = liquid / changeable; “flowing” is for hair, water, handwriting."
+    ],
+    "f": [
+     "so fluent",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Rarely ___ a dictionary help in these situations, because what really matters is the tone of voice and the relationship between the speakers.",
+    "a": [
+     "does"
+    ],
+    "e": [
+     "**Rarely** đứng đầu câu → đảo ngữ với trợ động từ: Rarely **does** a dictionary help (chủ ngữ số ít, hiện tại).",
+     "**Rarely** at the start → inversion with an auxiliary: Rarely **does** a dictionary help (singular subject, present)."
+    ],
+    "f": [
+     "Rarely does a dictionary help",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Had it not ___ for her quick thinking during the negotiations, the whole deal might have collapsed over a single mistranslated word.",
+    "a": [
+     "been"
+    ],
+    "e": [
+     "Đảo ngữ điều kiện loại 3: **Had it not been for + danh từ** = If it hadn't been for… (nếu không nhờ…).",
+     "Inverted third conditional: **Had it not been for + noun** = If it hadn't been for…"
+    ],
+    "f": [
+     "Had it not been for",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "In formal emails it's wise to avoid slang and emojis, since what sounds friendly to you may come across like unprofessional to someone from a more formal culture.",
+    "a": [
+     "In formal emails it's wise to avoid slang and emojis, since what sounds friendly to you may come across as unprofessional to someone from a more formal culture."
+    ],
+    "e": [
+     "Cụm cố định **come across as + tính từ** (tạo ấn tượng là). Không dùng “come across like” trước tính từ.",
+     "The fixed phrase is **come across as + adjective** (give the impression of being). Not “come across like” before an adjective."
+    ],
+    "f": [
+     "come across as unprofessional",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Dear Professor Wilson, I wanna ask if you could possibly extend the deadline for my dissertation by one week, as I have been unwell since Monday.",
+    "a": [
+     "Dear Professor Wilson, I would like to ask if you could possibly extend the deadline for my dissertation by one week, as I have been unwell since Monday.",
+     "Dear Professor Wilson, I am writing to ask if you could possibly extend the deadline for my dissertation by one week, as I have been unwell since Monday.",
+     "Dear Professor Wilson, I wanted to ask if you could possibly extend the deadline for my dissertation by one week, as I have been unwell since Monday.",
+     "Dear Professor Wilson, I would like to ask whether you could possibly extend the deadline for my dissertation by one week, as I have been unwell since Monday."
+    ],
+    "e": [
+     "Lỗi văn phong: **wanna** là văn nói rất thân mật, không hợp email gửi giáo sư. Dùng **I would like to / I am writing to / I wanted to ask**.",
+     "A register error: **wanna** is very informal speech and wrong in an email to a professor. Use **I would like to / I am writing to / I wanted to ask**."
+    ],
+    "f": [
+     "I would like to ask",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Nếu chúng ta nói rõ mọi thứ ngay từ đầu, thì đã tránh được cả một tuần trao đổi email qua lại.",
+    "a": [
+     "Had we spelt everything out from the start, we would have saved ourselves a whole week of emails back and forth.",
+     "If we had spelled everything out from the beginning, we would have avoided a whole week of emails back and forth.",
+     "Had we spelled things out clearly from the start, we could have avoided a whole week of emails going back and forth.",
+     "If we had made everything clear from the start, we would have saved ourselves a whole week of back-and-forth emails."
+    ],
+    "e": [
+     "Điều kiện loại 3, có thể đảo ngữ: **Had we spelt… out** = If we had… “nói rõ” = **spell out**; “qua lại” = **back and forth**.",
+     "Third conditional, optionally inverted: **Had we spelt… out** = If we had… “nói rõ” = **spell out**; “qua lại” = **back and forth**."
+    ],
+    "f": [
+     "Had we spelt everything out",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Một bản dịch quá sát nghĩa đen thường làm mất đi sắc thái và giọng điệu của bản gốc, khiến người đọc hiểu sai ý của tác giả.",
+    "a": [
+     "An overly literal translation often loses the nuance and tone of the original, which can lead readers to misunderstand what the author meant.",
+     "An overly literal translation often loses the nuances and tone of the original, leading readers to misunderstand the author's intentions.",
+     "A translation that is too literal often loses the nuance and tone of the original, causing readers to misunderstand what the author meant.",
+     "An excessively literal translation often loses the nuance and tone of the original text, which may lead readers to misinterpret the author's meaning."
+    ],
+    "e": [
+     "“quá sát nghĩa đen” = **overly / too literal**; “sắc thái” = **nuance**; “khiến … hiểu sai” = **lead readers to misunderstand / causing readers to misinterpret**.",
+     "“too literal” = **overly literal**; “sắc thái” = **nuance**; “make … misunderstand” = **lead readers to misunderstand / causing readers to misinterpret**."
+    ],
+    "f": [
+     "an overly literal translation",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành lời đề nghị rất lịch sự, bắt đầu bằng “I was wondering if…”.",
+     "Rewrite as a very polite request starting with “I was wondering if…”."
+    ],
+    "s": "Send me the translated contract today.",
+    "a": [
+     "I was wondering if you could send me the translated contract today.",
+     "I was wondering if you could possibly send me the translated contract today.",
+     "I was wondering if you might be able to send me the translated contract today.",
+     "I was wondering if you could send me the translated contract by the end of today."
+    ],
+    "e": [
+     "**I was wondering if you could (possibly)…** – thì quá khứ + “wonder” làm yêu cầu rất mềm; đặc biệt hữu ích khi viết cho đối tác nước ngoài.",
+     "**I was wondering if you could (possibly)…** – the past tense + “wonder” makes a request very soft; ideal with international partners."
+    ],
+    "f": [
+     "I was wondering if you could",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "What matters|in intercultural communication|is not|how many words|you know|but how well|you can|read between the lines.",
+    "m": [
+     "Điều quan trọng trong giao tiếp liên văn hoá không phải là bạn biết bao nhiêu từ, mà là bạn hiểu ý ngầm giỏi đến đâu.",
+     "What matters in intercultural communication is not how many words you know but how well you can read between the lines."
+    ],
+    "e": [
+     "Câu chẻ **What matters … is not X but Y**; “read between the lines” = hiểu ý ngầm.",
+     "A **What**-cleft with **not X but Y**; “read between the lines” = understand the hidden meaning."
+    ],
+    "f": [
+     "What matters … is not … but",
+     "C2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email (150–180 từ) gửi một đồng nghiệp nước ngoài để gỡ rối một hiểu lầm do khác biệt văn hoá/ngôn ngữ: tế nhị, nhận một phần trách nhiệm, giải thích ý thật và đề xuất cách làm việc tốt hơn.",
+     "Write an email (150–180 words) to a colleague from another culture clearing up a misunderstanding caused by language or culture: be tactful, accept part of the responsibility, explain what was meant and suggest a better way of working."
+    ],
+    "m": "Dear Mark,\nI wanted to follow up on Tuesday's meeting, as I suspect I may not have made myself entirely clear. When I said that the new schedule would be “a little challenging”, I was, in fact, trying to say politely that my team could not meet it without extra staff. In Vietnamese business culture, we often avoid saying no directly, especially to a senior colleague, so I can see how my answer might have come across as a yes.\nHad I spelt this out at the time, we could have discussed alternatives straight away, and I apologise for any confusion this has caused. Would it be at all possible to arrange a short call this week to look at the timeline again? I would also welcome any feedback on how I can be clearer in future, and I am more than happy to share a few tips about our working style with your team.\nBest regards,\nThao",
+    "e": [
+     "Cần có: mở đầu tế nhị (I wanted to follow up…); nhận trách nhiệm (I may not have made myself clear); giải thích ý thật & khác biệt văn hoá; ≥ 1 câu đảo ngữ (Had I…); lời đề nghị rất lịch sự (Would it be at all possible…).",
+     "Include: a tactful opening (I wanted to follow up…); taking responsibility (I may not have made myself clear); the real meaning and cultural difference; ≥ 1 inversion (Had I…); a very polite request (Would it be at all possible…)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c2-r",
+  "t": [
+   "Bài đọc: Học từ thất bại",
+   "Reading: Learning from failure"
+  ],
+  "rd": {
+   "tx": "It has become something of a cliché to claim that failure is the best teacher. Like most clichés, it contains a grain of truth wrapped in a good deal of wishful thinking. Failure is instructive only when it is examined; left unexamined, it tends merely to breed anxiety or, worse, a comfortable story about bad luck. The learner who fails an exam and immediately books another attempt, without asking which questions went wrong and why, has gained little but a receipt. By contrast, the learner who keeps a careful record of errors, revisits them at intervals and deliberately seeks out the kind of task that exposed the weakness is, in effect, turning a setback into a syllabus. Seen in this light, the value of failure lies not in the event itself but in the discipline with which we respond to it.",
+   "tr": "Nói rằng thất bại là người thầy tốt nhất đã trở thành một câu sáo rỗng. Như phần lớn câu sáo rỗng, nó có một chút sự thật bọc trong khá nhiều mơ tưởng. Thất bại chỉ có ích khi được mổ xẻ; nếu bỏ mặc, nó thường chỉ sinh ra lo âu, hoặc tệ hơn, một câu chuyện dễ chịu về vận rủi. Người thi trượt rồi lập tức đăng ký thi lại mà không hỏi câu nào sai và vì sao thì gần như chẳng thu được gì ngoài một tờ biên lai. Ngược lại, người ghi chép cẩn thận lỗi sai, ôn lại chúng định kỳ và chủ động tìm đúng loại bài đã làm lộ điểm yếu, thực chất đang biến thất bại thành giáo trình. Nhìn theo cách này, giá trị của thất bại không nằm ở bản thân sự việc mà ở sự kỷ luật khi ta đối diện với nó."
+  },
+  "vo": [
+   [
+    "cliché",
+    "/kliːˈʃeɪ/",
+    "câu sáo rỗng",
+    "an overused phrase"
+   ],
+   [
+    "wishful thinking",
+    "/ˌwɪʃfl ˈθɪŋkɪŋ/",
+    "mơ tưởng",
+    "believing what you'd like to be true"
+   ],
+   [
+    "instructive",
+    "/ɪnˈstrʌktɪv/",
+    "mang tính bài học",
+    "giving useful knowledge"
+   ],
+   [
+    "breed",
+    "/briːd/",
+    "sinh ra, gây ra",
+    "to produce, cause"
+   ],
+   [
+    "setback",
+    "/ˈsetbæk/",
+    "bước lùi, thất bại",
+    "a problem that delays progress"
+   ],
+   [
+    "syllabus",
+    "/ˈsɪləbəs/",
+    "giáo trình, đề cương",
+    "a course plan"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    "The writer thinks “failure is the best teacher” is…",
+    [
+     "entirely true",
+     "partly true but often exaggerated",
+     "completely false"
+    ],
+    1
+   ],
+   [
+    "mc",
+    "When is failure instructive, according to the text?",
+    [
+     "always",
+     "only when it is examined",
+     "only in exams"
+    ],
+    1
+   ],
+   [
+    "mc",
+    "“has gained little but a receipt” implies the learner…",
+    [
+     "paid but learned almost nothing",
+     "received a refund",
+     "passed the exam"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“turning a setback into a syllabus” nghĩa là?",
+     "“turning a setback into a syllabus” means…"
+    ],
+    [
+     [
+      "biến thất bại thành kế hoạch học tập",
+      "turning a failure into a learning plan"
+     ],
+     [
+      "bỏ học",
+      "dropping the course"
+     ],
+     [
+      "viết sách",
+      "writing a textbook"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    "The value of failure lies in…",
+    [
+     "the event itself",
+     "how disciplined our response is",
+     "luck"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Left ___, failure tends merely to breed anxiety.",
+    [
+     "unexamined",
+     "unexpected",
+     "unprepared"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Seen in this light, the value of failure lies not in the event itself but in the discipline with which we respond to it.",
+    "q": [
+     "Giá trị của thất bại nằm ở đâu?",
+     "Where does the value of failure lie?"
+    ],
+    "o": [
+     [
+      "Ở cách ta kỷ luật đối diện với nó",
+      "In the discipline of our response"
+     ],
+     [
+      "Ở bản thân sự thất bại",
+      "In the failure itself"
+     ],
+     [
+      "Ở vận may",
+      "In good luck"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Cấu trúc “lies not in X but in Y”: giá trị không nằm ở X (the event itself) mà ở Y (the discipline…).",
+     "The structure “lies not in X but in Y”: the value isn't in X (the event itself) but in Y (the discipline…)."
+    ],
+    "f": [
+     "lies not in the event itself but in the discipline",
+     "C2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Like most clichés, the idea that failure is the best teacher contains a grain of truth wrapped in a good deal of wishful thinking.",
+    "e": [
+     "Chú ý dấu trên clichés và các cụm cố định: a grain of truth, a good deal of, wishful thinking.",
+     "Note the accent in clichés and the fixed phrases: a grain of truth, a good deal of, wishful thinking."
+    ],
+    "f": [
+     "a grain of truth",
+     "C2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Left unexamined, a disappointing result tends merely to breed anxiety or, worse, a comfortable story about bad luck.",
+    "e": [
+     "Ngắt hơi sau “Left unexamined” và quanh “worse”; nhấn MERE-ly và BREED.",
+     "Pause after “Left unexamined” and around “worse”; stress MERE-ly and BREED."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "___ unexamined, even a painful setback teaches us very little, because we simply move on without asking which decisions led to it.",
+    "o": [
+     "Left",
+     "Leaving",
+     "To leave"
+    ],
+    "a": 0,
+    "e": [
+     "Phân từ quá khứ mang nghĩa bị động: thất bại “bị bỏ mặc” → Left unexamined. “Leaving” sẽ có nghĩa là chính thất bại bỏ mặc cái gì đó – sai logic.",
+     "A past participle with passive meaning: the setback “is left” unexamined → Left unexamined. “Leaving” would mean the setback itself leaves something – illogical."
+    ],
+    "f": [
+     "Left unexamined",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The learner who keeps a careful record of errors and revisits them at intervals is, in ___, turning a setback into a syllabus.",
+    "a": [
+     "effect"
+    ],
+    "e": [
+     "Cụm cố định in effect = thực chất, trên thực tế. Bẫy chính tả: không viết “in affect”.",
+     "The fixed phrase in effect = in reality, essentially. Spelling trap: not “in affect”."
+    ],
+    "f": [
+     "in effect",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "It has become something of cliché to claim that every successful entrepreneur must first go bankrupt at least once before achieving anything.",
+    "a": [
+     "It has become something of a cliché to claim that every successful entrepreneur must first go bankrupt at least once before achieving anything."
+    ],
+    "e": [
+     "Cụm cố định là “something of a + danh từ” (khá giống một …): something of a cliché. Thiếu mạo từ a là lỗi rất dễ mắc.",
+     "The fixed phrase is “something of a + noun” (rather like a …): something of a cliché. Missing the article a is an easy mistake."
+    ],
+    "f": [
+     "something of a cliché",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng cấu trúc “lies not in … but in …”",
+     "Rewrite the sentence using “lies not in … but in …”"
+    ],
+    "s": "What makes a good teacher valuable is not the amount of knowledge they have but their ability to explain it clearly to beginners.",
+    "a": [
+     "The value of a good teacher lies not in the amount of knowledge they have but in their ability to explain it clearly to beginners.",
+     "A good teacher's value lies not in the amount of knowledge they have but in their ability to explain it clearly to beginners."
+    ],
+    "e": [
+     "Danh hóa “What makes … valuable” thành The value of…, rồi dùng “lies not in X but in Y”. Nhớ lặp lại in trước vế thứ hai.",
+     "Nominalise “What makes … valuable” as The value of…, then use “lies not in X but in Y”. Remember to repeat in before the second part."
+    ],
+    "f": [
+     "lies not in the amount of knowledge they have but in",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ngược lại, người học chủ động tìm đúng loại bài tập đã làm lộ điểm yếu của mình thì thực chất đang biến thất bại thành giáo trình.",
+    "a": [
+     "By contrast, the learner who deliberately seeks out the kind of task that exposed their weakness is, in effect, turning a setback into a syllabus.",
+     "By contrast, a learner who actively looks for the type of exercise that exposed their weakness is in effect turning a setback into a syllabus.",
+     "In contrast, the learner who deliberately seeks out the kind of task that revealed their weakness is, in effect, turning failure into a syllabus."
+    ],
+    "e": [
+     "“Ngược lại” → By contrast / In contrast; “thực chất” → in effect. Mệnh đề quan hệ who … làm chủ ngữ dài, động từ chính là “is turning”.",
+     "“By contrast / In contrast” for the opposite case; “in effect” for “essentially”. The who-clause forms a long subject; the main verb is “is turning”."
+    ],
+    "f": [
+     "in effect, turning a setback into a syllabus",
+     "C2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "The student|who fails an exam|and immediately|books another attempt|without asking|what went wrong|has gained little|but a receipt.",
+    "m": [
+     "Người thi trượt rồi lập tức đăng ký thi lại mà không hỏi mình sai ở đâu thì gần như chẳng thu được gì ngoài một tờ biên lai.",
+     "The student who fails an exam and immediately books another attempt without asking what went wrong has gained little but a receipt."
+    ],
+    "e": [
+     "Chủ ngữ rất dài (The student who … went wrong) trước động từ chính has gained. “little but” = hầu như không gì ngoài.",
+     "A very long subject (The student who … went wrong) before the main verb has gained. “little but” = almost nothing except."
+    ],
+    "f": [
+     "has gained little but a receipt",
+     "C2"
+    ]
+   }
+  ]
+ }
+]

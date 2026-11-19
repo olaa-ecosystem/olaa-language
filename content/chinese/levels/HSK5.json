@@ -1,0 +1,2833 @@
+[
+ {
+  "id": "h5-1",
+  "t": [
+   "Cấu trúc câu phức nâng cao",
+   "Advanced complex patterns"
+  ],
+  "hz": "与无即",
+  "th": [
+   [
+    "• **之所以…是因为…** – sở dĩ … là vì (kết quả trước, lý do sau): 我之所以学汉语，是因为喜欢中国文化。\n• **与其…不如…** – thay vì … chi bằng: 与其在家睡觉，不如出去走走。",
+    "• **之所以…是因为…** – the reason … is that: 我之所以学汉语，是因为喜欢中国文化。\n• **与其…不如…** – rather than … better to: 与其在家睡觉，不如出去走走。"
+   ],
+   [
+    "• **无论 / 不管** + (từ để hỏi / A还是B / A不A / 多么) + **都 / 也**: bất kể … đều: 无论多忙，他都坚持锻炼。不管你去不去，我都去。",
+    "• **无论 / 不管** + (question word / A还是B / A不A / 多么) + **都 / 也**: no matter: 无论多忙，他都坚持锻炼。不管你去不去，我都去。"
+   ],
+   [
+    "• **即使…也…** – dù cho (giả định) … cũng: 即使明天下雨，比赛也会照常进行。\n• **宁可…也不…** – thà … chứ không: 我宁可走路，也不坐他的车。",
+    "• **即使…也…** – even if: 即使明天下雨，比赛也会照常进行。\n• **宁可…也不…** – would rather … than: 我宁可走路，也不坐他的车。"
+   ]
+  ],
+  "vo": [
+   [
+    "之所以",
+    "zhīsuǒyǐ",
+    "sở dĩ",
+    "the reason why"
+   ],
+   [
+    "与其",
+    "yǔqí",
+    "thay vì",
+    "rather than"
+   ],
+   [
+    "不如",
+    "bùrú",
+    "chi bằng",
+    "it's better to"
+   ],
+   [
+    "无论",
+    "wúlùn",
+    "bất kể",
+    "no matter"
+   ],
+   [
+    "即使",
+    "jíshǐ",
+    "dù cho",
+    "even if"
+   ],
+   [
+    "宁可",
+    "nìngkě",
+    "thà rằng",
+    "would rather"
+   ],
+   [
+    "锻炼",
+    "duànliàn",
+    "rèn luyện thân thể",
+    "to exercise"
+   ],
+   [
+    "抱怨",
+    "bàoyuàn",
+    "phàn nàn",
+    "to complain"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我之所以迟到，___因为路上堵车。",
+    [
+     "是",
+     "就",
+     "才"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "与其等他，___自己去。",
+    [
+     "不如",
+     "不但",
+     "而且"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "无论天气怎么样，他___去跑步。",
+    [
+     "都",
+     "才",
+     "就"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___明天下雨，比赛也不会取消。",
+    [
+     "即使",
+     "虽然",
+     "因为"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我宁可饿着，___不吃那种东西。",
+    [
+     "也",
+     "都",
+     "就"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "无论你去吗，我都去。",
+     "无论你去不去，我都去。",
+     "无论你去，我都去不去。"
+    ],
+    1
+   ],
+   [
+    "order",
+    "与其|抱怨|不如|想|办法",
+    [
+     "Thay vì phàn nàn, chi bằng nghĩ cách.",
+     "Rather than complain, find a solution."
+    ]
+   ],
+   [
+    "listen",
+    "即使很累，他也坚持学习。",
+    [
+     "Jíshǐ hěn lèi, tā yě jiānchí xuéxí.",
+     "Suīrán hěn lèi, dànshì tā xuéxí.",
+     "Wúlùn hěn lèi, tā dōu xuéxí."
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我之所以决定辞掉大城市的工作回老家，是因为父母年纪大了，身体也越来越不好。",
+    "q": [
+     "Vì sao người nói về quê?",
+     "Why is the speaker moving back home?"
+    ],
+    "o": [
+     [
+      "bố mẹ đã già, sức khỏe ngày càng kém",
+      "the parents are old and their health is declining"
+     ],
+     [
+      "lương ở thành phố quá thấp",
+      "city pay is too low"
+     ],
+     [
+      "muốn mở công ty riêng",
+      "wants to start a company"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "之所以 + kết quả, 是因为 + lý do: lý do nằm sau 是因为.",
+     "之所以 + result, 是因为 + reason: the reason follows 是因为."
+    ],
+    "f": [
+     "是因为父母年纪大了",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "无论工作有多忙，他每天晚上都会抽出半个小时陪孩子读书，从来没有停过。",
+    "e": [
+     "无论 + 多 + tính từ, vế sau bắt buộc có 都/也.",
+     "无论 + 多 + adjective requires 都/也 in the main clause."
+    ],
+    "f": [
+     "无论工作有多忙",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "与其整天抱怨工作压力太大，不如静下心来想一想怎样提高自己的工作效率。"
+   }
+  ],
+  "rd2": {
+   "tx": "最近，我们公司不少同事开始骑自行车上下班。小李之所以加入他们，是因为早上开车经常堵车，有时候半个小时只能走两公里。他说：“与其坐在车里着急，不如骑车锻炼身体。”无论刮风还是下雨，他都坚持骑车。三个月下来，他不但瘦了五公斤，而且精神也比以前好多了。当然，也有人不赞成。同事老王就说，即使骑车再健康，他也宁可开车，因为夏天骑到公司全身都是汗，还得换衣服，太麻烦了。",
+   "tr": "Gần đây, khá nhiều đồng nghiệp trong công ty tôi bắt đầu đạp xe đi làm. Sở dĩ Tiểu Lý tham gia cùng họ là vì buổi sáng lái xe hay bị tắc đường, có lúc nửa tiếng chỉ đi được hai cây số. Anh nói: “Thay vì ngồi sốt ruột trong xe, chi bằng đạp xe rèn luyện sức khỏe.” Bất kể trời gió hay mưa, anh đều kiên trì đạp xe. Sau ba tháng, anh không những giảm năm cân mà tinh thần cũng tốt hơn trước nhiều. Tất nhiên, cũng có người không tán thành. Đồng nghiệp lão Vương thì nói, dù đạp xe có khỏe đến mấy, ông cũng thà lái xe, vì mùa hè đạp đến công ty thì người đầy mồ hôi, còn phải thay quần áo, phiền quá."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tiểu Lý bắt đầu đạp xe đi làm?",
+     "Why did Xiao Li start cycling to work?"
+    ],
+    "o": [
+     [
+      "buổi sáng lái xe hay bị tắc đường",
+      "driving in the morning meant frequent traffic jams"
+     ],
+     [
+      "ô tô của anh bị hỏng",
+      "his car broke down"
+     ],
+     [
+      "công ty yêu cầu nhân viên đạp xe",
+      "the company required it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“之所以加入他们，是因为早上开车经常堵车” – lý do đứng sau 是因为.",
+     "“之所以加入他们，是因为早上开车经常堵车” – the reason follows 是因为."
+    ],
+    "f": [
+     "是因为早上开车经常堵车",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Sau ba tháng, Tiểu Lý thay đổi thế nào?",
+     "How has Xiao Li changed after three months?"
+    ],
+    "o": [
+     [
+      "giảm năm cân, tinh thần tốt hơn",
+      "lost 5 kg and feels more energetic"
+     ],
+     [
+      "tiết kiệm được nhiều tiền xăng",
+      "saved a lot on petrol"
+     ],
+     [
+      "được thăng chức",
+      "got promoted"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“不但瘦了五公斤，而且精神也比以前好多了” – hai thay đổi nối bằng 不但…而且.",
+     "“不但瘦了五公斤，而且精神也比以前好多了” – two changes joined by 不但…而且."
+    ],
+    "f": [
+     "瘦了五公斤",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao lão Vương vẫn thà lái xe?",
+     "Why would Lao Wang rather drive?"
+    ],
+    "o": [
+     [
+      "mùa hè đạp xe đến nơi người đầy mồ hôi, phải thay đồ",
+      "in summer he'd arrive sweaty and have to change"
+     ],
+     [
+      "nhà ông ở quá xa công ty",
+      "he lives too far away"
+     ],
+     [
+      "ông không biết đi xe đạp",
+      "he can't ride a bike"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“宁可开车，因为夏天骑到公司全身都是汗，还得换衣服” – 宁可 = thà; lý do đứng sau 因为.",
+     "“宁可开车，因为夏天骑到公司全身都是汗，还得换衣服” – 宁可 = would rather; the reason follows 因为."
+    ],
+    "f": [
+     "全身都是汗",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这次项目之所以能提前两个星期完成，___因为每个人都愿意花额外的时间去解决问题。",
+    "o": [
+     "是",
+     "就",
+     "才"
+    ],
+    "a": 0,
+    "e": [
+     "之所以 luôn đi với 是因为 (sở dĩ … là vì). 就/才 không kết hợp với 之所以.",
+     "之所以 always pairs with 是因为 (the reason … is that). 就/才 don't combine with 之所以."
+    ],
+    "f": [
+     "是因为",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___明天的航班因为天气原因取消了，我们也必须想办法在周一以前赶到上海开会。",
+    "a": [
+     "即使",
+     "就算",
+     "哪怕"
+    ],
+    "e": [
+     "即使…也… (dù cho … cũng) nêu một giả định; vế sau có 也. 虽然 chỉ dùng cho sự thật đã có.",
+     "即使…也… (even if) introduces a hypothesis, with 也 after. 虽然 is only for real facts."
+    ],
+    "f": [
+     "即使",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "无论你同意还是不同意，我就会按照原来的计划去国外读研究生，这是我自己的选择。",
+    "a": [
+     "无论你同意还是不同意，我都会按照原来的计划去国外读研究生，这是我自己的选择。",
+     "无论你同意还是不同意，我也会按照原来的计划去国外读研究生，这是我自己的选择。"
+    ],
+    "e": [
+     "无论 phải đi với 都 (hoặc 也), không đi với 就. Đây là lỗi rất thường gặp khi dịch “thì”.",
+     "无论 needs 都 (or 也), not 就. This is a frequent error when translating “thì”."
+    ],
+    "f": [
+     "都会",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 与其…不如…",
+     "Rewrite with 与其…不如…"
+    ],
+    "s": "周末在家里躺一整天看手机，还不如出去爬爬山、呼吸一下新鲜空气。",
+    "a": [
+     "与其周末在家里躺一整天看手机，不如出去爬爬山、呼吸一下新鲜空气。",
+     "周末与其在家里躺一整天看手机，不如出去爬爬山、呼吸一下新鲜空气。",
+     "与其周末在家里躺一整天看手机，还不如出去爬爬山、呼吸一下新鲜空气。",
+     "周末与其在家里躺一整天看手机，还不如出去爬爬山、呼吸一下新鲜空气。"
+    ],
+    "e": [
+     "与其 + phương án bị loại, 不如 + phương án được chọn. Có thể giữ 还 trước 不如 để nhấn mạnh.",
+     "与其 + rejected option, 不如 + preferred option. 还 may stay before 不如 for emphasis."
+    ],
+    "f": [
+     "与其…不如",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thà đi bộ nửa tiếng đến công ty chứ không muốn mỗi sáng chen chúc trên chiếc xe buýt đông người như vậy.",
+    "a": [
+     "我宁可走半个小时路去公司，也不想每天早上挤那么多人的公共汽车。",
+     "我宁可走半个小时去公司，也不想每天早上挤人那么多的公交车。",
+     "我宁可每天早上走半个小时到公司，也不愿意挤那么多人的公交车。",
+     "我宁可走半个小时路去公司，也不愿意每天早上去挤人那么多的公交车。",
+     "我宁可走半个小时到公司，也不想每天早上挤人那么多的公共汽车。"
+    ],
+    "e": [
+     "“thà … chứ không …” = 宁可…也不…. 也 bắt buộc ở vế sau, đứng sau chủ ngữ (nếu có).",
+     "“would rather … than …” = 宁可…也不…. 也 is required in the second clause."
+    ],
+    "f": [
+     "宁可…也不想",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "无论|遇到|多大的困难|这位|年轻的医生|都|没有|放弃过|自己的|梦想",
+    "m": [
+     "Dù gặp khó khăn lớn đến đâu, vị bác sĩ trẻ này cũng chưa từng từ bỏ ước mơ của mình.",
+     "No matter how great the difficulty, this young doctor never gave up on her dream."
+    ],
+    "e": [
+     "无论 + 多 + tính từ…, chủ ngữ + 都 + vị ngữ. 都 đứng sau chủ ngữ 这位年轻的医生.",
+     "无论 + 多 + adj…, subject + 都 + predicate. 都 follows the subject 这位年轻的医生."
+    ],
+    "f": [
+     "无论遇到多大的困难",
+     "HSK5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h5-2",
+  "t": [
+   "Thành ngữ bốn chữ (成语)",
+   "Four-character idioms (成语)"
+  ],
+  "hz": "举废俗",
+  "th": [
+   [
+    "Thành ngữ 4 chữ (成语) xuất hiện dày đặc trong văn viết, tin tức và đề HSK 5–6. Nên học kèm điển tích và một câu ví dụ.",
+    "Four-character idioms (成语) are common in writing, news and HSK 5–6. Learn each with its story and an example sentence."
+   ],
+   [
+    "• **一举两得** yì jǔ liǎng dé – một công đôi việc\n• **马马虎虎** mǎmǎhūhū – qua loa, tạm được\n• **半途而废** bàn tú ér fèi – bỏ dở giữa chừng\n• **自言自语** zì yán zì yǔ – lẩm bẩm một mình\n• **画蛇添足** huà shé tiān zú – vẽ rắn thêm chân (làm thừa, hỏng việc)\n• **守株待兔** shǒu zhū dài tù – ôm cây đợi thỏ\n• **入乡随俗** rù xiāng suí sú – nhập gia tùy tục\n• **一模一样** yì mú yí yàng – giống hệt nhau",
+    "• **一举两得** – two birds with one stone\n• **马马虎虎** – careless; so-so\n• **半途而废** – give up halfway\n• **自言自语** – talk to oneself\n• **画蛇添足** – draw legs on a snake (overdo and spoil)\n• **守株待兔** – wait by the stump for a hare (rely on luck)\n• **入乡随俗** – when in Rome, do as the Romans do\n• **一模一样** – exactly alike"
+   ]
+  ],
+  "vo": [
+   [
+    "一举两得",
+    "yì jǔ liǎng dé",
+    "một công đôi việc",
+    "two birds with one stone"
+   ],
+   [
+    "马马虎虎",
+    "mǎmǎhūhū",
+    "qua loa, tạm được",
+    "careless; so-so"
+   ],
+   [
+    "半途而废",
+    "bàn tú ér fèi",
+    "bỏ dở giữa chừng",
+    "to give up halfway"
+   ],
+   [
+    "自言自语",
+    "zì yán zì yǔ",
+    "lẩm bẩm một mình",
+    "to talk to oneself"
+   ],
+   [
+    "画蛇添足",
+    "huà shé tiān zú",
+    "vẽ rắn thêm chân",
+    "to overdo it"
+   ],
+   [
+    "守株待兔",
+    "shǒu zhū dài tù",
+    "ôm cây đợi thỏ",
+    "to wait for luck"
+   ],
+   [
+    "入乡随俗",
+    "rù xiāng suí sú",
+    "nhập gia tùy tục",
+    "when in Rome…"
+   ],
+   [
+    "一模一样",
+    "yì mú yí yàng",
+    "giống hệt",
+    "exactly alike"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Đi xe đạp đi làm vừa rèn luyện vừa tiết kiệm. Thành ngữ phù hợp:",
+     "Cycling to work keeps you fit and saves money. Matching idiom:"
+    ],
+    [
+     "一举两得",
+     "半途而废",
+     "画蛇添足"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "学习不能___，要坚持到底。",
+    [
+     "半途而废",
+     "一模一样",
+     "入乡随俗"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "这对双胞胎长得___。",
+    [
+     "一模一样",
+     "马马虎虎",
+     "守株待兔"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "到了中国就要___，尊重当地习惯。",
+    [
+     "入乡随俗",
+     "自言自语",
+     "一举两得"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "画蛇添足",
+    [
+     [
+      "làm thừa nên hỏng việc",
+      "overdoing spoils it"
+     ],
+     [
+      "một công đôi việc",
+      "two birds with one stone"
+     ],
+     [
+      "giống hệt",
+      "identical"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "他做事很___，经常出错。",
+    [
+     "马马虎虎",
+     "一模一样",
+     "入乡随俗"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "他一个人在房间里___。",
+    [
+     "自言自语",
+     "一举两得",
+     "守株待兔"
+    ],
+    0
+   ],
+   [
+    "listen",
+    "守株待兔",
+    [
+     "shǒu zhū dài tù",
+     "bàn tú ér fèi",
+     "rù xiāng suí sú"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "他学钢琴学了不到三个月就觉得太累，最后半途而废了，现在想起来非常后悔。",
+    "q": [
+     "Anh ấy hối hận vì điều gì?",
+     "What does he regret?"
+    ],
+    "o": [
+     [
+      "bỏ học piano giữa chừng",
+      "giving up piano halfway"
+     ],
+     [
+      "mua cây đàn quá đắt",
+      "buying an expensive piano"
+     ],
+     [
+      "chọn sai giáo viên",
+      "choosing the wrong teacher"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "半途而废 = bỏ dở giữa chừng; “不到三个月就…” cho thấy anh bỏ rất sớm.",
+     "半途而废 = give up halfway; “不到三个月就…” shows he quit very early."
+    ],
+    "f": [
+     "半途而废",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "到了一个新的国家，我们应该入乡随俗，尊重当地人的生活习惯和传统文化。",
+    "e": [
+     "入乡随俗 = nhập gia tùy tục; thường làm vị ngữ sau 应该.",
+     "入乡随俗 = when in Rome, do as the Romans do; often used as a predicate after 应该."
+    ],
+    "f": [
+     "入乡随俗",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "骑自行车上班既能锻炼身体，又能减少空气污染，真是一举两得的好办法。"
+   }
+  ],
+  "rd2": {
+   "tx": "古时候，宋国有一个农民。有一天，他在地里干活的时候，看见一只兔子跑得太快，一头撞在一棵树上死了。他一点力气也没花就得到了一只兔子，高兴极了。从那以后，他放下了农具，每天坐在树旁边等兔子，结果再也没有等到，地里的庄稼却全都荒了。这就是成语“守株待兔”的来历。今天，有的人找工作也是这样：投了一次简历以后，就在家里等好消息，既不提高自己的能力，也不主动联系公司。这样做，机会怎么会来呢？",
+   "tr": "Ngày xưa, nước Tống có một người nông dân. Một hôm, khi đang làm việc ngoài ruộng, ông thấy một con thỏ chạy quá nhanh, đâm đầu vào một gốc cây mà chết. Chẳng tốn chút sức nào mà có được một con thỏ, ông vui lắm. Từ đó trở đi, ông bỏ nông cụ xuống, ngày nào cũng ngồi cạnh gốc cây đợi thỏ, kết quả không bao giờ đợi được nữa, còn hoa màu ngoài ruộng thì bỏ hoang hết. Đó chính là xuất xứ của thành ngữ “ôm cây đợi thỏ”. Ngày nay, có người tìm việc cũng như vậy: nộp hồ sơ một lần rồi ngồi nhà chờ tin vui, vừa không nâng cao năng lực của mình, cũng không chủ động liên hệ công ty. Làm như vậy thì cơ hội làm sao mà đến được?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người nông dân có được con thỏ như thế nào?",
+     "How did the farmer get the hare?"
+    ],
+    "o": [
+     [
+      "con thỏ chạy quá nhanh, đâm vào gốc cây chết",
+      "it ran too fast and died hitting a tree"
+     ],
+     [
+      "ông đặt bẫy bắt thỏ",
+      "he set a trap"
+     ],
+     [
+      "hàng xóm tặng ông",
+      "a neighbour gave it to him"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“一头撞在一棵树上死了” – thỏ tự đâm vào cây. Vì không tốn sức nên ông mới nảy ra ý ngồi đợi.",
+     "“一头撞在一棵树上死了” – the hare ran into the tree by itself, which is why he chose to wait."
+    ],
+    "f": [
+     "撞在一棵树上死了",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Kết quả cuối cùng ra sao?",
+     "What was the final result?"
+    ],
+    "o": [
+     [
+      "không đợi được con thỏ nào, ruộng bỏ hoang",
+      "no more hares, and his fields went to waste"
+     ],
+     [
+      "bắt được rất nhiều thỏ",
+      "he caught many hares"
+     ],
+     [
+      "ông trở thành thợ săn giỏi",
+      "he became a skilled hunter"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“再也没有等到，地里的庄稼却全都荒了” – đó là bài học của 守株待兔.",
+     "“再也没有等到，地里的庄稼却全都荒了” – that is the lesson of 守株待兔."
+    ],
+    "f": [
+     "地里的庄稼却全都荒了",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tác giả phê phán kiểu người tìm việc nào?",
+     "What kind of job-seeker does the writer criticise?"
+    ],
+    "o": [
+     [
+      "nộp hồ sơ một lần rồi ngồi nhà chờ",
+      "those who apply once and wait at home"
+     ],
+     [
+      "nộp quá nhiều hồ sơ cùng lúc",
+      "those who send too many applications"
+     ],
+     [
+      "liên tục nhảy việc",
+      "those who keep changing jobs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“投了一次简历以后，就在家里等好消息” – thụ động như người ôm cây đợi thỏ.",
+     "“投了一次简历以后，就在家里等好消息” – passive, just like the man waiting by the stump."
+    ],
+    "f": [
+     "在家里等好消息",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这篇文章已经写得很清楚了，你再加这么一大段解释，反而有点儿___，读者会觉得啰嗦。",
+    "o": [
+     "画蛇添足",
+     "一举两得",
+     "入乡随俗"
+    ],
+    "a": 0,
+    "e": [
+     "画蛇添足 = làm thừa nên hỏng việc, hợp với 反而 (ngược lại còn tệ hơn). 一举两得 là nghĩa tích cực.",
+     "画蛇添足 = overdo it and spoil things, matching 反而 (on the contrary). 一举两得 is positive."
+    ],
+    "f": [
+     "画蛇添足",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这两份报告的内容几乎___，很明显其中一个人是照着另一个人的抄的。",
+    "a": [
+     "一模一样",
+     "一样"
+    ],
+    "e": [
+     "一模一样 = giống hệt nhau, thường đi với 几乎 / 完全. Bối cảnh “chép bài” cho thấy mức độ giống tuyệt đối.",
+     "一模一样 = exactly alike, often with 几乎 / 完全. Copying implies near-total sameness."
+    ],
+    "f": [
+     "一模一样",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他做事一向半途而废，连报告里的数字都经常写错，经理已经提醒过他好几次了。",
+    "a": [
+     "他做事一向马马虎虎，连报告里的数字都经常写错，经理已经提醒过他好几次了。",
+     "他做事一向马虎，连报告里的数字都经常写错，经理已经提醒过他好几次了。"
+    ],
+    "e": [
+     "Viết sai số liệu là do cẩu thả → 马马虎虎, không phải 半途而废 (bỏ dở giữa chừng). Chọn thành ngữ phải khớp ngữ cảnh.",
+     "Getting numbers wrong is carelessness → 马马虎虎, not 半途而废 (quitting halfway). The idiom must fit the context."
+    ],
+    "f": [
+     "马马虎虎",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Thay cụm “做事情只做到一半就不做了” bằng một thành ngữ phù hợp",
+     "Replace “做事情只做到一半就不做了” with a suitable idiom"
+    ],
+    "s": "学习一门外语最怕的就是做事情只做到一半就不做了，所以无论多难都要坚持下去。",
+    "a": [
+     "学习一门外语最怕的就是半途而废，所以无论多难都要坚持下去。"
+    ],
+    "e": [
+     "“làm được một nửa rồi bỏ” chính là 半途而废. Thành ngữ giúp câu văn gọn và trang trọng hơn.",
+     "“doing half and then stopping” is exactly 半途而废. The idiom makes the sentence tighter and more literary."
+    ],
+    "f": [
+     "半途而废",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đi làm bằng tàu điện ngầm vừa tiết kiệm thời gian vừa có thể đọc sách trên đường, đúng là một công đôi việc.",
+    "a": [
+     "坐地铁上班既能节省时间，又能在路上看书，真是一举两得。",
+     "坐地铁上班既节省时间，又可以在路上看书，真是一举两得。",
+     "坐地铁上班既能节省时间，又可以在路上看书，真是一举两得。",
+     "坐地铁上班不但能节省时间，而且能在路上看书，真是一举两得。",
+     "坐地铁上班既能节约时间，又能在路上读书，真是一举两得。"
+    ],
+    "e": [
+     "“một công đôi việc” = 一举两得; dùng 既…又… để liệt kê hai lợi ích trước khi kết luận.",
+     "“two birds with one stone” = 一举两得; list the two benefits with 既…又… first."
+    ],
+    "f": [
+     "一举两得",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我们|不能|守株待兔|地|等着|机会|来|找我们|而要|主动去争取",
+    "m": [
+     "Chúng ta không thể ôm cây đợi thỏ chờ cơ hội tự tìm đến, mà phải chủ động giành lấy.",
+     "We can't wait passively for chances to come to us; we must go after them."
+    ],
+    "e": [
+     "Thành ngữ + 地 làm trạng ngữ: 守株待兔地等着. 不能…而要… đối lập hai cách làm.",
+     "Idiom + 地 works as an adverbial: 守株待兔地等着. 不能…而要… contrasts the two approaches."
+    ],
+    "f": [
+     "守株待兔地等着",
+     "HSK5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d14",
+  "g": "work",
+  "t": [
+   "Kinh doanh, đàm phán & email",
+   "Business, negotiation & email"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: văn phong trang trọng · 如果…的话 · cách nói giảm giá**\n• Xưng hô trang trọng: **您** thay cho 你; **贵公司** = quý công ty; mở thư: **尊敬的**王先生 / 李女士; kết thư: **期待您的回复**。\n• **如果 + điều kiện + 的话，(就)…** = nếu… thì…: **如果**订购超过一千件**的话**，我们可以打九五折。\n• **打 + số + 折** = trả bằng (số/10) giá gốc: 打**九五**折 = trả 95% → **giảm 5%**; 打**八**折 = giảm 20%. Người Việt hay hiểu nhầm 九五折 là giảm 95%!\n• Ví dụ: 附件是我们的报价。/ 我们可以在两周内交货。",
+    "**Grammar: formal register · 如果…的话 · expressing discounts**\n• Formal address: **您** instead of 你; **贵公司** = your company; opening: **尊敬的**王先生 / 李女士; closing: **期待您的回复**。\n• **如果 + condition + 的话，(就)…** = if… then…: **如果**订购超过一千件**的话**，我们可以打九五折。\n• **打 + number + 折** = pay (number/10) of the price: 打**九五**折 = pay 95% → **5% off**; 打**八**折 = 20% off. Learners often misread 九五折 as 95% off!\n• Examples: 附件是我们的报价。/ 我们可以在两周内交货。"
+   ],
+   [
+    "**Phát âm: 您 / 你 và thanh nhẹ**\n• **您 nín** (thanh 2, có âm mũi -n) – trang trọng; **你 nǐ** (thanh 3) – thân mật. Trong email và điện thoại với khách hàng luôn dùng 您.\n• Thanh nhẹ ở âm tiết thứ hai: 合同 **hétong**, 先生 **xiānsheng**, 客气 kèqi. Đọc ngắn, nhẹ, không nhấn.\n• 九五折 jiǔ wǔ zhé: hai thanh 3 liền nhau → jiú wǔ zhé.",
+    "**Pronunciation: 您 / 你 and the neutral tone**\n• **您 nín** (tone 2, ends in -n) – formal; **你 nǐ** (tone 3) – informal. With clients always use 您.\n• Neutral second syllables: 合同 **hétong**, 先生 **xiānsheng**, 客气 kèqi – short and light.\n• 九五折 jiǔ wǔ zhé: two third tones → jiú wǔ zhé."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **户** (4 nét), **合** (6), **同** (6), **价** (6), **客** (9).\n• Bộ **亻** (người đứng) trong 价 (giá), 伙, 伴 (bạn, đồng hành), 件 (chiếc) – nhiều chữ về con người và giao dịch.\n• 客 có bộ 宀 (mái nhà): khách là người đến nhà; 客户 = khách hàng.\n• Đọc to: 合同 hétong · 价格 jiàgé · 客户 kèhù · 合作 hézuò.",
+    "**Characters & tones**\nWrite: **户** (4 strokes), **合** (6), **同** (6), **价** (6), **客** (9).\n• The **亻** (person) radical in 价 (price), 伙, 伴 (partner), 件 (item) – many words about people and deals.\n• 客 has 宀 (roof): a guest comes under your roof; 客户 = client.\n• Read aloud: 合同 hétong · 价格 jiàgé · 客户 kèhù · 合作 hézuò."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 đoạn đàm phán mẫu, ghi đề nghị ban đầu, điều kiện nhượng bộ và kết quả cuối.\n• Nói (30 phút): đóng vai người mua – người bán thương lượng giá, số lượng, thời hạn giao hàng (3 vòng đề nghị).\n• Đọc (30 phút): đọc 1 hợp đồng mẫu ngắn, tóm tắt 5 điều khoản chính bằng tiếng Việt.\n• Viết (50 phút): viết 3 email trang trọng khoảng 150 chữ: gửi báo giá, đề nghị giảm giá, xác nhận đơn hàng.\n• Từ vựng (20 phút): lập bảng 10 cụm mở đầu và kết thúc email trang trọng.\n• Thử thách (30 phút): quay video 60 giây giới thiệu (pitch) một sản phẩm: vấn đề, giải pháp, giá, lời kêu gọi.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a sample negotiation; note the first offer, the concessions and the final result.\n• Speaking (30 min): role-play buyer and seller negotiating price, quantity and delivery (3 rounds of offers).\n• Reading (30 min): read a short sample contract and summarise 5 key terms in Vietnamese.\n• Writing (50 min): 3 formal emails of about 150 characters: sending a quote, asking for a discount, confirming an order.\n• Vocabulary (20 min): list 10 formal email openings and closings.\n• Challenge (30 min): film a 60-second product pitch: problem, solution, price, call to action."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "尊敬的……先生 / 女士 Zūnjìng de ... xiānsheng / nǚshì",
+    "Kính gửi ông / bà ..."
+   ],
+   [
+    "附件是我们的报价。Fùjiàn shì wǒmen de bàojià.",
+    "Chúng tôi xin gửi kèm báo giá."
+   ],
+   [
+    "如果订购超过一千件，我们可以打九五折。Rúguǒ dìnggòu chāoguò yìqiān jiàn, wǒmen kěyǐ dǎ jiǔwǔ zhé.",
+    "Nếu đặt trên 1.000 sản phẩm, chúng tôi giảm 5%."
+   ],
+   [
+    "期待您的回复。Qīdài nín de huífù.",
+    "Mong sớm nhận được phản hồi của quý công ty."
+   ],
+   [
+    "我们可以在两周内交货。Wǒmen kěyǐ zài liǎng zhōu nèi jiāohuò.",
+    "Chúng tôi có thể giao hàng trong vòng 2 tuần."
+   ],
+   [
+    "这个价格含税吗？Zhège jiàgé hán shuì ma?",
+    "Giá này đã bao gồm thuế chưa?"
+   ],
+   [
+    "欢迎随时与我联系。Huānyíng suíshí yǔ wǒ liánxì.",
+    "Xin cứ liên hệ với tôi bất cứ lúc nào."
+   ]
+  ],
+  "vo": [
+   [
+    "合同",
+    "hétong",
+    "hợp đồng",
+    "contract"
+   ],
+   [
+    "谈判",
+    "tánpàn",
+    "đàm phán",
+    "to negotiate"
+   ],
+   [
+    "客户",
+    "kèhù",
+    "khách hàng",
+    "client"
+   ],
+   [
+    "合作伙伴",
+    "hézuò huǒbàn",
+    "đối tác",
+    "partner"
+   ],
+   [
+    "报价",
+    "bàojià",
+    "báo giá",
+    "quotation"
+   ],
+   [
+    "折扣",
+    "zhékòu",
+    "chiết khấu",
+    "discount"
+   ],
+   [
+    "条款",
+    "tiáokuǎn",
+    "điều khoản",
+    "terms"
+   ],
+   [
+    "交货",
+    "jiāohuò",
+    "giao hàng",
+    "delivery"
+   ],
+   [
+    "利润",
+    "lìrùn",
+    "lợi nhuận",
+    "profit"
+   ],
+   [
+    "协议",
+    "xiéyì",
+    "thỏa thuận",
+    "agreement"
+   ]
+  ],
+  "hz": "户合同价客",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "尊敬的王先生，您好！",
+    "e": [
+     "尊敬的 + họ + 先生/女士 là lời mở thư trang trọng. Dùng 您好, không dùng 你好 với khách hàng. 先生 đọc xiānsheng (nhẹ).",
+     "尊敬的 + surname + 先生/女士 is the formal opening. Use 您好, not 你好, with clients. 先生 = xiānsheng (neutral)."
+    ],
+    "f": [
+     "尊敬的",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "附件是我们的报价。",
+    "e": [
+     "附件 fùjiàn = tệp đính kèm; 报价 bàojià = báo giá. Câu 是 đơn giản: “đính kèm là báo giá của chúng tôi”.",
+     "附件 fùjiàn = attachment; 报价 bàojià = quotation. A simple 是 sentence: “attached is our quote”."
+    ],
+    "f": [
+     "附件是",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "期待您的回复。",
+    "e": [
+     "期待 qīdài = mong đợi; 回复 huífù = phản hồi, trả lời (thư). Câu kết thư chuẩn, tương đương “I look forward to hearing from you”.",
+     "期待 qīdài = look forward to; 回复 huífù = reply. The standard closing line."
+    ],
+    "f": [
+     "期待您的回复",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "如果订购超过一千件的话，我们可以打九五折；如果超过三千件，可以打九折。",
+    "q": [
+     "Đặt 2.000 chiếc thì được giảm bao nhiêu?",
+     "How much discount for 2,000 units?"
+    ],
+    "o": [
+     [
+      "5%",
+      "5%"
+     ],
+     [
+      "10%",
+      "10%"
+     ],
+     [
+      "95%",
+      "95%"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "2.000 > 1.000 nhưng < 3.000 → 打九五折 = trả 95% giá = giảm 5%. 九折 (giảm 10%) chỉ áp dụng trên 3.000 chiếc.",
+     "2,000 is over 1,000 but under 3,000 → 打九五折 = pay 95% = 5% off. 九折 (10% off) is for over 3,000."
+    ],
+    "f": [
+     "打九五折",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "怎样才算是一个好的谈判者？我觉得好的谈判者不但要了解自己的底线，而且要认真听对方的需要。",
+    "e": [
+     "Câu hỏi: 怎样才算是一个好的谈判者？– Gợi ý trả lời mẫu. 谈判者 tánpànzhě (2-4-3); 底线 dǐxiàn = giới hạn cuối; 不但…而且….",
+     "Question: 怎样才算是一个好的谈判者？– A model answer. 谈判者 tánpànzhě; 底线 dǐxiàn = bottom line; 不但…而且…."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "在大公司工作好还是自己创业好？我觉得年轻的时候先在大公司积累经验，以后再自己创业比较好。",
+    "e": [
+     "Câu hỏi: 在大公司工作好还是自己创业好？– Gợi ý trả lời mẫu. 创业 chuàngyè (ch uốn lưỡi); 积累 jīlěi; 先…以后再… = trước… rồi sau mới….",
+     "Question: 在大公司工作好还是自己创业好？– A model answer. 创业 chuàngyè (curled ch); 积累 jīlěi; 先…以后再… = first… then later…."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Giá này hơi vượt ngân sách của chúng tôi, anh xem có thể bớt thêm một chút được không?",
+    "a": [
+     "这个价格有点儿超出我们的预算了，您看能不能再便宜一点儿？",
+     "这个价格有点儿超出我们的预算，您看能不能再便宜一些？",
+     "这个价格稍微超出了我们的预算，您看能不能再便宜一点儿？"
+    ],
+    "e": [
+     "超出预算 = vượt ngân sách; 您看… = anh xem… (mềm mỏng); 能不能再便宜一点儿 – trả giá lịch sự, không thêm 吗.",
+     "超出预算 = over budget; 您看… = what do you think… (soft); 能不能再便宜一点儿 – polite haggling, no 吗."
+    ],
+    "f": [
+     "您看能不能再便宜一点儿",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho lịch sự, uyển chuyển hơn, dùng 恐怕",
+     "Rewrite more politely and tactfully using 恐怕"
+    ],
+    "s": "你们的交货时间太长了，我们不能接受。",
+    "a": [
+     "恐怕你们的交货时间有点儿长，我们很难接受。",
+     "恐怕贵公司的交货时间有点儿长，我们很难接受。",
+     "你们的交货时间恐怕有点儿长，我们很难接受。"
+    ],
+    "e": [
+     "恐怕 = e rằng (làm mềm lời từ chối); 太长 → 有点儿长; 不能接受 → 很难接受 – từ chối mà không gây mất lòng.",
+     "恐怕 = I'm afraid (softens a refusal); 太长 → 有点儿长; 不能接受 → 很难接受 – a refusal that keeps face."
+    ],
+    "f": [
+     "恐怕",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们已经把价格降到最低了，实在不能再便宜了，希望您能理解我们吗。",
+    "a": [
+     "我们已经把价格降到最低了，实在不能再便宜了，希望您能理解。",
+     "我们已经把价格降到最低了，实在不能再便宜了，希望您能理解我们。"
+    ],
+    "e": [
+     "希望… là câu trần thuật bày tỏ mong muốn, không phải câu hỏi → bỏ 吗. 实在 = thật sự (nhấn mạnh).",
+     "希望… expresses a wish, not a question → drop 吗. 实在 = really (emphatic)."
+    ],
+    "f": [
+     "希望您能理解",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这次合作要是谈不成也没关系，买卖不成仁义___嘛，以后还有机会。",
+    "a": [
+     "在"
+    ],
+    "e": [
+     "Thành ngữ 买卖不成仁义在 = mua bán không thành nhưng tình nghĩa vẫn còn – câu xã giao giữ quan hệ sau đàm phán thất bại.",
+     "The saying 买卖不成仁义在 = no deal, but goodwill remains – a polite way to keep the relationship."
+    ],
+    "f": [
+     "买卖不成仁义在",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "尊敬的王先生：您好！感谢贵公司对我们产品的关注。附件是我们的报价，价格已经含税。如果订购超过一千件的话，我们可以打九五折；如果超过三千件，可以打九折。关于交货时间，我们一般可以在两周内交货。付款方式和其他条款，请参考附件里的合同。我们非常希望能和贵公司建立长期的合作关系，相信这次合作对双方都有好处。如果您对报价有任何问题，欢迎随时与我联系。期待您的回复！明光公司 阮秋",
+   "tr": "Kính gửi ông Vương: Xin chào ông! Cảm ơn quý công ty đã quan tâm đến sản phẩm của chúng tôi. Đính kèm là báo giá của chúng tôi, giá đã bao gồm thuế. Nếu đặt hàng trên một nghìn chiếc, chúng tôi có thể giảm 5%; nếu trên ba nghìn chiếc, có thể giảm 10%. Về thời gian giao hàng, thông thường chúng tôi có thể giao trong vòng hai tuần. Phương thức thanh toán và các điều khoản khác, xin tham khảo hợp đồng trong tệp đính kèm. Chúng tôi rất mong có thể xây dựng quan hệ hợp tác lâu dài với quý công ty, tin rằng lần hợp tác này có lợi cho cả hai bên. Nếu ông có bất kỳ câu hỏi nào về báo giá, xin cứ liên hệ với tôi bất cứ lúc nào. Mong nhận được phản hồi của ông! Công ty Minh Quang – Nguyễn Thu"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Đặt 1.500 chiếc thì được giảm giá bao nhiêu?",
+     "What discount applies to 1,500 units?"
+    ],
+    "o": [
+     [
+      "5%",
+      "5%"
+     ],
+     [
+      "10%",
+      "10%"
+     ],
+     [
+      "95%",
+      "95%"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "超过一千件 → 打九五折 = giảm 5%. 九折 (giảm 10%) cần trên 3.000 chiếc. 95% là bẫy hiểu sai 折.",
+     "Over 1,000 → 打九五折 = 5% off. 九折 (10% off) needs over 3,000. 95% is the classic misreading of 折."
+    ],
+    "f": [
+     "打九五折",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Thời gian giao hàng thông thường là bao lâu?",
+     "What is the usual delivery time?"
+    ],
+    "o": [
+     [
+      "trong vòng hai tuần",
+      "within two weeks"
+     ],
+     [
+      "sau hai tháng",
+      "after two months"
+     ],
+     [
+      "trong ba ngày",
+      "within three days"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我们一般可以在两周内交货 – 两周内 = trong vòng hai tuần. 周 là tuần, không phải tháng (月).",
+     "我们一般可以在两周内交货 – 两周内 = within two weeks. 周 is week, not month (月)."
+    ],
+    "f": [
+     "两周内交货",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Phương thức thanh toán được ghi ở đâu?",
+     "Where are the payment terms?"
+    ],
+    "o": [
+     [
+      "trong hợp đồng ở tệp đính kèm",
+      "in the contract in the attachment"
+     ],
+     [
+      "trong nội dung email",
+      "in the email body"
+     ],
+     [
+      "sẽ gửi trong thư sau",
+      "in a later email"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "付款方式和其他条款，请参考附件里的合同 – xem hợp đồng trong tệp đính kèm.",
+     "付款方式和其他条款，请参考附件里的合同 – see the contract in the attachment."
+    ],
+    "f": [
+     "请参考附件里的合同",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___您的回复，如果您有任何问题，欢迎随时与我们联系。(mong đợi)",
+    "a": [
+     "期待"
+    ],
+    "e": [
+     "期待 qīdài = mong đợi – câu kết thư trang trọng. 希望 cũng là “hy vọng” nhưng không đi trực tiếp với 您的回复 trong mẫu này.",
+     "期待 qīdài = look forward to – the formal closing. 希望 doesn't take 您的回复 directly in this set phrase."
+    ],
+    "f": [
+     "期待",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "如果订购超过一千件___，我们可以打九五折，而且免费送货。",
+    "a": [
+     "的话"
+    ],
+    "e": [
+     "如果…的话 = nếu…; 的话 đứng cuối vế điều kiện. Có thể dùng một mình 如果 nhưng bài tập yêu cầu 的话.",
+     "如果…的话 = if…; 的话 closes the condition clause."
+    ],
+    "f": [
+     "的话",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "附件___我们最新的报价，价格已经包括运费和税。",
+    "a": [
+     "是"
+    ],
+    "e": [
+     "附件是… = đính kèm là…. Câu 是 đơn giản; không cần 有 vì đang xác định tệp đính kèm là gì.",
+     "附件是… = attached is…. A simple 是 sentence identifying the attachment."
+    ],
+    "f": [
+     "附件是",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi có thể giao hàng trong vòng 2 tuần.",
+    "a": [
+     "我们可以在两周内交货。",
+     "我们两周内可以交货。",
+     "我们可以在两个星期内交货。",
+     "我们可以在两周之内交货。"
+    ],
+    "e": [
+     "在 + thời gian + 内 = trong vòng…; 两周 (không nói 二周). 交货 = giao hàng (cho đơn hàng doanh nghiệp).",
+     "在 + time + 内 = within…; 两周 (not 二周). 交货 = deliver goods."
+    ],
+    "f": [
+     "在两周内交货",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Giá này đã bao gồm thuế chưa?",
+    "a": [
+     "这个价格含税吗？",
+     "这个价格包括税吗？",
+     "这个价格含不含税？",
+     "这个价格已经含税了吗？"
+    ],
+    "e": [
+     "含税 hán shuì = đã gồm thuế; cũng có thể nói 包括税. Câu hỏi: thêm 吗 hoặc dùng 含不含.",
+     "含税 hán shuì = tax included; 包括税 also works. Question: add 吗 or use 含不含."
+    ],
+    "f": [
+     "含税",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Nếu quý công ty đặt hàng trên năm nghìn chiếc, chúng tôi sẵn sàng giảm 10% và miễn phí vận chuyển.",
+    "a": [
+     "如果贵公司订购超过五千件的话，我们愿意打九折，而且免费送货。",
+     "如果贵公司订购五千件以上，我们愿意打九折，并且免费送货。",
+     "如果贵公司订购超过五千件，我们可以打九折，还可以免费送货。"
+    ],
+    "e": [
+     "Giảm 10% = 打九折 (trả 90%), không phải 打一折 (trả 10%!). 贵公司 = quý công ty; 免费送货 = miễn phí giao hàng.",
+     "10% off = 打九折 (pay 90%), not 打一折 (pay 10%!). 贵公司 = your company; 免费送货 = free delivery."
+    ],
+    "f": [
+     "打九折",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "如果订购超过一千件，我们可以打九五折，也就是说便宜百分之九十五。",
+    "a": [
+     "如果订购超过一千件，我们可以打九五折，也就是说便宜百分之五。"
+    ],
+    "e": [
+     "九五折 = trả 95% giá → rẻ hơn **5%**, không phải 95%. Đây là lỗi hiểu nhầm phổ biến nhất về 折.",
+     "九五折 = pay 95% → **5%** cheaper, not 95%. The most common misreading of 折."
+    ],
+    "f": [
+     "便宜百分之五",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "尊敬的王先生：你好！感谢贵公司对我们产品的关注，附件是我们最新的报价。",
+    "a": [
+     "尊敬的王先生：您好！感谢贵公司对我们产品的关注，附件是我们最新的报价。"
+    ],
+    "e": [
+     "Thư trang trọng mở bằng 尊敬的… thì phải dùng 您好, không dùng 你好 (thân mật). Không đồng nhất văn phong là lỗi.",
+     "A formal email opened with 尊敬的… needs 您好, not the informal 你好."
+    ],
+    "f": [
+     "您好",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "经过三轮___，双方终于在价格和交货时间上达成了一致，签了合同。",
+    "o": [
+     "谈判",
+     "折扣",
+     "条款"
+    ],
+    "a": 0,
+    "e": [
+     "经过…轮谈判 = qua … vòng đàm phán. 折扣 (chiết khấu) và 条款 (điều khoản) là danh từ, không đi với “vòng”.",
+     "经过…轮谈判 = after … rounds of negotiation. 折扣 and 条款 don't come in “rounds”."
+    ],
+    "f": [
+     "谈判",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "如果|订购|超过|一千件|的话，|我们|可以|打九五折",
+    "m": [
+     "Nếu đặt hàng trên một nghìn chiếc, chúng tôi có thể giảm 5%.",
+     "If you order more than 1,000 units, we can give 5% off."
+    ],
+    "e": [
+     "Vế điều kiện 如果…的话 đứng trước; vế kết quả (我们可以…) đứng sau. 超过 + số lượng.",
+     "The 如果…的话 clause comes first, the result (我们可以…) after. 超过 + quantity."
+    ],
+    "f": [
+     "如果订购超过一千件的话",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối hai câu bằng 如果……的话",
+     "Join the sentences with 如果……的话"
+    ],
+    "s": "贵公司提前付款。我们可以把交货时间缩短到十天。",
+    "a": [
+     "如果贵公司提前付款的话，我们可以把交货时间缩短到十天。",
+     "如果贵公司提前付款的话，我们就可以把交货时间缩短到十天。"
+    ],
+    "e": [
+     "如果 + điều kiện + 的话，(就) + kết quả. 提前付款 = trả tiền trước hạn; 缩短到 = rút ngắn xuống.",
+     "如果 + condition + 的话，(就) + result. 提前付款 = pay in advance; 缩短到 = shorten to."
+    ],
+    "f": [
+     "如果贵公司提前付款的话",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 180 chữ trả lời khách hàng phàn nàn giao hàng trễ: xin lỗi, giải thích, đề nghị bồi thường, giữ quan hệ.",
+     "Write an email of about 180 characters replying to a client complaining about late delivery: apologise, explain, offer compensation, keep the relationship."
+    ],
+    "m": "尊敬的李女士：您好！关于上周的订单晚交货的问题，我们非常抱歉。由于港口天气原因，货物比合同规定的时间晚到了五天，给贵公司带来了很大的不便。为了表示歉意，我们决定对这批货打九折，另外下一次订单免费送货。我们已经改进了运输安排，以后会提前一周发货，保证按时交货。我们非常重视和贵公司的合作，希望能继续得到您的支持。如果您有任何要求，欢迎随时与我联系。期待您的回复！此致敬礼 阮秋",
+    "e": [
+     "Cần có: • 尊敬的… / 您好 • lời xin lỗi (非常抱歉) + lý do (由于…) • bồi thường cụ thể (打九折, 免费送货) • cam kết + giữ quan hệ (重视合作) • 期待您的回复.",
+     "Must include: • 尊敬的… / 您好 • apology (非常抱歉) + reason (由于…) • concrete compensation (打九折, 免费送货) • commitment + relationship (重视合作) • 期待您的回复."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d28",
+  "g": "study",
+  "t": [
+   "Khoa học & phát minh",
+   "Science & inventions"
+  ],
+  "th": [
+   [
+    "**Văn phong: 书面语 vs 口语 khi nói về khoa học**\nCùng một ý, trong bài thuyết trình / tranh luận nên chọn từ “văn viết”:\n• 让 → **使**: 这项技术**使**生活更加便利。\n• 常常 → **往往** (thường là, theo quy luật): 人们**往往**忽视古代发明。\n• 能 → **得以 / 能够**: 知识**得以**传播。\n• 所以 → **因此**; 好多 → **许多 / 大量**; 很 → **十分 / 极其**.\n• **随着** + quá trình, + kết quả: **随着**科技的发展，人们的生活发生了巨大的变化。⚠ Lỗi kinh điển: ~~随着科技的发展，使人们的生活…~~ (mất chủ ngữ).",
+    "**Register: 书面语 vs 口语 in science talk**\nFor presentations and debates choose the written-style word:\n• 让 → **使**: 这项技术**使**生活更加便利。\n• 常常 → **往往** (tend to): 人们**往往**忽视古代发明。\n• 能 → **得以 / 能够**: 知识**得以**传播。\n• 所以 → **因此**; 好多 → **许多 / 大量**; 很 → **十分 / 极其**.\n• **随着** + process, + result: **随着**科技的发展，人们的生活发生了巨大的变化。⚠ Classic error: ~~随着科技的发展，使人们的生活…~~ (no subject)."
+   ],
+   [
+    "**Từ gần nghĩa (近义词)**\n• **发明** = tạo ra cái chưa từng có (máy móc, kỹ thuật): 发明造纸术. **发现** = tìm ra cái vốn đã tồn tại (quy luật, chất, hiện tượng): 发现青霉素.\n• **改进** = cải tiến kỹ thuật, phương pháp, sản phẩm; **改善** = cải thiện điều kiện, quan hệ, đời sống: 改进技术 / 改善生活.\n• **推动** (thúc đẩy mạnh, đẩy về phía trước) ≈ **促进** (xúc tiến, giúp nhanh hơn): 推动社会进步 / 促进交流.\n• **普及** = phổ cập (cho nhiều người dùng) ≠ **推广** = quảng bá, mở rộng áp dụng.",
+    "**Near-synonyms (近义词)**\n• **发明** = create something new (machines, techniques): 发明造纸术. **发现** = find what already exists (laws, substances): 发现青霉素.\n• **改进** = improve techniques, methods, products; **改善** = improve conditions, relationships, living standards.\n• **推动** (push forward) ≈ **促进** (promote, speed up): 推动社会进步 / 促进交流.\n• **普及** = make widespread ≠ **推广** = promote, roll out."
+   ],
+   [
+    "**Thành ngữ & cách lập luận thuyết phục**\n• 成语 hay dùng: **日新月异** (thay đổi từng ngày), **前所未有** (chưa từng có), **举世闻名** (nổi tiếng khắp thế giới), **纸上谈兵** (bàn suông trên giấy).\n• Khung lập luận: Quan điểm (我认为…) → Thừa nhận phía kia (**不可否认**，…) → Phản bác (**但是/然而**…) → Ví dụ (**以…为例**) → Kết luận (**由此可见**…).\n• Phản bác lịch sự trong tranh luận: **恰恰相反** (ngược lại hoàn toàn), **正是…才…** (chính là… mới…), **利大于弊** (lợi nhiều hơn hại).\n• Không đồng ý mà không làm mất lòng: 你说的有道理，**不过**… / 我的看法**稍微有点儿**不同.",
+    "**Idioms & persuasive argument**\n• Useful 成语: **日新月异** (changing by the day), **前所未有** (unprecedented), **举世闻名** (world-famous), **纸上谈兵** (armchair theorising).\n• Argument frame: claim (我认为…) → concession (**不可否认**，…) → rebuttal (**但是/然而**…) → example (**以…为例**) → conclusion (**由此可见**…).\n• Polite rebuttal: **恰恰相反**, **正是…才…**, **利大于弊**.\n• Disagree without offending: 你说的有道理，**不过**… / 我的看法**稍微有点儿**不同."
+   ],
+   [
+    "**Phát âm: nhịp 2+2 của thành ngữ & ngắt câu văn viết**\n• Thành ngữ bốn chữ đọc theo nhịp 2 + 2, hơi dừng ở giữa: 日新 / 月异 rìxīn / yuèyì; 前所 / 未有 qiánsuǒ / wèiyǒu.\n• Câu văn viết dài: ngắt hơi sau trạng ngữ đầu câu (随着科技的发展 / …), nhấn vào từ khóa của luận điểm (**正是**造纸术…).\n• Chú ý: 突破 tūpò (1-4), 普及 pǔjí (3-2), 研究 yánjiū (2-1, không đọc yánjiù).",
+    "**Pronunciation: 2+2 rhythm of idioms & phrasing written sentences**\n• Four-character idioms are read 2 + 2 with a slight pause: 日新 / 月异; 前所 / 未有.\n• Long written sentences: pause after the opening adverbial (随着科技的发展 / …), stress the key word (**正是**造纸术…).\n• Watch: 突破 tūpò (1-4), 普及 pǔjí (3-2), 研究 yánjiū (2-1, not yánjiù)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **究** (7 nét), **学** (8), **科** (9), **研** (9), **验** (10).\n• 科 = 禾 (lúa) + 斗 (cái đấu): đong lúa phân loại → môn, khoa.\n• 研 = 石 + 开: mài đá → nghiên cứu kỹ.\n• 究 = 穴 (hang) + 九: đào đến tận cùng → tra cứu.\n• 验 = 马 + 佥: kiểm tra (ngựa) → thí nghiệm.\n• Đọc to: 科学 kēxué (1-2) · 研究 yánjiū (2-1) · 实验 shíyàn (2-4) · 发明 fāmíng (1-2).",
+    "**Characters & tones**\nWrite: **究** (7 strokes), **学** (8), **科** (9), **研** (9), **验** (10).\n• 科 = 禾 (grain) + 斗 (measure): sort grain → branch of study.\n• 研 = 石 + 开: grind stone → study closely.\n• 究 = 穴 (cave) + 九: dig to the end → investigate.\n• 验 = 马 + 佥: inspect (horses) → test.\n• Read aloud: 科学 kēxué (1-2) · 研究 yánjiū (2-1) · 实验 shíyàn (2-4) · 发明 fāmíng (1-2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem một video phổ biến khoa học tiếng Trung (科普), ghi lại 5 cụm 书面语.\n• Nói (30 phút): tự tranh luận 3 phút “Phát minh nào quan trọng nhất?” theo khung 不可否认…但是…由此可见.\n• Đọc (25 phút): đọc một bài báo khoa học phổ thông, đánh dấu 随着, 使, 往往, 得以.\n• Viết (40 phút): viết đoạn mở đầu bài tranh luận khoảng 200 chữ.\n• Từ vựng (15 phút): 10 từ của bài + 4 thành ngữ; viết mỗi thành ngữ một câu đời thường.",
+    "**Practice outside the app**\n• Listening (30 min): watch a Chinese popular-science (科普) video; note 5 written-style phrases.\n• Speaking (30 min): debate yourself for 3 minutes on “the most important invention” using 不可否认…但是…由此可见.\n• Reading (25 min): read a popular-science article; mark 随着, 使, 往往, 得以.\n• Writing (40 min): write a 200-character debate opening.\n• Vocabulary (15 min): the 10 words + 4 idioms; write an everyday sentence for each idiom."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "青霉素是发现的，不是发明的。Qīngméisù shì fāxiàn de, bú shì fāmíng de.",
+    "Penicillin được phát hiện, không phải được phát minh."
+   ],
+   [
+    "随着科技日新月异，……Suízhe kējì rìxīn-yuèyì, …",
+    "Cùng với việc khoa học công nghệ thay đổi từng ngày, …"
+   ],
+   [
+    "不可否认，……但是……Bùkě fǒurèn, … dànshì …",
+    "Không thể phủ nhận…, nhưng…"
+   ],
+   [
+    "恰恰相反。Qiàqià xiāngfǎn.",
+    "Hoàn toàn ngược lại."
+   ],
+   [
+    "我认为利大于弊。Wǒ rènwéi lì dà yú bì.",
+    "Tôi cho rằng lợi nhiều hơn hại."
+   ],
+   [
+    "你说的有道理，不过……Nǐ shuō de yǒu dàolǐ, búguò …",
+    "Bạn nói có lý, nhưng…"
+   ]
+  ],
+  "vo": [
+   [
+    "发明",
+    "fāmíng",
+    "phát minh",
+    "to invent; invention"
+   ],
+   [
+    "发现",
+    "fāxiàn",
+    "phát hiện",
+    "to discover"
+   ],
+   [
+    "实验",
+    "shíyàn",
+    "thí nghiệm",
+    "experiment"
+   ],
+   [
+    "研究",
+    "yánjiū",
+    "nghiên cứu",
+    "research"
+   ],
+   [
+    "突破",
+    "tūpò",
+    "đột phá",
+    "breakthrough"
+   ],
+   [
+    "原理",
+    "yuánlǐ",
+    "nguyên lý",
+    "principle"
+   ],
+   [
+    "推动",
+    "tuīdòng",
+    "thúc đẩy",
+    "to drive, promote"
+   ],
+   [
+    "普及",
+    "pǔjí",
+    "phổ cập",
+    "to popularise; widespread"
+   ],
+   [
+    "人工智能",
+    "réngōng zhìnéng",
+    "trí tuệ nhân tạo",
+    "artificial intelligence"
+   ],
+   [
+    "日新月异",
+    "rìxīn-yuèyì",
+    "thay đổi từng ngày",
+    "changing with each passing day"
+   ]
+  ],
+  "hz": "科学研究验",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "随着科技的发展，人们的生活越来越方便。",
+    "e": [
+     "随着 + quá trình đứng đầu câu; vế sau phải có chủ ngữ riêng (人们的生活). 科技 kējì = khoa học kỹ thuật.",
+     "随着 + process opens the sentence; the main clause needs its own subject (人们的生活). 科技 = science and technology."
+    ],
+    "f": [
+     "随着科技的发展",
+     "HSK4"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "青霉素是偶然发现的，不是发明的。",
+    "e": [
+     "是…的 nhấn mạnh cách thức; 偶然 = tình cờ. 发现 (tìm ra cái có sẵn) ≠ 发明 (tạo ra cái mới).",
+     "是…的 stresses the manner; 偶然 = by chance. 发现 (find what exists) ≠ 发明 (create)."
+    ],
+    "f": [
+     "偶然发现的",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我同意人工智能有一定的风险，不过与其害怕它，不如学会利用它，毕竟谁也挡不住技术的发展。",
+    "q": [
+     "Thái độ của người nói với trí tuệ nhân tạo là gì?",
+     "What is the speaker's attitude to AI?"
+    ],
+    "o": [
+     [
+      "Thừa nhận có rủi ro nhưng nên học cách tận dụng",
+      "Admits risks but says we should learn to use it"
+     ],
+     [
+      "Nên cấm vì quá nguy hiểm",
+      "It should be banned as too dangerous"
+     ],
+     [
+      "Hoàn toàn không có rủi ro",
+      "It has no risks at all"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我同意…有一定的风险 (thừa nhận) + 与其害怕它，不如学会利用它 (đề xuất). 毕竟 = suy cho cùng.",
+     "我同意…有一定的风险 (concession) + 与其害怕它，不如学会利用它 (proposal). 毕竟 = after all."
+    ],
+    "f": [
+     "与其害怕它，不如学会利用它",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你认为哪项发明对人类影响最大？我认为是互联网。不可否认，它带来了一些问题，但是它使知识得以前所未有地普及。",
+    "e": [
+     "Câu hỏi: 你认为哪项发明对人类影响最大？– Gợi ý trả lời mẫu. Khung: quan điểm → 不可否认 → 但是. 前所未有 đọc nhịp 2+2: qiánsuǒ / wèiyǒu.",
+     "Question: 你认为哪项发明对人类影响最大？– A model answer. Frame: claim → 不可否认 → 但是. Read 前所未有 as 2+2."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "科技日新月异，很多前所未有的发明正在悄悄地改变着我们的生活方式。",
+    "e": [
+     "Luyện nhịp thành ngữ: 日新 / 月异, 前所 / 未有. 悄悄地 qiāoqiāo de = lặng lẽ; 改变着 – 着 chỉ quá trình đang diễn ra.",
+     "Practise idiom rhythm: 日新 / 月异, 前所 / 未有. 悄悄地 = quietly; 改变着 – ongoing process."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nói thì dễ, làm mới khó; ý tưởng hay đến mấy mà chưa qua thí nghiệm kiểm chứng thì cũng chỉ là bàn suông thôi.",
+    "a": [
+     "说起来容易做起来难，再好的想法不经过实验验证，也只是纸上谈兵。",
+     "说起来容易做起来难，想法再好，没有经过实验验证，也只是纸上谈兵而已。",
+     "说着容易做着难，再好的想法不经过实验验证，也不过是纸上谈兵。"
+    ],
+    "e": [
+     "说起来容易做起来难 = nói thì dễ làm mới khó (quán ngữ). 再好的… 也… = …hay mấy cũng…. 纸上谈兵 = bàn binh trên giấy → lý thuyết suông.",
+     "说起来容易做起来难 = easier said than done. 再好的…也… = however good…. 纸上谈兵 = armchair theorising."
+    ],
+    "f": [
+     "纸上谈兵",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nói lại cho uyển chuyển (委婉), dùng 恐怕…还需要…",
+     "Say it more tactfully with 恐怕…还需要…"
+    ],
+    "s": "你这个实验方案不行，得重新做。",
+    "a": [
+     "你这个实验方案恐怕还需要再完善一下。",
+     "你这个实验方案恐怕还需要再改进一下。",
+     "恐怕你这个实验方案还需要再完善一下。",
+     "你这个实验方案恐怕还需要再调整一下。"
+    ],
+    "e": [
+     "恐怕 = e rằng (làm nhẹ lời phê bình); 还需要再完善一下 = còn cần hoàn thiện thêm chút – người nghe hiểu ý “chưa đạt” mà không bị mất mặt.",
+     "恐怕 = I'm afraid (softens criticism); 还需要再完善一下 = still needs some polishing – the listener gets “not good enough” without losing face."
+    ],
+    "f": [
+     "恐怕还需要再完善一下",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这家公司今年又改善了充电技术，现在的手机只要十分钟就能充满一半的电。",
+    "a": [
+     "这家公司今年又改进了充电技术，现在的手机只要十分钟就能充满一半的电。"
+    ],
+    "e": [
+     "Kỹ thuật, phương pháp, sản phẩm → 改进; điều kiện, đời sống, quan hệ → 改善 (改善生活, 改善关系).",
+     "Techniques, methods, products → 改进; conditions, living standards, relationships → 改善."
+    ],
+    "f": [
+     "改进了充电技术",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你说的这个“新发明”，其实网上早就有了，说白了就是换汤不换___，只是外观好看一点儿。",
+    "a": [
+     "药"
+    ],
+    "e": [
+     "换汤不换药 = thay nước thuốc mà không thay thuốc → đổi vỏ không đổi ruột. 说白了 = nói trắng ra (khẩu ngữ).",
+     "换汤不换药 = new broth, same medicine → old wine in new bottles. 说白了 = to put it bluntly."
+    ],
+    "f": [
+     "换汤不换药",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "小王：下周辩论的题目是“哪项发明对人类影响最大”，你选什么？小李：我选造纸术。没有纸，知识就很难普及。小王：两千年前的东西，评委会不会觉得太老了？小李：恰恰相反。我打算这样开头：“随着科技日新月异，人们往往忽视古代发明的价值。正是造纸术使知识得以传播，才推动了后来一系列的突破。”小王：挺有说服力的！不过“发现”和“发明”可别用混了：青霉素是弗莱明在实验中偶然发现的，不是发明的。小李：放心，这个我分得清。你呢？小王：人工智能。虽然有人担心它会抢走工作，但我认为利大于弊。",
+   "tr": "Tiểu Vương: Đề tranh luận tuần sau là “Phát minh nào ảnh hưởng lớn nhất đến nhân loại”, cậu chọn gì? Tiểu Lý: Mình chọn kỹ thuật làm giấy. Không có giấy thì tri thức rất khó phổ cập. Tiểu Vương: Thứ từ hai nghìn năm trước, giám khảo có thấy cũ quá không? Tiểu Lý: Hoàn toàn ngược lại. Mình định mở đầu thế này: “Khi khoa học công nghệ thay đổi từng ngày, người ta thường xem nhẹ giá trị của các phát minh cổ. Chính kỹ thuật làm giấy đã giúp tri thức được truyền bá, mới thúc đẩy hàng loạt đột phá về sau.” Tiểu Vương: Nghe thuyết phục đấy! Nhưng đừng dùng lẫn “phát hiện” và “phát minh” nhé: penicillin là do Fleming tình cờ phát hiện trong thí nghiệm, không phải phát minh. Tiểu Lý: Yên tâm, cái này mình phân biệt được. Còn cậu? Tiểu Vương: Trí tuệ nhân tạo. Tuy có người lo nó sẽ cướp mất việc làm, nhưng mình cho rằng lợi nhiều hơn hại."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tiểu Lý chọn kỹ thuật làm giấy?",
+     "Why does Xiao Li choose papermaking?"
+    ],
+    "o": [
+     [
+      "Không có giấy thì tri thức khó phổ cập.",
+      "Without paper knowledge would hardly spread."
+     ],
+     [
+      "Vì đó là phát minh mới nhất.",
+      "Because it is the newest invention."
+     ],
+     [
+      "Vì giám khảo thích đồ cổ.",
+      "Because the judges like old things."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "没有纸，知识就很难普及. Tiểu Vương còn lo giám khảo thấy nó “quá cũ” – ngược với lựa chọn 2 và 3.",
+     "没有纸，知识就很难普及. Xiao Wang even worries the judges find it “too old”."
+    ],
+    "f": [
+     "知识就很难普及",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Vương nhắc Tiểu Lý điều gì?",
+     "What does Xiao Wang warn Xiao Li about?"
+    ],
+    "o": [
+     [
+      "Đừng dùng lẫn 发现 và 发明.",
+      "Not to confuse 发现 and 发明."
+     ],
+     [
+      "Đừng nói về penicillin.",
+      "Not to mention penicillin."
+     ],
+     [
+      "Đừng mở đầu bằng thành ngữ.",
+      "Not to open with an idiom."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“发现”和“发明”可别用混了：青霉素是…发现的，不是发明的. 用混 = dùng lẫn lộn.",
+     "“发现”和“发明”可别用混了. 用混 = mix up."
+    ],
+    "f": [
+     "可别用混了",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Vương nghĩ gì về trí tuệ nhân tạo?",
+     "What does Xiao Wang think about AI?"
+    ],
+    "o": [
+     [
+      "Lợi nhiều hơn hại",
+      "The benefits outweigh the harm"
+     ],
+     [
+      "Chắc chắn sẽ cướp việc làm",
+      "It will surely take away jobs"
+     ],
+     [
+      "Không quan trọng bằng giấy",
+      "Less important than paper"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "虽然有人担心它会抢走工作，但我认为利大于弊. Việc “cướp việc làm” là nỗi lo của người khác (有人担心), không phải quan điểm của Tiểu Vương.",
+     "虽然有人担心…，但我认为利大于弊. Job loss is others' worry (有人担心), not Xiao Wang's view."
+    ],
+    "f": [
+     "利大于弊",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "一九二八年，弗莱明在实验中偶然___了青霉素，这一成果后来挽救了无数人的生命。",
+    "o": [
+     "发现",
+     "发明",
+     "创造"
+    ],
+    "a": 0,
+    "e": [
+     "Penicillin vốn có trong tự nhiên (do nấm mốc tạo ra) → 发现. 发明/创造 dùng cho thứ con người làm ra lần đầu.",
+     "Penicillin exists in nature (made by mould) → 发现. 发明/创造 are for things humans create."
+    ],
+    "f": [
+     "偶然发现了青霉素",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "在正式的研究报告里，“这项技术让生活方便多了”最好写成“这项技术___人们的生活更加便利”。",
+    "o": [
+     "使",
+     "叫",
+     "给"
+    ],
+    "a": 0,
+    "e": [
+     "使 là bản văn viết của 让 (khiến cho). 叫 rất khẩu ngữ; 给 không mang nghĩa “khiến”. 更加 cũng là từ văn viết thay 更.",
+     "使 is the written counterpart of 让. 叫 is very colloquial; 给 doesn't mean “cause”. 更加 is also written style."
+    ],
+    "f": [
+     "使人们的生活更加便利",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "近二十年来，通信技术日新月___，十年前最流行的手机现在看起来就像古董一样。",
+    "a": [
+     "异"
+    ],
+    "e": [
+     "日新月异 = mỗi ngày mỗi khác – dùng cho khoa học, công nghệ, thành phố phát triển nhanh. 异 yì = khác.",
+     "日新月异 = new every day, different every month – for fast-changing tech or cities. 异 = different."
+    ],
+    "f": [
+     "日新月异",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___人工智能的普及，越来越多重复性的工作将由机器来完成，很多人开始担心自己的饭碗。",
+    "a": [
+     "随着"
+    ],
+    "e": [
+     "随着 + danh từ quá trình (的普及/的发展) = cùng với…. Vế sau có chủ ngữ riêng (越来越多…的工作). 饭碗 = bát cơm → việc làm (khẩu ngữ).",
+     "随着 + process noun = along with…. The main clause has its own subject. 饭碗 = rice bowl → job (colloquial)."
+    ],
+    "f": [
+     "随着人工智能的普及",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "A：古代的发明早就过时了吧？B：恰恰___，很多现代技术正是在古代发明的基础上发展起来的。",
+    "a": [
+     "相反"
+    ],
+    "e": [
+     "恰恰相反 = hoàn toàn ngược lại – phản bác mạnh nhưng vẫn lịch sự, rất hay dùng trong tranh luận. 正是…的基础上 = chính trên nền tảng….",
+     "恰恰相反 = quite the opposite – a strong yet polite rebuttal. 正是…的基础上 = precisely on the basis of…."
+    ],
+    "f": [
+     "恰恰相反",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "随着科技的不断发展，使人们的生活方式发生了前所未有的巨大变化。",
+    "a": [
+     "随着科技的不断发展，人们的生活方式发生了前所未有的巨大变化。",
+     "科技的不断发展使人们的生活方式发生了前所未有的巨大变化。"
+    ],
+    "e": [
+     "Lỗi 病句 kinh điển: 随着… + 使… làm câu mất chủ ngữ. Bỏ 使, hoặc bỏ 随着 để 科技的发展 làm chủ ngữ của 使.",
+     "Classic faulty sentence: 随着… + 使… leaves no subject. Drop 使, or drop 随着 so 科技的发展 becomes the subject."
+    ],
+    "f": [
+     "人们的生活方式发生了",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这位工程师花了整整十年时间，终于发现了一种能利用海水发电的新机器。",
+    "a": [
+     "这位工程师花了整整十年时间，终于发明了一种能利用海水发电的新机器。"
+    ],
+    "e": [
+     "Máy móc là do con người tạo ra → 发明, không phải 发现. Mẹo: hỏi “trước đó nó đã tồn tại chưa?” – chưa → 发明.",
+     "A machine is man-made → 发明, not 发现. Tip: did it exist before? No → 发明."
+    ],
+    "f": [
+     "发明了一种",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Không thể phủ nhận trí tuệ nhân tạo có một số rủi ro, nhưng tôi cho rằng nhìn chung lợi nhiều hơn hại.",
+    "a": [
+     "不可否认，人工智能存在一些风险，但是我认为总体上利大于弊。",
+     "不可否认，人工智能有一定的风险，但我认为总的来说利大于弊。",
+     "不可否认人工智能存在一些风险，但我认为总体来看利大于弊。"
+    ],
+    "e": [
+     "Khung thuyết phục: 不可否认 (thừa nhận) + 但是 (phản bác) + 利大于弊. 存在风险 trang trọng hơn 有风险; 总体上 = nhìn chung.",
+     "Persuasion frame: 不可否认 (concede) + 但是 (rebut) + 利大于弊. 存在风险 is more formal than 有风险."
+    ],
+    "f": [
+     "不可否认",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn nói rất có lý, nhưng về điểm này tôi có cách nhìn hơi khác một chút.",
+    "a": [
+     "你说得很有道理，不过在这一点上我的看法稍微有点儿不同。",
+     "你说的很有道理，但是在这一点上我的看法有点儿不一样。",
+     "您说得很有道理，不过在这一点上我的看法稍微有些不同。"
+    ],
+    "e": [
+     "Ngữ dụng: khen trước (很有道理) rồi mới phản đối nhẹ (不过…稍微有点儿不同) – cách không đồng ý mà vẫn giữ thể diện cho người kia.",
+     "Pragmatics: praise first (很有道理), then disagree softly (不过…稍微有点儿不同) – disagreeing while saving face."
+    ],
+    "f": [
+     "稍微有点儿不同",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển câu khẩu ngữ sang văn viết: thay 这个→这项, 让→使, 好多→许多, 所以→因此",
+     "Make it written style: 这个→这项, 让→使, 好多→许多, 所以→因此"
+    ],
+    "s": "这个发明让好多人能用上便宜的电，所以特别重要。",
+    "a": [
+     "这项发明使许多人能用上便宜的电，因此特别重要。",
+     "这项发明使许多人能够用上便宜的电，因此特别重要。",
+     "这项发明使许多人能用上便宜的电，因此十分重要。"
+    ],
+    "e": [
+     "项 là lượng từ trang trọng cho phát minh/công trình; 使, 许多, 因此 đều là bản văn viết. Văn nói vẫn dùng 让, 好多, 所以 – không sai, chỉ khác văn phong.",
+     "项 is the formal measure word for inventions/projects; 使, 许多, 因此 are written forms. Spoken 让, 好多, 所以 aren't wrong – just a different register."
+    ],
+    "f": [
+     "这项发明使许多人",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "正是|无数次|失败的|实验|，才|使|这项|技术|取得了|突破",
+    "m": [
+     "Chính vô số lần thí nghiệm thất bại mới giúp công nghệ này đạt được đột phá.",
+     "It was precisely countless failed experiments that let this technology achieve a breakthrough."
+    ],
+    "e": [
+     "正是 A，才 B = chính A mới B – nhấn mạnh nguyên nhân, rất mạnh trong lập luận. 取得突破 = đạt được đột phá (kết hợp cố định).",
+     "正是 A，才 B = it is precisely A that… – stresses the cause. 取得突破 = achieve a breakthrough (collocation)."
+    ],
+    "f": [
+     "正是…才使…取得了突破",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết đoạn mở đầu bài tranh luận khoảng 200 chữ: “Phát minh nào quan trọng nhất?”. Dùng 随着, 不可否认…但是…, 正是…才…, và ít nhất một thành ngữ.",
+     "Write a 200-character debate opening: “Which invention matters most?”. Use 随着, 不可否认…但是…, 正是…才…, and at least one idiom."
+    ],
+    "m": "各位评委、各位同学：随着科技日新月异，智能手机、人工智能等新发明不断出现，人们往往认为越新的发明越重要。不可否认，这些技术给生活带来了前所未有的便利，但是我认为，对人类影响最大的发明是印刷术。正是印刷术使书籍得以大量复制，知识才不再只属于少数人。以欧洲为例，印刷术普及以后，读书的人迅速增加，推动了科学和教育的发展。由此可见，没有印刷术，就没有今天的知识社会。",
+    "e": [
+     "Cần có: • lời chào mở đầu trang trọng • 随着… + 不可否认…但是… • 正是…才… • 1 thành ngữ + 1 ví dụ (以…为例) + kết luận (由此可见).",
+     "Must include: • a formal greeting • 随着… + 不可否认…但是… • 正是…才… • an idiom + an example (以…为例) + a conclusion (由此可见)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d29",
+  "g": "society",
+  "t": [
+   "Luật pháp, quyền & trách nhiệm",
+   "Law, rights & responsibilities"
+  ],
+  "th": [
+   [
+    "**Văn phong pháp lý (书面语) vs văn nói (口语)**\nHợp đồng, thông báo, email khiếu nại dùng từ trang trọng:\n• 应该 → **应当** (theo quy định phải): 房东**应当**在七天内退还押金。\n• 得 / 一定要 → **须 / 必须**; 不能 / 不许 → **不得**: 员工**不得**在办公室吸烟。\n• 不然 → **否则**; 照 → **按照 / 根据**: **根据**合同第八条…\n• 是…的时候到期的 → **已于** + thời gian + động từ: 合同**已于**上月底到期。\n• Khi nói chuyện với bạn bè, dùng những từ này sẽ nghe rất “cứng”, như đọc văn bản.",
+    "**Legal register (书面语) vs speech (口语)**\nContracts, notices and complaint emails use formal words:\n• 应该 → **应当** (shall): 房东**应当**在七天内退还押金。\n• 得 / 一定要 → **须 / 必须**; 不能 / 不许 → **不得**: 员工**不得**在办公室吸烟。\n• 不然 → **否则**; 照 → **按照 / 根据**: **根据**合同第八条…\n• **已于** + time + verb: 合同**已于**上月底到期。\n• With friends these words sound stiff, like reading a document."
+   ],
+   [
+    "**Ngữ dụng: khiếu nại lịch sự nhưng cứng rắn**\n1. Mở đầu nhẹ nhàng, thể hiện thông cảm: **我理解您最近可能比较忙**，不过…\n2. Nêu sự thật + căn cứ: 到目前为止…；**根据**合同第…条…\n3. Nhấn mạnh mình đã làm đúng: 我**一向**遵守合同…\n4. Yêu cầu rõ ràng + hạn chót: **麻烦您**本周五以前答复。\n5. Chừa đường lui: 如果…，**我们可以商量**。\n⚠ Tránh câu trống không, ra lệnh (你马上退钱！) – người Trung Quốc rất coi trọng thể diện (面子); lời lẽ mềm mà lý lẽ chắc mới hiệu quả.",
+    "**Pragmatics: complaining politely but firmly**\n1. Open softly with empathy: **我理解您最近可能比较忙**，不过…\n2. Facts + legal basis: 到目前为止…；**根据**合同第…条…\n3. Show you've done your part: 我**一向**遵守合同…\n4. Clear request + deadline: **麻烦您**本周五以前答复。\n5. Leave room: 如果…，**我们可以商量**。\n⚠ Avoid bare commands (你马上退钱！) – face (面子) matters; soft words with solid reasons work best."
+   ],
+   [
+    "**Từ gần nghĩa & thành ngữ**\n• **权利** (quyền lợi – right) ≠ **权力** (quyền lực – power); cả hai đều đọc quánlì! 公民的权利 / 政府的权力.\n• **遵守** + quy định/luật/hợp đồng ≠ **遵循** + nguyên tắc/quy luật (trừu tượng hơn).\n• **违反** + quy định (ngoại động từ) ≠ **违法** (nội động từ: phạm pháp) → ~~违法交通规则~~ ✗.\n• **赔偿** (bồi thường thiệt hại) ≠ **补偿** (bù đắp, đền bù cho mất mát).\n• Thành ngữ: **理所当然** (lẽ đương nhiên), **合情合理** (hợp tình hợp lý), **知法犯法** (biết luật mà vẫn phạm), **据理力争** (dựa lý mà tranh luận tới cùng).",
+    "**Near-synonyms & idioms**\n• **权利** (a right) ≠ **权力** (power) – both read quánlì! 公民的权利 / 政府的权力.\n• **遵守** + rules/law/contract ≠ **遵循** + principles/laws of nature (more abstract).\n• **违反** + rules (transitive) ≠ **违法** (intransitive: break the law) → ~~违法交通规则~~ ✗.\n• **赔偿** (compensate for damage) ≠ **补偿** (make up for a loss).\n• Idioms: **理所当然**, **合情合理**, **知法犯法**, **据理力争**."
+   ],
+   [
+    "**Phát âm: đồng âm & thanh nhẹ trong từ pháp lý**\n• 权利 = 权力 = **quánlì** (2-4): chỉ phân biệt bằng ngữ cảnh – khi nói nên thêm từ đi kèm (合法权利 / 政府权力).\n• 合同 đọc **hétong** (âm sau nhẹ); 押金 **yājīn** (1-1); 责任 **zérèn** (2-4, z bật nhẹ, không đọc “dê”).\n• 法律 fǎlǜ: ü tròn môi sau l.",
+    "**Pronunciation: homophones & neutral tones in legal words**\n• 权利 = 权力 = **quánlì** (2-4): only context separates them – add a collocate (合法权利 / 政府权力).\n• 合同 is **hétong** (neutral 2nd syllable); 押金 **yājīn** (1-1); 责任 **zérèn** (2-4).\n• 法律 fǎlǜ: rounded ü after l."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **权** (6 nét), **守** (6), **法** (8), **责** (8), **律** (9).\n• 法 = 氵 (nước) + 去: luật phải công bằng, phẳng như mặt nước.\n• 律 có bộ 彳 (bước chân) + 聿 (cây bút): những điều viết ra để đi theo.\n• 守 = 宀 + 寸: giữ trong nhà → giữ gìn, tuân thủ.\n• 责 trên là 龶, dưới là 贝 (tiền): trách nhiệm, đòi nợ.\n• Đọc to: 法律 fǎlǜ (3-4) · 权利 quánlì (2-4) · 遵守 zūnshǒu (1-3) · 责任 zérèn (2-4).",
+    "**Characters & tones**\nWrite: **权** (6 strokes), **守** (6), **法** (8), **责** (8), **律** (9).\n• 法 = 氵 (water) + 去: law should be level like water.\n• 律 = 彳 (step) + 聿 (brush): written rules to walk by.\n• 守 = 宀 + 寸: keep under one's roof → guard, observe.\n• 责: 龶 above 贝 (money): duty, demand payment.\n• Read aloud: 法律 fǎlǜ (3-4) · 权利 quánlì (2-4) · 遵守 zūnshǒu (1-3) · 责任 zérèn (2-4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem một chương trình tư vấn pháp luật đời thường (thuê nhà, mua hàng online), ghi lại căn cứ pháp lý được nhắc tới.\n• Nói (30 phút): đóng vai khách thuê – chủ nhà thương lượng tiền cọc, luyện “mềm lời, chắc lý”.\n• Đọc (25 phút): đọc một hợp đồng thuê nhà mẫu tiếng Trung, gạch chân 应当, 不得, 否则, 须.\n• Viết (40 phút): viết email khiếu nại khoảng 200 chữ.\n• Từ vựng (15 phút): 10 từ + cặp 权利/权力, 遵守/遵循, 违反/违法, 赔偿/补偿.",
+    "**Practice outside the app**\n• Listening (30 min): watch an everyday legal-advice show (renting, online shopping); note the legal bases cited.\n• Speaking (30 min): role-play tenant vs landlord over a deposit – soft words, solid reasons.\n• Reading (25 min): read a sample Chinese lease; underline 应当, 不得, 否则, 须.\n• Writing (40 min): write a 200-character complaint email.\n• Vocabulary (15 min): the 10 words + the pairs 权利/权力, 遵守/遵循, 违反/违法, 赔偿/补偿."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "根据合同第八条……Gēnjù hétong dì bā tiáo …",
+    "Căn cứ điều 8 của hợp đồng…"
+   ],
+   [
+    "我理解您的难处，不过……Wǒ lǐjiě nín de nánchu, búguò …",
+    "Tôi hiểu khó khăn của anh/chị, nhưng…"
+   ],
+   [
+    "这是我的合法权利。Zhè shì wǒ de héfǎ quánlì.",
+    "Đây là quyền lợi hợp pháp của tôi."
+   ],
+   [
+    "麻烦您本周五以前答复。Máfan nín běn zhōuwǔ yǐqián dáfù.",
+    "Phiền anh/chị trả lời trước thứ Sáu tuần này."
+   ],
+   [
+    "否则须承担相应的责任。Fǒuzé xū chéngdān xiāngyìng de zérèn.",
+    "Nếu không sẽ phải chịu trách nhiệm tương ứng."
+   ],
+   [
+    "有什么问题，我们可以商量。Yǒu shénme wèntí, wǒmen kěyǐ shāngliang.",
+    "Có vấn đề gì, chúng ta có thể bàn bạc."
+   ]
+  ],
+  "vo": [
+   [
+    "法律",
+    "fǎlǜ",
+    "pháp luật",
+    "law"
+   ],
+   [
+    "权利",
+    "quánlì",
+    "quyền lợi",
+    "right"
+   ],
+   [
+    "义务",
+    "yìwù",
+    "nghĩa vụ",
+    "duty, obligation"
+   ],
+   [
+    "责任",
+    "zérèn",
+    "trách nhiệm",
+    "responsibility"
+   ],
+   [
+    "遵守",
+    "zūnshǒu",
+    "tuân thủ",
+    "to abide by"
+   ],
+   [
+    "违反",
+    "wéifǎn",
+    "vi phạm",
+    "to violate"
+   ],
+   [
+    "合同",
+    "hétong",
+    "hợp đồng",
+    "contract"
+   ],
+   [
+    "押金",
+    "yājīn",
+    "tiền đặt cọc",
+    "deposit"
+   ],
+   [
+    "赔偿",
+    "péicháng",
+    "bồi thường",
+    "to compensate"
+   ],
+   [
+    "维护",
+    "wéihù",
+    "bảo vệ, giữ gìn",
+    "to uphold, safeguard"
+   ]
+  ],
+  "hz": "权守法责律",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我们的租房合同已于上月底到期。",
+    "e": [
+     "已于 + thời gian + động từ = đã (vào lúc…) – văn viết. 到期 = hết hạn. 合同 hétong (âm sau nhẹ).",
+     "已于 + time + verb = already (on…) – written. 到期 = expire. 合同 hétong (neutral 2nd syllable)."
+    ],
+    "f": [
+     "已于上月底到期",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "每个公民都应当遵守法律，维护自己的合法权利。",
+    "e": [
+     "应当 = phải (văn bản); 遵守法律; 维护权利 – các kết hợp cố định. 权利 (quyền lợi), không phải 权力 (quyền lực).",
+     "应当 = shall (formal); 遵守法律, 维护权利 are fixed collocations. 权利 (right), not 权力 (power)."
+    ],
+    "f": [
+     "维护自己的合法权利",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "根据规定，网上买的东西如果没有质量问题，七天内也可以退货，但是吃的东西和打开过的化妆品除外。",
+    "q": [
+     "Loại hàng nào KHÔNG được trả lại?",
+     "Which goods can NOT be returned?"
+    ],
+    "o": [
+     [
+      "Đồ ăn và mỹ phẩm đã mở",
+      "Food and opened cosmetics"
+     ],
+     [
+      "Mọi hàng có lỗi chất lượng",
+      "All faulty goods"
+     ],
+     [
+      "Hàng mua trong vòng ba ngày",
+      "Goods bought within three days"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "但是吃的东西和打开过的化妆品除外. 除外 = trừ ra, ngoại lệ. Hàng không lỗi vẫn trả được trong bảy ngày.",
+     "但是吃的东西和打开过的化妆品除外. 除外 = excepted. Non-faulty goods can still be returned within seven days."
+    ],
+    "f": [
+     "除外",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "租房的时候要注意什么？签合同以前一定要看清楚押金怎么退、房子坏了谁负责，最好拍照留下证据。",
+    "e": [
+     "Câu hỏi: 租房的时候要注意什么？– Gợi ý trả lời mẫu. 签合同 qiān hétong, 证据 zhèngjù (ü sau j), 负责 fùzé.",
+     "Question: 租房的时候要注意什么？– A model answer. 签合同 qiān hétong, 证据 zhèngjù, 负责 fùzé."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你觉得公民最重要的责任是什么？我觉得是遵守法律，同时也要了解自己的权利，遇到不公平的事情要敢于维护。",
+    "e": [
+     "Câu hỏi: 你觉得公民最重要的责任是什么？– Gợi ý trả lời mẫu. 敢于 = dám (văn viết nhẹ); 公平 gōngpíng.",
+     "Question: 你觉得公民最重要的责任是什么？– A model answer. 敢于 = dare to (slightly formal); 公平 gōngpíng."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Chúng tôi không muốn làm to chuyện, nhưng nếu đến thứ Sáu này vẫn chưa nhận được trả lời thì đành phải nhờ luật sư xử lý.",
+    "a": [
+     "我们不想把事情闹大，但如果这周五以前还没收到答复，就只好请律师来处理了。",
+     "我们不想把事情闹大，可是如果到这周五还没有收到答复，就只好请律师处理了。",
+     "我们并不想把事情闹大，但要是到本周五还没收到答复，我们只好请律师来处理了。"
+    ],
+    "e": [
+     "把事情闹大 = làm to chuyện (khẩu ngữ); 只好 = đành phải – vừa thể hiện thiện chí vừa cảnh báo rõ ràng.",
+     "把事情闹大 = make a big fuss; 只好 = have no choice but – goodwill plus a clear warning."
+    ],
+    "f": [
+     "不想把事情闹大",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đổi câu ra lệnh thành lời đề nghị uyển chuyển với 能否",
+     "Turn the command into a tactful request with 能否"
+    ],
+    "s": "你们马上把漏水的问题修好。",
+    "a": [
+     "能否请你们尽快把漏水的问题修好？",
+     "能否麻烦你们尽快把漏水的问题修好？",
+     "请问能否尽快把漏水的问题修好？",
+     "能否请你们尽快把漏水的问题处理好？"
+    ],
+    "e": [
+     "能否 = có thể… hay không (văn viết lịch sự); 请/麻烦 làm mềm; 尽快 (sớm nhất có thể) thay cho 马上 (ngay lập tức) nghe bớt gay gắt.",
+     "能否 = could… (polite written); 请/麻烦 soften; 尽快 (as soon as possible) is less harsh than 马上."
+    ],
+    "f": [
+     "能否请你们尽快",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这家公司明知道产品有安全问题还继续卖给消费者，简直是知法违法。",
+    "a": [
+     "这家公司明知道产品有安全问题还继续卖给消费者，简直是知法犯法。"
+    ],
+    "e": [
+     "Thành ngữ cố định là 知法犯法 (biết luật mà phạm luật), không phải 知法违法. 明知道 = biết rõ mà vẫn….",
+     "The fixed idiom is 知法犯法, not 知法违法. 明知道 = know full well."
+    ],
+    "f": [
+     "知法犯法",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "房东一开始说押金一分都不退，我拿出合同据理力___，最后他还是退了我两千五。",
+    "a": [
+     "争"
+    ],
+    "e": [
+     "据理力争 = dựa vào lý lẽ mà tranh luận tới cùng. 一分都不退 = không trả một xu; 两千五 = 2500 (khẩu ngữ).",
+     "据理力争 = argue one's case on solid grounds. 一分都不退 = not a cent back; 两千五 = 2,500 (spoken)."
+    ],
+    "f": [
+     "据理力争",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "张先生：您好！我是三号楼502的租客小阮。我们的租房合同已于上月底到期，我也按照规定提前一个月通知了您，并把房子打扫干净交还给您。可是到目前为止，三千元押金一直没有退还给我。我理解您最近可能比较忙，不过根据合同第八条，房东应当在租客搬走后七天内退还押金，否则须承担相应的责任。我一向遵守合同，按时交房租，因此也希望您能维护我的合法权利。如果房子有损坏，需要我赔偿，请列出具体情况，我们可以商量。麻烦您本周五以前答复，谢谢！",
+   "tr": "Kính gửi anh Trương: Chào anh! Tôi là Nguyễn, người thuê phòng 502 tòa số 3. Hợp đồng thuê nhà của chúng ta đã hết hạn vào cuối tháng trước, tôi cũng đã báo trước cho anh một tháng theo đúng quy định, và đã dọn dẹp sạch sẽ rồi bàn giao lại nhà cho anh. Nhưng đến nay, ba nghìn tệ tiền cọc vẫn chưa được trả lại cho tôi. Tôi hiểu dạo này anh có thể khá bận, nhưng theo điều 8 của hợp đồng, chủ nhà phải hoàn trả tiền cọc trong vòng bảy ngày sau khi người thuê dọn đi, nếu không phải chịu trách nhiệm tương ứng. Tôi luôn tuân thủ hợp đồng, đóng tiền nhà đúng hạn, vì vậy cũng mong anh bảo đảm quyền lợi hợp pháp của tôi. Nếu căn nhà có hư hỏng cần tôi bồi thường, xin anh liệt kê cụ thể, chúng ta có thể bàn bạc. Phiền anh trả lời trước thứ Sáu tuần này, xin cảm ơn!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tiểu Nguyễn viết email này?",
+     "Why is Xiao Ruan writing this email?"
+    ],
+    "o": [
+     [
+      "Chưa được trả lại tiền cọc",
+      "The deposit hasn't been returned"
+     ],
+     [
+      "Muốn gia hạn hợp đồng",
+      "To extend the lease"
+     ],
+     [
+      "Muốn báo nhà bị hỏng",
+      "To report damage to the flat"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "到目前为止，三千元押金一直没有退还给我. Hợp đồng đã hết hạn (已…到期), không xin gia hạn; hư hỏng chỉ là giả định (如果).",
+     "到目前为止，三千元押金一直没有退还给我. The lease has ended; damage is only hypothetical (如果)."
+    ],
+    "f": [
+     "押金一直没有退还给我",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo hợp đồng, chủ nhà phải trả cọc khi nào?",
+     "According to the contract, when must the deposit be returned?"
+    ],
+    "o": [
+     [
+      "Trong 7 ngày sau khi người thuê dọn đi",
+      "Within 7 days after the tenant moves out"
+     ],
+     [
+      "Trước thứ Sáu tuần này",
+      "Before this Friday"
+     ],
+     [
+      "Một tháng trước khi hết hạn",
+      "One month before the lease ends"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "房东应当在租客搬走后七天内退还押金. “Thứ Sáu” là hạn người viết đề nghị; “một tháng” là thời hạn báo trước của người thuê.",
+     "房东应当在租客搬走后七天内退还押金. Friday is the writer's requested deadline; one month is the tenant's notice."
+    ],
+    "f": [
+     "搬走后七天内退还押金",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nếu nhà có hư hỏng, người viết đề nghị gì?",
+     "If there is damage, what does the writer propose?"
+    ],
+    "o": [
+     [
+      "Liệt kê cụ thể rồi cùng bàn bạc",
+      "List the details and negotiate"
+     ],
+     [
+      "Trừ hết tiền cọc",
+      "Keep the whole deposit"
+     ],
+     [
+      "Nhờ luật sư giải quyết",
+      "Have a lawyer handle it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "请列出具体情况，我们可以商量 – chừa đường lui, thể hiện thiện chí. Email không hề nhắc đến luật sư.",
+     "请列出具体情况，我们可以商量 – leaving room and showing goodwill. No lawyer is mentioned."
+    ],
+    "f": [
+     "我们可以商量",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "每个公民都有受教育的___，这是法律明确规定的，任何人都不能随便剥夺。",
+    "o": [
+     "权利",
+     "权力",
+     "权威"
+    ],
+    "a": 0,
+    "e": [
+     "Quyền được học là quyền lợi của công dân → 权利. 权力 = quyền lực (của chính quyền, người lãnh đạo); 权威 = uy quyền.",
+     "The right to education → 权利. 权力 = power (of government, leaders); 权威 = authority."
+    ],
+    "f": [
+     "受教育的权利",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "开车的时候一定要___交通规则，酒后驾车不仅非常危险，而且是违法的。",
+    "o": [
+     "遵守",
+     "遵循",
+     "保守"
+    ],
+    "a": 0,
+    "e": [
+     "遵守 + 规则/法律/纪律 (quy định cụ thể). 遵循 + 原则/规律 (trừu tượng); 保守 = bảo thủ / giữ (bí mật).",
+     "遵守 + rules/laws (concrete). 遵循 + principles (abstract); 保守 = conservative / keep (a secret)."
+    ],
+    "f": [
+     "遵守交通规则",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "根据公司规定，员工在上班时间___在办公室里吸烟，违者罚款二百元。",
+    "a": [
+     "不得",
+     "不准",
+     "不许"
+    ],
+    "e": [
+     "不得 = không được (văn bản quy định), trang trọng hơn 不能. 违者 = người vi phạm (văn viết).",
+     "不得 = must not (rules and notices), more formal than 不能. 违者 = violators (written)."
+    ],
+    "f": [
+     "不得在办公室里吸烟",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "请您务必在合同到期前一个月通知房东，___押金可能无法全部退还。",
+    "a": [
+     "否则",
+     "不然"
+    ],
+    "e": [
+     "否则 = nếu không thì (văn viết); 不然 là bản khẩu ngữ. 务必 = nhất thiết phải; 无法 = không thể (văn viết).",
+     "否则 = otherwise (written); 不然 is the spoken form. 务必 = be sure to; 无法 = unable (written)."
+    ],
+    "f": [
+     "否则",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你不小心打坏了别人的东西，赔偿是理所___的，这有什么好争的？",
+    "a": [
+     "当然"
+    ],
+    "e": [
+     "理所当然 = lẽ đương nhiên. 有什么好争的 = có gì mà phải cãi (câu hỏi tu từ, ý: không cần cãi).",
+     "理所当然 = only natural. 有什么好争的 = what's there to argue about (rhetorical)."
+    ],
+    "f": [
+     "理所当然",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他开车时一边打电话一边看手机，已经违法了交通规则，被罚了两百块。",
+    "a": [
+     "他开车时一边打电话一边看手机，已经违反了交通规则，被罚了两百块。"
+    ],
+    "e": [
+     "违法 là nội động từ (= phạm pháp), không mang tân ngữ. Có tân ngữ 交通规则 → 违反. Nói 他违法了 thì được.",
+     "违法 is intransitive (break the law); with the object 交通规则 use 违反. 他违法了 alone is fine."
+    ],
+    "f": [
+     "违反了交通规则",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "消费者有权力要求商家退货，如果商品质量有问题，商家应当负责。",
+    "a": [
+     "消费者有权利要求商家退货，如果商品质量有问题，商家应当负责。",
+     "消费者有权要求商家退货，如果商品质量有问题，商家应当负责。"
+    ],
+    "e": [
+     "Quyền của người tiêu dùng là 权利 (right). 权力 (power) dùng cho chính quyền, người có chức vụ. Văn viết hay rút gọn: 有权 + động từ.",
+     "A consumer's entitlement is 权利 (right). 权力 (power) belongs to authorities. Written short form: 有权 + verb."
+    ],
+    "f": [
+     "有权利要求商家退货",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi hiểu dạo này anh có thể khá bận, nhưng theo hợp đồng, tiền cọc phải được hoàn trả trong vòng bảy ngày.",
+    "a": [
+     "我理解您最近可能比较忙，不过根据合同，押金应当在七天内退还。",
+     "我理解您最近可能比较忙，但是根据合同，押金应该在七天以内退还。",
+     "我理解您最近可能比较忙，不过按照合同，押金应当在七天之内退还。"
+    ],
+    "e": [
+     "Ngữ dụng: 我理解您… (thông cảm) + 不过 + 根据合同 (căn cứ) – lời mềm lý chắc. Dùng 您 với chủ nhà; 应当 hợp văn phong hợp đồng.",
+     "Pragmatics: 我理解您… (empathy) + 不过 + 根据合同 (basis). Use 您; 应当 suits contract language."
+    ],
+    "f": [
+     "我理解您最近可能比较忙，不过",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mỗi người vừa có quyền lợi vừa có nghĩa vụ; không thể chỉ nói đến quyền lợi mà không nói đến trách nhiệm.",
+    "a": [
+     "每个人既有权利，也有义务，不能只讲权利，不讲责任。",
+     "每个人既有权利又有义务，不能只谈权利不谈责任。",
+     "每个人都既有权利也有义务，不能只讲权利而不讲责任。"
+    ],
+    "e": [
+     "既…也/又… = vừa… vừa… (trang trọng hơn 又…又…). 只讲 A，不讲 B = chỉ nói A mà bỏ qua B.",
+     "既…也/又… = both… and… (more formal than 又…又…). 只讲 A，不讲 B = talk only of A, ignoring B."
+    ],
+    "f": [
+     "既有权利，也有义务",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển lời nói thành văn thông báo: 得→须, 不能→不得, 不然→否则",
+     "Turn speech into a notice: 得→须, 不能→不得, 不然→否则"
+    ],
+    "s": "租客得按时交房租，不能随便养宠物，不然房东可以收回房子。",
+    "a": [
+     "租客须按时交房租，不得随便养宠物，否则房东可以收回房子。",
+     "租客必须按时交房租，不得随便养宠物，否则房东可以收回房子。",
+     "租客须按时交房租，不得随意养宠物，否则房东可以收回房子。"
+    ],
+    "e": [
+     "须/必须, 不得, 否则 là bộ ba từ văn bản quy định. 随意 là bản văn viết của 随便. Nói chuyện thường ngày vẫn dùng 得, 不能, 不然.",
+     "须/必须, 不得, 否则 are the regulation trio. 随意 is the written form of 随便. In chat, keep 得, 不能, 不然."
+    ],
+    "f": [
+     "须…不得…否则",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "根据|合同|第八条|，房东|应当|在|租客|搬走后|七天内|退还押金",
+    "m": [
+     "Theo điều 8 hợp đồng, chủ nhà phải hoàn trả tiền cọc trong vòng 7 ngày sau khi người thuê dọn đi.",
+     "Under clause 8, the landlord shall return the deposit within 7 days after the tenant moves out."
+    ],
+    "e": [
+     "Căn cứ (根据…) đầu câu; 应当 trước cụm thời gian 在…七天内; động từ 退还 cuối cùng.",
+     "The basis (根据…) opens; 应当 precedes the time phrase 在…七天内; the verb 退还 comes last."
+    ],
+    "f": [
+     "根据合同第八条",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 200 chữ gửi ban quản lý chung cư khiếu nại một vấn đề (tiếng ồn, thang máy hỏng, nước rò…): lịch sự nhưng cứng rắn, có căn cứ, yêu cầu và hạn chót.",
+     "Write a 200-character email to building management about a problem (noise, broken lift, leak…): polite but firm, with a basis, a request and a deadline."
+    ],
+    "m": "物业管理处：您好！我是五号楼1203的住户阮文英。上个月十号起，我家卫生间的天花板一直漏水，我已于十五号和二十号两次打电话报修，可到目前为止还没有人来处理。我理解最近报修的住户可能比较多，不过根据物业服务合同，一般维修应当在三个工作日内完成。现在漏水越来越严重，已经影响到了正常生活。我一向按时交物业费，因此希望贵处能尽快安排师傅上门维修。麻烦您本周三以前给我答复，谢谢！",
+    "e": [
+     "Cần có: • lời chào + tự giới thiệu • sự việc + 已于… • 我理解…，不过根据… • yêu cầu (希望/麻烦您) + hạn chót.",
+     "Must include: • greeting + who you are • facts + 已于… • 我理解…，不过根据… • request (希望/麻烦您) + deadline."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h5-r",
+  "t": [
+   "Bài đọc: Sức mạnh của kiên trì",
+   "Reading: The power of persistence"
+  ],
+  "rd": {
+   "tx": "很多人在学习外语的时候都有过这样的经历：开始时热情很高，可是过了一两个月就半途而废了。之所以会这样，往往不是因为不够聪明，而是因为没有形成习惯。与其每个周末花三个小时，不如每天固定学习二十分钟。研究表明，人的记忆需要反复刺激才能保持。无论工作多忙，只要把学习安排在每天的固定时间，久而久之，它就会像刷牙一样自然。",
+   "tr": "Nhiều người khi học ngoại ngữ đều từng trải qua chuyện này: lúc đầu rất hăng hái, nhưng qua một hai tháng thì bỏ dở giữa chừng. Sở dĩ như vậy thường không phải vì không đủ thông minh, mà vì chưa hình thành thói quen. Thay vì mỗi cuối tuần bỏ ra ba tiếng, chi bằng mỗi ngày học cố định hai mươi phút. Nghiên cứu cho thấy trí nhớ cần được kích thích lặp lại mới duy trì được. Dù công việc bận đến đâu, chỉ cần sắp xếp việc học vào một giờ cố định mỗi ngày, lâu dần nó sẽ tự nhiên như đánh răng."
+  },
+  "vo": [
+   [
+    "经历",
+    "jīnglì",
+    "trải nghiệm",
+    "experience"
+   ],
+   [
+    "热情",
+    "rèqíng",
+    "nhiệt tình",
+    "enthusiasm"
+   ],
+   [
+    "形成",
+    "xíngchéng",
+    "hình thành",
+    "to form"
+   ],
+   [
+    "习惯",
+    "xíguàn",
+    "thói quen",
+    "habit"
+   ],
+   [
+    "固定",
+    "gùdìng",
+    "cố định",
+    "fixed"
+   ],
+   [
+    "记忆",
+    "jìyì",
+    "trí nhớ",
+    "memory"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Vấn đề thường gặp của người học?",
+     "A common problem for learners?"
+    ],
+    [
+     [
+      "bỏ dở sau một hai tháng",
+      "giving up after a month or two"
+     ],
+     [
+      "học quá nhiều",
+      "studying too much"
+     ],
+     [
+      "không có sách",
+      "having no books"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Nguyên nhân chính theo bài?",
+     "The main cause, according to the text?"
+    ],
+    [
+     [
+      "chưa hình thành thói quen",
+      "no habit has formed"
+     ],
+     [
+      "không đủ thông minh",
+      "not being smart enough"
+     ],
+     [
+      "thiếu tiền",
+      "lack of money"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Bài khuyên gì?",
+     "What does the text advise?"
+    ],
+    [
+     [
+      "mỗi ngày cố định 20 phút",
+      "20 fixed minutes every day"
+     ],
+     [
+      "mỗi cuối tuần 3 giờ",
+      "3 hours every weekend"
+     ],
+     [
+      "học khi có hứng",
+      "study when inspired"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___每个周末花三个小时，不如每天固定学习二十分钟。",
+    [
+     "与其",
+     "无论",
+     "即使"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "只要把学习安排在固定时间，久而久之，它___会像刷牙一样自然。",
+    [
+     "就",
+     "才",
+     "也"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“久而久之” nghĩa là?",
+     "“久而久之” means?"
+    ],
+    [
+     [
+      "lâu dần",
+      "over time"
+     ],
+     [
+      "ngay lập tức",
+      "immediately"
+     ],
+     [
+      "rất lâu về trước",
+      "long ago"
+     ]
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "很多人学外语开始时热情很高，可是过了一两个月就半途而废了，主要是因为没有形成习惯。",
+    "q": [
+     "Theo câu này, nguyên nhân chính khiến người ta bỏ dở là gì?",
+     "According to this, what is the main reason people give up?"
+    ],
+    "o": [
+     [
+      "chưa hình thành thói quen",
+      "no habit has formed"
+     ],
+     [
+      "không đủ thông minh",
+      "not clever enough"
+     ],
+     [
+      "giáo trình quá khó",
+      "the textbook is too hard"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“主要是因为没有形成习惯” – đúng như bài đọc: không phải do thông minh mà do thói quen.",
+     "“主要是因为没有形成习惯” – as in the passage: it's habit, not intelligence."
+    ],
+    "f": [
+     "没有形成习惯",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "与其每个周末花三个小时学习，不如每天固定学习二十分钟，效果会好得多。",
+    "e": [
+     "与其 A 不如 B: chọn B thay vì A. 固定 = cố định, đứng trước động từ.",
+     "与其 A 不如 B: choose B over A. 固定 (fixed) precedes the verb."
+    ],
+    "f": [
+     "与其…不如",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "无论工作多忙，只要把学习安排在每天的固定时间，久而久之就会像刷牙一样自然。"
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "我之所以没能坚持跑步，往往不是因为没有时间，___因为一直没有形成习惯。",
+    "o": [
+     "而是",
+     "但是",
+     "所以"
+    ],
+    "a": 0,
+    "e": [
+     "Cặp 不是…而是… (không phải … mà là) như trong bài đọc. 但是 không đi với 不是 để sửa lại lý do.",
+     "The pair 不是…而是… (not … but rather), as in the passage. 但是 doesn't correct a reason after 不是."
+    ],
+    "f": [
+     "而是",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "研究表明，人的记忆需要反复刺激___能保持下去，所以复习比学新内容更重要。",
+    "a": [
+     "才"
+    ],
+    "e": [
+     "Điều kiện cần thiết + 才 (mới): 需要反复刺激才能保持. Dùng 就 sẽ mất nghĩa “phải … mới được”.",
+     "Necessary condition + 才: 需要反复刺激才能保持. 就 would lose the “only then” meaning."
+    ],
+    "f": [
+     "才能保持",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "无论工作多忙，只要你把学习安排在固定的时间，久而久之，它才会变得像刷牙一样自然。",
+    "a": [
+     "无论工作多忙，只要你把学习安排在固定的时间，久而久之，它就会变得像刷牙一样自然。"
+    ],
+    "e": [
+     "只要 đi với 就, không đi với 才 (才 đi với 只有). Bài đọc viết “它就会像刷牙一样自然”.",
+     "只要 pairs with 就, not 才 (才 pairs with 只有). The passage says “它就会像刷牙一样自然”."
+    ],
+    "f": [
+     "就会",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 之所以…是因为…",
+     "Rewrite with 之所以…是因为…"
+    ],
+    "s": "因为他每天早上都固定读半个小时英文新闻，所以他的阅读速度提高得这么快。",
+    "a": [
+     "他的阅读速度之所以提高得这么快，是因为他每天早上都固定读半个小时英文新闻。",
+     "他之所以阅读速度提高得这么快，是因为他每天早上都固定读半个小时英文新闻。"
+    ],
+    "e": [
+     "之所以 nêu KẾT QUẢ trước (đặt sau chủ ngữ), 是因为 nêu NGUYÊN NHÂN sau – ngược với 因为…所以.",
+     "之所以 states the RESULT first (after the subject) and 是因为 the CAUSE – the reverse of 因为…所以."
+    ],
+    "f": [
+     "之所以提高得这么快",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Thay vì thức trắng đêm học trước kỳ thi, chi bằng mỗi ngày dành ra ba mươi phút ôn lại những từ mới đã học.",
+    "a": [
+     "与其考试前熬夜学习，不如每天花三十分钟复习学过的生词。",
+     "与其考试前熬夜学习，不如每天抽出三十分钟复习学过的生词。",
+     "与其在考试前熬夜学习，不如每天花三十分钟复习学过的生词。",
+     "与其考试前开夜车，不如每天花三十分钟复习学过的生词。",
+     "与其考试前熬夜复习，不如每天花半个小时复习学过的生词。"
+    ],
+    "e": [
+     "“Thay vì … chi bằng …” = 与其…不如…. “thức trắng đêm” = 熬夜 / 开夜车.",
+     "“Rather than … better to …” = 与其…不如…. “stay up all night” = 熬夜 / 开夜车."
+    ],
+    "f": [
+     "与其考试前熬夜学习",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "久而久之|每天|学习|二十分钟|就会|变得|像|刷牙|一样|自然",
+    "m": [
+     "Lâu dần, việc học hai mươi phút mỗi ngày sẽ trở nên tự nhiên như đánh răng.",
+     "Over time, studying twenty minutes a day becomes as natural as brushing your teeth."
+    ],
+    "e": [
+     "久而久之 (lâu dần) đứng đầu câu; so sánh 像…一样 + tính từ.",
+     "久而久之 (over time) opens the sentence; comparison 像…一样 + adjective."
+    ],
+    "f": [
+     "像刷牙一样自然",
+     "HSK5"
+    ]
+   }
+  ]
+ }
+]

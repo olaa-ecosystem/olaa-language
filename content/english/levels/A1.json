@@ -1,0 +1,4315 @@
+[
+ {
+  "id": "a1-1",
+  "t": [
+   "Chào hỏi & động từ to be",
+   "Greetings & to be"
+  ],
+  "th": [
+   [
+    "**To be** (am / is / are) nối chủ ngữ với thông tin về nó: “là”, “thì”, “ở”. Chọn dạng theo chủ ngữ:\n• I → **am**\n• he / she / it / danh từ số ít → **is**\n• you / we / they / danh từ số nhiều → **are**",
+    "**To be** (am / is / are) links a subject to information about it. Choose the form by subject:\n• I → **am**\n• he / she / it / singular noun → **is**\n• you / we / they / plural noun → **are**"
+   ],
+   [
+    "Phủ định: thêm **not** sau to be – I'm not, she isn't, they aren't.\nCâu hỏi: đưa to be lên trước chủ ngữ – **Are you** a student? → Yes, I am. / No, I'm not.",
+    "Negative: add **not** after to be – I'm not, she isn't, they aren't.\nQuestion: put to be before the subject – **Are you** a student? → Yes, I am. / No, I'm not."
+   ],
+   [
+    "Chào hỏi theo thời điểm: Good morning (sáng), Good afternoon (chiều), Good evening (tối). **Good night** chỉ dùng khi tạm biệt buổi tối hoặc đi ngủ, không dùng để chào khi gặp.",
+    "Time-based greetings: Good morning, Good afternoon, Good evening. **Good night** is only for leaving at night or going to bed, never for meeting someone."
+   ]
+  ],
+  "tb": [
+   [
+    "Chủ ngữ / Subject",
+    "to be",
+    "Rút gọn / Short"
+   ],
+   [
+    "I",
+    "am",
+    "I'm"
+   ],
+   [
+    "you / we / they",
+    "are",
+    "you're / we're / they're"
+   ],
+   [
+    "he / she / it",
+    "is",
+    "he's / she's / it's"
+   ]
+  ],
+  "vo": [
+   [
+    "hello",
+    "/həˈloʊ/",
+    "xin chào",
+    "a greeting"
+   ],
+   [
+    "goodbye",
+    "/ˌɡʊdˈbaɪ/",
+    "tạm biệt",
+    "said when leaving"
+   ],
+   [
+    "name",
+    "/neɪm/",
+    "tên",
+    "what you are called"
+   ],
+   [
+    "friend",
+    "/frend/",
+    "bạn bè",
+    "a person you like and know well"
+   ],
+   [
+    "student",
+    "/ˈstuːdənt/",
+    "học sinh, sinh viên",
+    "a person who studies"
+   ],
+   [
+    "teacher",
+    "/ˈtiːtʃər/",
+    "giáo viên",
+    "a person who teaches"
+   ],
+   [
+    "from",
+    "/frʌm/",
+    "đến từ",
+    "showing origin"
+   ],
+   [
+    "nice to meet you",
+    "/naɪs tə miːt juː/",
+    "rất vui được gặp bạn",
+    "polite phrase when meeting"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "She ___ a teacher.",
+    [
+     "am",
+     "is",
+     "are"
+    ],
+    1,
+    [
+     "Ngôi thứ ba số ít (she) đi với is.",
+     "Third person singular (she) takes is."
+    ]
+   ],
+   [
+    "fill",
+    "We ___ from Vietnam.",
+    [
+     "am",
+     "is",
+     "are"
+    ],
+    2,
+    [
+     "we → are",
+     "we → are"
+    ]
+   ],
+   [
+    "fill",
+    "I ___ not tired.",
+    [
+     "am",
+     "is",
+     "are"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu hỏi nào đúng?",
+     "Which question is correct?"
+    ],
+    [
+     "You are a student?",
+     "Are you a student?",
+     "Is you a student?"
+    ],
+    1,
+    [
+     "Câu hỏi: to be đứng trước chủ ngữ.",
+     "Questions: to be comes before the subject."
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Bạn rời bữa tiệc lúc 10 giờ tối. Bạn nói?",
+     "You leave a party at 10 p.m. You say?"
+    ],
+    [
+     "Good evening",
+     "Good night",
+     "Good afternoon"
+    ],
+    1
+   ],
+   [
+    "tr",
+    "Họ là bạn của tôi.",
+    [
+     "They is my friends.",
+     "They are my friends.",
+     "They am my friends."
+    ],
+    1
+   ],
+   [
+    "order",
+    "My name is Lan and I am from Hanoi",
+    "Tên tôi là Lan và tôi đến từ Hà Nội."
+   ],
+   [
+    "dict",
+    "Nice to meet you."
+   ],
+   [
+    "say",
+    "Hello, my name is Anna. I am a student."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Good evening, everyone, my name is Linh, and I am the new English teacher at this school.",
+    "q": [
+     "Linh là ai?",
+     "Who is Linh?"
+    ],
+    "o": [
+     [
+      "một học sinh mới",
+      "a new student"
+     ],
+     [
+      "giáo viên tiếng Anh mới",
+      "the new English teacher"
+     ],
+     [
+      "hiệu trưởng",
+      "the head teacher"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Linh nói “I am the new English teacher”, nên cô ấy là giáo viên tiếng Anh mới. Đừng nhầm với “student” chỉ vì có từ “school”.",
+     "Linh says “I am the new English teacher”. Don't choose “student” just because you hear the word “school”."
+    ],
+    "f": [
+     "I am the new English teacher",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "My parents are from Hue, but my brother and I are students in Hanoi now.",
+    "e": [
+     "“My parents” và “my brother and I” đều là chủ ngữ số nhiều nên đi với “are”. Chú ý viết hoa tên riêng Hue, Hanoi.",
+     "“My parents” and “my brother and I” are both plural subjects, so they take “are”. Remember capital letters for Hue and Hanoi."
+    ],
+    "f": [
+     "my brother and I are",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Hello, I am Minh, I am twenty years old, and I am from Da Nang.",
+    "e": [
+     "Đọc “I am” rõ ràng hoặc nối thành “I'm” /aɪm/; nhấn vào các từ chứa thông tin: Minh, twenty, Da Nang.",
+     "Say “I am” clearly or link it as “I'm” /aɪm/; stress the information words: Minh, twenty, Da Nang."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hi Sarah, my name is Hoa and I am your new pen friend. I am nineteen years old and I am from Can Tho, a city in the south of Vietnam. I am a student at a college in Ho Chi Minh City now. My father is a doctor and my mother is a teacher. My brother is not a student; he is a cook in a small restaurant. My best friend is Lan, and we are classmates. Are you a student too? Write soon! Best wishes, Hoa",
+   "tr": "Chào Sarah, mình tên là Hoa và mình là bạn qua thư mới của bạn. Mình mười chín tuổi và mình đến từ Cần Thơ, một thành phố ở miền Nam Việt Nam. Bây giờ mình là sinh viên một trường cao đẳng ở Thành phố Hồ Chí Minh. Bố mình là bác sĩ và mẹ mình là giáo viên. Anh trai mình không phải sinh viên; anh ấy là đầu bếp ở một nhà hàng nhỏ. Bạn thân của mình là Lan, và chúng mình học cùng lớp. Bạn cũng là sinh viên à? Viết thư cho mình sớm nhé! Thân mến, Hoa"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Hoa đến từ đâu?",
+     "Where is Hoa from?"
+    ],
+    "o": [
+     "Ho Chi Minh City",
+     "Can Tho",
+     "Hanoi"
+    ],
+    "a": 1,
+    "e": [
+     "Bài viết “I am from Can Tho”. Thành phố Hồ Chí Minh là nơi Hoa đang học, không phải quê của bạn ấy.",
+     "The text says “I am from Can Tho”. Ho Chi Minh City is where she studies now, not where she is from."
+    ],
+    "f": [
+     "I am from Can Tho",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Anh trai của Hoa làm nghề gì?",
+     "What is Hoa's brother's job?"
+    ],
+    "o": [
+     [
+      "sinh viên",
+      "a student"
+     ],
+     [
+      "đầu bếp",
+      "a cook"
+     ],
+     [
+      "bác sĩ",
+      "a doctor"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“He is a cook in a small restaurant” – anh ấy là đầu bếp. Câu trước nói rõ anh ấy “is not a student”.",
+     "“He is a cook in a small restaurant.” The sentence before says he “is not a student”."
+    ],
+    "f": [
+     "he is a cook in a small restaurant",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào ĐÚNG theo bài đọc?",
+     "Which sentence is TRUE?"
+    ],
+    "o": [
+     [
+      "Mẹ của Hoa là giáo viên.",
+      "Hoa's mother is a teacher."
+     ],
+     [
+      "Bố của Hoa là giáo viên.",
+      "Hoa's father is a teacher."
+     ],
+     [
+      "Hoa đang học ở Cần Thơ.",
+      "Hoa studies in Can Tho."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Bài viết “my mother is a teacher”; bố Hoa là bác sĩ, còn Hoa học ở TP.HCM.",
+     "The text says “my mother is a teacher”; her father is a doctor, and Hoa studies in Ho Chi Minh City."
+    ],
+    "f": [
+     "my mother is a teacher",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My sister and I ___ at home today because we are both very tired after the long trip.",
+    "o": [
+     "am",
+     "is",
+     "are"
+    ],
+    "a": 2,
+    "e": [
+     "“My sister and I” là hai người = “we”, nên dùng “are”. Lỗi hay gặp: thấy chữ “I” đứng cạnh động từ rồi chọn “am”.",
+     "“My sister and I” means two people (= we), so use “are”. A common trap is choosing “am” because “I” is next to the verb."
+    ],
+    "f": [
+     "are",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Excuse me, ___ you the new student from Korea, or are you a teacher here?",
+    "a": [
+     "Are",
+     "are"
+    ],
+    "e": [
+     "Câu hỏi Yes/No với to be: đưa “are” lên trước chủ ngữ “you”. Không cần “do”: sai khi nói “Do you are…”.",
+     "In a yes/no question with to be, put “are” before “you”. Don't add “do”: “Do you are…” is wrong."
+    ],
+    "f": [
+     "Are",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My best friend are a nurse, and her brother is a police officer in Hanoi.",
+    "a": [
+     "My best friend is a nurse, and her brother is a police officer in Hanoi.",
+     "My best friend's a nurse, and her brother is a police officer in Hanoi."
+    ],
+    "e": [
+     "“My best friend” là một người (số ít) → “is”. Người Việt hay nghĩ “bạn” là nhiều người, nhưng ở đây chỉ có một.",
+     "“My best friend” is one person (singular) → “is”. Don't use “are” just because “friend” feels general."
+    ],
+    "f": [
+     "My best friend is",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi không phải là giáo viên; tôi là sinh viên năm hai ở Hà Nội.",
+    "a": [
+     "I am not a teacher; I am a second-year student in Hanoi.",
+     "I'm not a teacher; I'm a second-year student in Hanoi.",
+     "I am not a teacher, I am a second-year student in Hanoi.",
+     "I'm not a teacher, I'm a second-year student in Hanoi.",
+     "I'm not a teacher. I'm a second-year student in Hanoi.",
+     "I am not a teacher. I am a second-year student in Hanoi."
+    ],
+    "e": [
+     "Phủ định của to be: “am not” (không có dạng “amn't”). Nhớ dùng mạo từ “a” trước nghề nghiệp: a teacher, a student.",
+     "The negative is “am not” (there is no “amn't”). Remember “a” before jobs: a teacher, a student."
+    ],
+    "f": [
+     "I am not a teacher",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu hỏi Yes/No",
+     "Rewrite as a yes/no question"
+    ],
+    "s": "Your brother is a doctor at the big hospital in the city centre.",
+    "a": [
+     "Is your brother a doctor at the big hospital in the city centre?"
+    ],
+    "e": [
+     "Đảo “is” lên trước chủ ngữ “your brother”, giữ nguyên phần còn lại và thêm dấu hỏi. Không viết “Your brother is a doctor…?” trong bài viết trang trọng.",
+     "Move “is” in front of the subject “your brother”, keep the rest and add a question mark. Rising intonation alone is not a written question."
+    ],
+    "f": [
+     "Is your brother",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Good evening, everyone|my name is Tom|and I am|your new|English teacher|from London",
+    "m": [
+     "Chào buổi tối mọi người, tôi tên là Tom và tôi là giáo viên tiếng Anh mới của các bạn, đến từ London.",
+     "Good evening, everyone, my name is Tom and I am your new English teacher from London."
+    ],
+    "e": [
+     "Lời chào đứng đầu, sau đó tên, rồi “I am” + nghề nghiệp. Tính từ “new” đứng trước danh từ “English teacher”.",
+     "The greeting comes first, then the name, then “I am” + job. The adjective “new” goes before “English teacher”."
+    ],
+    "f": [
+     "I am your new English teacher",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-2",
+  "t": [
+   "Hiện tại đơn – thói quen",
+   "Present simple – habits"
+  ],
+  "th": [
+   [
+    "Dùng hiện tại đơn cho **thói quen, sự thật, lịch trình**: I work every day. Water boils at 100°C. The train leaves at 7.",
+    "Use the present simple for **habits, facts and timetables**: I work every day. Water boils at 100°C. The train leaves at 7."
+   ],
+   [
+    "Với he / she / it, thêm **-s / -es** vào động từ:\n• work → works, live → lives\n• watch → watches, go → goes, do → does (sau -ch, -sh, -s, -x, -o)\n• study → studies (phụ âm + y → ies)\n• have → **has** (bất quy tắc)",
+    "With he / she / it, add **-s / -es**:\n• work → works, live → lives\n• watch → watches, go → goes, do → does (after -ch, -sh, -s, -x, -o)\n• study → studies (consonant + y → ies)\n• have → **has** (irregular)"
+   ],
+   [
+    "Phủ định và câu hỏi dùng **do / does + động từ nguyên mẫu**: She doesn't like tea. Does he live here? (Sai: Does he lives…)",
+    "Negatives and questions use **do / does + base verb**: She doesn't like tea. Does he live here? (Wrong: Does he lives…)"
+   ],
+   [
+    "Trạng từ tần suất (always, usually, often, sometimes, never) đứng **trước động từ thường** nhưng **sau to be**: I always get up at 6. She is never late.",
+    "Frequency adverbs (always, usually, often, sometimes, never) go **before main verbs** but **after to be**: I always get up at 6. She is never late."
+   ]
+  ],
+  "vo": [
+   [
+    "work",
+    "/wɜːrk/",
+    "làm việc",
+    "to do a job"
+   ],
+   [
+    "live",
+    "/lɪv/",
+    "sống",
+    "to have your home somewhere"
+   ],
+   [
+    "study",
+    "/ˈstʌdi/",
+    "học",
+    "to learn about a subject"
+   ],
+   [
+    "get up",
+    "/ɡet ʌp/",
+    "thức dậy",
+    "to rise from bed"
+   ],
+   [
+    "usually",
+    "/ˈjuːʒuəli/",
+    "thường thường",
+    "in most cases"
+   ],
+   [
+    "always",
+    "/ˈɔːlweɪz/",
+    "luôn luôn",
+    "every time"
+   ],
+   [
+    "never",
+    "/ˈnevər/",
+    "không bao giờ",
+    "at no time"
+   ],
+   [
+    "every day",
+    "/ˈevri deɪ/",
+    "mỗi ngày",
+    "daily"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "He ___ in Hanoi.",
+    [
+     "live",
+     "lives",
+     "living"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "My sister ___ English every evening.",
+    [
+     "study",
+     "studys",
+     "studies"
+    ],
+    2,
+    [
+     "Phụ âm + y → ies.",
+     "Consonant + y → ies."
+    ]
+   ],
+   [
+    "fill",
+    "___ she like coffee?",
+    [
+     "Do",
+     "Does",
+     "Is"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "They ___ eat meat.",
+    [
+     "doesn't",
+     "don't",
+     "aren't"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "She doesn't works here.",
+     "She doesn't work here.",
+     "She don't work here."
+    ],
+    1,
+    [
+     "Sau does/doesn't, động từ ở dạng nguyên mẫu.",
+     "After does/doesn't, use the base verb."
+    ]
+   ],
+   [
+    "type",
+    [
+     "Viết dạng he/she/it của động từ: watch",
+     "Write the he/she/it form: watch"
+    ],
+    [
+     "watches"
+    ]
+   ],
+   [
+    "tr",
+    "Anh ấy không bao giờ đi làm muộn.",
+    [
+     "He never is late for work.",
+     "He is never late for work.",
+     "He never late for work."
+    ],
+    1,
+    [
+     "Trạng từ tần suất đứng sau to be.",
+     "Frequency adverbs go after to be."
+    ]
+   ],
+   [
+    "order",
+    "I always get up at six",
+    "Tôi luôn dậy lúc 6 giờ."
+   ],
+   [
+    "dict",
+    "She usually drinks tea in the morning."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "My brother usually gets up at half past five because he works at a bakery near our house.",
+    "q": [
+     "Vì sao anh trai dậy sớm?",
+     "Why does the brother get up early?"
+    ],
+    "o": [
+     [
+      "vì anh ấy đi tập thể dục",
+      "because he goes to the gym"
+     ],
+     [
+      "vì anh ấy làm ở tiệm bánh",
+      "because he works at a bakery"
+     ],
+     [
+      "vì trường của anh ấy ở xa",
+      "because his school is far away"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Lý do nằm sau “because”: “he works at a bakery”. Chú ý “works” có -s vì chủ ngữ là “he”.",
+     "The reason follows “because”: “he works at a bakery”. Note the -s in “works” after “he”."
+    ],
+    "f": [
+     "he works at a bakery",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "She doesn't drink coffee in the evening because it keeps her awake at night.",
+    "e": [
+     "Sau “doesn't” động từ ở dạng nguyên mẫu “drink” (không có -s). “keeps” có -s vì chủ ngữ “it” là ngôi thứ ba số ít.",
+     "After “doesn't” use the base form “drink” (no -s). “keeps” has -s because “it” is third person singular."
+    ],
+    "f": [
+     "doesn't drink",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I usually study English for thirty minutes before I go to bed every night.",
+    "e": [
+     "Đặt “usually” ngay trước động từ “study”. Nhấn “thirty” rõ âm /θ/: đặt lưỡi giữa hai hàm răng.",
+     "Put “usually” right before “study”. Say the /θ/ in “thirty” with your tongue between your teeth."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "My grandfather, Mr Tuan, is seventy years old, but he is never lazy. He gets up at five o'clock every morning and walks to the park near the lake. He does exercise there with his friends for an hour. After breakfast, he reads the newspaper and waters the plants. He doesn't watch TV in the afternoon; he plays chess with our neighbour. My grandmother usually cooks dinner, but on Sundays my grandfather cooks fish soup for the whole family.",
+   "tr": "Ông tôi, ông Tuấn, đã bảy mươi tuổi nhưng ông không bao giờ lười biếng. Ông dậy lúc năm giờ mỗi sáng và đi bộ đến công viên gần hồ. Ông tập thể dục ở đó với bạn bè trong một tiếng. Sau bữa sáng, ông đọc báo và tưới cây. Buổi chiều ông không xem TV; ông chơi cờ với hàng xóm nhà tôi. Bà tôi thường nấu bữa tối, nhưng vào Chủ nhật ông nấu canh cá cho cả nhà."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Ông Tuấn dậy lúc mấy giờ?",
+     "What time does Mr Tuan get up?"
+    ],
+    "o": [
+     "5:00",
+     "6:00",
+     "7:00"
+    ],
+    "a": 0,
+    "e": [
+     "“He gets up at five o'clock every morning” – năm giờ sáng.",
+     "“He gets up at five o'clock every morning.”"
+    ],
+    "f": [
+     "He gets up at five o'clock",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Buổi chiều ông làm gì?",
+     "What does he do in the afternoon?"
+    ],
+    "o": [
+     [
+      "xem TV",
+      "watches TV"
+     ],
+     [
+      "chơi cờ với hàng xóm",
+      "plays chess with a neighbour"
+     ],
+     [
+      "tưới cây",
+      "waters the plants"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Bài nói “He doesn't watch TV in the afternoon; he plays chess…”. Tưới cây là việc ông làm sau bữa sáng.",
+     "The text says he doesn't watch TV; he plays chess. He waters the plants after breakfast, not in the afternoon."
+    ],
+    "f": [
+     "he plays chess with our neighbour",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ai nấu bữa tối vào Chủ nhật?",
+     "Who cooks dinner on Sundays?"
+    ],
+    "o": [
+     [
+      "bà",
+      "the grandmother"
+     ],
+     [
+      "ông",
+      "the grandfather"
+     ],
+     [
+      "cả gia đình",
+      "the whole family"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Bà “usually” (thường) nấu, nhưng “on Sundays my grandfather cooks fish soup”. Từ “but” báo hiệu sự thay đổi.",
+     "The grandmother usually cooks, but “on Sundays my grandfather cooks fish soup”. The word “but” signals the exception."
+    ],
+    "f": [
+     "on Sundays my grandfather cooks fish soup",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My father ___ to work by bus every day because there is no parking near his office.",
+    "o": [
+     "go",
+     "goes",
+     "going"
+    ],
+    "a": 1,
+    "e": [
+     "Chủ ngữ “My father” = he → thêm -es vào “go” thành “goes” (động từ tận cùng -o). “going” cần có am/is/are đi trước.",
+     "“My father” = he, so “go” becomes “goes” (verbs ending in -o add -es). “going” would need is/am/are."
+    ],
+    "f": [
+     "goes",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ your sister usually have lunch at school, or does she come home at noon?",
+    "a": [
+     "Does",
+     "does"
+    ],
+    "e": [
+     "Câu hỏi hiện tại đơn với chủ ngữ ngôi thứ ba số ít (your sister) dùng “Does” + động từ nguyên mẫu “have”. Không dùng “Is”.",
+     "A present simple question with a third-person subject (your sister) uses “Does” + base verb “have”. Don't use “Is”."
+    ],
+    "f": [
+     "Does",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My mother doesn't likes spicy food, so she never eats chilli with her noodles.",
+    "a": [
+     "My mother doesn't like spicy food, so she never eats chilli with her noodles.",
+     "My mother does not like spicy food, so she never eats chilli with her noodles."
+    ],
+    "e": [
+     "Sau “doesn't” động từ trở về nguyên mẫu: “doesn't like”, không phải “doesn't likes”. Đuôi -s đã nằm trong “does”.",
+     "After “doesn't” the verb goes back to its base form: “doesn't like”. The -s is already in “does”."
+    ],
+    "f": [
+     "doesn't like",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Em gái tôi thường học tiếng Anh vào buổi tối vì buổi sáng em ấy đi làm.",
+    "a": [
+     "My younger sister usually studies English in the evening because she works in the morning.",
+     "My little sister usually studies English in the evening because she works in the morning.",
+     "My younger sister usually studies English in the evening because she goes to work in the morning.",
+     "My little sister usually studies English in the evening because she goes to work in the morning.",
+     "My younger sister usually studies English in the evenings because she works in the mornings.",
+     "My sister usually studies English in the evening because she works in the morning."
+    ],
+    "e": [
+     "“study” → “studies” (phụ âm + y → ies) vì chủ ngữ là “she”. “usually” đứng trước động từ thường.",
+     "“study” becomes “studies” (consonant + y → ies) for “she”. “usually” goes before the main verb."
+    ],
+    "f": [
+     "usually studies",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Thêm “always” vào đúng vị trí trong câu",
+     "Add “always” in the correct place"
+    ],
+    "s": "Tom is late for class on Monday mornings because he plays football on Sunday nights.",
+    "a": [
+     "Tom is always late for class on Monday mornings because he plays football on Sunday nights."
+    ],
+    "e": [
+     "Trạng từ tần suất đứng SAU động từ to be: “is always late”. Lỗi thường gặp: “Tom always is late”.",
+     "Frequency adverbs go AFTER the verb to be: “is always late”. A common mistake is “Tom always is late”."
+    ],
+    "f": [
+     "is always late",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "We|don't go|to school|on Saturdays,|so we usually|visit our grandparents|in the countryside",
+    "m": [
+     "Chúng tôi không đi học vào thứ Bảy, nên chúng tôi thường về thăm ông bà ở quê.",
+     "We don't go to school on Saturdays, so we usually visit our grandparents in the countryside."
+    ],
+    "e": [
+     "Phủ định với “we” dùng “don't + go”. Trong vế sau, “usually” đứng trước động từ “visit”.",
+     "The negative with “we” is “don't + go”. In the second clause, “usually” comes before “visit”."
+    ],
+    "f": [
+     "don't go",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-3",
+  "t": [
+   "Mạo từ a / an / the & số nhiều",
+   "Articles & plurals"
+  ],
+  "th": [
+   [
+    "**a** đứng trước **âm** phụ âm, **an** trước **âm** nguyên âm. Quyết định bởi cách đọc, không phải chữ cái:\n• a book, a **u**niversity (/juː/), a **E**uropean country\n• an apple, an **h**our (h câm), an **M**BA (/em/)",
+    "**a** goes before a consonant **sound**, **an** before a vowel **sound**. Pronunciation decides, not spelling:\n• a book, a **u**niversity (/juː/), a **E**uropean country\n• an apple, an **h**our (silent h), an **M**BA (/em/)"
+   ],
+   [
+    "**the** dùng khi người nghe biết rõ vật nào: đã nhắc trước đó, duy nhất, hoặc xác định bằng ngữ cảnh. I have a cat. **The** cat is black. **The** sun, **the** door (of this room).",
+    "Use **the** when the listener knows which one: mentioned before, unique, or clear from context. I have a cat. **The** cat is black. **The** sun, **the** door (of this room)."
+   ],
+   [
+    "Số nhiều:\n• thường thêm **-s**: books\n• -s, -sh, -ch, -x, -o → **-es**: boxes, watches, potatoes\n• phụ âm + y → **-ies**: city → cities\n• bất quy tắc: man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth",
+    "Plurals:\n• usually add **-s**: books\n• -s, -sh, -ch, -x, -o → **-es**: boxes, watches, potatoes\n• consonant + y → **-ies**: city → cities\n• irregular: man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth"
+   ]
+  ],
+  "vo": [
+   [
+    "apple",
+    "/ˈæpl/",
+    "quả táo",
+    "a round fruit"
+   ],
+   [
+    "hour",
+    "/ˈaʊər/",
+    "giờ (60 phút)",
+    "60 minutes"
+   ],
+   [
+    "umbrella",
+    "/ʌmˈbrelə/",
+    "cái ô",
+    "it keeps rain off you"
+   ],
+   [
+    "university",
+    "/ˌjuːnɪˈvɜːrsəti/",
+    "trường đại học",
+    "a place for higher education"
+   ],
+   [
+    "box",
+    "/bɑːks/",
+    "cái hộp",
+    "a container"
+   ],
+   [
+    "city",
+    "/ˈsɪti/",
+    "thành phố",
+    "a large town"
+   ],
+   [
+    "child",
+    "/tʃaɪld/",
+    "đứa trẻ",
+    "a young person"
+   ],
+   [
+    "people",
+    "/ˈpiːpl/",
+    "người (số nhiều)",
+    "persons"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "I need ___ umbrella.",
+    [
+     "a",
+     "an",
+     "the"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "She studies at ___ university in Hanoi.",
+    [
+     "a",
+     "an"
+    ],
+    0,
+    [
+     "university bắt đầu bằng âm /j/ (phụ âm).",
+     "university starts with the consonant sound /j/."
+    ]
+   ],
+   [
+    "fill",
+    "We waited for ___ hour.",
+    [
+     "a",
+     "an"
+    ],
+    1,
+    [
+     "h trong hour là âm câm.",
+     "The h in hour is silent."
+    ]
+   ],
+   [
+    "fill",
+    "I have a dog. ___ dog is very friendly.",
+    [
+     "A",
+     "An",
+     "The"
+    ],
+    2,
+    [
+     "Đã nhắc đến trước → the.",
+     "Already mentioned → the."
+    ]
+   ],
+   [
+    "type",
+    [
+     "Số nhiều của: child",
+     "Plural of: child"
+    ],
+    [
+     "children"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Số nhiều của: city",
+     "Plural of: city"
+    ],
+    [
+     "cities"
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Dạng số nhiều nào đúng?",
+     "Which plural is correct?"
+    ],
+    [
+     "two boxs",
+     "two boxes",
+     "two boxies"
+    ],
+    1
+   ],
+   [
+    "order",
+    "The children are in the garden",
+    "Bọn trẻ đang ở trong vườn."
+   ],
+   [
+    "dict",
+    "The children are eating three apples."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "I have a dog and a cat, and the dog sleeps in a small box in the kitchen.",
+    "q": [
+     "Con chó ngủ ở đâu?",
+     "Where does the dog sleep?"
+    ],
+    "o": [
+     [
+      "trong vườn",
+      "in the garden"
+     ],
+     [
+      "trong một cái hộp nhỏ trong bếp",
+      "in a small box in the kitchen"
+     ],
+     [
+      "trên giường",
+      "on the bed"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“the dog sleeps in a small box in the kitchen”. “the dog” dùng “the” vì con chó đã được nhắc ở trước.",
+     "“the dog sleeps in a small box in the kitchen”. It is “the dog” because it was mentioned before."
+    ],
+    "f": [
+     "in a small box in the kitchen",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "My aunt has two children, and she gives them an apple and a banana every day.",
+    "e": [
+     "“an apple” vì “apple” bắt đầu bằng âm nguyên âm; “a banana” vì /b/ là phụ âm. “children” là số nhiều bất quy tắc của “child”.",
+     "“an apple” (vowel sound) but “a banana” (consonant sound). “children” is the irregular plural of “child”."
+    ],
+    "f": [
+     "an apple and a banana",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "An hour is not a long time, but the children are very tired and want to go home.",
+    "e": [
+     "“An hour” đọc nối thành /ə.naʊər/ vì chữ h câm. “children” đọc /ˈtʃɪl.drən/.",
+     "Link “An hour” as /ə.naʊər/ because the h is silent. “children” is /ˈtʃɪl.drən/."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Our new flat is in a quiet street near a university. It has two bedrooms, a kitchen and a small balcony. The kitchen is old, but the balcony is lovely, and we have some tomatoes and three boxes of flowers there. Our neighbours are a man and a woman with two children. The children are friendly and they often play with our cat. Every morning I buy an egg sandwich and an orange from a shop at the end of the street.",
+   "tr": "Căn hộ mới của chúng tôi nằm trên một con phố yên tĩnh gần một trường đại học. Căn hộ có hai phòng ngủ, một nhà bếp và một ban công nhỏ. Nhà bếp thì cũ, nhưng ban công rất đẹp, và chúng tôi trồng ít cà chua và ba thùng hoa ở đó. Hàng xóm của chúng tôi là một người đàn ông và một người phụ nữ cùng hai đứa con. Bọn trẻ rất thân thiện và hay chơi với con mèo của chúng tôi. Sáng nào tôi cũng mua một cái bánh mì kẹp trứng và một quả cam ở cửa hàng cuối phố."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Căn hộ ở gần đâu?",
+     "What is the flat near?"
+    ],
+    "o": [
+     [
+      "một trường đại học",
+      "a university"
+     ],
+     [
+      "một bệnh viện",
+      "a hospital"
+     ],
+     [
+      "một công viên",
+      "a park"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“in a quiet street near a university”. Chú ý: “a university” chứ không phải “an university” vì âm đầu là /j/.",
+     "“in a quiet street near a university”. Note “a university”, not “an”, because it starts with the sound /j/."
+    ],
+    "f": [
+     "near a university",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Trên ban công có gì?",
+     "What is on the balcony?"
+    ],
+    "o": [
+     [
+      "cà chua và ba thùng hoa",
+      "tomatoes and three boxes of flowers"
+     ],
+     [
+      "một con mèo",
+      "a cat"
+     ],
+     [
+      "hai đứa trẻ",
+      "two children"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“we have some tomatoes and three boxes of flowers there” – “there” chỉ ban công vừa nhắc đến.",
+     "“we have some tomatoes and three boxes of flowers there” – “there” refers to the balcony."
+    ],
+    "f": [
+     "some tomatoes and three boxes of flowers",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hàng xóm gồm những ai?",
+     "Who are the neighbours?"
+    ],
+    "o": [
+     [
+      "một người đàn ông, một phụ nữ và hai đứa trẻ",
+      "a man, a woman and two children"
+     ],
+     [
+      "hai người đàn ông",
+      "two men"
+     ],
+     [
+      "một gia đình có ba con",
+      "a family with three children"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“a man and a woman with two children”. Bài dùng “the children” ở câu sau vì người đọc đã biết là bọn trẻ nào.",
+     "“a man and a woman with two children”. The next sentence says “the children” because we now know which ones."
+    ],
+    "f": [
+     "a man and a woman with two children",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My uncle is ___ engineer, and he works for a big company in the city centre.",
+    "o": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 1,
+    "e": [
+     "“engineer” bắt đầu bằng âm nguyên âm /e/ nên dùng “an”. Không dùng “the” vì đây là lần đầu nhắc và chỉ nói nghề nghiệp.",
+     "“engineer” starts with the vowel sound /e/, so use “an”. Not “the”: we are just saying his job."
+    ],
+    "f": [
+     "an engineer",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I have a new bike for school, and ___ bike is red and very fast.",
+    "a": [
+     "the",
+     "The"
+    ],
+    "e": [
+     "Chiếc xe đã được nhắc đến (“a new bike”), nên lần thứ hai dùng “the”. Có thể dùng “my” nhưng bài này luyện mạo từ.",
+     "The bike was already mentioned (“a new bike”), so the second time we use “the”."
+    ],
+    "f": [
+     "the bike",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My teacher has three childs, and they all go to the same school near our house.",
+    "a": [
+     "My teacher has three children, and they all go to the same school near our house.",
+     "My teacher has three children and they all go to the same school near our house."
+    ],
+    "e": [
+     "“child” có số nhiều bất quy tắc là “children”, không thêm -s. Tương tự: man → men, person → people.",
+     "“child” has the irregular plural “children”; never add -s. Compare man → men, person → people."
+    ],
+    "f": [
+     "three children",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi ăn một quả táo và một quả chuối mỗi sáng vì chúng tốt cho sức khỏe.",
+    "a": [
+     "I eat an apple and a banana every morning because they are good for my health.",
+     "I eat an apple and a banana every morning because they are good for health.",
+     "I eat an apple and a banana every morning because they are healthy.",
+     "Every morning I eat an apple and a banana because they are good for my health.",
+     "I eat an apple and a banana every morning because they're good for my health.",
+     "I eat an apple and a banana every morning because they're healthy."
+    ],
+    "e": [
+     "“an apple” (âm nguyên âm /æ/) nhưng “a banana” (âm phụ âm /b/). Chọn a/an theo âm đầu, không theo nghĩa.",
+     "“an apple” (vowel sound /æ/) but “a banana” (consonant sound /b/). Choose by the first sound."
+    ],
+    "f": [
+     "an apple and a banana",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở số nhiều, bắt đầu bằng “The boxes”",
+     "Rewrite in the plural, starting with “The boxes”"
+    ],
+    "s": "The box on the table is heavy because it has a lot of potatoes in it.",
+    "a": [
+     "The boxes on the table are heavy because they have a lot of potatoes in them.",
+     "The boxes on the table are heavy because they have lots of potatoes in them."
+    ],
+    "e": [
+     "box → boxes (-x thêm -es). Khi chủ ngữ thành số nhiều, phải đổi cả is → are, it → they, has → have, in it → in them.",
+     "box → boxes (-x adds -es). With a plural subject, change is → are, it → they, has → have, in it → in them."
+    ],
+    "f": [
+     "The boxes on the table are heavy",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "An|hour|is enough time|to visit|the museum|and have|a cup of tea",
+    "m": [
+     "Một tiếng là đủ thời gian để tham quan bảo tàng và uống một tách trà.",
+     "An hour is enough time to visit the museum and have a cup of tea."
+    ],
+    "e": [
+     "“An hour” dùng “an” vì h câm. “the museum” dùng “the” vì cả hai người đều biết bảo tàng nào.",
+     "“An hour” uses “an” because the h is silent. “the museum” – both speakers know which museum."
+    ],
+    "f": [
+     "An hour",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-4",
+  "t": [
+   "There is / are & giới từ nơi chốn",
+   "There is / are & place prepositions"
+  ],
+  "th": [
+   [
+    "**There is** + danh từ số ít / không đếm được; **There are** + danh từ số nhiều.\nPhủ định: There isn't a… / There aren't any…\nCâu hỏi: Is there a…? Are there any…?",
+    "**There is** + singular / uncountable noun; **There are** + plural noun.\nNegative: There isn't a… / There aren't any…\nQuestion: Is there a…? Are there any…?"
+   ],
+   [
+    "Giới từ nơi chốn:\n• **in** – bên trong (in the box)\n• **on** – trên bề mặt (on the table)\n• **under** – bên dưới\n• **next to** – bên cạnh\n• **between A and B** – ở giữa\n• **behind** – phía sau, **in front of** – phía trước\n• **opposite** – đối diện",
+    "Place prepositions:\n• **in** – inside (in the box)\n• **on** – on a surface (on the table)\n• **under** – below\n• **next to** – beside\n• **between A and B**\n• **behind**, **in front of**\n• **opposite** – facing"
+   ]
+  ],
+  "vo": [
+   [
+    "table",
+    "/ˈteɪbl/",
+    "cái bàn",
+    "furniture with a flat top"
+   ],
+   [
+    "kitchen",
+    "/ˈkɪtʃɪn/",
+    "nhà bếp",
+    "room for cooking"
+   ],
+   [
+    "chair",
+    "/tʃer/",
+    "cái ghế",
+    "a seat"
+   ],
+   [
+    "window",
+    "/ˈwɪndoʊ/",
+    "cửa sổ",
+    "glass opening in a wall"
+   ],
+   [
+    "bed",
+    "/bed/",
+    "giường",
+    "furniture for sleeping"
+   ],
+   [
+    "behind",
+    "/bɪˈhaɪnd/",
+    "phía sau",
+    "at the back of"
+   ],
+   [
+    "next to",
+    "/nekst tuː/",
+    "bên cạnh",
+    "beside"
+   ],
+   [
+    "opposite",
+    "/ˈɑːpəzɪt/",
+    "đối diện",
+    "facing"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "There ___ two chairs in the kitchen.",
+    [
+     "is",
+     "are"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "There ___ some milk in the fridge.",
+    [
+     "is",
+     "are"
+    ],
+    0,
+    [
+     "milk không đếm được → is.",
+     "milk is uncountable → is."
+    ]
+   ],
+   [
+    "fill",
+    "___ there any shops near here?",
+    [
+     "Is",
+     "Are"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "The cat is ___ the bed. (bên dưới)",
+    [
+     "on",
+     "under",
+     "in"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "The bank is ___ the café and the school.",
+    [
+     "next to",
+     "between",
+     "opposite"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Quyển sách nằm trên mặt bàn: the book is ___ the table",
+     "The book rests on the table's surface: the book is ___ the table"
+    ],
+    [
+     "in",
+     "on",
+     "at"
+    ],
+    1
+   ],
+   [
+    "tr",
+    "Không có cái ghế nào trong phòng.",
+    [
+     "There isn't any chairs in the room.",
+     "There aren't any chairs in the room.",
+     "There are no any chairs in the room."
+    ],
+    1
+   ],
+   [
+    "order",
+    "There is a lamp next to the bed",
+    "Có một cái đèn bên cạnh giường."
+   ],
+   [
+    "dict",
+    "There is a big window in my bedroom."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "There is a small café opposite the bank, and there are two bookshops next to it.",
+    "q": [
+     "Quán cà phê ở đâu?",
+     "Where is the café?"
+    ],
+    "o": [
+     [
+      "đối diện ngân hàng",
+      "opposite the bank"
+     ],
+     [
+      "cạnh ngân hàng",
+      "next to the bank"
+     ],
+     [
+      "sau hiệu sách",
+      "behind the bookshop"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“opposite” = đối diện. “next to it” nói về vị trí của hai hiệu sách, không phải quán cà phê.",
+     "“opposite” means facing. “next to it” describes the bookshops, not the café."
+    ],
+    "f": [
+     "opposite the bank",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "There aren't any chairs in the kitchen, so we eat our dinner in the living room.",
+    "e": [
+     "“chairs” số nhiều → “There aren't any”. Dấu nháy trong “aren't” thay cho chữ o của “not”.",
+     "“chairs” is plural → “There aren't any”. The apostrophe in “aren't” replaces the o of “not”."
+    ],
+    "f": [
+     "There aren't any chairs",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Is there a supermarket near your house, or do you go to the market every day?",
+    "e": [
+     "Lên giọng ở cuối vế hỏi thứ nhất (“house?”) và xuống giọng ở cuối câu lựa chọn (“every day”).",
+     "Rise on “house” in the first question and fall at the end of the choice question (“every day”)."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Welcome to the Green House Hostel! There are twelve rooms on two floors. On the ground floor, there is a big kitchen and a living room with a TV. The bathrooms are next to the stairs. There isn't a lift, sorry! In front of the hostel there is a small garden, and behind it there is a car park. The bus stop is opposite the hostel, between a pharmacy and a bakery. Are there any questions? Please ask us at the front desk!",
+   "tr": "Chào mừng bạn đến nhà nghỉ Green House! Có mười hai phòng trên hai tầng. Ở tầng trệt có một nhà bếp lớn và một phòng khách có TV. Các phòng tắm nằm cạnh cầu thang. Rất tiếc là không có thang máy! Phía trước nhà nghỉ có một khu vườn nhỏ, và phía sau là bãi đỗ xe. Trạm xe buýt nằm đối diện nhà nghỉ, giữa một hiệu thuốc và một tiệm bánh. Bạn có câu hỏi nào không? Hãy hỏi chúng tôi ở quầy lễ tân nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Nhà nghỉ có bao nhiêu phòng?",
+     "How many rooms are there?"
+    ],
+    "o": [
+     "10",
+     "12",
+     "20"
+    ],
+    "a": 1,
+    "e": [
+     "“There are twelve rooms on two floors.” Đừng nhầm “twelve” (12) với “twenty” (20).",
+     "“There are twelve rooms on two floors.” Don't confuse “twelve” (12) with “twenty” (20)."
+    ],
+    "f": [
+     "There are twelve rooms",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bãi đỗ xe ở đâu?",
+     "Where is the car park?"
+    ],
+    "o": [
+     [
+      "phía sau nhà nghỉ",
+      "behind the hostel"
+     ],
+     [
+      "phía trước nhà nghỉ",
+      "in front of the hostel"
+     ],
+     [
+      "đối diện nhà nghỉ",
+      "opposite the hostel"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“behind it there is a car park” – “it” là nhà nghỉ. Phía trước là khu vườn, đối diện là trạm xe buýt.",
+     "“behind it there is a car park” – “it” is the hostel. The garden is in front; the bus stop is opposite."
+    ],
+    "f": [
+     "behind it there is a car park",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào ĐÚNG?",
+     "Which sentence is TRUE?"
+    ],
+    "o": [
+     [
+      "Nhà nghỉ có thang máy.",
+      "The hostel has a lift."
+     ],
+     [
+      "Trạm xe buýt nằm giữa hiệu thuốc và tiệm bánh.",
+      "The bus stop is between a pharmacy and a bakery."
+     ],
+     [
+      "Nhà bếp ở tầng trên.",
+      "The kitchen is upstairs."
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“between a pharmacy and a bakery” – giữa hai địa điểm. Bài nói “There isn't a lift”, và bếp ở tầng trệt.",
+     "The text says “between a pharmacy and a bakery”. There isn't a lift, and the kitchen is on the ground floor."
+    ],
+    "f": [
+     "between a pharmacy and a bakery",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "There ___ a lot of traffic in the city centre in the morning, so I go to work by bike.",
+    "o": [
+     "is",
+     "are",
+     "be"
+    ],
+    "a": 0,
+    "e": [
+     "“traffic” là danh từ không đếm được nên dùng “There is”, dù có “a lot of”. Đừng để “a lot of” đánh lừa bạn chọn “are”.",
+     "“traffic” is uncountable, so use “There is”, even after “a lot of”. Don't let “a lot of” trick you into “are”."
+    ],
+    "f": [
+     "There is",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The post office is ___ the bank and the school, so you can't miss it.",
+    "a": [
+     "between"
+    ],
+    "e": [
+     "Có hai địa điểm nối bằng “and” → dùng “between A and B” (ở giữa). “next to” chỉ đi với một vật.",
+     "Two places joined by “and” → “between A and B”. “next to” goes with only one thing."
+    ],
+    "f": [
+     "between",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "There is three big windows in my bedroom, so it is very bright in the morning.",
+    "a": [
+     "There are three big windows in my bedroom, so it is very bright in the morning.",
+     "There are three big windows in my bedroom, so it's very bright in the morning."
+    ],
+    "e": [
+     "“three big windows” là số nhiều → “There are”. Động từ chia theo danh từ đứng SAU “there”.",
+     "“three big windows” is plural → “There are”. The verb agrees with the noun AFTER “there”."
+    ],
+    "f": [
+     "There are three big windows",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Có một hiệu thuốc đối diện nhà tôi, nhưng không có siêu thị nào gần đây.",
+    "a": [
+     "There is a pharmacy opposite my house, but there isn't a supermarket near here.",
+     "There is a pharmacy opposite my house, but there aren't any supermarkets near here.",
+     "There is a pharmacy opposite my house, but there is no supermarket near here.",
+     "There's a pharmacy opposite my house, but there isn't a supermarket near here.",
+     "There is a pharmacy opposite my house, but there isn't a supermarket nearby.",
+     "There is a pharmacy opposite my house, but there aren't any supermarkets nearby.",
+     "There's a pharmacy opposite my house, but there's no supermarket nearby.",
+     "There is a pharmacy opposite my house, but there is no supermarket nearby."
+    ],
+    "e": [
+     "“Có… / không có…” dịch bằng “There is / There isn't”. “không… nào” có thể là “isn't a + số ít” hoặc “aren't any + số nhiều”. “đối diện” = opposite (không cần “to”).",
+     "Use “There is / There isn't”. “No … at all” can be “isn't a + singular” or “aren't any + plural”. “opposite” needs no “to”."
+    ],
+    "f": [
+     "There is a pharmacy opposite my house",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu hỏi",
+     "Rewrite as a question"
+    ],
+    "s": "There are some good restaurants near the train station in your town.",
+    "a": [
+     "Are there any good restaurants near the train station in your town?"
+    ],
+    "e": [
+     "Câu hỏi: đảo thành “Are there”, và đổi “some” thành “any” trong câu hỏi thông thường.",
+     "For the question, invert to “Are there” and change “some” to “any”."
+    ],
+    "f": [
+     "Are there any",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "There is|a beautiful old tree|in front of|our school,|and the students|often sit|under it",
+    "m": [
+     "Có một cái cây cổ thụ rất đẹp ở trước trường chúng tôi, và học sinh thường ngồi dưới gốc cây.",
+     "There is a beautiful old tree in front of our school, and the students often sit under it."
+    ],
+    "e": [
+     "“There is” + danh từ số ít, rồi cụm giới từ “in front of our school”. Tính từ ý kiến “beautiful” đứng trước tính từ tuổi “old”.",
+     "“There is” + singular noun, then the place phrase. The opinion adjective “beautiful” goes before the age adjective “old”."
+    ],
+    "f": [
+     "in front of our school",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-5",
+  "t": [
+   "Hiện tại tiếp diễn",
+   "Present continuous"
+  ],
+  "th": [
+   [
+    "Cấu trúc: **am / is / are + V-ing**. Dùng cho hành động đang xảy ra lúc nói (now, at the moment, Look!, Listen!) hoặc tạm thời (this week).",
+    "Form: **am / is / are + V-ing**. Use it for actions happening now (now, at the moment, Look!, Listen!) or temporary situations (this week)."
+   ],
+   [
+    "Chính tả V-ing:\n• bỏ e câm: make → making, write → writing\n• gấp đôi phụ âm cuối (1 nguyên âm + 1 phụ âm, trọng âm cuối): run → running, sit → sitting\n• ie → y: lie → lying",
+    "V-ing spelling:\n• drop silent e: make → making, write → writing\n• double the final consonant (one vowel + one consonant, stressed): run → running, sit → sitting\n• ie → y: lie → lying"
+   ],
+   [
+    "**Động từ trạng thái** không dùng tiếp diễn: like, love, want, know, understand, need, believe, own. Nói “I know”, không nói “I am knowing”.",
+    "**Stative verbs** are not used in the continuous: like, love, want, know, understand, need, believe, own. Say “I know”, not “I am knowing”."
+   ]
+  ],
+  "vo": [
+   [
+    "now",
+    "/naʊ/",
+    "bây giờ",
+    "at this moment"
+   ],
+   [
+    "at the moment",
+    "/æt ðə ˈmoʊmənt/",
+    "lúc này",
+    "right now"
+   ],
+   [
+    "wait",
+    "/weɪt/",
+    "chờ đợi",
+    "to stay until something happens"
+   ],
+   [
+    "cook",
+    "/kʊk/",
+    "nấu ăn",
+    "to prepare food"
+   ],
+   [
+    "rain",
+    "/reɪn/",
+    "mưa",
+    "water falling from clouds"
+   ],
+   [
+    "write",
+    "/raɪt/",
+    "viết",
+    "to make words on paper"
+   ],
+   [
+    "listen",
+    "/ˈlɪsn/",
+    "lắng nghe",
+    "to pay attention to sound"
+   ],
+   [
+    "look",
+    "/lʊk/",
+    "nhìn",
+    "to direct your eyes"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Look! It ___ .",
+    [
+     "rains",
+     "is raining",
+     "rain"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "She ___ dinner at the moment.",
+    [
+     "cooks",
+     "is cooking",
+     "cooking"
+    ],
+    1
+   ],
+   [
+    "type",
+    [
+     "Dạng V-ing của: run",
+     "V-ing form of: run"
+    ],
+    [
+     "running"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Dạng V-ing của: write",
+     "V-ing form of: write"
+    ],
+    [
+     "writing"
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "I am knowing the answer.",
+     "I know the answer.",
+     "I knowing the answer."
+    ],
+    1,
+    [
+     "know là động từ trạng thái.",
+     "know is a stative verb."
+    ]
+   ],
+   [
+    "fill",
+    "They usually walk to school, but today they ___ the bus.",
+    [
+     "take",
+     "are taking",
+     "takes"
+    ],
+    1
+   ],
+   [
+    "order",
+    "What are you doing now",
+    "Bây giờ bạn đang làm gì?"
+   ],
+   [
+    "dict",
+    "We are waiting for the bus."
+   ],
+   [
+    "say",
+    "I am learning English right now."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Sorry, I can't talk now because I am cooking dinner and my hands are wet.",
+    "q": [
+     "Vì sao người nói không thể nói chuyện?",
+     "Why can't the speaker talk?"
+    ],
+    "o": [
+     [
+      "đang lái xe",
+      "he is driving"
+     ],
+     [
+      "đang nấu bữa tối",
+      "he is cooking dinner"
+     ],
+     [
+      "đang tắm",
+      "he is having a shower"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I am cooking dinner” – hiện tại tiếp diễn diễn tả việc đang xảy ra ngay lúc nói. “hands are wet” vì đang nấu ăn, không phải đang tắm.",
+     "“I am cooking dinner” – the present continuous for an action happening now. Wet hands come from cooking, not a shower."
+    ],
+    "f": [
+     "I am cooking dinner",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "It is raining heavily outside, so the children are playing games in the living room.",
+    "e": [
+     "Hai hành động đang diễn ra: “is raining”, “are playing”. Chú ý “raining”, “playing” chỉ thêm -ing, không đổi chữ.",
+     "Two actions happening now: “is raining”, “are playing”. Just add -ing; no spelling change."
+    ],
+    "f": [
+     "are playing",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "This week I am staying with my aunt because my parents are working in Da Nang.",
+    "e": [
+     "Hiện tại tiếp diễn cho tình huống tạm thời (this week). Đọc nối “I am” → /aɪ əm/ hoặc “I'm”.",
+     "Present continuous for a temporary situation (this week). Link “I am” or say “I'm”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hi Lan, I'm writing this message from the train! It's ten o'clock and we are going to Hue. My mum is sleeping next to me and my little brother is playing a game on his phone. Outside, it is raining, but the sea looks beautiful. A man opposite us is eating a big bowl of noodles and talking to his wife. I usually hate long trips, but I'm enjoying this one. What are you doing now? Are you studying for the test?",
+   "tr": "Chào Lan, mình đang viết tin nhắn này trên tàu đấy! Bây giờ là mười giờ và nhà mình đang đi Huế. Mẹ mình đang ngủ bên cạnh, còn em trai mình đang chơi game trên điện thoại. Bên ngoài trời đang mưa, nhưng biển trông rất đẹp. Một người đàn ông ngồi đối diện đang ăn một bát mì to và nói chuyện với vợ. Mình thường ghét những chuyến đi dài, nhưng mình đang rất thích chuyến này. Bây giờ cậu đang làm gì? Cậu đang ôn thi à?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Mẹ của người viết đang làm gì?",
+     "What is the writer's mum doing?"
+    ],
+    "o": [
+     [
+      "ngủ",
+      "sleeping"
+     ],
+     [
+      "ăn mì",
+      "eating noodles"
+     ],
+     [
+      "chơi điện thoại",
+      "playing on her phone"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“My mum is sleeping next to me.” Người ăn mì là người đàn ông ngồi đối diện; người chơi game là em trai.",
+     "“My mum is sleeping next to me.” The man opposite is eating noodles; the brother is playing a game."
+    ],
+    "f": [
+     "My mum is sleeping",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Thời tiết bên ngoài thế nào?",
+     "What is the weather like outside?"
+    ],
+    "o": [
+     [
+      "nắng",
+      "sunny"
+     ],
+     [
+      "đang mưa",
+      "raining"
+     ],
+     [
+      "có tuyết",
+      "snowing"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“Outside, it is raining” – trời đang mưa ngay lúc viết.",
+     "“Outside, it is raining” – it is raining at the moment of writing."
+    ],
+    "f": [
+     "it is raining",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết thường cảm thấy thế nào về những chuyến đi dài?",
+     "How does the writer usually feel about long trips?"
+    ],
+    "o": [
+     [
+      "Luôn thích chúng",
+      "She always loves them"
+     ],
+     [
+      "Thường ghét, nhưng đang thích chuyến này",
+      "She usually hates them, but she is enjoying this one"
+     ],
+     [
+      "Bài không nói",
+      "The text doesn't say"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I usually hate long trips” (thói quen → hiện tại đơn) “but I'm enjoying this one” (lúc này → tiếp diễn). Đây chính là điểm khác nhau giữa hai thì.",
+     "“I usually hate” (habit → present simple) “but I'm enjoying this one” (now → continuous). This is exactly the contrast between the two tenses."
+    ],
+    "f": [
+     "I usually hate long trips, but I'm enjoying this one",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My father usually drives to work, but this week he ___ the bus because his car is broken.",
+    "o": [
+     "takes",
+     "is taking",
+     "take"
+    ],
+    "a": 1,
+    "e": [
+     "“this week” là tình huống tạm thời, khác thói quen “usually drives” → dùng hiện tại tiếp diễn “is taking”.",
+     "“this week” is a temporary situation, different from the habit “usually drives” → “is taking”."
+    ],
+    "f": [
+     "is taking",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Please be quiet, everyone, because the students next door are ___ for their exam. (study)",
+    "a": [
+     "studying"
+    ],
+    "e": [
+     "Sau “are” cần dạng V-ing: study → studying (giữ nguyên y, chỉ thêm -ing).",
+     "After “are” we need the -ing form: study → studying (keep the y)."
+    ],
+    "f": [
+     "are studying",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I am wanting a glass of cold water because it is very hot in this room today.",
+    "a": [
+     "I want a glass of cold water because it is very hot in this room today.",
+     "I want a glass of cold water because it's very hot in this room today."
+    ],
+    "e": [
+     "“want” là động từ trạng thái nên không dùng tiếp diễn, dù đang nói về lúc này: “I want”, không phải “I am wanting”.",
+     "“want” is a stative verb, so we don't use it in the continuous, even about now: “I want”, not “I am wanting”."
+    ],
+    "f": [
+     "I want",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bây giờ chị tôi đang viết email cho thầy giáo vì chị ấy bị ốm.",
+    "a": [
+     "My sister is writing an email to her teacher now because she is ill.",
+     "My sister is writing an email to her teacher now because she is sick.",
+     "My older sister is writing an email to her teacher now because she is ill.",
+     "My older sister is writing an email to her teacher now because she is sick.",
+     "My sister is now writing an email to her teacher because she is ill.",
+     "My sister is writing an email to her teacher right now because she is sick.",
+     "Now my sister is writing an email to her teacher because she is ill."
+    ],
+    "e": [
+     "“đang” + “bây giờ” → hiện tại tiếp diễn “is writing”. write → writing: bỏ e câm rồi thêm -ing, không viết “writeing”.",
+     "“now” → present continuous “is writing”. write → writing: drop the silent e; never “writeing”."
+    ],
+    "f": [
+     "is writing",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với “at the moment” thay cho “every evening” và đổi thì cho phù hợp",
+     "Rewrite the sentence with “at the moment” instead of “every evening” and change the tense"
+    ],
+    "s": "My grandmother watches the news on TV in the living room every evening.",
+    "a": [
+     "My grandmother is watching the news on TV in the living room at the moment.",
+     "At the moment my grandmother is watching the news on TV in the living room.",
+     "At the moment, my grandmother is watching the news on TV in the living room."
+    ],
+    "e": [
+     "“every evening” (thói quen) → hiện tại đơn; “at the moment” (đang xảy ra) → “is watching”.",
+     "“every evening” (habit) → present simple; “at the moment” (happening now) → “is watching”."
+    ],
+    "f": [
+     "is watching",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Why|are you|wearing|a thick coat|when the sun|is shining|so brightly",
+    "m": [
+     "Sao bạn lại đang mặc áo khoác dày khi trời đang nắng chói chang thế này?",
+     "Why are you wearing a thick coat when the sun is shining so brightly?"
+    ],
+    "e": [
+     "Câu hỏi Wh- ở thì tiếp diễn: Why + are + you + V-ing. Vế “when” là câu khẳng định nên giữ trật tự “the sun is shining”.",
+     "Wh- question in the continuous: Why + are + you + V-ing. The “when” clause is a statement, so it keeps normal order."
+    ],
+    "f": [
+     "are you wearing",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d01",
+  "g": "daily",
+  "t": [
+   "Giới thiệu bản thân & gia đình",
+   "Introducing yourself & family"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – động từ to be:** I **am** (I'm) · he/she/it **is** (he's, she's) · we/you/they **are** (we're, they're). Dùng để nói tên, tuổi, quê, nghề.\n• I'm 25 years old.\n• My father is a teacher.\n• My parents are from Hue.",
+    "**Grammar 1 – the verb to be:** I **am** (I'm) · he/she/it **is** (he's, she's) · we/you/they **are** (we're, they're). Use it for name, age, origin and job.\n• I'm 25 years old.\n• My father is a teacher.\n• My parents are from Hue."
+   ],
+   [
+    "**Ngữ pháp 2 – have got & tính từ sở hữu:** I/you/we/they **have got** ('ve got) · he/she **has got** ('s got) để nói về gia đình. Tính từ sở hữu đứng trước danh từ: **my, your, his, her**.\n• I've got two brothers.\n• She has got a younger sister.\n• **His** name is Nam. **Her** name is Lan. (his = của anh ấy, her = của cô ấy)",
+    "**Grammar 2 – have got & possessive adjectives:** I/you/we/they **have got** ('ve got) · he/she **has got** ('s got) to talk about family. Possessive adjectives go before a noun: **my, your, his, her**.\n• I've got two brothers.\n• She has got a younger sister.\n• **His** name is Nam. **Her** name is Lan. (his = of a man, her = of a woman)"
+   ],
+   [
+    "**Phát âm – /θ/ và /ð/:** đặt đầu lưỡi giữa hai hàm răng rồi thổi hơi. /θ/ không rung (three, thirty, thanks); /ð/ rung dây thanh (this, brother, mother, father). Đừng đọc thành “t”, “d” hay “s”.",
+    "**Pronunciation – /θ/ and /ð/:** put the tip of your tongue between your teeth and blow. /θ/ is voiceless (three, thirty, thanks); /ð/ is voiced (this, brother, mother, father). Don't say “t”, “d” or “s”."
+   ],
+   [
+    "**Tự luyện ngoài app:**\n• Nghe (20 phút): nghe 3 đoạn tự giới thiệu sơ cấp, ghi tên, tuổi, nghề của từng người.\n• Nói (20 phút): ghi âm 1 phút tự giới thiệu dùng cả 4 mẫu câu, nghe lại và sửa 3 lỗi.\n• Đọc (20 phút): đọc 1 hồ sơ cá nhân ngắn (profile, thẻ học viên), trả lời 5 câu đúng/sai.\n• Viết (30 phút): viết đoạn 60–80 từ giới thiệu gia đình.\n• Từ vựng (15 phút): làm flashcard 10 từ, ôn theo khoảng cách 1-3-7 ngày.\n• Thử thách (10 phút): viết phần giới thiệu bản thân trên HelloTalk hoặc Tandem.",
+    "**Practice outside the app:**\n• Listening (20 min): listen to 3 beginner self-introductions; note each person's name, age and job.\n• Speaking (20 min): record a 1-minute introduction using all 4 key phrases, listen back and fix 3 mistakes.\n• Reading (20 min): read a short profile (social media, student card) and answer 5 true/false questions.\n• Writing (30 min): write 60–80 words about your family.\n• Vocabulary (15 min): make flashcards for the 10 words and review them after 1, 3 and 7 days.\n• Challenge (10 min): write your self-introduction on HelloTalk or Tandem."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "My name is An.",
+    "Tôi tên là An."
+   ],
+   [
+    "I'm 25 years old.",
+    "Tôi 25 tuổi."
+   ],
+   [
+    "There are four people in my family.",
+    "Nhà tôi có 4 người."
+   ],
+   [
+    "I'm from Vietnam.",
+    "Tôi đến từ Việt Nam."
+   ],
+   [
+    "What do you do? – I'm a nurse.",
+    "Bạn làm nghề gì? – Tôi là y tá."
+   ],
+   [
+    "I've got an older brother.",
+    "Tôi có một anh trai."
+   ],
+   [
+    "Nice to meet you.",
+    "Rất vui được gặp bạn."
+   ]
+  ],
+  "vo": [
+   [
+    "name",
+    "/neɪm/",
+    "tên",
+    "what a person is called"
+   ],
+   [
+    "age",
+    "/eɪdʒ/",
+    "tuổi",
+    "how old someone is"
+   ],
+   [
+    "father",
+    "/ˈfɑː.ðɚ/",
+    "bố",
+    "male parent"
+   ],
+   [
+    "mother",
+    "/ˈmʌð.ɚ/",
+    "mẹ",
+    "female parent"
+   ],
+   [
+    "older / younger brother",
+    "/ˈoʊl.dɚ ˈjʌŋ.ɡɚ ˈbrʌð.ɚ/",
+    "anh trai / em trai",
+    "a male sibling born before / after you"
+   ],
+   [
+    "older / younger sister",
+    "/ˈoʊl.dɚ ˈjʌŋ.ɡɚ ˈsɪs.tɚ/",
+    "chị gái / em gái",
+    "a female sibling born before / after you"
+   ],
+   [
+    "job",
+    "/dʒɑːb/",
+    "nghề nghiệp, công việc",
+    "the work you do"
+   ],
+   [
+    "hometown",
+    "/ˈhoʊm.taʊn/",
+    "quê",
+    "the town you come from"
+   ],
+   [
+    "hobby",
+    "/ˈhɑː.bi/",
+    "sở thích",
+    "something you enjoy doing in free time"
+   ],
+   [
+    "married",
+    "/ˈmer.id/",
+    "đã kết hôn",
+    "having a husband or wife"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Hi, I'm Mai. I'm twenty-two years old and I'm a student, and my older brother is a doctor in Hanoi.",
+    "q": [
+     "Anh trai của Mai làm nghề gì?",
+     "What is Mai's older brother's job?"
+    ],
+    "o": [
+     [
+      "Bác sĩ",
+      "A doctor"
+     ],
+     [
+      "Sinh viên",
+      "A student"
+     ],
+     [
+      "Giáo viên",
+      "A teacher"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu cuối: “my older brother is a doctor”. Mai mới là sinh viên, đừng nhầm người.",
+     "The last part says “my older brother is a doctor”. Mai is the student – don't mix up the people."
+    ],
+    "f": [
+     "my older brother is a doctor",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "My name is An.",
+    "e": [
+     "Viết hoa “My” ở đầu câu và tên riêng “An”; nhớ dấu chấm cuối câu.",
+     "Capitalise “My” at the start and the name “An”; end with a full stop."
+    ],
+    "f": [
+     "My name is",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I'm 25 years old.",
+    "e": [
+     "“I'm” = I am, có dấu nháy. Nói tuổi dùng be: I'm 25, không nói “I have 25”.",
+     "“I'm” = I am, with an apostrophe. Use be for age: I'm 25, not “I have 25”."
+    ],
+    "f": [
+     "years old",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "There are four people in my family.",
+    "e": [
+     "“people” là số nhiều nên dùng “There are”. “four” viết bằng chữ.",
+     "“people” is plural, so it's “There are”. “four” is written as a word."
+    ],
+    "f": [
+     "There are four people",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I'm from Vietnam. I was born in Hue, but now I live in Hanoi with my husband and our son.",
+    "e": [
+     "Câu hỏi: Where are you from? – Gợi ý trả lời mẫu. Nối “I'm from” thành /aɪm frʌm/; nhấn vào Vietnam, Hue, Hanoi.",
+     "Question: Where are you from? – Model answer. Link “I'm from” as /aɪm frʌm/; stress Vietnam, Hue and Hanoi."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "There are four people in my family: my father, my mother, my younger sister and me.",
+    "e": [
+     "Câu hỏi: Tell me about your family. – Gợi ý trả lời mẫu. Luyện /ð/ trong “father”, “mother”: đặt lưỡi giữa hai hàm răng.",
+     "Question: Tell me about your family. – Model answer. Practise /ð/ in “father” and “mother”: tongue between your teeth."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Hi! My name is Lan and I'm twenty-five years old. I'm from Hue, a city in the centre of Vietnam, but now I live in Ho Chi Minh City. I'm a nurse. There are five people in my family. My father is a doctor and my mother is a teacher. I have got an older brother and a younger sister. My brother is married and his wife is very kind. My sister is a student. My hobby is cooking. What about you? Write soon!",
+   "tr": "Chào bạn! Mình tên là Lan và mình hai mươi lăm tuổi. Mình đến từ Huế, một thành phố ở miền Trung Việt Nam, nhưng bây giờ mình sống ở Thành phố Hồ Chí Minh. Mình là y tá. Nhà mình có năm người. Bố mình là bác sĩ và mẹ mình là giáo viên. Mình có một anh trai và một em gái. Anh trai mình đã kết hôn và vợ anh ấy rất tốt bụng. Em gái mình là sinh viên. Sở thích của mình là nấu ăn. Còn bạn thì sao? Viết thư cho mình sớm nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Bây giờ Lan sống ở đâu?",
+     "Where does Lan live now?"
+    ],
+    "o": [
+     "In Ho Chi Minh City",
+     "In Hue",
+     "In Hanoi"
+    ],
+    "a": 0,
+    "e": [
+     "Lan đến từ Huế nhưng “now I live in Ho Chi Minh City”. Huế là quê, không phải nơi ở hiện tại.",
+     "Lan is from Hue, but “now I live in Ho Chi Minh City”. Hue is her hometown, not where she lives now."
+    ],
+    "f": [
+     "now I live in Ho Chi Minh City",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mẹ của Lan làm nghề gì?",
+     "What is Lan's mother's job?"
+    ],
+    "o": [
+     "She's a teacher.",
+     "She's a doctor.",
+     "She's a nurse."
+    ],
+    "a": 0,
+    "e": [
+     "“my mother is a teacher”. Bố là bác sĩ, còn Lan là y tá.",
+     "“my mother is a teacher”. Her father is the doctor and Lan is the nurse."
+    ],
+    "f": [
+     "my mother is a teacher",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ai đã kết hôn?",
+     "Who is married?"
+    ],
+    "o": [
+     "Lan's older brother",
+     "Lan's younger sister",
+     "Lan"
+    ],
+    "a": 0,
+    "e": [
+     "“My brother is married and his wife is very kind.” Em gái Lan là sinh viên.",
+     "“My brother is married and his wife is very kind.” Her sister is a student."
+    ],
+    "f": [
+     "My brother is married",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "My sister ___ 20 years old, and she is a student at a university in Hanoi.",
+    "a": [
+     "is"
+    ],
+    "e": [
+     "“My sister” = she, nên dùng “is”. Tiếng Anh nói tuổi bằng to be, không dùng “has”.",
+     "“My sister” = she, so use “is”. English uses be for age, not “has”."
+    ],
+    "f": [
+     "is",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ name is Lan, and she is my best friend from secondary school. (của cô ấy)",
+    "a": [
+     "Her",
+     "her"
+    ],
+    "e": [
+     "Lan là nữ nên dùng “Her”. Đừng nhầm với “His” (của anh ấy) hay “She” (cô ấy – chủ ngữ).",
+     "Lan is a woman, so use “Her”. Don't confuse it with “His” or the subject pronoun “She”."
+    ],
+    "f": [
+     "Her",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I have two ___, and they both live with my parents in Da Nang. (anh em trai)",
+    "a": [
+     "brothers"
+    ],
+    "e": [
+     "Sau “two” danh từ phải ở số nhiều: brothers. Lỗi hay gặp: quên đuôi -s.",
+     "After “two” the noun is plural: brothers. A common mistake is forgetting the -s."
+    ],
+    "f": [
+     "brothers",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My brother is a doctor, and ___ wife is a nurse at the same hospital in Hue.",
+    "o": [
+     "his",
+     "her",
+     "he"
+    ],
+    "a": 0,
+    "e": [
+     "Vợ của anh trai → “his wife” (sở hữu theo người đàn ông). “her” dùng khi người sở hữu là nữ; “he” là đại từ chủ ngữ.",
+     "The wife belongs to the brother → “his wife”. “her” is for a female owner; “he” is a subject pronoun."
+    ],
+    "f": [
+     "his wife",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My parents is teachers, and they work at a small school near our house.",
+    "a": [
+     "My parents are teachers, and they work at a small school near our house.",
+     "My parents are teachers and they work at a small school near our house."
+    ],
+    "e": [
+     "“My parents” là số nhiều (they) nên dùng “are”, không dùng “is”.",
+     "“My parents” is plural (they), so the verb is “are”, not “is”."
+    ],
+    "f": [
+     "My parents are",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố tôi là giáo viên.",
+    "a": [
+     "My father is a teacher.",
+     "My dad is a teacher."
+    ],
+    "e": [
+     "Nhớ mạo từ “a” trước nghề nghiệp: a teacher. Người Việt hay bỏ “a”.",
+     "Remember “a” before a job: a teacher. Vietnamese learners often drop it."
+    ],
+    "f": [
+     "is a teacher",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn có anh chị em không?",
+    "a": [
+     "Do you have any brothers or sisters?",
+     "Have you got any brothers or sisters?",
+     "Do you have any siblings?"
+    ],
+    "e": [
+     "Câu hỏi với have dùng trợ động từ “Do”; hoặc dùng “Have you got …?”. Dùng “any” trong câu hỏi.",
+     "Questions with have use “Do”, or use “Have you got …?”. Use “any” in questions."
+    ],
+    "f": [
+     "any brothers or sisters",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mẹ tôi là y tá và bà ấy làm việc ở một bệnh viện lớn ở Hà Nội.",
+    "a": [
+     "My mother is a nurse and she works at a big hospital in Hanoi.",
+     "My mother is a nurse and she works in a big hospital in Hanoi.",
+     "My mum is a nurse and she works at a big hospital in Hanoi.",
+     "My mom is a nurse and she works at a big hospital in Hanoi.",
+     "My mother is a nurse, and she works at a large hospital in Hanoi."
+    ],
+    "e": [
+     "“she works” có -s vì chủ ngữ ngôi thứ ba số ít. Tính từ “big” đứng trước danh từ “hospital”.",
+     "“she works” takes -s with he/she/it. The adjective “big” goes before the noun “hospital”."
+    ],
+    "f": [
+     "she works at a big hospital",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “have got”.",
+     "Rewrite the sentence using “have got”."
+    ],
+    "s": "I have a younger sister and an older brother, and they are both students.",
+    "a": [
+     "I have got a younger sister and an older brother, and they are both students.",
+     "I've got a younger sister and an older brother, and they are both students.",
+     "I've got a younger sister and an older brother, and they're both students.",
+     "I have got a younger sister and an older brother, and they're both students."
+    ],
+    "e": [
+     "“have” → “have got” (viết tắt “'ve got”) với I. Phần còn lại giữ nguyên.",
+     "“have” → “have got” (short form “'ve got”) with I. The rest stays the same."
+    ],
+    "f": [
+     "I've got",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "There are|five people|in my family,|and|my older brother|is|a doctor|in Hanoi.",
+    "m": [
+     "Nhà tôi có năm người, và anh trai tôi là bác sĩ ở Hà Nội.",
+     "There are five people in my family, and my older brother is a doctor in Hanoi."
+    ],
+    "e": [
+     "“There are + số người + in my family” là cấu trúc cố định; tính từ “older” đứng trước “brother”.",
+     "“There are + number + in my family” is a fixed pattern; “older” goes before “brother”."
+    ],
+    "f": [
+     "There are five people in my family",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 80 từ gửi một người bạn qua thư nước ngoài: tên, tuổi, quê, gia đình, sở thích, và hỏi lại họ 2 câu.",
+     "Write an email of about 80 words to a new pen friend abroad: your name, age, hometown, family, hobby, and ask them 2 questions."
+    ],
+    "m": "Hi Emma,\nMy name is Minh and I'm twenty years old. I'm from Hai Phong, a city in the north of Vietnam, but now I live in Hanoi because I'm a student there. There are four people in my family: my parents, my younger sister and me. My father is an engineer and my mother is a nurse. My hobby is playing badminton. What about you? How old are you, and what is your hobby?\nBest wishes,\nMinh",
+    "e": [
+     "Cần có: • tên và tuổi (I'm …) • quê và nơi sống • các thành viên gia đình + nghề • sở thích và 2 câu hỏi lại.",
+     "Include: • name and age (I'm …) • hometown and where you live • family members + jobs • your hobby and 2 questions back."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d02",
+  "g": "daily",
+  "t": [
+   "Sinh hoạt hằng ngày",
+   "Daily routine"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – thì hiện tại đơn:** dùng cho thói quen, việc lặp lại. Với he/she/it thêm **-s/-es**: get → gets, watch → watches, go → goes. Câu hỏi và phủ định dùng **do/does** + động từ nguyên mẫu.\n• She gets up at six every day.\n• What time do you go to bed?\n• He doesn't cook at the weekend.",
+    "**Grammar 1 – present simple:** for habits and repeated actions. With he/she/it add **-s/-es**: get → gets, watch → watches, go → goes. Questions and negatives use **do/does** + base verb.\n• She gets up at six every day.\n• What time do you go to bed?\n• He doesn't cook at the weekend."
+   ],
+   [
+    "**Ngữ pháp 2 – trạng từ tần suất:** always (luôn luôn) · usually (thường) · sometimes (thỉnh thoảng) · never (không bao giờ). Đứng **trước động từ thường** nhưng **sau to be**.\n• I usually get up at six.\n• I never eat breakfast.\n• She is always tired on Monday.",
+    "**Grammar 2 – adverbs of frequency:** always · usually · sometimes · never. They go **before a main verb** but **after be**.\n• I usually get up at six.\n• I never eat breakfast.\n• She is always tired on Monday."
+   ],
+   [
+    "**Phát âm – đuôi -s:** /s/ sau âm vô thanh (works, gets, cooks); /z/ sau âm hữu thanh và nguyên âm (goes, plays, studies); /ɪz/ sau s, z, sh, ch (watches, brushes, finishes).",
+    "**Pronunciation – the -s ending:** /s/ after voiceless sounds (works, gets, cooks); /z/ after voiced sounds and vowels (goes, plays, studies); /ɪz/ after s, z, sh, ch (watches, brushes, finishes)."
+   ],
+   [
+    "**Tự luyện ngoài app:**\n• Nghe (20 phút): xem 1 video “my daily routine”, ghi lại 8 hoạt động kèm giờ.\n• Nói (20 phút): kể một ngày của bạn từ sáng đến tối trong 90 giây, dùng ít nhất 3 trạng từ tần suất.\n• Đọc (20 phút): đọc 1 bài ngắn về lịch sinh hoạt, sắp xếp 8 hoạt động theo thứ tự.\n• Viết (30 phút): viết nhật ký 80–100 từ về ngày hôm nay.\n• Từ vựng (15 phút): ghép 10 động từ với khung giờ trong ngày, nói thành câu.\n• Thử thách (cả ngày): tự nói thầm việc mình đang làm (“Now I'm brushing my teeth”) ít nhất 10 lần.",
+    "**Practice outside the app:**\n• Listening (20 min): watch a “my daily routine” video and note 8 activities with times.\n• Speaking (20 min): describe your day from morning to night in 90 seconds with at least 3 frequency adverbs.\n• Reading (20 min): read a short text about someone's routine and put 8 activities in order.\n• Writing (30 min): write an 80–100-word diary entry about today.\n• Vocabulary (15 min): match 10 verbs to times of day and say them in sentences.\n• Challenge (all day): quietly describe what you are doing (“Now I'm brushing my teeth”) at least 10 times."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "I usually get up at six.",
+    "Tôi thường dậy lúc 6 giờ."
+   ],
+   [
+    "I go to work by motorbike.",
+    "Tôi đi làm bằng xe máy."
+   ],
+   [
+    "In the evening I study English for an hour.",
+    "Buổi tối tôi học tiếng Anh một tiếng."
+   ],
+   [
+    "What do you usually do at the weekend?",
+    "Cuối tuần bạn thường làm gì?"
+   ],
+   [
+    "I usually go to bed at eleven.",
+    "Tôi thường đi ngủ lúc 11 giờ."
+   ],
+   [
+    "I drink coffee every morning.",
+    "Sáng nào tôi cũng uống cà phê."
+   ],
+   [
+    "What time do you finish work?",
+    "Bạn tan làm lúc mấy giờ?"
+   ]
+  ],
+  "vo": [
+   [
+    "get up",
+    "/ˌɡet ˈʌp/",
+    "thức dậy",
+    "leave your bed in the morning"
+   ],
+   [
+    "brush your teeth",
+    "/ˌbrʌʃ jɚ ˈtiːθ/",
+    "đánh răng",
+    "clean your teeth with a brush"
+   ],
+   [
+    "have breakfast",
+    "/ˌhæv ˈbrek.fəst/",
+    "ăn sáng",
+    "eat the morning meal"
+   ],
+   [
+    "go to work",
+    "/ˌɡoʊ tə ˈwɝːk/",
+    "đi làm",
+    "travel to your job"
+   ],
+   [
+    "finish work",
+    "/ˌfɪn.ɪʃ ˈwɝːk/",
+    "tan làm",
+    "stop working for the day"
+   ],
+   [
+    "cook",
+    "/kʊk/",
+    "nấu ăn",
+    "make food"
+   ],
+   [
+    "take a shower",
+    "/ˌteɪk ə ˈʃaʊ.ɚ/",
+    "tắm (vòi sen)",
+    "wash your body under a shower"
+   ],
+   [
+    "go to bed",
+    "/ˌɡoʊ tə ˈbed/",
+    "đi ngủ",
+    "get into bed to sleep"
+   ],
+   [
+    "weekend",
+    "/ˈwiːk.end/",
+    "cuối tuần",
+    "Saturday and Sunday"
+   ],
+   [
+    "usually",
+    "/ˈjuː.ʒu.ə.li/",
+    "thường",
+    "in most cases"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "My sister usually gets up at half past five because she starts work at the hospital at seven.",
+    "q": [
+     "Vì sao chị ấy dậy sớm?",
+     "Why does she get up early?"
+    ],
+    "o": [
+     [
+      "Vì chị ấy bắt đầu làm ở bệnh viện lúc 7 giờ",
+      "Because she starts work at the hospital at seven"
+     ],
+     [
+      "Vì chị ấy đi tập thể dục",
+      "Because she goes jogging"
+     ],
+     [
+      "Vì chị ấy nấu bữa sáng cho cả nhà",
+      "Because she cooks breakfast for the family"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Nghe từ “because”: lý do là “she starts work at the hospital at seven”. “half past five” = 5 giờ 30.",
+     "Listen for “because”: the reason is “she starts work at the hospital at seven”. “half past five” = 5:30."
+    ],
+    "f": [
+     "because she starts work",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I usually get up at six.",
+    "e": [
+     "“usually” đứng trước động từ “get up”. “six” viết bằng chữ.",
+     "“usually” goes before the verb “get up”. Write “six” as a word."
+    ],
+    "f": [
+     "usually get up",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "In the evening I study English for an hour.",
+    "e": [
+     "“in the evening” có “the”; “an hour” dùng “an” vì chữ h câm.",
+     "“in the evening” needs “the”; “an hour” takes “an” because the h is silent."
+    ],
+    "f": [
+     "for an hour",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "What do you usually do at the weekend?",
+    "e": [
+     "Câu hỏi hiện tại đơn: What + do + you + động từ. “at the weekend” là cách nói Anh-Anh (Mỹ: on the weekend).",
+     "Present simple question: What + do + you + verb. “at the weekend” is British (American: on the weekend)."
+    ],
+    "f": [
+     "What do you usually do",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I usually get up at six, have breakfast at home and go to work by motorbike at seven.",
+    "e": [
+     "Câu hỏi: What does a typical day look like for you? – Gợi ý trả lời mẫu. Nói liền các cụm động từ; nhấn vào giờ: six, seven.",
+     "Question: What does a typical day look like for you? – Model answer. Say each verb phrase smoothly and stress the times: six, seven."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I'm a night owl, so I often go to bed after midnight and I never get up before eight.",
+    "e": [
+     "Câu hỏi: Are you a morning person or a night owl? – Gợi ý trả lời mẫu. “night owl” = cú đêm, người thức khuya; “owl” đọc /aʊl/.",
+     "Question: Are you a morning person or a night owl? – Model answer. “night owl” = someone who stays up late; “owl” is /aʊl/."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Nam is a bank clerk in Da Nang. On weekdays he gets up at six o'clock. He takes a shower, brushes his teeth and has breakfast with his wife. He always drinks a cup of coffee. Then he goes to work by motorbike. He finishes work at five and goes home. In the evening he cooks dinner and studies English for an hour. He usually goes to bed at eleven. At the weekend he never works. He sometimes plays football with his friends on Saturday morning.",
+   "tr": "Nam là nhân viên ngân hàng ở Đà Nẵng. Vào các ngày trong tuần, anh ấy dậy lúc sáu giờ. Anh ấy tắm, đánh răng và ăn sáng với vợ. Anh ấy luôn uống một tách cà phê. Sau đó anh ấy đi làm bằng xe máy. Anh ấy tan làm lúc năm giờ và về nhà. Buổi tối anh ấy nấu bữa tối và học tiếng Anh một tiếng. Anh ấy thường đi ngủ lúc mười một giờ. Cuối tuần anh ấy không bao giờ làm việc. Thỉnh thoảng anh ấy chơi bóng đá với bạn bè vào sáng thứ Bảy."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Nam đi làm bằng gì?",
+     "How does Nam go to work?"
+    ],
+    "o": [
+     "By motorbike",
+     "By bus",
+     "On foot"
+    ],
+    "a": 0,
+    "e": [
+     "“Then he goes to work by motorbike.” Dùng “by + phương tiện”, không có “the”.",
+     "“Then he goes to work by motorbike.” We say “by + transport”, with no “the”."
+    ],
+    "f": [
+     "goes to work by motorbike",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nam làm gì vào buổi tối?",
+     "What does Nam do in the evening?"
+    ],
+    "o": [
+     "He cooks dinner and studies English.",
+     "He plays football with his friends.",
+     "He works at the bank."
+    ],
+    "a": 0,
+    "e": [
+     "“In the evening he cooks dinner and studies English for an hour.” Bóng đá là sáng thứ Bảy.",
+     "“In the evening he cooks dinner and studies English for an hour.” Football is on Saturday morning."
+    ],
+    "f": [
+     "he cooks dinner and studies English",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào đúng về cuối tuần của Nam?",
+     "Which is true about Nam's weekend?"
+    ],
+    "o": [
+     "He never works.",
+     "He always plays football.",
+     "He gets up at six."
+    ],
+    "a": 0,
+    "e": [
+     "“At the weekend he never works.” Anh ấy chỉ “sometimes” (thỉnh thoảng) chơi bóng, không phải “always”.",
+     "“At the weekend he never works.” He only “sometimes” plays football, not “always”."
+    ],
+    "f": [
+     "he never works",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "She ___ up at 6 every day, even on Sunday, because her baby wakes up early. (get)",
+    "a": [
+     "gets"
+    ],
+    "e": [
+     "Chủ ngữ “She” ở hiện tại đơn → thêm -s: gets. Lỗi hay gặp: “She get up”.",
+     "With “She” in the present simple, add -s: gets. A common mistake is “She get up”."
+    ],
+    "f": [
+     "gets up",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I ___ eat breakfast, so I am always very hungry at eleven o'clock. (không bao giờ)",
+    "a": [
+     "never"
+    ],
+    "e": [
+     "“never” = không bao giờ, đứng trước động từ “eat”. Không thêm “don't” vì never đã mang nghĩa phủ định.",
+     "“never” goes before the verb “eat”. Don't add “don't” – never is already negative."
+    ],
+    "f": [
+     "never",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "What time ___ you go to bed on weekdays, and what time do you get up?",
+    "a": [
+     "do"
+    ],
+    "e": [
+     "Câu hỏi hiện tại đơn với “you” cần trợ động từ “do”. “does” chỉ dùng cho he/she/it.",
+     "Present simple questions with “you” need “do”. “does” is only for he/she/it."
+    ],
+    "f": [
+     "What time do you",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My father ___ the news on TV every evening after he finishes dinner with my mother.",
+    "o": [
+     "watches",
+     "watch",
+     "watchs"
+    ],
+    "a": 0,
+    "e": [
+     "“My father” = he → thêm -es vì động từ tận cùng bằng -ch: watches /ˈwɑː.tʃɪz/. “watchs” sai chính tả.",
+     "“My father” = he, and verbs ending in -ch add -es: watches /ˈwɑː.tʃɪz/. “watchs” is misspelt."
+    ],
+    "f": [
+     "watches",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My brother usually go to school by bus, but he walks home with his friends.",
+    "a": [
+     "My brother usually goes to school by bus, but he walks home with his friends.",
+     "My brother usually goes to school by bus but he walks home with his friends."
+    ],
+    "e": [
+     "“My brother” là ngôi thứ ba số ít → “goes”, không phải “go”. Trạng từ “usually” không làm mất đuôi -s.",
+     "“My brother” is third person singular → “goes”, not “go”. “usually” doesn't remove the -s."
+    ],
+    "f": [
+     "usually goes",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I have always breakfast at seven o'clock before I take my son to school.",
+    "a": [
+     "I always have breakfast at seven o'clock before I take my son to school."
+    ],
+    "e": [
+     "Trạng từ tần suất đứng TRƯỚC động từ thường: “always have”, không phải “have always”.",
+     "Frequency adverbs go BEFORE a main verb: “always have”, not “have always”."
+    ],
+    "f": [
+     "always have breakfast",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thường đi ngủ lúc 11 giờ.",
+    "a": [
+     "I usually go to bed at eleven.",
+     "I usually go to bed at 11.",
+     "I usually go to bed at eleven o'clock.",
+     "I usually go to bed at 11 o'clock."
+    ],
+    "e": [
+     "“đi ngủ” = go to bed (không có “the”). “usually” đứng trước “go”.",
+     "“đi ngủ” = go to bed (no “the”). “usually” goes before “go”."
+    ],
+    "f": [
+     "usually go to bed",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Sáng nào tôi cũng uống cà phê.",
+    "a": [
+     "I drink coffee every morning.",
+     "I have coffee every morning.",
+     "Every morning I drink coffee.",
+     "I drink coffee every day in the morning."
+    ],
+    "e": [
+     "“Sáng nào cũng” = every morning (không có “in”, không có “the”).",
+     "“Sáng nào cũng” = every morning (no “in”, no “the”)."
+    ],
+    "f": [
+     "every morning",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mẹ tôi thường nấu bữa tối, còn bố tôi rửa bát sau khi cả nhà ăn xong.",
+    "a": [
+     "My mother usually cooks dinner, and my father washes the dishes after the family finishes eating.",
+     "My mother usually cooks dinner and my father washes the dishes after we finish eating.",
+     "My mum usually cooks dinner, and my dad does the washing-up after we finish eating.",
+     "My mom usually cooks dinner, and my dad washes the dishes after we finish eating."
+    ],
+    "e": [
+     "Chủ ngữ ngôi thứ ba → cooks, washes. “rửa bát” = wash the dishes / do the washing-up.",
+     "Third-person subjects → cooks, washes. “rửa bát” = wash the dishes / do the washing-up."
+    ],
+    "f": [
+     "usually cooks dinner",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "On Sunday|I|sometimes|get up|late|and|have breakfast|in a café.",
+    "m": [
+     "Chủ nhật tôi thỉnh thoảng dậy muộn và ăn sáng ở quán cà phê.",
+     "On Sunday I sometimes get up late and have breakfast in a café."
+    ],
+    "e": [
+     "“sometimes” đứng trước động từ “get up”; “late” đứng sau động từ.",
+     "“sometimes” goes before “get up”; “late” comes after the verb."
+    ],
+    "f": [
+     "sometimes get up late",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 100 từ so sánh một ngày thường và một ngày cuối tuần của bạn, dùng ít nhất 4 trạng từ tần suất.",
+     "Write about 100 words comparing a normal weekday and a weekend day, using at least 4 frequency adverbs."
+    ],
+    "m": "On weekdays I always get up at six o'clock. I take a shower, have breakfast and go to work by motorbike. I usually finish work at five, and in the evening I cook dinner and study English for an hour. I go to bed at eleven. My weekend is very different. On Saturday I never get up before nine. I sometimes meet my friends for coffee, and in the afternoon I often go to the market with my mother. On Sunday evening I usually watch a film and go to bed early.",
+    "e": [
+     "Cần có: • ít nhất 4 trạng từ (always, usually, sometimes, never…) đặt đúng vị trí • giờ giấc cụ thể • so sánh ngày thường – cuối tuần • động từ hiện tại đơn đúng.",
+     "Include: • at least 4 frequency adverbs in the right place • clock times • a weekday vs weekend contrast • correct present simple verbs."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d16",
+  "g": "daily",
+  "t": [
+   "Thời tiết & các mùa",
+   "Weather & seasons"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp – nói về thời tiết**\n• Hỏi: **What's the weather like** today? / What's the weather like in Hanoi?\n• Trả lời với **It's + tính từ**: It's hot. It's sunny. It's cold and windy.\n• Động từ mưa/tuyết: **It rains** a lot in July. (thói quen) / **It's raining** now. (đang mưa)\n• Mùa: **in** (the) summer, **in** winter; **the rainy season, the dry season**.\n• Ví dụ: It's cloudy today, but it isn't cold. / In Hanoi it is cold in winter.",
+    "**Grammar – talking about the weather**\n• Ask: **What's the weather like** today? / What's the weather like in Hanoi?\n• Answer with **It's + adjective**: It's hot. It's sunny. It's cold and windy.\n• Verbs: **It rains** a lot in July. (habit) / **It's raining** now. (at the moment)\n• Seasons: **in** (the) summer, **in** winter; **the rainy season, the dry season**.\n• Examples: It's cloudy today, but it isn't cold. / In Hanoi it is cold in winter."
+   ],
+   [
+    "**Tính từ từ danh từ: thêm -y**\n• sun → sun**ny** (gấp đôi n), rain → rain**y**, cloud → cloud**y**, wind → wind**y**, snow → snow**y**, fog → fog**gy**.\n• Danh từ: There is a lot of **rain**. – Tính từ: It's **rainy**.",
+    "**Adjectives from nouns: add -y**\n• sun → sun**ny** (double n), rain → rain**y**, cloud → cloud**y**, wind → wind**y**, snow → snow**y**, fog → fog**gy**.\n• Noun: There is a lot of **rain**. – Adjective: It's **rainy**."
+   ],
+   [
+    "**Phát âm**\n• weather /ˈweð.ɚ/: âm /ð/ – đặt đầu lưỡi giữa hai răng, rung dây thanh. Phát âm giống “whether”.\n• sunny /ˈsʌn.i/ – âm /ʌ/ ngắn như “ă”; cloudy /ˈklaʊ.di/ – âm đôi /aʊ/.\n• Mùa: spring /sprɪŋ/, summer /ˈsʌm.ɚ/, autumn /ˈɑː.t̬əm/ (n câm), winter /ˈwɪn.t̬ɚ/.",
+    "**Pronunciation**\n• weather /ˈweð.ɚ/: the /ð/ sound – tongue between the teeth, voice on. It sounds the same as “whether”.\n• sunny /ˈsʌn.i/ – short /ʌ/; cloudy /ˈklaʊ.di/ – diphthong /aʊ/.\n• Seasons: spring /sprɪŋ/, summer /ˈsʌm.ɚ/, autumn /ˈɑː.t̬əm/ (silent n), winter /ˈwɪn.t̬ɚ/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): nghe 2 bản tin thời tiết ngắn cho trẻ em/người mới học, ghi lại nhiệt độ và 3 tính từ.\n• Nói (10 phút): mỗi sáng nhìn ra cửa sổ và nói 3 câu: It's … today. It isn't … . I'm going to take …\n• Đọc (15 phút): đọc dự báo thời tiết 3 thành phố trên một ứng dụng thời tiết bằng tiếng Anh.\n• Viết (15 phút): viết 5–6 câu về thời tiết và các mùa ở thành phố của bạn.\n• Từ vựng (10 phút): học 12 từ: sunny, cloudy, windy, rainy, foggy, storm, hot, warm, cool, cold, degrees, umbrella.",
+    "**Practice outside the app**\n• Listening (15 min): listen to 2 short weather reports for learners; note the temperature and 3 adjectives.\n• Speaking (10 min): every morning look out of the window and say 3 sentences: It's … today. It isn't … . I'm going to take …\n• Reading (15 min): read the forecast for 3 cities in a weather app set to English.\n• Writing (15 min): write 5–6 sentences about the weather and seasons in your city.\n• Vocabulary (10 min): learn 12 words: sunny, cloudy, windy, rainy, foggy, storm, hot, warm, cool, cold, degrees, umbrella."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "What's the weather like today?",
+    "Hôm nay thời tiết thế nào?"
+   ],
+   [
+    "It's hot and sunny.",
+    "Trời nóng và nắng."
+   ],
+   [
+    "It's raining. Take an umbrella!",
+    "Trời đang mưa. Mang ô theo nhé!"
+   ],
+   [
+    "It's 35 degrees in the afternoon.",
+    "Buổi chiều trời 35 độ."
+   ],
+   [
+    "My favourite season is autumn.",
+    "Mùa tôi thích nhất là mùa thu."
+   ],
+   [
+    "In Hanoi it is cold in winter.",
+    "Ở Hà Nội mùa đông trời lạnh."
+   ]
+  ],
+  "vo": [
+   [
+    "weather",
+    "/ˈweð.ɚ/",
+    "thời tiết",
+    "the conditions of sun, rain, wind etc."
+   ],
+   [
+    "season",
+    "/ˈsiː.zən/",
+    "mùa",
+    "one of the parts of the year"
+   ],
+   [
+    "sunny",
+    "/ˈsʌn.i/",
+    "nắng",
+    "with a lot of sun"
+   ],
+   [
+    "rainy",
+    "/ˈreɪ.ni/",
+    "có mưa, mưa nhiều",
+    "with a lot of rain"
+   ],
+   [
+    "cloudy",
+    "/ˈklaʊ.di/",
+    "nhiều mây",
+    "with many clouds"
+   ],
+   [
+    "windy",
+    "/ˈwɪn.di/",
+    "nhiều gió",
+    "with a lot of wind"
+   ],
+   [
+    "hot",
+    "/hɑːt/",
+    "nóng",
+    "very warm"
+   ],
+   [
+    "cold",
+    "/koʊld/",
+    "lạnh",
+    "not warm"
+   ],
+   [
+    "umbrella",
+    "/ʌmˈbrel.ə/",
+    "cái ô, cái dù",
+    "a thing that keeps rain off you"
+   ],
+   [
+    "degree",
+    "/dɪˈɡriː/",
+    "độ (nhiệt độ)",
+    "a unit for measuring temperature"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "It's cold and windy in Hanoi today, so please wear a warm jacket when you go to school.",
+    "q": [
+     "Hôm nay thời tiết ở Hà Nội thế nào?",
+     "What's the weather like in Hanoi today?"
+    ],
+    "o": [
+     [
+      "Lạnh và có gió",
+      "Cold and windy"
+     ],
+     [
+      "Nóng và nắng",
+      "Hot and sunny"
+     ],
+     [
+      "Mưa và có mây",
+      "Rainy and cloudy"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Người nói nói “It's cold and windy”, vì vậy khuyên mặc áo khoác ấm.",
+     "The speaker says “It's cold and windy”, so they suggest a warm jacket."
+    ],
+    "f": [
+     "It's cold and windy",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "What's the weather like in your city today?",
+    "e": [
+     "What's = What is. Câu hỏi cố định: What's the weather like …? – không viết “How is the weather like”.",
+     "What's = What is. Fixed question: What's the weather like …? – not “How is the weather like”."
+    ],
+    "f": [
+     "What's the weather like",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "It's raining now, so take an umbrella with you.",
+    "e": [
+     "It's raining = đang mưa (hiện tại tiếp diễn). “an umbrella” – dùng “an” vì u đọc là nguyên âm /ʌ/.",
+     "It's raining = it is raining now. “an umbrella” – “an” because u is a vowel sound /ʌ/."
+    ],
+    "f": [
+     "It's raining now",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "My favourite season is autumn because the weather is cool and the sky is blue.",
+    "e": [
+     "Đọc rõ /ð/ trong “the weather”; autumn /ˈɑː.t̬əm/ – chữ n cuối câm.",
+     "Say /ð/ clearly in “the weather”; autumn /ˈɑː.t̬əm/ – the final n is silent."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Dự báo nói chiều nay có thể có mưa to, nên tốt nhất là chúng ta ở nhà xem phim.",
+    "a": [
+     "The forecast says it might rain heavily this afternoon, so we'd better stay at home and watch a film.",
+     "The weather forecast says there might be heavy rain this afternoon, so we'd better stay home and watch a movie.",
+     "The forecast says it may rain heavily this afternoon, so it's best if we stay at home and watch a film."
+    ],
+    "e": [
+     "“might/may” = có thể (không chắc); “heavy rain/rain heavily” = mưa to (không nói “big rain”); “we'd better” = tốt hơn là nên.",
+     "“might/may” = possibly; “heavy rain/rain heavily” (not “big rain”); “we'd better” = it's a good idea to."
+    ],
+    "f": [
+     "we'd better stay at home",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu so sánh hơn, bắt đầu bằng “Hanoi is …”.",
+     "Rewrite as a comparative sentence, starting with “Hanoi is …”."
+    ],
+    "s": "In winter Ho Chi Minh City is warm, but Hanoi is cold.",
+    "a": [
+     "Hanoi is colder than Ho Chi Minh City in winter.",
+     "In winter, Hanoi is colder than Ho Chi Minh City.",
+     "Hanoi is much colder than Ho Chi Minh City in winter."
+    ],
+    "e": [
+     "Tính từ ngắn + -er + than: cold → colder than. Không viết “more cold”.",
+     "Short adjective + -er + than: cold → colder than. Not “more cold”."
+    ],
+    "f": [
+     "colder than",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "It was so hot yesterday that we stayed inside and turned on the air conditioning all the day.",
+    "a": [
+     "It was so hot yesterday that we stayed inside and turned on the air conditioning all day.",
+     "It was so hot yesterday that we stayed inside and had the air conditioning on all day."
+    ],
+    "e": [
+     "“all day” = cả ngày, không có “the”. Cấu trúc “so hot that” = nóng đến nỗi.",
+     "“all day” has no “the”. “so hot that” shows the result."
+    ],
+    "f": [
+     "all day",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Don't forget your raincoat – it's been pouring ___ all morning and the streets near my house are flooded.",
+    "a": [
+     "down"
+    ],
+    "e": [
+     "“pour down” = mưa như trút nước. “It's been pouring down” = mưa xối xả suốt từ sáng tới giờ.",
+     "“pour down” = rain very heavily. “It's been pouring down” = it has rained hard all morning until now."
+    ],
+    "f": [
+     "pouring down",
+     "A2"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Hi Emma,\nHow are you? It's winter in London now, right? Here in Ho Chi Minh City it is hot and sunny today. We have two seasons: the dry season and the rainy season. The rainy season is from May to November. In the afternoon it often rains a lot, so I always take an umbrella. In the dry season the sky is blue and it is very hot. What's the weather like in London? Do you like snow?\nLove,\nLinh",
+   "tr": "Chào Emma,\nBạn khỏe không? Ở London bây giờ là mùa đông, phải không? Ở Thành phố Hồ Chí Minh hôm nay trời nóng và nắng. Chúng mình có hai mùa: mùa khô và mùa mưa. Mùa mưa kéo dài từ tháng Năm đến tháng Mười Một. Buổi chiều trời thường mưa nhiều, nên mình luôn mang ô. Vào mùa khô bầu trời xanh và trời rất nóng. Thời tiết ở London thế nào? Bạn có thích tuyết không?\nThân mến,\nLinh"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Thành phố Hồ Chí Minh có mấy mùa?",
+     "How many seasons does Ho Chi Minh City have?"
+    ],
+    "o": [
+     [
+      "Hai",
+      "Two"
+     ],
+     [
+      "Bốn",
+      "Four"
+     ],
+     [
+      "Ba",
+      "Three"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“We have two seasons: the dry season and the rainy season.” Hà Nội mới có bốn mùa.",
+     "“We have two seasons: the dry season and the rainy season.” Hanoi has four seasons."
+    ],
+    "f": [
+     "We have two seasons",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Linh luôn mang ô?",
+     "Why does Linh always take an umbrella?"
+    ],
+    "o": [
+     [
+      "Vì buổi chiều thường mưa nhiều",
+      "Because it often rains a lot in the afternoon"
+     ],
+     [
+      "Vì trời có tuyết",
+      "Because it snows"
+     ],
+     [
+      "Vì trời nhiều gió",
+      "Because it is windy"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“In the afternoon it often rains a lot, so I always take an umbrella.” “so” nối nguyên nhân với kết quả.",
+     "“In the afternoon it often rains a lot, so I always take an umbrella.” “so” links the cause and the result."
+    ],
+    "f": [
+     "it often rains a lot",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ở London bây giờ là mùa gì?",
+     "What season is it in London now?"
+    ],
+    "o": [
+     [
+      "Mùa đông",
+      "Winter"
+     ],
+     [
+      "Mùa mưa",
+      "The rainy season"
+     ],
+     [
+      "Mùa hè",
+      "Summer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“It's winter in London now, right?” – “right?” ở cuối câu để hỏi xác nhận.",
+     "“It's winter in London now, right?” – “right?” at the end checks a fact."
+    ],
+    "f": [
+     "It's winter in London now",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Look outside! It ___ now, so we can't play football in the park this afternoon.",
+    "o": [
+     "'s raining",
+     "rains",
+     "rain"
+    ],
+    "a": 0,
+    "e": [
+     "“now” → hiện tại tiếp diễn: It's raining. “It rains” dùng cho thói quen (It rains a lot in July).",
+     "“now” → present continuous: It's raining. “It rains” is for habits (It rains a lot in July)."
+    ],
+    "f": [
+     "It's raining",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "I love Da Lat because the weather is cool and it is often ___ in the morning.",
+    "o": [
+     "foggy",
+     "fog",
+     "fogs"
+    ],
+    "a": 0,
+    "e": [
+     "Sau “is” cần tính từ: foggy (fog + g + y). “fog” là danh từ.",
+     "After “is” we need an adjective: foggy (fog + g + y). “fog” is a noun."
+    ],
+    "f": [
+     "foggy",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "In Hanoi it is cold ___ winter, so my family often eats hot noodle soup for breakfast.",
+    "a": [
+     "in"
+    ],
+    "e": [
+     "Dùng “in” với mùa: in winter, in summer. Không dùng “on winter”.",
+     "Use “in” with seasons: in winter, in summer. Not “on winter”."
+    ],
+    "f": [
+     "in winter",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Today it is very ___ in Da Nang, and the sun is shining on the beach all day. (sun)",
+    "a": [
+     "sunny"
+    ],
+    "e": [
+     "sun → sunny: gấp đôi n rồi thêm -y. Lỗi hay gặp: “suny”.",
+     "sun → sunny: double the n and add -y. Common mistake: “suny”."
+    ],
+    "f": [
+     "sunny",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "How is the weather like in your city in summer, and do you go to the beach?",
+    "a": [
+     "What is the weather like in your city in summer, and do you go to the beach?",
+     "What's the weather like in your city in summer, and do you go to the beach?",
+     "How is the weather in your city in summer, and do you go to the beach?"
+    ],
+    "e": [
+     "Dùng “What … like?” hoặc “How is the weather?”, không trộn “How … like”.",
+     "Use “What … like?” or “How is the weather?”, but never mix “How … like”."
+    ],
+    "f": [
+     "What's the weather like",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "It is very wind today, so my little sister doesn't want to go to the park with us.",
+    "a": [
+     "It is very windy today, so my little sister doesn't want to go to the park with us.",
+     "It's very windy today, so my little sister doesn't want to go to the park with us."
+    ],
+    "e": [
+     "Sau “is very” cần tính từ: windy (wind + y). “wind” là danh từ (gió).",
+     "After “is very” we need an adjective: windy (wind + y). “wind” is a noun."
+    ],
+    "f": [
+     "very windy",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hôm nay trời nhiều mây nhưng không lạnh, nên chúng tôi đi dạo trong công viên.",
+    "a": [
+     "It's cloudy today but it isn't cold, so we are going for a walk in the park.",
+     "It is cloudy today, but it is not cold, so we go for a walk in the park.",
+     "It's cloudy today but not cold, so we're walking in the park.",
+     "It's cloudy today, but it isn't cold, so we're going for a walk in the park."
+    ],
+    "e": [
+     "“It's cloudy” – dùng chủ ngữ giả “It” cho thời tiết. “but” nối hai ý trái ngược, “so” nối kết quả.",
+     "“It's cloudy” – use the dummy subject “It” for weather. “but” shows contrast; “so” shows the result."
+    ],
+    "f": [
+     "It's cloudy today",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mùa tôi thích nhất là mùa xuân vì trời ấm và có nhiều hoa.",
+    "a": [
+     "My favourite season is spring because it is warm and there are a lot of flowers.",
+     "My favourite season is spring because it's warm and there are many flowers.",
+     "My favorite season is spring because it is warm and there are lots of flowers."
+    ],
+    "e": [
+     "“there are a lot of flowers” = có nhiều hoa. Không dùng “have many flowers” cho nghĩa “có”.",
+     "“there are a lot of flowers” expresses existence. Don't use “have many flowers” here."
+    ],
+    "f": [
+     "My favourite season is spring",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "In the rainy season|it often rains|in the afternoon,|so I always|take an umbrella|to work",
+    "m": [
+     "Vào mùa mưa, trời thường mưa vào buổi chiều, nên tôi luôn mang ô đi làm.",
+     "In the rainy season it often rains in the afternoon, so I always take an umbrella to work."
+    ],
+    "e": [
+     "Trạng từ tần suất (often, always) đứng trước động từ thường: it often rains, I always take.",
+     "Frequency adverbs (often, always) go before the main verb: it often rains, I always take."
+    ],
+    "f": [
+     "it often rains",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết 5–6 câu (khoảng 50 từ) kể về thời tiết và các mùa ở thành phố của bạn.",
+     "Write 5–6 sentences (about 50 words) about the weather and seasons in your city."
+    ],
+    "m": "I live in Hanoi. We have four seasons: spring, summer, autumn and winter. In summer it is very hot and it often rains in the afternoon. In winter it is cold and cloudy, so I wear a warm jacket. My favourite season is autumn because the weather is cool and sunny.",
+    "e": [
+     "Cần có: tên thành phố; các mùa; 2–3 câu It's/It is + tính từ; 1 câu với because hoặc so; mùa yêu thích.",
+     "Include: your city; the seasons; 2–3 sentences with It's + adjective; one sentence with because or so; your favourite season."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d17",
+  "g": "daily",
+  "t": [
+   "Sở thích & thời gian rảnh",
+   "Hobbies & free time"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – like / love / enjoy + V-ing**\n• I **like playing** football. She **loves reading**. We **enjoy cooking** together.\n• Phủ định: I **don't like watching** TV. He **doesn't like** swimming.\n• Hỏi: **What do you do in your free time?** – **Do you like** dancing? – Yes, I do. / No, I don't.\n• Lưu ý chính tả: swim → swi**mm**ing, dance → danc**ing**, play → play**ing**.",
+    "**Grammar 1 – like / love / enjoy + -ing**\n• I **like playing** football. She **loves reading**. We **enjoy cooking** together.\n• Negative: I **don't like watching** TV. He **doesn't like** swimming.\n• Questions: **What do you do in your free time?** – **Do you like** dancing? – Yes, I do. / No, I don't.\n• Spelling: swim → swi**mm**ing, dance → danc**ing**, play → play**ing**."
+   ],
+   [
+    "**Ngữ pháp 2 – can và trạng từ tần suất**\n• can + động từ nguyên mẫu: She **can draw** very well. I **can't swim**.\n• Tần suất: always > usually > often > sometimes > never – đứng **trước** động từ thường, **sau** to be: I **often go** swimming. He **is never** late.\n• Cụm thời gian: every Saturday, on Sunday evenings, once a week.",
+    "**Grammar 2 – can and frequency adverbs**\n• can + base verb: She **can draw** very well. I **can't swim**.\n• Frequency: always > usually > often > sometimes > never – **before** a main verb, **after** be: I **often go** swimming. He **is never** late.\n• Time phrases: every Saturday, on Sunday evenings, once a week."
+   ],
+   [
+    "**Phát âm**\n• Đuôi -ing /ɪŋ/: không đọc thành “in” – giữ âm mũi /ŋ/ ở cuối: playing /ˈpleɪ.ɪŋ/, reading /ˈriː.dɪŋ/.\n• can /kən/ (yếu, trong câu khẳng định) – can't /kænt/ (mạnh, rõ âm t).\n• guitar /ɡɪˈtɑːr/ – trọng âm ở âm tiết thứ hai.",
+    "**Pronunciation**\n• The -ing ending /ɪŋ/: don't say “in” – keep the nasal /ŋ/: playing /ˈpleɪ.ɪŋ/, reading /ˈriː.dɪŋ/.\n• can /kən/ (weak, in positive sentences) – can't /kænt/ (strong, clear t).\n• guitar /ɡɪˈtɑːr/ – stress on the second syllable."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): xem 1 video ngắn “What are your hobbies?” cho người mới học, ghi 5 sở thích nghe được.\n• Nói (10 phút): tự giới thiệu 3 sở thích trong 1 phút, ghi âm, kiểm tra âm /ɪŋ/.\n• Đọc (15 phút): đọc 3 hồ sơ bạn bè (pen-pal profiles) và gạch chân sở thích.\n• Viết (15 phút): viết 6 câu về thời gian rảnh của bạn và một người trong gia đình.\n• Từ vựng (10 phút): học 12 hoạt động: reading, cooking, drawing, swimming, cycling, dancing, singing, gaming, fishing, hiking, gardening, photography.",
+    "**Practice outside the app**\n• Listening (15 min): watch a short learner video “What are your hobbies?”; note 5 hobbies.\n• Speaking (10 min): talk about 3 hobbies for 1 minute, record it and check your /ɪŋ/ sound.\n• Reading (15 min): read 3 pen-pal profiles and underline the hobbies.\n• Writing (15 min): write 6 sentences about your free time and a family member's.\n• Vocabulary (10 min): learn 12 activities: reading, cooking, drawing, swimming, cycling, dancing, singing, gaming, fishing, hiking, gardening, photography."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "What do you do in your free time?",
+    "Bạn làm gì lúc rảnh?"
+   ],
+   [
+    "I like playing badminton.",
+    "Tôi thích chơi cầu lông."
+   ],
+   [
+    "I don't like watching TV.",
+    "Tôi không thích xem TV."
+   ],
+   [
+    "She can play the guitar.",
+    "Cô ấy biết chơi đàn ghi-ta."
+   ],
+   [
+    "I go swimming twice a week.",
+    "Tôi đi bơi hai lần một tuần."
+   ],
+   [
+    "Do you want to go cycling on Sunday?",
+    "Chủ nhật bạn muốn đi đạp xe không?"
+   ]
+  ],
+  "vo": [
+   [
+    "hobby",
+    "/ˈhɑː.bi/",
+    "sở thích",
+    "an activity you do for fun"
+   ],
+   [
+    "free time",
+    "/ˌfriː ˈtaɪm/",
+    "thời gian rảnh",
+    "time when you are not working or studying"
+   ],
+   [
+    "read",
+    "/riːd/",
+    "đọc",
+    "look at and understand words"
+   ],
+   [
+    "cook",
+    "/kʊk/",
+    "nấu ăn",
+    "make food"
+   ],
+   [
+    "draw",
+    "/drɑː/",
+    "vẽ",
+    "make a picture with a pen or pencil"
+   ],
+   [
+    "swim",
+    "/swɪm/",
+    "bơi",
+    "move through water"
+   ],
+   [
+    "play the guitar",
+    "/pleɪ ðə ɡɪˈtɑːr/",
+    "chơi đàn ghi-ta",
+    "make music with a guitar"
+   ],
+   [
+    "watch TV",
+    "/wɑːtʃ ˌtiːˈviː/",
+    "xem TV",
+    "look at television"
+   ],
+   [
+    "go cycling",
+    "/ɡoʊ ˈsaɪ.klɪŋ/",
+    "đi đạp xe",
+    "ride a bike for fun"
+   ],
+   [
+    "weekend",
+    "/ˈwiːk.end/",
+    "cuối tuần",
+    "Saturday and Sunday"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "I love reading books in the evening, but my brother likes playing computer games with his friends.",
+    "q": [
+     "Anh trai của người nói thích làm gì?",
+     "What does the speaker's brother like doing?"
+    ],
+    "o": [
+     [
+      "Chơi trò chơi điện tử",
+      "Playing computer games"
+     ],
+     [
+      "Đọc sách",
+      "Reading books"
+     ],
+     [
+      "Xem TV",
+      "Watching TV"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“my brother likes playing computer games” – đọc sách là sở thích của người nói, không phải anh trai.",
+     "“my brother likes playing computer games” – reading is the speaker's hobby, not the brother's."
+    ],
+    "f": [
+     "likes playing computer games",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "What do you do in your free time?",
+    "e": [
+     "Câu hỏi hiện tại đơn: What do you do …? “free time” hai từ riêng.",
+     "Present simple question: What do you do …? “free time” is two words."
+    ],
+    "f": [
+     "in your free time",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "My sister can play the guitar, but she can't sing very well.",
+    "e": [
+     "can/can't + động từ nguyên mẫu (không thêm -s, không “to”). “play the guitar” – có “the” trước nhạc cụ.",
+     "can/can't + base verb (no -s, no “to”). “play the guitar” – use “the” before instruments."
+    ],
+    "f": [
+     "can play the guitar",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "In my free time I like cooking, and on Sundays I often go swimming with my friends.",
+    "e": [
+     "Giữ âm /ŋ/ ở cooking, swimming; “often” có thể đọc /ˈɑːf.ən/ (t câm).",
+     "Keep the /ŋ/ in cooking and swimming; “often” is usually /ˈɑːf.ən/ (silent t)."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Dạo này tôi mê chụp ảnh lắm – cuối tuần nào tôi cũng ra phố cổ chụp người và các cửa hàng nhỏ.",
+    "a": [
+     "I'm really into photography these days – every weekend I go to the old quarter to take photos of people and little shops.",
+     "I'm really into photography at the moment; every weekend I go to the old town and take pictures of people and small shops.",
+     "These days I'm crazy about photography – I go to the old quarter every weekend to take photos of people and small shops."
+    ],
+    "e": [
+     "“be into sth” / “be crazy about sth” = mê, thích lắm – rất tự nhiên trong văn nói. “take photos of” = chụp ảnh.",
+     "“be into sth” / “be crazy about sth” = love doing something – very natural in speech. “take photos of” = photograph."
+    ],
+    "f": [
+     "I'm really into photography",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “used to”.",
+     "Rewrite the sentence using “used to”."
+    ],
+    "s": "When I was a child, I played the piano every day, but I don't play it now.",
+    "a": [
+     "I used to play the piano every day when I was a child.",
+     "When I was a child, I used to play the piano every day.",
+     "I used to play the piano every day, but I don't now."
+    ],
+    "e": [
+     "“used to + V” = đã từng (thói quen trong quá khứ, nay không còn). Không viết “used to playing”.",
+     "“used to + verb” = a past habit that has stopped. Not “used to playing”."
+    ],
+    "f": [
+     "used to play the piano",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My friends and I are thinking of take up yoga together because we spend too much time sitting at our desks.",
+    "a": [
+     "My friends and I are thinking of taking up yoga together because we spend too much time sitting at our desks."
+    ],
+    "e": [
+     "Sau giới từ “of” dùng V-ing: thinking of taking up. “take up” = bắt đầu một sở thích mới.",
+     "After the preposition “of”, use -ing: thinking of taking up. “take up” = start a new hobby."
+    ],
+    "f": [
+     "thinking of taking up",
+     "B1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I don't really have much free time, but when I do, I just like to chill ___ at home with a good book.",
+    "a": [
+     "out"
+    ],
+    "e": [
+     "“chill out” = thư giãn, nghỉ ngơi (thân mật). Không dùng “chill off” hay “chill down”.",
+     "“chill out” = relax (informal). Not “chill off” or “chill down”."
+    ],
+    "f": [
+     "chill out",
+     "A2"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "My name is Nam and I am a student. In my free time I like playing football with my friends. We play in the park near my house every Saturday afternoon. I also love reading comic books, but I don't like watching TV. My sister Mai enjoys cooking and drawing. She can draw very well, and she sometimes sells her pictures online. On Sunday evenings we usually play the guitar together. What do you do in your free time?",
+   "tr": "Mình tên là Nam và mình là học sinh. Lúc rảnh mình thích chơi bóng đá với bạn bè. Chúng mình chơi ở công viên gần nhà mình vào mỗi chiều thứ Bảy. Mình cũng rất thích đọc truyện tranh, nhưng mình không thích xem TV. Chị gái mình là Mai thích nấu ăn và vẽ. Chị ấy vẽ rất đẹp, và thỉnh thoảng chị bán tranh trên mạng. Vào các tối Chủ nhật, chúng mình thường chơi đàn ghi-ta cùng nhau. Còn bạn làm gì lúc rảnh?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Nam chơi bóng đá khi nào?",
+     "When does Nam play football?"
+    ],
+    "o": [
+     [
+      "Mỗi chiều thứ Bảy",
+      "Every Saturday afternoon"
+     ],
+     [
+      "Mỗi tối Chủ nhật",
+      "Every Sunday evening"
+     ],
+     [
+      "Mỗi ngày sau giờ học",
+      "Every day after school"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“We play in the park near my house every Saturday afternoon.” Tối Chủ nhật là lúc chơi ghi-ta.",
+     "“We play in the park near my house every Saturday afternoon.” Sunday evening is for the guitar."
+    ],
+    "f": [
+     "every Saturday afternoon",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Nam không thích làm gì?",
+     "What doesn't Nam like doing?"
+    ],
+    "o": [
+     [
+      "Xem TV",
+      "Watching TV"
+     ],
+     [
+      "Đọc truyện tranh",
+      "Reading comic books"
+     ],
+     [
+      "Chơi ghi-ta",
+      "Playing the guitar"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“I also love reading comic books, but I don't like watching TV.” – “but” giới thiệu ý trái ngược.",
+     "“I also love reading comic books, but I don't like watching TV.” – “but” introduces the contrast."
+    ],
+    "f": [
+     "I don't like watching TV",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Thỉnh thoảng Mai làm gì với tranh của mình?",
+     "What does Mai sometimes do with her pictures?"
+    ],
+    "o": [
+     [
+      "Bán trên mạng",
+      "She sells them online"
+     ],
+     [
+      "Tặng bạn bè",
+      "She gives them to friends"
+     ],
+     [
+      "Treo ở công viên",
+      "She puts them in the park"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“she sometimes sells her pictures online” – sometimes = thỉnh thoảng; online = trên mạng.",
+     "“she sometimes sells her pictures online” – sometimes = not often; online = on the internet."
+    ],
+    "f": [
+     "sells her pictures online",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My father loves ___ in the river near our village, and he often brings home some fish for dinner.",
+    "o": [
+     "fishing",
+     "fish",
+     "to fishing"
+    ],
+    "a": 0,
+    "e": [
+     "love + V-ing: loves fishing. “to fishing” sai; “fish” là động từ nguyên mẫu/danh từ.",
+     "love + -ing: loves fishing. “to fishing” is wrong; “fish” is the base verb/noun."
+    ],
+    "f": [
+     "loves fishing",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "I ___ go to the cinema with my friends because the tickets are expensive, maybe once or twice a year.",
+    "o": [
+     "rarely",
+     "always",
+     "usually"
+    ],
+    "a": 0,
+    "e": [
+     "“once or twice a year” = hiếm khi → rarely. “always/usually” mâu thuẫn với lý do vé đắt.",
+     "“once or twice a year” = not often → rarely. “always/usually” don't match the reason."
+    ],
+    "f": [
+     "rarely go to the cinema",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "My little brother enjoys ___ in the swimming pool near our school every Wednesday afternoon. (swim)",
+    "a": [
+     "swimming"
+    ],
+    "e": [
+     "enjoy + V-ing; swim → swimming (gấp đôi m vì kết thúc bằng phụ âm–nguyên âm–phụ âm).",
+     "enjoy + -ing; swim → swimming (double the m: consonant–vowel–consonant)."
+    ],
+    "f": [
+     "enjoys swimming",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Can you ___ the piano, or do you only play the guitar with your friends at the weekend?",
+    "a": [
+     "play"
+    ],
+    "e": [
+     "can + động từ nguyên mẫu: play. Với nhạc cụ dùng “play the …”.",
+     "can + base verb: play. With instruments use “play the …”."
+    ],
+    "f": [
+     "play the piano",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My mother likes cook traditional food for the family, especially on Sundays when everyone is at home.",
+    "a": [
+     "My mother likes cooking traditional food for the family, especially on Sundays when everyone is at home.",
+     "My mother likes to cook traditional food for the family, especially on Sundays when everyone is at home."
+    ],
+    "e": [
+     "like + V-ing (hoặc to V): likes cooking. Không dùng động từ nguyên mẫu trần “likes cook”.",
+     "like + -ing (or to-infinitive): likes cooking. Not the bare verb “likes cook”."
+    ],
+    "f": [
+     "likes cooking",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My friend Lan can speaks three languages, and she often helps me with my English homework after class.",
+    "a": [
+     "My friend Lan can speak three languages, and she often helps me with my English homework after class."
+    ],
+    "e": [
+     "Sau can dùng động từ nguyên mẫu, không thêm -s: can speak.",
+     "After can, use the base verb with no -s: can speak."
+    ],
+    "f": [
+     "can speak",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cuối tuần tôi thường đi đạp xe với bố tôi, nhưng tôi không thích chạy bộ.",
+    "a": [
+     "At the weekend I usually go cycling with my father, but I don't like running.",
+     "On weekends I usually go cycling with my dad, but I don't like running.",
+     "I usually go cycling with my father at the weekend, but I don't like jogging."
+    ],
+    "e": [
+     "“go + V-ing” cho hoạt động thể thao: go cycling. Trạng từ “usually” đứng trước động từ.",
+     "“go + -ing” for sports: go cycling. “usually” goes before the verb."
+    ],
+    "f": [
+     "go cycling",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn có thích vẽ không? – Có, tôi vẽ mỗi tối sau khi làm bài tập.",
+    "a": [
+     "Do you like drawing? – Yes, I do. I draw every evening after I do my homework.",
+     "Do you like drawing? – Yes, I do. I draw every evening after doing my homework.",
+     "Do you like to draw? – Yes, I do. I draw every evening after my homework."
+    ],
+    "e": [
+     "Trả lời ngắn: Yes, I do. “every evening” không cần giới từ.",
+     "Short answer: Yes, I do. “every evening” needs no preposition."
+    ],
+    "f": [
+     "Do you like drawing",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "On Sunday evenings|my family|usually|plays the guitar|and sings|together at home",
+    "m": [
+     "Vào các tối Chủ nhật, gia đình tôi thường chơi ghi-ta và hát cùng nhau ở nhà.",
+     "On Sunday evenings my family usually plays the guitar and sings together at home."
+    ],
+    "e": [
+     "“my family” là chủ ngữ số ít → plays, sings. “usually” đứng trước động từ.",
+     "“my family” is a singular subject → plays, sings. “usually” goes before the verb."
+    ],
+    "f": [
+     "usually plays the guitar",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 50 từ về thời gian rảnh của bạn: 2–3 sở thích, khi nào, với ai, điều bạn không thích.",
+     "Write about 50 words about your free time: 2–3 hobbies, when, who with, and something you don't like."
+    ],
+    "m": "In my free time I love reading and cooking. I usually read in bed before I go to sleep. On Saturdays I cook lunch for my family, and my brother helps me. I also go cycling in the park on Sunday mornings. I don't like playing computer games because they are boring.",
+    "e": [
+     "Cần có: 2–3 sở thích với like/love/enjoy + V-ing; 1 trạng từ tần suất; thời gian & người cùng làm; 1 câu phủ định don't like.",
+     "Include: 2–3 hobbies with like/love/enjoy + -ing; a frequency adverb; when and who with; one don't like sentence."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-r",
+  "t": [
+   "Bài đọc: Một ngày của Mai",
+   "Reading: Mai's day"
+  ],
+  "rd": {
+   "tx": "Hi, I'm Mai. I am twenty-two and I am a student in Hanoi. I live with my sister in a small flat. Every day I get up at six. I drink tea and eat bread for breakfast. I study English in the morning and I work in a café in the afternoon. In the evening I cook dinner and watch TV. I am very busy, but I am happy.",
+   "tr": "Chào, mình là Mai. Mình 22 tuổi và là sinh viên ở Hà Nội. Mình sống với chị gái trong một căn hộ nhỏ. Mỗi ngày mình dậy lúc 6 giờ. Mình uống trà và ăn bánh mì cho bữa sáng. Buổi sáng mình học tiếng Anh, buổi chiều mình làm ở một quán cà phê. Buổi tối mình nấu bữa tối và xem TV. Mình rất bận nhưng mình vui."
+  },
+  "vo": [
+   [
+    "flat",
+    "/flæt/",
+    "căn hộ",
+    "apartment"
+   ],
+   [
+    "breakfast",
+    "/ˈbrekfəst/",
+    "bữa sáng",
+    "morning meal"
+   ],
+   [
+    "afternoon",
+    "/ˌæftərˈnuːn/",
+    "buổi chiều",
+    "after midday"
+   ],
+   [
+    "evening",
+    "/ˈiːvnɪŋ/",
+    "buổi tối",
+    "early night"
+   ],
+   [
+    "busy",
+    "/ˈbɪzi/",
+    "bận rộn",
+    "having a lot to do"
+   ],
+   [
+    "sister",
+    "/ˈsɪstər/",
+    "chị / em gái",
+    "female sibling"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Mai bao nhiêu tuổi?",
+     "How old is Mai?"
+    ],
+    [
+     "20",
+     "22",
+     "26"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Mai sống với ai?",
+     "Who does Mai live with?"
+    ],
+    [
+     [
+      "bố mẹ",
+      "her parents"
+     ],
+     [
+      "chị gái",
+      "her sister"
+     ],
+     [
+      "một người bạn",
+      "a friend"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Buổi chiều Mai làm gì?",
+     "What does Mai do in the afternoon?"
+    ],
+    [
+     [
+      "học tiếng Anh",
+      "studies English"
+     ],
+     [
+      "làm ở quán cà phê",
+      "works in a café"
+     ],
+     [
+      "nấu ăn",
+      "cooks"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Bữa sáng Mai ăn uống gì?",
+     "What does Mai have for breakfast?"
+    ],
+    [
+     [
+      "cơm và trà",
+      "rice and tea"
+     ],
+     [
+      "bánh mì và trà",
+      "bread and tea"
+     ],
+     [
+      "bánh mì và cà phê",
+      "bread and coffee"
+     ]
+    ],
+    1
+   ],
+   [
+    "fill",
+    "I am very busy, ___ I am happy.",
+    [
+     "but",
+     "and",
+     "so"
+    ],
+    0
+   ],
+   [
+    "order",
+    "In the evening I cook dinner",
+    "Buổi tối tôi nấu bữa tối."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Mai gets up at six every day, and she drinks tea and eats bread for breakfast.",
+    "q": [
+     "Mai ăn gì vào bữa sáng?",
+     "What does Mai eat for breakfast?"
+    ],
+    "o": [
+     [
+      "cơm",
+      "rice"
+     ],
+     [
+      "bánh mì",
+      "bread"
+     ],
+     [
+      "phở",
+      "noodle soup"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“eats bread for breakfast” – bánh mì. Mai uống trà chứ không uống cà phê.",
+     "“eats bread for breakfast”. She drinks tea, not coffee."
+    ],
+    "f": [
+     "eats bread for breakfast",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I study English in the morning and I work in a café in the afternoon.",
+    "e": [
+     "Dùng “in the morning / in the afternoon” với các buổi trong ngày. “café” có dấu trên chữ e, nhưng viết “cafe” cũng thường được chấp nhận.",
+     "Use “in the morning / in the afternoon” for parts of the day. “café” often has an accent, though “cafe” is common too."
+    ],
+    "f": [
+     "in the afternoon",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I am very busy every day, but I am happy because I love my life in Hanoi.",
+    "e": [
+     "Ngắt nhẹ trước “but” và “because”; nhấn vào “busy”, “happy”, “love”.",
+     "Pause slightly before “but” and “because”; stress “busy”, “happy” and “love”."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "Mai ___ with her sister in a small flat, and they cook dinner together in the evening.",
+    "o": [
+     "live",
+     "lives",
+     "living"
+    ],
+    "a": 1,
+    "e": [
+     "“Mai” = she → “lives”. Vế sau chủ ngữ “they” nên “cook” không có -s.",
+     "“Mai” = she → “lives”. In the second clause the subject is “they”, so “cook” has no -s."
+    ],
+    "f": [
+     "lives",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Mai works ___ a café in the afternoon, and she studies English in the morning.",
+    "a": [
+     "in",
+     "at"
+    ],
+    "e": [
+     "Bài đọc dùng “work in a café”; “work at a café” cũng đúng. Không dùng “on”.",
+     "The text says “work in a café”; “work at a café” is also correct. Don't use “on”."
+    ],
+    "f": [
+     "in a café",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mai and her sister is very busy, but they are happy in their small flat in Hanoi.",
+    "a": [
+     "Mai and her sister are very busy, but they are happy in their small flat in Hanoi.",
+     "Mai and her sister are very busy, but they're happy in their small flat in Hanoi."
+    ],
+    "e": [
+     "“Mai and her sister” là hai người → “are”. Chủ ngữ nối bằng “and” luôn là số nhiều.",
+     "“Mai and her sister” are two people → “are”. Subjects joined by “and” are plural."
+    ],
+    "f": [
+     "Mai and her sister are",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mai không làm việc vào buổi sáng vì cô ấy học tiếng Anh.",
+    "a": [
+     "Mai doesn't work in the morning because she studies English.",
+     "Mai does not work in the morning because she studies English.",
+     "Mai doesn't work in the mornings because she studies English.",
+     "Mai does not work in the mornings because she studies English."
+    ],
+    "e": [
+     "Phủ định với “Mai” (she): “doesn't + work”. Vế sau khẳng định nên “studies” có -ies.",
+     "Negative with she: “doesn't + work”. The second clause is positive, so “studies” takes -ies."
+    ],
+    "f": [
+     "doesn't work",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở ngôi thứ ba, bắt đầu bằng “Mai”",
+     "Rewrite in the third person, starting with “Mai”"
+    ],
+    "s": "I get up at six every day, and I drink tea and eat bread for breakfast.",
+    "a": [
+     "Mai gets up at six every day, and she drinks tea and eats bread for breakfast.",
+     "Mai gets up at six every day and she drinks tea and eats bread for breakfast.",
+     "Mai gets up at six every day, and drinks tea and eats bread for breakfast."
+    ],
+    "e": [
+     "Đổi I → Mai/she, và thêm -s cho cả ba động từ: gets, drinks, eats. Lỗi hay gặp là quên -s ở động từ thứ hai, thứ ba.",
+     "Change I → Mai/she and add -s to all three verbs: gets, drinks, eats. Learners often forget the -s on the later verbs."
+    ],
+    "f": [
+     "Mai gets up",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "In the evening|Mai|cooks dinner|and watches TV|with her sister|in their small flat",
+    "m": [
+     "Buổi tối Mai nấu bữa tối và xem TV cùng chị gái trong căn hộ nhỏ của họ.",
+     "In the evening Mai cooks dinner and watches TV with her sister in their small flat."
+    ],
+    "e": [
+     "Cụm thời gian có thể đứng đầu câu. “watch” → “watches” (-ch thêm -es).",
+     "The time phrase can start the sentence. “watch” → “watches” (-ch adds -es)."
+    ],
+    "f": [
+     "watches TV",
+     "A1"
+    ]
+   }
+  ]
+ }
+]

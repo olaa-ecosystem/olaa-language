@@ -1,0 +1,4012 @@
+{
+ "source": "d4a7048f-Bai-tap-15-chu-de.md",
+ "sha256": "804dba97b1088e5890aa7a8b09ff37dcd84dd730fe87bc2fc82424acfb41e16a",
+ "importedAt": "2026-11-19",
+ "topics": [
+  {
+   "id": "t01",
+   "title": "Giới thiệu bản thân & gia đình",
+   "level": {
+    "cefr": "A1",
+    "hsk": "HSK 1"
+   },
+   "hours": "~3 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "tên",
+     "en": "name",
+     "zh": {
+      "hanzi": "名字",
+      "pinyin": "míngzi"
+     },
+     "es": "el nombre"
+    },
+    {
+     "vi": "tuổi",
+     "en": "age",
+     "zh": {
+      "hanzi": "年龄",
+      "pinyin": "niánlíng"
+     },
+     "es": "la edad"
+    },
+    {
+     "vi": "bố",
+     "en": "father",
+     "zh": {
+      "hanzi": "爸爸",
+      "pinyin": "bàba"
+     },
+     "es": "el padre"
+    },
+    {
+     "vi": "mẹ",
+     "en": "mother",
+     "zh": {
+      "hanzi": "妈妈",
+      "pinyin": "māma"
+     },
+     "es": "la madre"
+    },
+    {
+     "vi": "anh trai / em trai",
+     "en": "older / younger brother",
+     "zh": {
+      "hanzi": "哥哥 / 弟弟",
+      "pinyin": "gēge / dìdi"
+     },
+     "es": "el hermano mayor / menor"
+    },
+    {
+     "vi": "chị gái / em gái",
+     "en": "older / younger sister",
+     "zh": {
+      "hanzi": "姐姐 / 妹妹",
+      "pinyin": "jiějie / mèimei"
+     },
+     "es": "la hermana mayor / menor"
+    },
+    {
+     "vi": "nghề nghiệp",
+     "en": "job",
+     "zh": {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò"
+     },
+     "es": "el trabajo"
+    },
+    {
+     "vi": "quê",
+     "en": "hometown",
+     "zh": {
+      "hanzi": "老家",
+      "pinyin": "lǎojiā"
+     },
+     "es": "el pueblo natal"
+    },
+    {
+     "vi": "sở thích",
+     "en": "hobby",
+     "zh": {
+      "hanzi": "爱好",
+      "pinyin": "àihào"
+     },
+     "es": "la afición"
+    },
+    {
+     "vi": "đã kết hôn",
+     "en": "married",
+     "zh": {
+      "hanzi": "结婚了",
+      "pinyin": "jiéhūn le"
+     },
+     "es": "casado / casada"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi tên là An.",
+     "en": "My name is An.",
+     "zh": {
+      "hanzi": "我叫安。",
+      "pinyin": "Wǒ jiào Ān."
+     },
+     "es": "Me llamo An."
+    },
+    {
+     "vi": "Tôi 25 tuổi.",
+     "en": "I'm 25 years old.",
+     "zh": {
+      "hanzi": "我二十五岁。",
+      "pinyin": "Wǒ èrshíwǔ suì."
+     },
+     "es": "Tengo 25 años."
+    },
+    {
+     "vi": "Nhà tôi có 4 người.",
+     "en": "There are four people in my family.",
+     "zh": {
+      "hanzi": "我家有四口人。",
+      "pinyin": "Wǒ jiā yǒu sì kǒu rén."
+     },
+     "es": "En mi familia somos cuatro."
+    },
+    {
+     "vi": "Tôi đến từ Việt Nam.",
+     "en": "I'm from Vietnam.",
+     "zh": {
+      "hanzi": "我是越南人。",
+      "pinyin": "Wǒ shì Yuènán rén."
+     },
+     "es": "Soy de Vietnam."
+    }
+   ],
+   "grammar": {
+    "en": "động từ to be (am / is / are) và have got; tính từ sở hữu my, your, his, her.",
+    "zh": "câu với 是 (là) và 有 (có); lượng từ 口 khi đếm người trong gia đình.",
+    "es": "phân biệt ser (quốc tịch, nghề) và tener (tuổi: tener 25 años); giống đực / cái -o / -a."
+   },
+   "pronunciation": {
+    "en": "âm /θ/ trong three và /ð/ trong brother, mother.",
+    "zh": "thanh nhẹ ở âm tiết thứ hai của 爸爸, 妈妈, 哥哥; biến điệu hai thanh 3 liền nhau (你好 đọc thành ní hǎo).",
+    "es": "5 nguyên âm thuần a, e, i, o, u; âm r rặng một lần trong padre, hermano."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 3 đoạn tự giới thiệu trình độ sơ cấp, ghi lại tên, tuổi, nghề của từng người",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Ghi âm 1 phút tự giới thiệu dùng cả 4 mẫu câu, nghe lại và sửa 3 lỗi",
+     "minutes": 20
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 hồ sơ cá nhân ngắn (profile mạng xã hội, thẻ học viên), trả lời 5 câu hỏi đúng/sai",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết đoạn 60–80 từ (tiếng Trung: 60–80 chữ) giới thiệu gia đình",
+     "minutes": 30
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Làm flashcard 10 từ trên, ôn theo khoảng cách 1-3-7 ngày",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết mỗi chữ 10 lần đúng thứ tự nét: 我 (7 nét), 你 (7), 叫 (5), 家 (10), 人 (2).",
+    "Đọc to và tự kiểm tra thanh điệu: míngzi · bàba · jiějie · àihào."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "My sister ___ 20 years old.",
+     "answer": "is"
+    },
+    {
+     "lang": "en",
+     "sentence": "___ name is Lan. (của cô ấy)",
+     "answer": "Her"
+    },
+    {
+     "lang": "en",
+     "sentence": "I have two ___. (anh em trai)",
+     "answer": "brothers"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我___安。(tên là)",
+     "answer": "叫"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我家有四___人。",
+     "answer": "口"
+    },
+    {
+     "lang": "zh",
+     "sentence": "你___哪国人？",
+     "answer": "是"
+    },
+    {
+     "lang": "es",
+     "sentence": "Yo ___ 25 años.",
+     "answer": "tengo"
+    },
+    {
+     "lang": "es",
+     "sentence": "Ella ___ de México.",
+     "answer": "es"
+    },
+    {
+     "lang": "es",
+     "sentence": "Mis padres ___ médicos.",
+     "answer": "son"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Bố tôi là giáo viên.",
+     "en": "My father is a teacher.",
+     "zh": {
+      "hanzi": "我爸爸是老师。",
+      "pinyin": "Wǒ bàba shì lǎoshī."
+     },
+     "es": "Mi padre es profesor."
+    },
+    {
+     "vi": "Bạn có anh chị em không?",
+     "en": "Do you have any brothers or sisters?",
+     "zh": {
+      "hanzi": "你有兄弟姐妹吗？",
+      "pinyin": "Nǐ yǒu xiōngdì jiěmèi ma?"
+     },
+     "es": "¿Tienes hermanos?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "Where are you from?",
+     "zh": "你是哪国人？",
+     "es": "¿De dónde eres?"
+    },
+    {
+     "en": "What do you do?",
+     "zh": "你做什么工作？",
+     "es": "¿A qué te dedicas?"
+    },
+    {
+     "en": "Tell me about your family.",
+     "zh": "介绍一下你的家人。",
+     "es": "Háblame de tu familia."
+    }
+   ],
+   "writing": "Viết email 80 từ (tiếng Trung: 80 chữ) gửi một người bạn qua thư nước ngoài: tên, tuổi, quê, gia đình, sở thích, và hỏi lại họ 2 câu.",
+   "dictation": "Nghe 4 mẫu câu ở trên bằng audio (Google Dịch, YouGlish), chép lại rồi so đáp án; sau đó nói nhại theo mỗi câu 5 lần.",
+   "challenge": "Viết phần giới thiệu bản thân trên một ứng dụng trao đổi ngôn ngữ (HelloTalk, Tandem) bằng ngôn ngữ đang học."
+  },
+  {
+   "id": "t02",
+   "title": "Sinh hoạt hằng ngày",
+   "level": {
+    "cefr": "A1–A2",
+    "hsk": "HSK 1–2"
+   },
+   "hours": "~3 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "thức dậy",
+     "en": "get up",
+     "zh": {
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng"
+     },
+     "es": "levantarse"
+    },
+    {
+     "vi": "đánh răng",
+     "en": "brush your teeth",
+     "zh": {
+      "hanzi": "刷牙",
+      "pinyin": "shuāyá"
+     },
+     "es": "cepillarse los dientes"
+    },
+    {
+     "vi": "ăn sáng",
+     "en": "have breakfast",
+     "zh": {
+      "hanzi": "吃早饭",
+      "pinyin": "chī zǎofàn"
+     },
+     "es": "desayunar"
+    },
+    {
+     "vi": "đi làm",
+     "en": "go to work",
+     "zh": {
+      "hanzi": "上班",
+      "pinyin": "shàngbān"
+     },
+     "es": "ir al trabajo"
+    },
+    {
+     "vi": "tan làm",
+     "en": "finish work",
+     "zh": {
+      "hanzi": "下班",
+      "pinyin": "xiàbān"
+     },
+     "es": "salir del trabajo"
+    },
+    {
+     "vi": "nấu ăn",
+     "en": "cook",
+     "zh": {
+      "hanzi": "做饭",
+      "pinyin": "zuòfàn"
+     },
+     "es": "cocinar"
+    },
+    {
+     "vi": "tắm",
+     "en": "take a shower",
+     "zh": {
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo"
+     },
+     "es": "ducharse"
+    },
+    {
+     "vi": "đi ngủ",
+     "en": "go to bed",
+     "zh": {
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào"
+     },
+     "es": "acostarse"
+    },
+    {
+     "vi": "cuối tuần",
+     "en": "weekend",
+     "zh": {
+      "hanzi": "周末",
+      "pinyin": "zhōumò"
+     },
+     "es": "el fin de semana"
+    },
+    {
+     "vi": "thường",
+     "en": "usually",
+     "zh": {
+      "hanzi": "一般",
+      "pinyin": "yìbān"
+     },
+     "es": "normalmente"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi thường dậy lúc 6 giờ.",
+     "en": "I usually get up at six.",
+     "zh": {
+      "hanzi": "我一般六点起床。",
+      "pinyin": "Wǒ yìbān liù diǎn qǐchuáng."
+     },
+     "es": "Normalmente me levanto a las seis."
+    },
+    {
+     "vi": "Tôi đi làm bằng xe máy.",
+     "en": "I go to work by motorbike.",
+     "zh": {
+      "hanzi": "我骑摩托车上班。",
+      "pinyin": "Wǒ qí mótuōchē shàngbān."
+     },
+     "es": "Voy al trabajo en moto."
+    },
+    {
+     "vi": "Buổi tối tôi học tiếng Anh một tiếng.",
+     "en": "In the evening I study English for an hour.",
+     "zh": {
+      "hanzi": "晚上我学一个小时英语。",
+      "pinyin": "Wǎnshang wǒ xué yí ge xiǎoshí Yīngyǔ."
+     },
+     "es": "Por la noche estudio inglés una hora."
+    },
+    {
+     "vi": "Cuối tuần bạn thường làm gì?",
+     "en": "What do you usually do at the weekend?",
+     "zh": {
+      "hanzi": "周末你一般做什么？",
+      "pinyin": "Zhōumò nǐ yìbān zuò shénme?"
+     },
+     "es": "¿Qué sueles hacer los fines de semana?"
+    }
+   ],
+   "grammar": {
+    "en": "thì hiện tại đơn, thêm -s/-es với ngôi thứ 3; trạng từ tần suất always, usually, sometimes, never đứng trước động từ thường.",
+    "zh": "từ chỉ thời điểm đứng trước động từ (六点起床); thời lượng đứng sau động từ (学一个小时).",
+    "es": "động từ phản thân (me levanto, me ducho); chia hiện tại động từ -ar / -er / -ir; soler + động từ nguyên mẫu."
+   },
+   "pronunciation": {
+    "en": "đuôi -s đọc /s/ (works), /z/ (goes), /ɪz/ (watches).",
+    "zh": "phân biệt j / q / x với zh / ch / sh (qǐchuáng, xǐzǎo, shàngbān).",
+    "es": "âm j bật hơi trong cổ họng (trabajo, hijo)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Xem 1 video “my daily routine” / “我的一天” / “mi rutina diaria”, ghi lại 8 hoạt động kèm giờ",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Kể một ngày của bạn từ sáng đến tối trong 90 giây, dùng ít nhất 3 trạng từ tần suất",
+     "minutes": 20
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài ngắn về lịch sinh hoạt của một người, sắp xếp 8 hoạt động theo đúng thứ tự",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết nhật ký 80–100 từ (tiếng Trung: 80–100 chữ) về ngày hôm nay",
+     "minutes": 30
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Ghép 10 động từ với khung giờ trong ngày, nói thành câu",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 早 (6 nét), 饭 (7), 点 (9), 起 (10), 睡 (13).",
+    "Luyện cặp thanh: shàngbān (4-1) · xiàbān (4-1) · shuìjiào (4-4) · zhōumò (1-4)."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "She ___ up at 6 every day. (get)",
+     "answer": "gets"
+    },
+    {
+     "lang": "en",
+     "sentence": "I ___ eat breakfast. (không bao giờ)",
+     "answer": "never"
+    },
+    {
+     "lang": "en",
+     "sentence": "What time ___ you go to bed?",
+     "answer": "do"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我每天七点___床。",
+     "answer": "起"
+    },
+    {
+     "lang": "zh",
+     "sentence": "晚上我学一个___汉语。(tiếng đồng hồ)",
+     "answer": "小时"
+    },
+    {
+     "lang": "zh",
+     "sentence": "周末你一般做___？",
+     "answer": "什么"
+    },
+    {
+     "lang": "es",
+     "sentence": "Yo me ___ a las siete. (levantarse)",
+     "answer": "levanto"
+    },
+    {
+     "lang": "es",
+     "sentence": "Ella ___ por la noche. (ducharse)",
+     "answer": "se ducha"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿A qué hora ___ tú? (cenar)",
+     "answer": "cenas"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi thường đi ngủ lúc 11 giờ.",
+     "en": "I usually go to bed at eleven.",
+     "zh": {
+      "hanzi": "我一般十一点睡觉。",
+      "pinyin": "Wǒ yìbān shíyī diǎn shuìjiào."
+     },
+     "es": "Normalmente me acuesto a las once."
+    },
+    {
+     "vi": "Sáng nào tôi cũng uống cà phê.",
+     "en": "I drink coffee every morning.",
+     "zh": {
+      "hanzi": "我每天早上喝咖啡。",
+      "pinyin": "Wǒ měitiān zǎoshang hē kāfēi."
+     },
+     "es": "Tomo café todas las mañanas."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What does a typical day look like for you?",
+     "zh": "你平时一天是怎么过的？",
+     "es": "¿Cómo es un día normal para ti?"
+    },
+    {
+     "en": "What do you do in your free time?",
+     "zh": "你有空的时候做什么？",
+     "es": "¿Qué haces en tu tiempo libre?"
+    },
+    {
+     "en": "Are you a morning person or a night owl?",
+     "zh": "你喜欢早起还是晚睡？",
+     "es": "¿Eres más de mañanas o de noches?"
+    }
+   ],
+   "writing": "So sánh một ngày thường và một ngày cuối tuần của bạn trong 100 từ (tiếng Trung: 100 chữ), dùng ít nhất 4 trạng từ tần suất.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Tự nói thầm việc mình đang làm bằng ngôn ngữ đang học (“Now I'm brushing my teeth”), ít nhất 10 lần trong ngày."
+  },
+  {
+   "id": "t03",
+   "title": "Ăn uống & nhà hàng",
+   "level": {
+    "cefr": "A1–A2",
+    "hsk": "HSK 2"
+   },
+   "hours": "~3 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "thực đơn",
+     "en": "menu",
+     "zh": {
+      "hanzi": "菜单",
+      "pinyin": "càidān"
+     },
+     "es": "la carta"
+    },
+    {
+     "vi": "gọi món",
+     "en": "order",
+     "zh": {
+      "hanzi": "点菜",
+      "pinyin": "diǎn cài"
+     },
+     "es": "pedir"
+    },
+    {
+     "vi": "cơm",
+     "en": "rice",
+     "zh": {
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn"
+     },
+     "es": "el arroz"
+    },
+    {
+     "vi": "đồ uống",
+     "en": "drink",
+     "zh": {
+      "hanzi": "饮料",
+      "pinyin": "yǐnliào"
+     },
+     "es": "la bebida"
+    },
+    {
+     "vi": "cay",
+     "en": "spicy",
+     "zh": {
+      "hanzi": "辣",
+      "pinyin": "là"
+     },
+     "es": "picante"
+    },
+    {
+     "vi": "ngọt",
+     "en": "sweet",
+     "zh": {
+      "hanzi": "甜",
+      "pinyin": "tián"
+     },
+     "es": "dulce"
+    },
+    {
+     "vi": "ngon",
+     "en": "delicious",
+     "zh": {
+      "hanzi": "好吃",
+      "pinyin": "hǎochī"
+     },
+     "es": "rico, delicioso"
+    },
+    {
+     "vi": "hóa đơn",
+     "en": "the bill",
+     "zh": {
+      "hanzi": "买单",
+      "pinyin": "mǎidān"
+     },
+     "es": "la cuenta"
+    },
+    {
+     "vi": "đặt bàn",
+     "en": "book a table",
+     "zh": {
+      "hanzi": "订位",
+      "pinyin": "dìngwèi"
+     },
+     "es": "reservar mesa"
+    },
+    {
+     "vi": "người phục vụ",
+     "en": "waiter",
+     "zh": {
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán"
+     },
+     "es": "el camarero"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Cho tôi xem thực đơn.",
+     "en": "Could I see the menu, please?",
+     "zh": {
+      "hanzi": "请给我看一下菜单。",
+      "pinyin": "Qǐng gěi wǒ kàn yíxià càidān."
+     },
+     "es": "¿Me trae la carta, por favor?"
+    },
+    {
+     "vi": "Tôi muốn một bát phở.",
+     "en": "I'd like a bowl of pho.",
+     "zh": {
+      "hanzi": "我要一碗河粉。",
+      "pinyin": "Wǒ yào yì wǎn héfěn."
+     },
+     "es": "Quisiera un tazón de pho."
+    },
+    {
+     "vi": "Món này có cay không?",
+     "en": "Is this dish spicy?",
+     "zh": {
+      "hanzi": "这个菜辣不辣？",
+      "pinyin": "Zhège cài là bu là?"
+     },
+     "es": "¿Este plato es picante?"
+    },
+    {
+     "vi": "Cho tôi tính tiền.",
+     "en": "Could we have the bill, please?",
+     "zh": {
+      "hanzi": "服务员，买单！",
+      "pinyin": "Fúwùyuán, mǎidān!"
+     },
+     "es": "La cuenta, por favor."
+    }
+   ],
+   "grammar": {
+    "en": "danh từ đếm được / không đếm được với some, any, much, many; I'd like + danh từ.",
+    "zh": "要 / 想 + danh từ; câu hỏi chính phản V不V (辣不辣, 好吃不好吃); lượng từ 碗, 杯, 盘.",
+    "es": "quisiera (lịch sự) và quiero; me gusta + số ít, me gustan + số nhiều."
+   },
+   "pronunciation": {
+    "en": "dạng yếu /ə/ của a, of, and trong a cup of tea.",
+    "zh": "不 đổi thành thanh 2 trước thanh 4 (不辣 bú là, 不要 bú yào).",
+    "es": "âm ñ (piña, año); c, z đọc /θ/ ở Tây Ban Nha, /s/ ở Mỹ Latinh (cerveza)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 hội thoại gọi món trong nhà hàng, ghi lại món, số lượng và giá",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Đóng vai khách và phục vụ: đặt bàn, gọi 3 món, hỏi độ cay, tính tiền; ghi âm cả hai vai",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc một thực đơn thật (ảnh chụp hoặc trên mạng), chọn bữa ăn dưới một mức giá cho trước",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết đánh giá nhà hàng 80 từ (tiếng Trung: 80 chữ): món, giá, phục vụ, có quay lại không",
+     "minutes": 30
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Phân loại 20 món ăn quen thuộc theo nhóm: thịt, rau, đồ uống, tráng miệng",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 水 (4 nét), 吃 (6), 茶 (9), 菜 (11), 喝 (12).",
+    "Nhận biết bộ 口 (miệng) trong 吃, 喝 và bộ 艹 (cỏ) trong 茶, 菜."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "Could I have ___ water, please? (một ít)",
+     "answer": "some"
+    },
+    {
+     "lang": "en",
+     "sentence": "How ___ sugar do you want?",
+     "answer": "much"
+    },
+    {
+     "lang": "en",
+     "sentence": "I'd ___ the chicken, please.",
+     "answer": "like"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这个菜辣___辣？",
+     "answer": "不"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我要一___咖啡。(cốc)",
+     "answer": "杯"
+    },
+    {
+     "lang": "zh",
+     "sentence": "服务员，___单！",
+     "answer": "买"
+    },
+    {
+     "lang": "es",
+     "sentence": "Me ___ las fresas. (gustar)",
+     "answer": "gustan"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ un café, por favor. (tôi muốn, lịch sự)",
+     "answer": "Quisiera"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Me trae la ___, por favor? (hóa đơn)",
+     "answer": "cuenta"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi không ăn được đồ cay.",
+     "en": "I can't eat spicy food.",
+     "zh": {
+      "hanzi": "我不能吃辣的。",
+      "pinyin": "Wǒ bù néng chī là de."
+     },
+     "es": "No puedo comer picante."
+    },
+    {
+     "vi": "Cho tôi thêm một chai nước.",
+     "en": "Could I have another bottle of water?",
+     "zh": {
+      "hanzi": "再来一瓶水。",
+      "pinyin": "Zài lái yì píng shuǐ."
+     },
+     "es": "¿Me trae otra botella de agua?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What's your favourite dish?",
+     "zh": "你最喜欢吃什么菜？",
+     "es": "¿Cuál es tu plato favorito?"
+    },
+    {
+     "en": "Do you prefer cooking at home or eating out?",
+     "zh": "你喜欢在家做饭还是出去吃？",
+     "es": "¿Prefieres cocinar en casa o comer fuera?"
+    },
+    {
+     "en": "Describe a traditional dish from your country.",
+     "zh": "介绍一道你们国家的传统菜。",
+     "es": "Describe un plato típico de tu país."
+    }
+   ],
+   "writing": "Viết công thức một món Việt Nam bạn thích trong 100 từ (tiếng Trung: 100 chữ): danh sách nguyên liệu và 5 bước nấu, dùng câu mệnh lệnh.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Xem một video nấu ăn bằng ngôn ngữ đang học và ghi lại tên 10 nguyên liệu, 5 động từ nấu nướng (cắt, chiên, luộc ...)."
+  },
+  {
+   "id": "t04",
+   "title": "Mua sắm & tiền bạc",
+   "level": {
+    "cefr": "A2",
+    "hsk": "HSK 2"
+   },
+   "hours": "~3 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "giá",
+     "en": "price",
+     "zh": {
+      "hanzi": "价格",
+      "pinyin": "jiàgé"
+     },
+     "es": "el precio"
+    },
+    {
+     "vi": "đắt",
+     "en": "expensive",
+     "zh": {
+      "hanzi": "贵",
+      "pinyin": "guì"
+     },
+     "es": "caro"
+    },
+    {
+     "vi": "rẻ",
+     "en": "cheap",
+     "zh": {
+      "hanzi": "便宜",
+      "pinyin": "piányi"
+     },
+     "es": "barato"
+    },
+    {
+     "vi": "giảm giá",
+     "en": "discount",
+     "zh": {
+      "hanzi": "打折",
+      "pinyin": "dǎzhé"
+     },
+     "es": "el descuento"
+    },
+    {
+     "vi": "cỡ",
+     "en": "size",
+     "zh": {
+      "hanzi": "尺码",
+      "pinyin": "chǐmǎ"
+     },
+     "es": "la talla"
+    },
+    {
+     "vi": "mặc thử",
+     "en": "try on",
+     "zh": {
+      "hanzi": "试穿",
+      "pinyin": "shìchuān"
+     },
+     "es": "probarse"
+    },
+    {
+     "vi": "tiền mặt",
+     "en": "cash",
+     "zh": {
+      "hanzi": "现金",
+      "pinyin": "xiànjīn"
+     },
+     "es": "el efectivo"
+    },
+    {
+     "vi": "quẹt thẻ",
+     "en": "pay by card",
+     "zh": {
+      "hanzi": "刷卡",
+      "pinyin": "shuākǎ"
+     },
+     "es": "pagar con tarjeta"
+    },
+    {
+     "vi": "trả tiền",
+     "en": "pay",
+     "zh": {
+      "hanzi": "付钱",
+      "pinyin": "fù qián"
+     },
+     "es": "pagar"
+    },
+    {
+     "vi": "đổi trả hàng",
+     "en": "return an item",
+     "zh": {
+      "hanzi": "退货",
+      "pinyin": "tuìhuò"
+     },
+     "es": "devolver"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Cái này bao nhiêu tiền?",
+     "en": "How much is this?",
+     "zh": {
+      "hanzi": "这个多少钱？",
+      "pinyin": "Zhège duōshao qián?"
+     },
+     "es": "¿Cuánto cuesta esto?"
+    },
+    {
+     "vi": "Có cỡ lớn hơn không?",
+     "en": "Do you have it in a bigger size?",
+     "zh": {
+      "hanzi": "有大一点的吗？",
+      "pinyin": "Yǒu dà yìdiǎn de ma?"
+     },
+     "es": "¿Lo tiene en una talla más grande?"
+    },
+    {
+     "vi": "Bớt cho tôi được không?",
+     "en": "Can you give me a discount?",
+     "zh": {
+      "hanzi": "能便宜一点吗？",
+      "pinyin": "Néng piányi yìdiǎn ma?"
+     },
+     "es": "¿Me puede hacer un descuento?"
+    },
+    {
+     "vi": "Tôi trả bằng thẻ được không?",
+     "en": "Can I pay by card?",
+     "zh": {
+      "hanzi": "可以刷卡吗？",
+      "pinyin": "Kěyǐ shuākǎ ma?"
+     },
+     "es": "¿Puedo pagar con tarjeta?"
+    }
+   ],
+   "grammar": {
+    "en": "so sánh hơn (cheaper than, more expensive than); this / that / these / those.",
+    "zh": "tính từ + 一点 (便宜一点); câu so sánh 比 (这个比那个贵); nói giá bằng 块 / 元.",
+    "es": "chỉ định từ este / ese / aquel; más / menos ... que; số 100–1000 (cien, quinientos, mil)."
+   },
+   "pronunciation": {
+    "en": "trọng âm phân biệt giá tiền: thirteen (13) và thirty (30), fifteen và fifty.",
+    "zh": "biến điệu của 一: yí trước thanh 4 (一下 yíxià), yì trước thanh 1-2-3 (一点 yìdiǎn).",
+    "es": "nối âm giữa các từ (¿Cuánto es? đọc liền “cuántoes”); dấu trọng âm trên cuánto."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 5 đoạn mua bán ngắn, ghi lại đúng con số giá tiền",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Đóng vai mua 1 món quần áo: hỏi giá, hỏi cỡ, mặc cả, trả tiền",
+     "minutes": 20
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 trang sản phẩm trên web bán hàng, tìm giá, chính sách đổi trả, phí giao hàng",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết email 80 từ (tiếng Trung: 80 chữ) yêu cầu đổi hàng vì sai cỡ",
+     "minutes": 30
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Đọc to 20 giá tiền ngẫu nhiên (ví dụ 15,99; 230; 1.450)",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 少 (4 nét), 买 (6), 多 (6), 卖 (8), 钱 (10).",
+    "Phân biệt 买 mǎi (mua, thanh 3) và 卖 mài (bán, thanh 4, có thêm 十 trên đầu)."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "This jacket is ___ than that one. (cheap)",
+     "answer": "cheaper"
+    },
+    {
+     "lang": "en",
+     "sentence": "How much ___ these shoes?",
+     "answer": "are"
+    },
+    {
+     "lang": "en",
+     "sentence": "Can I pay ___ card?",
+     "answer": "by"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这个___那个贵。",
+     "answer": "比"
+    },
+    {
+     "lang": "zh",
+     "sentence": "能便宜一___吗？",
+     "answer": "点"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这件衣服多少___？",
+     "answer": "钱"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Cuánto ___ estos zapatos? (costar)",
+     "answer": "cuestan"
+    },
+    {
+     "lang": "es",
+     "sentence": "Esta camisa es ___ cara que esa.",
+     "answer": "más"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Puedo ___ esta falda? (mặc thử)",
+     "answer": "probarme"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Cái áo này có màu khác không?",
+     "en": "Do you have this shirt in another colour?",
+     "zh": {
+      "hanzi": "这件衣服有别的颜色吗？",
+      "pinyin": "Zhè jiàn yīfu yǒu bié de yánsè ma?"
+     },
+     "es": "¿Tiene esta camisa en otro color?"
+    },
+    {
+     "vi": "Tôi chỉ xem thôi, cảm ơn.",
+     "en": "I'm just looking, thanks.",
+     "zh": {
+      "hanzi": "我只是看看，谢谢。",
+      "pinyin": "Wǒ zhǐshì kànkan, xièxie."
+     },
+     "es": "Solo estoy mirando, gracias."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "Do you prefer shopping online or in stores?",
+     "zh": "你喜欢网购还是去商店买东西？",
+     "es": "¿Prefieres comprar por internet o en tiendas?"
+    },
+    {
+     "en": "What was the last thing you bought?",
+     "zh": "你最近买了什么？",
+     "es": "¿Qué fue lo último que compraste?"
+    },
+    {
+     "en": "How do you save money?",
+     "zh": "你怎么省钱？",
+     "es": "¿Cómo ahorras dinero?"
+    }
+   ],
+   "writing": "Viết đánh giá 100 từ (tiếng Trung: 100 chữ) về một món đồ bạn mới mua: giá, chất lượng, so với sản phẩm khác, có nên mua không.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Mở một trang mua sắm bằng ngôn ngữ đang học, chọn 5 món trong ngân sách cố định, ghi tên sản phẩm và đọc to tổng tiền."
+  },
+  {
+   "id": "t05",
+   "title": "Du lịch, phương tiện & chỉ đường",
+   "level": {
+    "cefr": "A2",
+    "hsk": "HSK 2–3"
+   },
+   "hours": "~3,5 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "vé",
+     "en": "ticket",
+     "zh": {
+      "hanzi": "票",
+      "pinyin": "piào"
+     },
+     "es": "el billete"
+    },
+    {
+     "vi": "sân bay",
+     "en": "airport",
+     "zh": {
+      "hanzi": "机场",
+      "pinyin": "jīchǎng"
+     },
+     "es": "el aeropuerto"
+    },
+    {
+     "vi": "ga tàu",
+     "en": "train station",
+     "zh": {
+      "hanzi": "火车站",
+      "pinyin": "huǒchēzhàn"
+     },
+     "es": "la estación de tren"
+    },
+    {
+     "vi": "khách sạn",
+     "en": "hotel",
+     "zh": {
+      "hanzi": "酒店",
+      "pinyin": "jiǔdiàn"
+     },
+     "es": "el hotel"
+    },
+    {
+     "vi": "hộ chiếu",
+     "en": "passport",
+     "zh": {
+      "hanzi": "护照",
+      "pinyin": "hùzhào"
+     },
+     "es": "el pasaporte"
+    },
+    {
+     "vi": "hành lý",
+     "en": "luggage",
+     "zh": {
+      "hanzi": "行李",
+      "pinyin": "xíngli"
+     },
+     "es": "el equipaje"
+    },
+    {
+     "vi": "rẽ trái",
+     "en": "turn left",
+     "zh": {
+      "hanzi": "往左拐",
+      "pinyin": "wǎng zuǒ guǎi"
+     },
+     "es": "girar a la izquierda"
+    },
+    {
+     "vi": "đi thẳng",
+     "en": "go straight on",
+     "zh": {
+      "hanzi": "一直走",
+      "pinyin": "yìzhí zǒu"
+     },
+     "es": "seguir recto"
+    },
+    {
+     "vi": "gần",
+     "en": "near",
+     "zh": {
+      "hanzi": "近",
+      "pinyin": "jìn"
+     },
+     "es": "cerca"
+    },
+    {
+     "vi": "xa",
+     "en": "far",
+     "zh": {
+      "hanzi": "远",
+      "pinyin": "yuǎn"
+     },
+     "es": "lejos"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Ga tàu điện ngầm ở đâu?",
+     "en": "Where is the subway station?",
+     "zh": {
+      "hanzi": "地铁站在哪儿？",
+      "pinyin": "Dìtiězhàn zài nǎr?"
+     },
+     "es": "¿Dónde está la estación de metro?"
+    },
+    {
+     "vi": "Đi thẳng rồi rẽ trái.",
+     "en": "Go straight on, then turn left.",
+     "zh": {
+      "hanzi": "一直走，然后往左拐。",
+      "pinyin": "Yìzhí zǒu, ránhòu wǎng zuǒ guǎi."
+     },
+     "es": "Siga recto y luego gire a la izquierda."
+    },
+    {
+     "vi": "Đi bộ mất bao lâu?",
+     "en": "How long does it take on foot?",
+     "zh": {
+      "hanzi": "走路要多长时间？",
+      "pinyin": "Zǒulù yào duō cháng shíjiān?"
+     },
+     "es": "¿Cuánto se tarda a pie?"
+    },
+    {
+     "vi": "Tôi muốn mua một vé khứ hồi.",
+     "en": "I'd like a return ticket.",
+     "zh": {
+      "hanzi": "我想买一张往返票。",
+      "pinyin": "Wǒ xiǎng mǎi yì zhāng wǎngfǎn piào."
+     },
+     "es": "Quisiera un billete de ida y vuelta."
+    }
+   ],
+   "grammar": {
+    "en": "giới từ chỉ vị trí (next to, opposite, between); câu mệnh lệnh khi chỉ đường; be going to cho kế hoạch chuyến đi.",
+    "zh": "在 + địa điểm; 从 ... 到 ... (từ ... đến ...); 离 chỉ khoảng cách (这儿离机场很远).",
+    "es": "estar chỉ vị trí và hay chỉ sự tồn tại; mệnh lệnh thức ngôi usted (siga, gire, tome)."
+   },
+   "pronunciation": {
+    "en": "ngữ điệu xuống ở cuối câu hỏi Wh- (Where is the station?).",
+    "zh": "âm cuốn lưỡi 儿 (哪儿 nǎr, 这儿 zhèr) của giọng Bắc Kinh.",
+    "es": "b và v đọc giống nhau (vuelta, billete); h luôn câm (hotel, hora)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 3 thông báo ở sân bay hoặc nhà ga, ghi lại số chuyến, cổng, giờ đi",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Mở bản đồ một thành phố, chỉ đường từ khách sạn đến 3 địa điểm, ghi âm",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 lịch trình du lịch 3 ngày, lập bảng: ngày – địa điểm – phương tiện",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết bài 100 từ (tiếng Trung: 100 chữ) kể về chuyến đi đáng nhớ nhất",
+     "minutes": 30
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Vẽ sơ đồ khu phố nhà bạn, ghi tên địa điểm bằng ngôn ngữ đang học",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 车 (4 nét), 走 (7), 站 (10), 票 (11), 路 (13).",
+    "Luyện cặp thanh: jīchǎng (1-3) · hùzhào (4-4) · dìtiě (4-3) · yìzhí (4-2)."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "The bank is ___ to the post office. (bên cạnh)",
+     "answer": "next"
+    },
+    {
+     "lang": "en",
+     "sentence": "___ left at the traffic lights.",
+     "answer": "Turn"
+    },
+    {
+     "lang": "en",
+     "sentence": "We're ___ to visit Da Lat next month.",
+     "answer": "going"
+    },
+    {
+     "lang": "zh",
+     "sentence": "地铁站___哪儿？",
+     "answer": "在"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我家___机场很远。",
+     "answer": "离"
+    },
+    {
+     "lang": "zh",
+     "sentence": "___这儿到机场要多长时间？",
+     "answer": "从"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Dónde ___ la estación?",
+     "answer": "está"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿___ un hotel cerca de aquí? (có ... không)",
+     "answer": "Hay"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ la segunda calle a la derecha. (đi vào, ngôi usted)",
+     "answer": "Tome"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Chuyến bay bị hoãn hai tiếng.",
+     "en": "The flight is delayed by two hours.",
+     "zh": {
+      "hanzi": "航班晚点两个小时。",
+      "pinyin": "Hángbān wǎndiǎn liǎng ge xiǎoshí."
+     },
+     "es": "El vuelo tiene dos horas de retraso."
+    },
+    {
+     "vi": "Làm ơn đưa tôi đến địa chỉ này.",
+     "en": "Please take me to this address.",
+     "zh": {
+      "hanzi": "请送我到这个地址。",
+      "pinyin": "Qǐng sòng wǒ dào zhège dìzhǐ."
+     },
+     "es": "Lléveme a esta dirección, por favor."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "Where did you go on your last holiday?",
+     "zh": "你上次旅行去了哪儿？",
+     "es": "¿Adónde fuiste en tus últimas vacaciones?"
+    },
+    {
+     "en": "How do you usually get around your city?",
+     "zh": "你在城市里一般怎么出行？",
+     "es": "¿Cómo te mueves normalmente por tu ciudad?"
+    },
+    {
+     "en": "Which country would you most like to visit, and why?",
+     "zh": "你最想去哪个国家？为什么？",
+     "es": "¿Qué país te gustaría visitar y por qué?"
+    }
+   ],
+   "writing": "Viết email 100 từ (tiếng Trung: 100 chữ) đặt phòng khách sạn: ngày đến, ngày đi, loại phòng, 1 yêu cầu đặc biệt, hỏi về đưa đón sân bay.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Đổi Google Maps sang ngôn ngữ đang học, lên lộ trình 1 ngày ở London, Bắc Kinh hoặc Madrid và đọc to các chỉ dẫn đường."
+  },
+  {
+   "id": "t06",
+   "title": "Sức khỏe & khám bệnh",
+   "level": {
+    "cefr": "A2–B1",
+    "hsk": "HSK 3"
+   },
+   "hours": "~3,5 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "bị ốm",
+     "en": "be ill",
+     "zh": {
+      "hanzi": "生病",
+      "pinyin": "shēngbìng"
+     },
+     "es": "estar enfermo"
+    },
+    {
+     "vi": "sốt",
+     "en": "fever",
+     "zh": {
+      "hanzi": "发烧",
+      "pinyin": "fāshāo"
+     },
+     "es": "la fiebre"
+    },
+    {
+     "vi": "ho",
+     "en": "cough",
+     "zh": {
+      "hanzi": "咳嗽",
+      "pinyin": "késou"
+     },
+     "es": "la tos"
+    },
+    {
+     "vi": "đau đầu",
+     "en": "headache",
+     "zh": {
+      "hanzi": "头疼",
+      "pinyin": "tóuténg"
+     },
+     "es": "el dolor de cabeza"
+    },
+    {
+     "vi": "thuốc",
+     "en": "medicine",
+     "zh": {
+      "hanzi": "药",
+      "pinyin": "yào"
+     },
+     "es": "el medicamento"
+    },
+    {
+     "vi": "bác sĩ",
+     "en": "doctor",
+     "zh": {
+      "hanzi": "医生",
+      "pinyin": "yīshēng"
+     },
+     "es": "el médico"
+    },
+    {
+     "vi": "bệnh viện",
+     "en": "hospital",
+     "zh": {
+      "hanzi": "医院",
+      "pinyin": "yīyuàn"
+     },
+     "es": "el hospital"
+    },
+    {
+     "vi": "hiệu thuốc",
+     "en": "pharmacy",
+     "zh": {
+      "hanzi": "药店",
+      "pinyin": "yàodiàn"
+     },
+     "es": "la farmacia"
+    },
+    {
+     "vi": "dị ứng",
+     "en": "allergy",
+     "zh": {
+      "hanzi": "过敏",
+      "pinyin": "guòmǐn"
+     },
+     "es": "la alergia"
+    },
+    {
+     "vi": "nghỉ ngơi",
+     "en": "rest",
+     "zh": {
+      "hanzi": "休息",
+      "pinyin": "xiūxi"
+     },
+     "es": "descansar"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi bị đau đầu từ hôm qua.",
+     "en": "I've had a headache since yesterday.",
+     "zh": {
+      "hanzi": "我从昨天开始头疼。",
+      "pinyin": "Wǒ cóng zuótiān kāishǐ tóuténg."
+     },
+     "es": "Me duele la cabeza desde ayer."
+    },
+    {
+     "vi": "Tôi bị dị ứng với penicillin.",
+     "en": "I'm allergic to penicillin.",
+     "zh": {
+      "hanzi": "我对青霉素过敏。",
+      "pinyin": "Wǒ duì qīngméisù guòmǐn."
+     },
+     "es": "Soy alérgico a la penicilina."
+    },
+    {
+     "vi": "Thuốc này uống mấy lần một ngày?",
+     "en": "How many times a day should I take this?",
+     "zh": {
+      "hanzi": "这个药一天吃几次？",
+      "pinyin": "Zhège yào yì tiān chī jǐ cì?"
+     },
+     "es": "¿Cuántas veces al día tengo que tomarlo?"
+    },
+    {
+     "vi": "Bạn nên nghỉ ngơi nhiều hơn.",
+     "en": "You should get more rest.",
+     "zh": {
+      "hanzi": "你应该多休息。",
+      "pinyin": "Nǐ yīnggāi duō xiūxi."
+     },
+     "es": "Deberías descansar más."
+    }
+   ],
+   "grammar": {
+    "en": "hiện tại hoàn thành với for / since; should / shouldn't để khuyên.",
+    "zh": "应该 (nên); 对 ... 过敏 (dị ứng với); 从 ... 开始 (bắt đầu từ).",
+    "es": "doler chia giống gustar (me duele la cabeza, me duelen los pies); tener que + động từ; deberías để khuyên."
+   },
+   "pronunciation": {
+    "en": "chữ không đọc và cách đọc lạ: stomach /ˈstʌmək/, ache /eɪk/, cough /kɒf/.",
+    "zh": "phân biệt vần -n và -ng (yīyuàn / yīshēng, guòmǐn / shēngbìng).",
+    "es": "nguyên âm đôi ue, ie đọc liền một nhịp (duele, fiebre)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 hội thoại bác sĩ – bệnh nhân, ghi lại triệu chứng, thuốc và lời dặn",
+     "minutes": 20
+    },
+    {
+     "skill": "Nói",
+     "task": "Mô tả 3 triệu chứng: bắt đầu khi nào, đau ở đâu, mức độ; sau đó đóng vai bác sĩ khuyên lại",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc hướng dẫn sử dụng trên 1 hộp thuốc, tìm liều dùng, tác dụng phụ, điều cần tránh",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết tin nhắn 60–80 từ (tiếng Trung: 60–80 chữ) xin nghỉ học / nghỉ làm vì ốm",
+     "minutes": 25
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Học 15 bộ phận cơ thể, chỉ vào người và nói tên",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 头 (5 nét), 医 (7), 药 (9), 病 (10), 疼 (10).",
+    "Nhận biết bộ 疒 (bệnh tật) trong 病, 疼, 痛."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "I've had a cough ___ three days.",
+     "answer": "for"
+    },
+    {
+     "lang": "en",
+     "sentence": "You ___ drink more water. (nên)",
+     "answer": "should"
+    },
+    {
+     "lang": "en",
+     "sentence": "I've had a fever ___ Monday.",
+     "answer": "since"
+    },
+    {
+     "lang": "zh",
+     "sentence": "你___多喝水。(nên)",
+     "answer": "应该"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我___海鲜过敏。",
+     "answer": "对"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这个药一天吃三___。(lần)",
+     "answer": "次"
+    },
+    {
+     "lang": "es",
+     "sentence": "Me ___ los ojos. (doler)",
+     "answer": "duelen"
+    },
+    {
+     "lang": "es",
+     "sentence": "Tengo ___ tomar este medicamento.",
+     "answer": "que"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ descansar más. (bạn nên)",
+     "answer": "Deberías"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi thấy chóng mặt.",
+     "en": "I feel dizzy.",
+     "zh": {
+      "hanzi": "我觉得头晕。",
+      "pinyin": "Wǒ juéde tóuyūn."
+     },
+     "es": "Estoy mareado / mareada."
+    },
+    {
+     "vi": "Tôi cần đặt lịch khám bác sĩ.",
+     "en": "I need to make a doctor's appointment.",
+     "zh": {
+      "hanzi": "我需要预约看医生。",
+      "pinyin": "Wǒ xūyào yùyuē kàn yīshēng."
+     },
+     "es": "Necesito pedir cita con el médico."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What do you do to stay healthy?",
+     "zh": "你怎么保持健康？",
+     "es": "¿Qué haces para mantenerte sano?"
+    },
+    {
+     "en": "When were you last ill, and what happened?",
+     "zh": "你上次生病是什么时候？怎么了？",
+     "es": "¿Cuándo estuviste enfermo por última vez y qué pasó?"
+    },
+    {
+     "en": "With a cold, is it better to see a doctor or rest at home?",
+     "zh": "感冒的时候，去看医生好还是在家休息好？",
+     "es": "Con un resfriado, ¿es mejor ir al médico o descansar en casa?"
+    }
+   ],
+   "writing": "Viết 100 từ (tiếng Trung: 100 chữ) khuyên một người bạn hay bị mất ngủ: 5 lời khuyên dùng should / 应该 / deberías.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Làm một “thẻ y tế du lịch” trên điện thoại gồm 6 câu cần nói khi đi khám ở nước ngoài (tôi bị ..., tôi đang dùng thuốc ..., tôi dị ứng với ...)."
+  },
+  {
+   "id": "t07",
+   "title": "Giáo dục & trường học",
+   "level": {
+    "cefr": "B1",
+    "hsk": "HSK 3"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "môn học",
+     "en": "subject",
+     "zh": {
+      "hanzi": "科目",
+      "pinyin": "kēmù"
+     },
+     "es": "la asignatura"
+    },
+    {
+     "vi": "kỳ thi",
+     "en": "exam",
+     "zh": {
+      "hanzi": "考试",
+      "pinyin": "kǎoshì"
+     },
+     "es": "el examen"
+    },
+    {
+     "vi": "điểm, kết quả",
+     "en": "grade, results",
+     "zh": {
+      "hanzi": "成绩",
+      "pinyin": "chéngjì"
+     },
+     "es": "la nota"
+    },
+    {
+     "vi": "bài tập về nhà",
+     "en": "homework",
+     "zh": {
+      "hanzi": "作业",
+      "pinyin": "zuòyè"
+     },
+     "es": "los deberes"
+    },
+    {
+     "vi": "đại học",
+     "en": "university",
+     "zh": {
+      "hanzi": "大学",
+      "pinyin": "dàxué"
+     },
+     "es": "la universidad"
+    },
+    {
+     "vi": "chuyên ngành",
+     "en": "major",
+     "zh": {
+      "hanzi": "专业",
+      "pinyin": "zhuānyè"
+     },
+     "es": "la carrera"
+    },
+    {
+     "vi": "học bổng",
+     "en": "scholarship",
+     "zh": {
+      "hanzi": "奖学金",
+      "pinyin": "jiǎngxuéjīn"
+     },
+     "es": "la beca"
+    },
+    {
+     "vi": "tốt nghiệp",
+     "en": "graduate",
+     "zh": {
+      "hanzi": "毕业",
+      "pinyin": "bìyè"
+     },
+     "es": "graduarse"
+    },
+    {
+     "vi": "giáo viên",
+     "en": "teacher",
+     "zh": {
+      "hanzi": "老师",
+      "pinyin": "lǎoshī"
+     },
+     "es": "el profesor / la profesora"
+    },
+    {
+     "vi": "ôn tập",
+     "en": "revise, review",
+     "zh": {
+      "hanzi": "复习",
+      "pinyin": "fùxí"
+     },
+     "es": "repasar"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi học chuyên ngành kinh tế.",
+     "en": "I'm majoring in economics.",
+     "zh": {
+      "hanzi": "我的专业是经济。",
+      "pinyin": "Wǒ de zhuānyè shì jīngjì."
+     },
+     "es": "Estudio la carrera de Economía."
+    },
+    {
+     "vi": "Tôi đang ôn thi cuối kỳ.",
+     "en": "I'm revising for my final exams.",
+     "zh": {
+      "hanzi": "我正在复习期末考试。",
+      "pinyin": "Wǒ zhèngzài fùxí qīmò kǎoshì."
+     },
+     "es": "Estoy repasando para los exámenes finales."
+    },
+    {
+     "vi": "Nếu đậu, tôi sẽ xin học bổng.",
+     "en": "If I pass, I'll apply for a scholarship.",
+     "zh": {
+      "hanzi": "如果考试通过了，我就申请奖学金。",
+      "pinyin": "Rúguǒ kǎoshì tōngguò le, wǒ jiù shēnqǐng jiǎngxuéjīn."
+     },
+     "es": "Si apruebo, solicitaré una beca."
+    },
+    {
+     "vi": "Theo tôi, học online hiệu quả như học trên lớp.",
+     "en": "In my opinion, online learning is as effective as classroom learning.",
+     "zh": {
+      "hanzi": "我觉得网上学习跟在教室学习一样有效。",
+      "pinyin": "Wǒ juéde wǎngshang xuéxí gēn zài jiàoshì xuéxí yíyàng yǒuxiào."
+     },
+     "es": "En mi opinión, estudiar en línea es tan eficaz como estudiar en clase."
+    }
+   ],
+   "grammar": {
+    "en": "câu điều kiện loại 1 (If + hiện tại, will + V); hiện tại tiếp diễn; so sánh ngang as ... as.",
+    "zh": "正在 (đang); 如果 ... 就 ... (nếu ... thì ...); 跟 ... 一样 (giống như).",
+    "es": "si + hiện tại, tương lai đơn; estar + gerundio (estoy repasando); tan ... como."
+   },
+   "pronunciation": {
+    "en": "trọng âm di chuyển trong họ từ: eCONomy, ecoNOMic, econOmics.",
+    "zh": "âm uốn lưỡi zh / ch / sh (zhuānyè, chéngjì, lǎoshī).",
+    "es": "dấu trọng âm xuất hiện khi đổi số nhiều: examen → exámenes."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 bài phỏng vấn sinh viên về cuộc sống đại học (5–7 phút), tóm tắt 5 ý chính",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Trả lời 2 phút: “Học online hay học trực tiếp tốt hơn?” — 1 quan điểm, 2 lý do, 1 ví dụ",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài báo ngắn về hệ thống giáo dục một nước, gạch chân 10 từ mới",
+     "minutes": 25
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết đoạn 120–150 từ (tiếng Trung: 150 chữ) so sánh trường đại học Việt Nam với một nước khác",
+     "minutes": 35
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Lập sơ đồ tư duy: trường học → người, nơi chốn, hoạt động, giấy tờ",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 习 (3 nét), 书 (4), 考 (6), 学 (8), 试 (8).",
+    "Nhận biết bộ 讠 (lời nói) trong 试, 课, 语."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "If I ___ the exam, I'll celebrate. (pass)",
+     "answer": "pass"
+    },
+    {
+     "lang": "en",
+     "sentence": "I'm ___ for my final exams right now. (revise)",
+     "answer": "revising"
+    },
+    {
+     "lang": "en",
+     "sentence": "Online classes are as useful ___ face-to-face classes.",
+     "answer": "as"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我___在复习考试。",
+     "answer": "正"
+    },
+    {
+     "lang": "zh",
+     "sentence": "如果考试通过了，我___申请奖学金。",
+     "answer": "就"
+    },
+    {
+     "lang": "zh",
+     "sentence": "网上学习___在教室学习一样有效。",
+     "answer": "跟"
+    },
+    {
+     "lang": "es",
+     "sentence": "Si ___ el examen, iré a la fiesta. (aprobar, yo)",
+     "answer": "apruebo"
+    },
+    {
+     "lang": "es",
+     "sentence": "Estoy ___ para el examen. (estudiar)",
+     "answer": "estudiando"
+    },
+    {
+     "lang": "es",
+     "sentence": "El inglés es tan útil ___ el español.",
+     "answer": "como"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi tốt nghiệp đại học năm ngoái.",
+     "en": "I graduated from university last year.",
+     "zh": {
+      "hanzi": "我去年大学毕业了。",
+      "pinyin": "Wǒ qùnián dàxué bìyè le."
+     },
+     "es": "Me gradué en la universidad el año pasado."
+    },
+    {
+     "vi": "Môn học bạn thích nhất là gì?",
+     "en": "What's your favourite subject?",
+     "zh": {
+      "hanzi": "你最喜欢哪门课？",
+      "pinyin": "Nǐ zuì xǐhuan nǎ mén kè?"
+     },
+     "es": "¿Cuál es tu asignatura favorita?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What did you like and dislike about school?",
+     "zh": "你上学的时候喜欢和不喜欢什么？",
+     "es": "¿Qué te gustaba y qué no te gustaba del colegio?"
+    },
+    {
+     "en": "Should university be free?",
+     "zh": "大学应该免费吗？",
+     "es": "¿Debería ser gratuita la universidad?"
+    },
+    {
+     "en": "How are you learning this language?",
+     "zh": "你是怎么学这门语言的？",
+     "es": "¿Cómo estás aprendiendo este idioma?"
+    }
+   ],
+   "writing": "Viết thư xin học bổng 150 từ (tiếng Trung: 150 chữ): bạn là ai, thành tích, lý do chọn ngành, kế hoạch sau khi học xong.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Xem 1 bài giảng online 10 phút bằng ngôn ngữ đang học (Coursera, edX, 中国大学MOOC, Miríadax), ghi lại 5 ý chính."
+  },
+  {
+   "id": "t08",
+   "title": "Công nghệ & mạng xã hội",
+   "level": {
+    "cefr": "B1",
+    "hsk": "HSK 3–4"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "điện thoại thông minh",
+     "en": "smartphone",
+     "zh": {
+      "hanzi": "智能手机",
+      "pinyin": "zhìnéng shǒujī"
+     },
+     "es": "el móvil"
+    },
+    {
+     "vi": "ứng dụng",
+     "en": "app",
+     "zh": {
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn"
+     },
+     "es": "la aplicación"
+    },
+    {
+     "vi": "mạng xã hội",
+     "en": "social media",
+     "zh": {
+      "hanzi": "社交媒体",
+      "pinyin": "shèjiāo méitǐ"
+     },
+     "es": "las redes sociales"
+    },
+    {
+     "vi": "tải xuống",
+     "en": "download",
+     "zh": {
+      "hanzi": "下载",
+      "pinyin": "xiàzài"
+     },
+     "es": "descargar"
+    },
+    {
+     "vi": "đăng bài",
+     "en": "post",
+     "zh": {
+      "hanzi": "发帖",
+      "pinyin": "fātiě"
+     },
+     "es": "publicar"
+    },
+    {
+     "vi": "mật khẩu",
+     "en": "password",
+     "zh": {
+      "hanzi": "密码",
+      "pinyin": "mìmǎ"
+     },
+     "es": "la contraseña"
+    },
+    {
+     "vi": "tài khoản",
+     "en": "account",
+     "zh": {
+      "hanzi": "账号",
+      "pinyin": "zhànghào"
+     },
+     "es": "la cuenta"
+    },
+    {
+     "vi": "trí tuệ nhân tạo",
+     "en": "artificial intelligence",
+     "zh": {
+      "hanzi": "人工智能",
+      "pinyin": "réngōng zhìnéng"
+     },
+     "es": "la inteligencia artificial"
+    },
+    {
+     "vi": "quyền riêng tư",
+     "en": "privacy",
+     "zh": {
+      "hanzi": "隐私",
+      "pinyin": "yǐnsī"
+     },
+     "es": "la privacidad"
+    },
+    {
+     "vi": "nghiện",
+     "en": "addicted",
+     "zh": {
+      "hanzi": "上瘾",
+      "pinyin": "shàngyǐn"
+     },
+     "es": "adicto / adicta"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Mỗi ngày tôi dùng điện thoại khoảng 5 tiếng.",
+     "en": "I spend about five hours a day on my phone.",
+     "zh": {
+      "hanzi": "我每天用手机大概五个小时。",
+      "pinyin": "Wǒ měitiān yòng shǒujī dàgài wǔ ge xiǎoshí."
+     },
+     "es": "Uso el móvil unas cinco horas al día."
+    },
+    {
+     "vi": "Bạn đã tải ứng dụng này chưa?",
+     "en": "Have you downloaded this app yet?",
+     "zh": {
+      "hanzi": "你下载这个软件了吗？",
+      "pinyin": "Nǐ xiàzài zhège ruǎnjiàn le ma?"
+     },
+     "es": "¿Ya has descargado esta aplicación?"
+    },
+    {
+     "vi": "Mạng xã hội vừa có lợi vừa có hại.",
+     "en": "Social media has both advantages and disadvantages.",
+     "zh": {
+      "hanzi": "社交媒体既有好处也有坏处。",
+      "pinyin": "Shèjiāo méitǐ jì yǒu hǎochù yě yǒu huàichù."
+     },
+     "es": "Las redes sociales tienen ventajas y desventajas."
+    },
+    {
+     "vi": "Tôi quên mật khẩu rồi.",
+     "en": "I've forgotten my password.",
+     "zh": {
+      "hanzi": "我忘了密码。",
+      "pinyin": "Wǒ wàng le mìmǎ."
+     },
+     "es": "He olvidado mi contraseña."
+    }
+   ],
+   "grammar": {
+    "en": "hiện tại hoàn thành với yet, already, just; danh động từ làm chủ ngữ (Using social media too much is harmful).",
+    "zh": "了 chỉ hành động đã xong; 既 ... 也 ... (vừa ... vừa ...); 越来越 + tính từ (ngày càng).",
+    "es": "pretérito perfecto (he olvidado, has descargado); ya và todavía no."
+   },
+   "pronunciation": {
+    "en": "trọng âm trước đuôi -tion, -logy: appliCAtion, techNOlogy; -tion đọc /ʃən/.",
+    "zh": "thanh 3 đứng trước thanh khác chỉ đọc nửa thanh (thấp, không vút lên): shǒujī, ruǎnjiàn.",
+    "es": "đuôi -ción luôn nhấn âm cuối (aplicación, información); ñ trong contraseña."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Xem 1 video review điện thoại hoặc ứng dụng, ghi lại 3 ưu điểm và 3 nhược điểm",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Trình bày 2 phút: “Mạng xã hội ảnh hưởng thế nào đến giới trẻ?”",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài báo về trí tuệ nhân tạo, trả lời 5 câu hỏi ý chính",
+     "minutes": 25
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết bài đăng mạng xã hội 80 từ + 1 đoạn nghị luận 150 từ (tiếng Trung: 150 chữ) về lợi và hại của mạng xã hội",
+     "minutes": 40
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Đổi ngôn ngữ điện thoại sang ngôn ngữ đang học trong 1 tuần, ghi lại 20 từ gặp trong cài đặt",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 手 (4 nét), 电 (5), 机 (6), 网 (6), 码 (8).",
+    "Gõ pinyin không dấu trên bàn phím điện thoại để chọn đúng 10 từ trên."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "I haven't downloaded the app ___.",
+     "answer": "yet"
+    },
+    {
+     "lang": "en",
+     "sentence": "I've ___ changed my password. (vừa mới)",
+     "answer": "just"
+    },
+    {
+     "lang": "en",
+     "sentence": "___ social media too much is bad for your sleep. (use)",
+     "answer": "Using"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我已经下载___。",
+     "answer": "了"
+    },
+    {
+     "lang": "zh",
+     "sentence": "手机越来___重要。",
+     "answer": "越"
+    },
+    {
+     "lang": "zh",
+     "sentence": "网络既有好处___有坏处。",
+     "answer": "也"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿___ has descargado la aplicación? (đã ... chưa)",
+     "answer": "Ya"
+    },
+    {
+     "lang": "es",
+     "sentence": "Todavía no ___ actualizado el móvil. (haber, yo)",
+     "answer": "he"
+    },
+    {
+     "lang": "es",
+     "sentence": "He ___ mi contraseña. (olvidar)",
+     "answer": "olvidado"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Mạng ở đây rất chậm.",
+     "en": "The internet here is really slow.",
+     "zh": {
+      "hanzi": "这儿的网很慢。",
+      "pinyin": "Zhèr de wǎng hěn màn."
+     },
+     "es": "Aquí internet va muy lento."
+    },
+    {
+     "vi": "Bạn gửi cho tôi đường link được không?",
+     "en": "Can you send me the link?",
+     "zh": {
+      "hanzi": "你能把链接发给我吗？",
+      "pinyin": "Nǐ néng bǎ liànjiē fā gěi wǒ ma?"
+     },
+     "es": "¿Me puedes enviar el enlace?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "Which app do you use most, and why?",
+     "zh": "你用得最多的软件是什么？为什么？",
+     "es": "¿Qué aplicación usas más y por qué?"
+    },
+    {
+     "en": "Will AI replace many jobs?",
+     "zh": "人工智能会取代很多工作吗？",
+     "es": "¿La inteligencia artificial reemplazará muchos empleos?"
+    },
+    {
+     "en": "Could you live without your phone for a week?",
+     "zh": "你能一个星期不用手机吗？",
+     "es": "¿Podrías vivir una semana sin móvil?"
+    }
+   ],
+   "writing": "Viết 150 từ (tiếng Trung: 150 chữ) về lợi và hại của trí tuệ nhân tạo đối với việc học ngoại ngữ, kết bằng quan điểm của bạn.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Đọc 5 tin công nghệ trên một trang tin bằng ngôn ngữ đang học, viết 1 câu tóm tắt cho mỗi tin."
+  },
+  {
+   "id": "t09",
+   "title": "Môi trường & khí hậu",
+   "level": {
+    "cefr": "B1–B2",
+    "hsk": "HSK 4"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "môi trường",
+     "en": "environment",
+     "zh": {
+      "hanzi": "环境",
+      "pinyin": "huánjìng"
+     },
+     "es": "el medio ambiente"
+    },
+    {
+     "vi": "ô nhiễm",
+     "en": "pollution",
+     "zh": {
+      "hanzi": "污染",
+      "pinyin": "wūrǎn"
+     },
+     "es": "la contaminación"
+    },
+    {
+     "vi": "biến đổi khí hậu",
+     "en": "climate change",
+     "zh": {
+      "hanzi": "气候变化",
+      "pinyin": "qìhòu biànhuà"
+     },
+     "es": "el cambio climático"
+    },
+    {
+     "vi": "rác thải",
+     "en": "waste, rubbish",
+     "zh": {
+      "hanzi": "垃圾",
+      "pinyin": "lājī"
+     },
+     "es": "la basura"
+    },
+    {
+     "vi": "tái chế",
+     "en": "recycle",
+     "zh": {
+      "hanzi": "回收",
+      "pinyin": "huíshōu"
+     },
+     "es": "reciclar"
+    },
+    {
+     "vi": "năng lượng tái tạo",
+     "en": "renewable energy",
+     "zh": {
+      "hanzi": "可再生能源",
+      "pinyin": "kě zàishēng néngyuán"
+     },
+     "es": "la energía renovable"
+    },
+    {
+     "vi": "khí thải",
+     "en": "emissions",
+     "zh": {
+      "hanzi": "排放",
+      "pinyin": "páifàng"
+     },
+     "es": "las emisiones"
+    },
+    {
+     "vi": "bảo vệ",
+     "en": "protect",
+     "zh": {
+      "hanzi": "保护",
+      "pinyin": "bǎohù"
+     },
+     "es": "proteger"
+    },
+    {
+     "vi": "lũ lụt",
+     "en": "flood",
+     "zh": {
+      "hanzi": "洪水",
+      "pinyin": "hóngshuǐ"
+     },
+     "es": "la inundación"
+    },
+    {
+     "vi": "nhựa dùng một lần",
+     "en": "single-use plastic",
+     "zh": {
+      "hanzi": "一次性塑料",
+      "pinyin": "yícìxìng sùliào"
+     },
+     "es": "el plástico de un solo uso"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Ô nhiễm không khí ngày càng nghiêm trọng.",
+     "en": "Air pollution is getting worse and worse.",
+     "zh": {
+      "hanzi": "空气污染越来越严重。",
+      "pinyin": "Kōngqì wūrǎn yuèláiyuè yánzhòng."
+     },
+     "es": "La contaminación del aire es cada vez más grave."
+    },
+    {
+     "vi": "Chúng ta nên dùng ít túi nhựa hơn.",
+     "en": "We should use fewer plastic bags.",
+     "zh": {
+      "hanzi": "我们应该少用塑料袋。",
+      "pinyin": "Wǒmen yīnggāi shǎo yòng sùliàodài."
+     },
+     "es": "Deberíamos usar menos bolsas de plástico."
+    },
+    {
+     "vi": "Rác được phân loại trước khi tái chế.",
+     "en": "Waste is sorted before it is recycled.",
+     "zh": {
+      "hanzi": "垃圾回收前要先分类。",
+      "pinyin": "Lājī huíshōu qián yào xiān fēnlèi."
+     },
+     "es": "La basura se separa antes de reciclarla."
+    },
+    {
+     "vi": "Nếu không hành động ngay, hậu quả sẽ rất nghiêm trọng.",
+     "en": "If we don't act now, the consequences will be serious.",
+     "zh": {
+      "hanzi": "如果现在不行动，后果会很严重。",
+      "pinyin": "Rúguǒ xiànzài bù xíngdòng, hòuguǒ huì hěn yánzhòng."
+     },
+     "es": "Si no actuamos ahora, las consecuencias serán graves."
+    }
+   ],
+   "grammar": {
+    "en": "câu bị động (is recycled, are produced); từ nối nguyên nhân – kết quả (because of, as a result, therefore).",
+    "zh": "câu bị động với 被; 越来越 (ngày càng); 因为 ... 所以 ... (vì ... nên ...).",
+    "es": "bị động với se (se recicla, se separa); es importante que + thức giả định (es importante que reciclemos)."
+   },
+   "pronunciation": {
+    "en": "âm /ə/ không nhấn: pollution /pəˈluːʃən/, environment /ɪnˈvaɪrənmənt/.",
+    "zh": "nguyên âm ü (绿色 lǜsè, 女 nǚ); nhớ sau j / q / x, ü viết thành u (去 qù).",
+    "es": "rr rung lưỡi nhiều lần (tierra, cerrar) khác r đơn (clima, reciclar)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 bản tin môi trường 3–5 phút, ghi lại nguyên nhân, hậu quả, giải pháp",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Nói 2 phút: “3 việc mỗi người có thể làm để bảo vệ môi trường”, dùng câu bị động ít nhất 2 lần",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài báo về biến đổi khí hậu, tìm 5 số liệu và giải thích ý nghĩa từng số",
+     "minutes": 25
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết bài luận 200 từ (tiếng Trung: 200 chữ) dạng vấn đề – giải pháp về rác thải nhựa",
+     "minutes": 40
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Lập bảng 3 cột: nguyên nhân – hậu quả – giải pháp, mỗi cột 5 cụm từ",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 气 (4 nét), 污 (6), 环 (8), 绿 (11), 境 (14).",
+    "Nhận biết bộ 氵 (nước) trong 污, 洪, 海, 河."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "Plastic bottles ___ recycled in this factory.",
+     "answer": "are"
+    },
+    {
+     "lang": "en",
+     "sentence": "___ of the pollution, many people wear masks.",
+     "answer": "Because"
+    },
+    {
+     "lang": "en",
+     "sentence": "Millions of trees ___ cut down every year.",
+     "answer": "are"
+    },
+    {
+     "lang": "zh",
+     "sentence": "树___砍掉了。(bị)",
+     "answer": "被"
+    },
+    {
+     "lang": "zh",
+     "sentence": "___空气污染严重，所以很多人戴口罩。",
+     "answer": "因为"
+    },
+    {
+     "lang": "zh",
+     "sentence": "天气越来越___。(nóng)",
+     "answer": "热"
+    },
+    {
+     "lang": "es",
+     "sentence": "El plástico ___ recicla aquí.",
+     "answer": "se"
+    },
+    {
+     "lang": "es",
+     "sentence": "Es importante que ___ menos agua. (gastar, nosotros)",
+     "answer": "gastemos"
+    },
+    {
+     "lang": "es",
+     "sentence": "La contaminación es cada vez ___ grave.",
+     "answer": "más"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Chúng ta nên đi xe đạp thay vì đi ô tô.",
+     "en": "We should cycle instead of driving.",
+     "zh": {
+      "hanzi": "我们应该骑自行车，而不是开车。",
+      "pinyin": "Wǒmen yīnggāi qí zìxíngchē, ér bú shì kāichē."
+     },
+     "es": "Deberíamos ir en bici en lugar de en coche."
+    },
+    {
+     "vi": "Mùa hè năm nay nóng hơn mọi năm.",
+     "en": "This summer is hotter than usual.",
+     "zh": {
+      "hanzi": "今年夏天比往年热。",
+      "pinyin": "Jīnnián xiàtiān bǐ wǎngnián rè."
+     },
+     "es": "Este verano hace más calor que otros años."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What is the biggest environmental problem in your city?",
+     "zh": "你的城市最大的环境问题是什么？",
+     "es": "¿Cuál es el mayor problema medioambiental de tu ciudad?"
+    },
+    {
+     "en": "What do you do to reduce waste?",
+     "zh": "你为减少垃圾做了什么？",
+     "es": "¿Qué haces para reducir residuos?"
+    },
+    {
+     "en": "Should governments ban single-use plastic?",
+     "zh": "政府应该禁止一次性塑料吗？",
+     "es": "¿Deberían los gobiernos prohibir el plástico de un solo uso?"
+    }
+   ],
+   "writing": "Viết thư 150 từ (tiếng Trung: 150 chữ) gửi chính quyền thành phố đề xuất 3 cách giảm ô nhiễm không khí.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Ghi nhật ký rác thải nhựa của bản thân mỗi ngày 2 câu bằng ngôn ngữ đang học, cuối tuần viết 1 câu kết luận."
+  },
+  {
+   "id": "t10",
+   "title": "Văn hóa, lễ hội & giải trí",
+   "level": {
+    "cefr": "B1",
+    "hsk": "HSK 3–4"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "lễ hội, ngày lễ",
+     "en": "festival, holiday",
+     "zh": {
+      "hanzi": "节日",
+      "pinyin": "jiérì"
+     },
+     "es": "la fiesta"
+    },
+    {
+     "vi": "Tết Nguyên Đán",
+     "en": "Lunar New Year",
+     "zh": {
+      "hanzi": "春节",
+      "pinyin": "Chūnjié"
+     },
+     "es": "el Año Nuevo Lunar"
+    },
+    {
+     "vi": "truyền thống",
+     "en": "tradition",
+     "zh": {
+      "hanzi": "传统",
+      "pinyin": "chuántǒng"
+     },
+     "es": "la tradición"
+    },
+    {
+     "vi": "phong tục",
+     "en": "custom",
+     "zh": {
+      "hanzi": "习俗",
+      "pinyin": "xísú"
+     },
+     "es": "la costumbre"
+    },
+    {
+     "vi": "phim",
+     "en": "film, movie",
+     "zh": {
+      "hanzi": "电影",
+      "pinyin": "diànyǐng"
+     },
+     "es": "la película"
+    },
+    {
+     "vi": "ca sĩ",
+     "en": "singer",
+     "zh": {
+      "hanzi": "歌手",
+      "pinyin": "gēshǒu"
+     },
+     "es": "el / la cantante"
+    },
+    {
+     "vi": "buổi hòa nhạc",
+     "en": "concert",
+     "zh": {
+      "hanzi": "演唱会",
+      "pinyin": "yǎnchànghuì"
+     },
+     "es": "el concierto"
+    },
+    {
+     "vi": "bảo tàng",
+     "en": "museum",
+     "zh": {
+      "hanzi": "博物馆",
+      "pinyin": "bówùguǎn"
+     },
+     "es": "el museo"
+    },
+    {
+     "vi": "ăn mừng",
+     "en": "celebrate",
+     "zh": {
+      "hanzi": "庆祝",
+      "pinyin": "qìngzhù"
+     },
+     "es": "celebrar"
+    },
+    {
+     "vi": "quà",
+     "en": "gift",
+     "zh": {
+      "hanzi": "礼物",
+      "pinyin": "lǐwù"
+     },
+     "es": "el regalo"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tết là lễ hội quan trọng nhất ở Việt Nam.",
+     "en": "Tet is the most important festival in Vietnam.",
+     "zh": {
+      "hanzi": "春节是越南最重要的节日。",
+      "pinyin": "Chūnjié shì Yuènán zuì zhòngyào de jiérì."
+     },
+     "es": "El Tet es la fiesta más importante de Vietnam."
+    },
+    {
+     "vi": "Dịp Tết, mọi người thường về quê sum họp.",
+     "en": "During Tet, people usually go back to their hometowns to be with family.",
+     "zh": {
+      "hanzi": "春节的时候，人们一般回老家团聚。",
+      "pinyin": "Chūnjié de shíhou, rénmen yìbān huí lǎojiā tuánjù."
+     },
+     "es": "Durante el Tet, la gente suele volver a su pueblo para reunirse con la familia."
+    },
+    {
+     "vi": "Cuối tuần trước tôi đi xem hòa nhạc.",
+     "en": "Last weekend I went to a concert.",
+     "zh": {
+      "hanzi": "上个周末我去看了演唱会。",
+      "pinyin": "Shàng ge zhōumò wǒ qù kàn le yǎnchànghuì."
+     },
+     "es": "El fin de semana pasado fui a un concierto."
+    },
+    {
+     "vi": "Bộ phim này hay hơn tôi nghĩ.",
+     "en": "This film was better than I expected.",
+     "zh": {
+      "hanzi": "这部电影比我想的好看。",
+      "pinyin": "Zhè bù diànyǐng bǐ wǒ xiǎng de hǎokàn."
+     },
+     "es": "Esta película fue mejor de lo que esperaba."
+    }
+   ],
+   "grammar": {
+    "en": "quá khứ đơn (động từ có quy tắc và bất quy tắc); so sánh nhất (the most important, the best).",
+    "zh": "最 (nhất); ... 的时候 (khi ...); V + 了 cho việc đã làm; lượng từ 部 cho phim.",
+    "es": "pretérito indefinido (fui, vi, celebramos); so sánh nhất el / la más ..."
+   },
+   "pronunciation": {
+    "en": "đuôi -ed đọc /t/ (watched), /d/ (played), /ɪd/ (visited).",
+    "zh": "âm r trong 日 rì, 人 rén — uốn lưỡi nhẹ, không đọc thành “d” hay “z”.",
+    "es": "trọng âm đổi nghĩa: hablo (tôi nói) và habló (anh ấy đã nói)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Xem 1 video giới thiệu lễ hội (Christmas / 春节 / La Tomatina), ghi lại thời gian, địa điểm, hoạt động",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Giới thiệu Tết Việt Nam cho người nước ngoài trong 2 phút: món ăn, phong tục, ý nghĩa",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài review phim hoặc album, tìm 5 tính từ đánh giá và câu kết luận của người viết",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết review 150 từ (tiếng Trung: 150 chữ) về 1 bộ phim hoặc buổi diễn bạn đã xem",
+     "minutes": 35
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "So sánh 1 lễ hội Việt Nam với 1 lễ hội của nước nói ngôn ngữ đang học, liệt kê 10 từ mỗi bên",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 日 (4 nét), 节 (5), 乐 (5), 年 (6), 春 (9).",
+    "Học thuộc câu chúc Tết: 新年快乐 (xīnnián kuàilè), 万事如意 (wànshì rúqì)."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "Last year we ___ Christmas in London. (celebrate)",
+     "answer": "celebrated"
+    },
+    {
+     "lang": "en",
+     "sentence": "Tet is ___ most important festival in Vietnam.",
+     "answer": "the"
+    },
+    {
+     "lang": "en",
+     "sentence": "I ___ a great film yesterday. (see)",
+     "answer": "saw"
+    },
+    {
+     "lang": "zh",
+     "sentence": "春节是越南___重要的节日。",
+     "answer": "最"
+    },
+    {
+     "lang": "zh",
+     "sentence": "春节___时候，人们回老家。",
+     "answer": "的"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这部电影___我想的好看。",
+     "answer": "比"
+    },
+    {
+     "lang": "es",
+     "sentence": "Ayer ___ al cine. (ir, yo)",
+     "answer": "fui"
+    },
+    {
+     "lang": "es",
+     "sentence": "Es la fiesta ___ importante del año.",
+     "answer": "más"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Qué película ___ el sábado? (ver, tú)",
+     "answer": "viste"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Người Việt thường lì xì cho trẻ em dịp Tết.",
+     "en": "At Tet, Vietnamese people usually give children lucky money.",
+     "zh": {
+      "hanzi": "越南人春节的时候一般给孩子红包。",
+      "pinyin": "Yuènán rén Chūnjié de shíhou yìbān gěi háizi hóngbāo."
+     },
+     "es": "En el Tet, los vietnamitas suelen dar dinero de la suerte a los niños."
+    },
+    {
+     "vi": "Bạn thích thể loại nhạc nào?",
+     "en": "What kind of music do you like?",
+     "zh": {
+      "hanzi": "你喜欢什么样的音乐？",
+      "pinyin": "Nǐ xǐhuan shénme yàng de yīnyuè?"
+     },
+     "es": "¿Qué tipo de música te gusta?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What is your favourite festival, and how do you celebrate it?",
+     "zh": "你最喜欢什么节日？怎么过？",
+     "es": "¿Cuál es tu fiesta favorita y cómo la celebras?"
+    },
+    {
+     "en": "Tell me about a film or series you watched recently.",
+     "zh": "说说你最近看的电影或电视剧。",
+     "es": "Háblame de una película o serie que viste hace poco."
+    },
+    {
+     "en": "Is traditional culture still important to young people?",
+     "zh": "传统文化对年轻人还重要吗？",
+     "es": "¿La cultura tradicional sigue siendo importante para los jóvenes?"
+    }
+   ],
+   "writing": "Viết 150 từ (tiếng Trung: 150 chữ) so sánh Tết Việt Nam với một lễ lớn của nước nói ngôn ngữ đang học (Christmas, 春节, Navidad): 2 điểm giống, 2 điểm khác.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Chọn một bài hát bạn thích bằng ngôn ngữ đang học, tra lời bài hát, học 10 từ mới và hát theo điệp khúc."
+  },
+  {
+   "id": "t11",
+   "title": "Tin tức & vấn đề xã hội",
+   "level": {
+    "cefr": "B2–C1",
+    "hsk": "HSK 5"
+   },
+   "hours": "~5 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "chính phủ",
+     "en": "government",
+     "zh": {
+      "hanzi": "政府",
+      "pinyin": "zhèngfǔ"
+     },
+     "es": "el gobierno"
+    },
+    {
+     "vi": "chính sách",
+     "en": "policy",
+     "zh": {
+      "hanzi": "政策",
+      "pinyin": "zhèngcè"
+     },
+     "es": "la política, la medida"
+    },
+    {
+     "vi": "kinh tế",
+     "en": "economy",
+     "zh": {
+      "hanzi": "经济",
+      "pinyin": "jīngjì"
+     },
+     "es": "la economía"
+    },
+    {
+     "vi": "thất nghiệp",
+     "en": "unemployment",
+     "zh": {
+      "hanzi": "失业",
+      "pinyin": "shīyè"
+     },
+     "es": "el desempleo"
+    },
+    {
+     "vi": "lạm phát",
+     "en": "inflation",
+     "zh": {
+      "hanzi": "通货膨胀",
+      "pinyin": "tōnghuò péngzhàng"
+     },
+     "es": "la inflación"
+    },
+    {
+     "vi": "bất bình đẳng",
+     "en": "inequality",
+     "zh": {
+      "hanzi": "不平等",
+      "pinyin": "bù píngděng"
+     },
+     "es": "la desigualdad"
+    },
+    {
+     "vi": "già hóa dân số",
+     "en": "population ageing",
+     "zh": {
+      "hanzi": "人口老龄化",
+      "pinyin": "rénkǒu lǎolínghuà"
+     },
+     "es": "el envejecimiento de la población"
+    },
+    {
+     "vi": "đô thị hóa",
+     "en": "urbanisation",
+     "zh": {
+      "hanzi": "城市化",
+      "pinyin": "chéngshìhuà"
+     },
+     "es": "la urbanización"
+    },
+    {
+     "vi": "tranh luận",
+     "en": "debate",
+     "zh": {
+      "hanzi": "辩论",
+      "pinyin": "biànlùn"
+     },
+     "es": "el debate"
+    },
+    {
+     "vi": "tin giả",
+     "en": "fake news",
+     "zh": {
+      "hanzi": "假新闻",
+      "pinyin": "jiǎ xīnwén"
+     },
+     "es": "las noticias falsas"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Theo báo cáo mới nhất, tỷ lệ thất nghiệp đã giảm.",
+     "en": "According to the latest report, the unemployment rate has fallen.",
+     "zh": {
+      "hanzi": "根据最新报告，失业率已经下降了。",
+      "pinyin": "Gēnjù zuìxīn bàogào, shīyèlǜ yǐjīng xiàjiàng le."
+     },
+     "es": "Según el último informe, la tasa de desempleo ha bajado."
+    },
+    {
+     "vi": "Một mặt ..., mặt khác ...",
+     "en": "On the one hand ..., on the other hand ...",
+     "zh": {
+      "hanzi": "一方面……，另一方面……",
+      "pinyin": "Yì fāngmiàn ..., lìng yì fāngmiàn ..."
+     },
+     "es": "Por un lado ..., por otro lado ..."
+    },
+    {
+     "vi": "Tôi không cho rằng chính sách này hiệu quả.",
+     "en": "I don't think this policy is effective.",
+     "zh": {
+      "hanzi": "我不认为这个政策有效。",
+      "pinyin": "Wǒ bú rènwéi zhège zhèngcè yǒuxiào."
+     },
+     "es": "No creo que esta medida sea eficaz."
+    },
+    {
+     "vi": "Vấn đề này cần được giải quyết càng sớm càng tốt.",
+     "en": "This issue needs to be addressed as soon as possible.",
+     "zh": {
+      "hanzi": "这个问题需要尽快解决。",
+      "pinyin": "Zhège wèntí xūyào jǐnkuài jiějué."
+     },
+     "es": "Este problema debe resolverse cuanto antes."
+    }
+   ],
+   "grammar": {
+    "en": "câu tường thuật (The minister said that ...); cách nói giảm nhẹ (it seems that, tend to, is likely to).",
+    "zh": "根据 (căn cứ vào); 一方面 ... 另一方面 ...; 不仅 ... 而且 ... (không những ... mà còn ...).",
+    "es": "thức giả định sau ý kiến phủ định (no creo que sea ...); câu gián tiếp (dijo que ...)."
+   },
+   "pronunciation": {
+    "en": "chia cụm và ngắt hơi đúng chỗ khi đọc câu dài kiểu bản tin.",
+    "zh": "phân biệt l và n (lǎolínghuà, nán, nóngcūn) — lỗi hay gặp của người Việt.",
+    "es": "nối nguyên âm giữa hai từ thành một âm tiết (la_economía, de_esta)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 bản tin thời sự 5 phút (BBC, CCTV, RTVE), tóm tắt bằng 3 câu",
+     "minutes": 30
+    },
+    {
+     "skill": "Nói",
+     "task": "Tranh luận 3 phút với chính mình: nêu 2 lập luận ủng hộ và 2 lập luận phản đối một chính sách",
+     "minutes": 30
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 bài xã luận, xác định quan điểm tác giả, 3 lập luận và bằng chứng đi kèm",
+     "minutes": 30
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết bài nghị luận 250 từ (tiếng Trung: 300 chữ) về già hóa dân số hoặc tin giả",
+     "minutes": 45
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Ghi 10 cụm từ đi kèm (tăng mạnh, giảm nhẹ, gây tranh cãi ...) từ bài báo đã đọc",
+     "minutes": 20
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 问 (6 nét), 经 (8), 政 (9), 济 (9), 题 (15).",
+    "Đọc to 1 đoạn tin 100 chữ, ghi âm, so với bản gốc để tìm chỗ sai thanh."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "The minister said that prices ___ rising. (be)",
+     "answer": "were"
+    },
+    {
+     "lang": "en",
+     "sentence": "It ___ that unemployment is falling. (seem)",
+     "answer": "seems"
+    },
+    {
+     "lang": "en",
+     "sentence": "___ the one hand, ...; on the other hand, ...",
+     "answer": "On"
+    },
+    {
+     "lang": "zh",
+     "sentence": "___最新报告，失业率下降了。",
+     "answer": "根据"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这个政策不仅有效，___且很受欢迎。",
+     "answer": "而"
+    },
+    {
+     "lang": "zh",
+     "sentence": "一方面……，___一方面……",
+     "answer": "另"
+    },
+    {
+     "lang": "es",
+     "sentence": "No creo que esta medida ___ eficaz. (ser)",
+     "answer": "sea"
+    },
+    {
+     "lang": "es",
+     "sentence": "El presidente dijo que ___ los impuestos. (bajar)",
+     "answer": "bajaría"
+    },
+    {
+     "lang": "es",
+     "sentence": "Por un lado ..., por ___ lado ...",
+     "answer": "otro"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Giá nhà ở các thành phố lớn đang tăng nhanh.",
+     "en": "Housing prices in big cities are rising fast.",
+     "zh": {
+      "hanzi": "大城市的房价涨得很快。",
+      "pinyin": "Dà chéngshì de fángjià zhǎng de hěn kuài."
+     },
+     "es": "Los precios de la vivienda en las grandes ciudades están subiendo rápido."
+    },
+    {
+     "vi": "Nhiều người trẻ không đủ tiền mua nhà.",
+     "en": "Many young people can't afford to buy a home.",
+     "zh": {
+      "hanzi": "很多年轻人买不起房。",
+      "pinyin": "Hěn duō niánqīngrén mǎi bu qǐ fáng."
+     },
+     "es": "Muchos jóvenes no pueden permitirse comprar una casa."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "How do you usually get the news?",
+     "zh": "你一般通过什么途径看新闻？",
+     "es": "¿Cómo te informas normalmente?"
+    },
+    {
+     "en": "How can people spot fake news?",
+     "zh": "人们怎样才能识别假新闻？",
+     "es": "¿Cómo se pueden detectar las noticias falsas?"
+    },
+    {
+     "en": "What are the effects of an ageing population?",
+     "zh": "人口老龄化会带来什么影响？",
+     "es": "¿Qué efectos tiene el envejecimiento de la población?"
+    }
+   ],
+   "writing": "Chọn 1 bài báo khoảng 300 từ, tóm tắt còn 80 từ (tiếng Trung: 100 chữ) rồi viết thêm 120 từ bình luận quan điểm của bạn.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Mỗi sáng nghe 1 bản tin 5 phút bằng ngôn ngữ đang học và ghi lại 1 tiêu đề kèm 1 câu tóm tắt."
+  },
+  {
+   "id": "t12",
+   "title": "Công việc & văn phòng",
+   "level": {
+    "cefr": "B1",
+    "hsk": "HSK 3–4"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "đồng nghiệp",
+     "en": "colleague",
+     "zh": {
+      "hanzi": "同事",
+      "pinyin": "tóngshì"
+     },
+     "es": "el compañero de trabajo"
+    },
+    {
+     "vi": "sếp, cấp trên",
+     "en": "boss, manager",
+     "zh": {
+      "hanzi": "领导",
+      "pinyin": "lǐngdǎo"
+     },
+     "es": "el jefe / la jefa"
+    },
+    {
+     "vi": "cuộc họp",
+     "en": "meeting",
+     "zh": {
+      "hanzi": "会议",
+      "pinyin": "huìyì"
+     },
+     "es": "la reunión"
+    },
+    {
+     "vi": "hạn chót",
+     "en": "deadline",
+     "zh": {
+      "hanzi": "截止日期",
+      "pinyin": "jiézhǐ rìqī"
+     },
+     "es": "la fecha límite"
+    },
+    {
+     "vi": "dự án",
+     "en": "project",
+     "zh": {
+      "hanzi": "项目",
+      "pinyin": "xiàngmù"
+     },
+     "es": "el proyecto"
+    },
+    {
+     "vi": "báo cáo",
+     "en": "report",
+     "zh": {
+      "hanzi": "报告",
+      "pinyin": "bàogào"
+     },
+     "es": "el informe"
+    },
+    {
+     "vi": "tăng ca",
+     "en": "work overtime",
+     "zh": {
+      "hanzi": "加班",
+      "pinyin": "jiābān"
+     },
+     "es": "hacer horas extra"
+    },
+    {
+     "vi": "xin nghỉ phép",
+     "en": "ask for leave",
+     "zh": {
+      "hanzi": "请假",
+      "pinyin": "qǐngjià"
+     },
+     "es": "pedir permiso"
+    },
+    {
+     "vi": "lương",
+     "en": "salary",
+     "zh": {
+      "hanzi": "工资",
+      "pinyin": "gōngzī"
+     },
+     "es": "el sueldo"
+    },
+    {
+     "vi": "nhiệm vụ",
+     "en": "task",
+     "zh": {
+      "hanzi": "任务",
+      "pinyin": "rènwu"
+     },
+     "es": "la tarea"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Cuộc họp được dời sang 3 giờ chiều.",
+     "en": "The meeting has been moved to 3 p.m.",
+     "zh": {
+      "hanzi": "会议改到下午三点了。",
+      "pinyin": "Huìyì gǎi dào xiàwǔ sān diǎn le."
+     },
+     "es": "La reunión se ha cambiado a las tres de la tarde."
+    },
+    {
+     "vi": "Tôi sẽ gửi báo cáo trước thứ Sáu.",
+     "en": "I'll send you the report by Friday.",
+     "zh": {
+      "hanzi": "我会在周五以前把报告发给你。",
+      "pinyin": "Wǒ huì zài zhōuwǔ yǐqián bǎ bàogào fā gěi nǐ."
+     },
+     "es": "Le enviaré el informe antes del viernes."
+    },
+    {
+     "vi": "Anh giúp tôi việc này được không?",
+     "en": "Could you help me with this?",
+     "zh": {
+      "hanzi": "你能帮我一下吗？",
+      "pinyin": "Nǐ néng bāng wǒ yíxià ma?"
+     },
+     "es": "¿Podrías ayudarme con esto?"
+    },
+    {
+     "vi": "Tuần này tôi phải tăng ca hai buổi.",
+     "en": "I have to work overtime twice this week.",
+     "zh": {
+      "hanzi": "这个星期我要加两次班。",
+      "pinyin": "Zhège xīngqī wǒ yào jiā liǎng cì bān."
+     },
+     "es": "Esta semana tengo que hacer horas extra dos veces."
+    }
+   ],
+   "grammar": {
+    "en": "will (quyết định, hứa hẹn) và be going to (kế hoạch); yêu cầu lịch sự Could you ...?, Would you mind + V-ing?",
+    "zh": "câu chữ 把 (把报告发给你); động từ li hợp: 加班 → 加两次班, 请假 → 请一天假.",
+    "es": "tương lai đơn (enviaré, terminaré); cách điều kiện để lịch sự (¿podrías ...?, ¿le importaría ...?)."
+   },
+   "pronunciation": {
+    "en": "ngữ điệu lên ở cuối câu yêu cầu lịch sự (Could you help me?); nối âm Could_you /kʊdʒu/.",
+    "zh": "phân biệt z / zh và c / ch (gōngzī / zhīdào, cì / chī).",
+    "es": "x đọc /ks/ (extra, éxito); ll đọc gần như y (llamada, ella)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 đoạn cuộc họp mẫu, ghi biên bản: ai làm gì, hạn khi nào",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Báo cáo tiến độ 1 dự án trong 2 phút: đã làm, đang làm, sẽ làm, khó khăn",
+     "minutes": 25
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 3 email công việc mẫu, xác định mục đích, việc cần làm, hạn chót",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết 2 email 80–100 từ (tiếng Trung: 100 chữ): xin nghỉ phép và xin lùi hạn nộp báo cáo",
+     "minutes": 35
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Viết tên 15 chức danh và phòng ban (kế toán, nhân sự, marketing ...)",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 工 (3 nét), 公 (4), 会 (6), 作 (7), 班 (10).",
+    "Ghép từ: 工作, 公司, 会议, 上班 — đọc to đúng thanh."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "Don't worry, I ___ send it today. (quyết định ngay lúc nói)",
+     "answer": "will"
+    },
+    {
+     "lang": "en",
+     "sentence": "Would you mind ___ the window? (open)",
+     "answer": "opening"
+    },
+    {
+     "lang": "en",
+     "sentence": "The meeting has been moved ___ Friday.",
+     "answer": "to"
+    },
+    {
+     "lang": "zh",
+     "sentence": "请___报告发给我。",
+     "answer": "把"
+    },
+    {
+     "lang": "zh",
+     "sentence": "这个星期我加了两___班。",
+     "answer": "次"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我想请一天___。",
+     "answer": "假"
+    },
+    {
+     "lang": "es",
+     "sentence": "Mañana ___ el informe. (terminar, yo)",
+     "answer": "terminaré"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿___ ayudarme con esto? (poder, tú, lịch sự)",
+     "answer": "Podrías"
+    },
+    {
+     "lang": "es",
+     "sentence": "La reunión es ___ las tres.",
+     "answer": "a"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi đang bận, lát nữa tôi gọi lại nhé.",
+     "en": "I'm busy right now; I'll call you back later.",
+     "zh": {
+      "hanzi": "我现在很忙，等一下给你回电话。",
+      "pinyin": "Wǒ xiànzài hěn máng, děng yíxià gěi nǐ huí diànhuà."
+     },
+     "es": "Ahora estoy ocupado; te llamo más tarde."
+    },
+    {
+     "vi": "Ai phụ trách dự án này?",
+     "en": "Who is in charge of this project?",
+     "zh": {
+      "hanzi": "这个项目谁负责？",
+      "pinyin": "Zhège xiàngmù shéi fùzé?"
+     },
+     "es": "¿Quién está a cargo de este proyecto?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What does your job involve?",
+     "zh": "你的工作主要做什么？",
+     "es": "¿En qué consiste tu trabajo?"
+    },
+    {
+     "en": "Do you prefer working from home or in the office?",
+     "zh": "你喜欢在家办公还是在办公室工作？",
+     "es": "¿Prefieres teletrabajar o trabajar en la oficina?"
+    },
+    {
+     "en": "How do you deal with stress at work?",
+     "zh": "你怎么应对工作压力？",
+     "es": "¿Cómo manejas el estrés en el trabajo?"
+    }
+   ],
+   "writing": "Viết biên bản một cuộc họp tưởng tượng 120 từ (tiếng Trung: 150 chữ): ngày giờ, người tham dự, 3 quyết định, việc cần làm và người phụ trách.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Đổi ngôn ngữ một phần mềm làm việc (email, lịch, bảng tính) sang ngôn ngữ đang học, ghi lại 20 từ mới gặp trong menu."
+  },
+  {
+   "id": "t13",
+   "title": "Phỏng vấn xin việc & CV",
+   "level": {
+    "cefr": "B1–B2",
+    "hsk": "HSK 4"
+   },
+   "hours": "~4,5 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "sơ yếu lý lịch",
+     "en": "CV, résumé",
+     "zh": {
+      "hanzi": "简历",
+      "pinyin": "jiǎnlì"
+     },
+     "es": "el currículum"
+    },
+    {
+     "vi": "phỏng vấn",
+     "en": "interview",
+     "zh": {
+      "hanzi": "面试",
+      "pinyin": "miànshì"
+     },
+     "es": "la entrevista"
+    },
+    {
+     "vi": "ứng tuyển",
+     "en": "apply for a job",
+     "zh": {
+      "hanzi": "应聘",
+      "pinyin": "yìngpìn"
+     },
+     "es": "solicitar un puesto"
+    },
+    {
+     "vi": "vị trí",
+     "en": "position",
+     "zh": {
+      "hanzi": "职位",
+      "pinyin": "zhíwèi"
+     },
+     "es": "el puesto"
+    },
+    {
+     "vi": "kinh nghiệm",
+     "en": "experience",
+     "zh": {
+      "hanzi": "经验",
+      "pinyin": "jīngyàn"
+     },
+     "es": "la experiencia"
+    },
+    {
+     "vi": "kỹ năng",
+     "en": "skill",
+     "zh": {
+      "hanzi": "技能",
+      "pinyin": "jìnéng"
+     },
+     "es": "la habilidad"
+    },
+    {
+     "vi": "điểm mạnh",
+     "en": "strength",
+     "zh": {
+      "hanzi": "优点",
+      "pinyin": "yōudiǎn"
+     },
+     "es": "el punto fuerte"
+    },
+    {
+     "vi": "điểm yếu",
+     "en": "weakness",
+     "zh": {
+      "hanzi": "缺点",
+      "pinyin": "quēdiǎn"
+     },
+     "es": "el punto débil"
+    },
+    {
+     "vi": "mức lương mong muốn",
+     "en": "expected salary",
+     "zh": {
+      "hanzi": "期望薪资",
+      "pinyin": "qīwàng xīnzī"
+     },
+     "es": "el salario deseado"
+    },
+    {
+     "vi": "thư xin việc",
+     "en": "cover letter",
+     "zh": {
+      "hanzi": "求职信",
+      "pinyin": "qiúzhíxìn"
+     },
+     "es": "la carta de presentación"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi có 3 năm kinh nghiệm làm marketing.",
+     "en": "I have three years of experience in marketing.",
+     "zh": {
+      "hanzi": "我有三年市场营销的工作经验。",
+      "pinyin": "Wǒ yǒu sān nián shìchǎng yíngxiāo de gōngzuò jīngyàn."
+     },
+     "es": "Tengo tres años de experiencia en marketing."
+    },
+    {
+     "vi": "Điểm mạnh của tôi là làm việc nhóm tốt.",
+     "en": "My main strength is teamwork.",
+     "zh": {
+      "hanzi": "我的优点是善于团队合作。",
+      "pinyin": "Wǒ de yōudiǎn shì shànyú tuánduì hézuò."
+     },
+     "es": "Mi punto fuerte es el trabajo en equipo."
+    },
+    {
+     "vi": "Tôi làm ở công ty ABC từ năm 2022.",
+     "en": "I've been working at ABC since 2022.",
+     "zh": {
+      "hanzi": "我从2022年开始在",
+      "pinyin": "ABC公司工作。Wǒ cóng èr líng èr èr nián kāishǐ zài ABC gōngsī gōngzuò."
+     },
+     "es": "Trabajo en ABC desde 2022."
+    },
+    {
+     "vi": "Tại sao bạn muốn làm việc ở đây?",
+     "en": "Why do you want to work here?",
+     "zh": {
+      "hanzi": "你为什么想在这儿工作？",
+      "pinyin": "Nǐ wèishénme xiǎng zài zhèr gōngzuò?"
+     },
+     "es": "¿Por qué quiere trabajar aquí?"
+    }
+   ],
+   "grammar": {
+    "en": "hiện tại hoàn thành tiếp diễn (I've been working); quá khứ đơn cho công việc đã kết thúc; trả lời theo cấu trúc STAR (tình huống – nhiệm vụ – hành động – kết quả).",
+    "zh": "从 ... 开始 (bắt đầu từ); 善于 (giỏi về); 对 ... 感兴趣 (hứng thú với).",
+    "es": "llevar + gerundio (llevo tres años trabajando); desde và desde hace; phân biệt imperfecto và indefinido khi kể công việc cũ."
+   },
+   "pronunciation": {
+    "en": "đọc năm: 2022 = twenty twenty-two; nói rõ âm cuối -ed, -s.",
+    "zh": "năm đọc từng chữ số: 2022年 = èr líng èr èr nián.",
+    "es": "năm đọc như số: 2022 = dos mil veintidós."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Xem 1 video phỏng vấn mẫu, ghi lại 5 câu hỏi và cách ứng viên trả lời",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Trả lời 5 câu hỏi phỏng vấn phổ biến (giới thiệu bản thân, điểm mạnh, điểm yếu, vì sao chọn công ty, mục tiêu 5 năm), mỗi câu 1 phút, ghi âm",
+     "minutes": 40
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 3 tin tuyển dụng, gạch chân yêu cầu bắt buộc và quyền lợi",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết CV 1 trang + thư xin việc 150–200 từ (tiếng Trung: 200 chữ) cho 1 tin tuyển dụng thật",
+     "minutes": 50
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Học 15 động từ hành động cho CV (managed, led, improved ...) và từ tương đương",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 历 (4 nét), 求 (7), 面 (9), 能 (10), 职 (11).",
+    "Đọc to câu tự giới thiệu 30 giây, chú ý thanh của 经验, 优点, 缺点."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "I've been ___ here since 2022. (work)",
+     "answer": "working"
+    },
+    {
+     "lang": "en",
+     "sentence": "I ___ at ABC from 2019 to 2021. (work)",
+     "answer": "worked"
+    },
+    {
+     "lang": "en",
+     "sentence": "I'm good ___ solving problems.",
+     "answer": "at"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我___2022年开始在这儿工作。",
+     "answer": "从"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我___市场营销很感兴趣。",
+     "answer": "对"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我善___团队合作。",
+     "answer": "于"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ tres años trabajando aquí. (llevar, yo)",
+     "answer": "Llevo"
+    },
+    {
+     "lang": "es",
+     "sentence": "Trabajo en esta empresa ___ hace dos años.",
+     "answer": "desde"
+    },
+    {
+     "lang": "es",
+     "sentence": "Cuando ___ estudiante, trabajaba en un café. (ser)",
+     "answer": "era"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Tôi có thể bắt đầu làm từ tháng sau.",
+     "en": "I can start next month.",
+     "zh": {
+      "hanzi": "我下个月就可以上班。",
+      "pinyin": "Wǒ xià ge yuè jiù kěyǐ shàngbān."
+     },
+     "es": "Puedo empezar el mes que viene."
+    },
+    {
+     "vi": "Công ty có cơ hội đào tạo không?",
+     "en": "Are there any training opportunities?",
+     "zh": {
+      "hanzi": "公司有培训机会吗？",
+      "pinyin": "Gōngsī yǒu péixuìn jīhuì ma?"
+     },
+     "es": "¿La empresa ofrece oportunidades de formación?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "Tell me about a challenge you faced and how you solved it.",
+     "zh": "说说你遇到过的一个困难，以及你是怎么解决的。",
+     "es": "Háblame de un reto que tuviste y de cómo lo resolviste."
+    },
+    {
+     "en": "Where do you see yourself in five years?",
+     "zh": "你觉得五年后自己会在做什么？",
+     "es": "¿Dónde te ves dentro de cinco años?"
+    },
+    {
+     "en": "Why should we hire you?",
+     "zh": "我们为什么要录用你？",
+     "es": "¿Por qué deberíamos contratarte?"
+    }
+   ],
+   "writing": "Viết thư cảm ơn sau phỏng vấn 100 từ (tiếng Trung: 120 chữ): cảm ơn, nhắc lại 1 điểm mạnh, khẳng định mong muốn làm việc.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Phỏng vấn thử 15 phút với bạn học hoặc trợ lý AI, ghi âm và tự chấm 1–5 điểm cho: trôi chảy, từ vựng, ngữ pháp, phát âm."
+  },
+  {
+   "id": "t14",
+   "title": "Kinh doanh, đàm phán & email",
+   "level": {
+    "cefr": "B2–C1",
+    "hsk": "HSK 5"
+   },
+   "hours": "~5 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "hợp đồng",
+     "en": "contract",
+     "zh": {
+      "hanzi": "合同",
+      "pinyin": "hétong"
+     },
+     "es": "el contrato"
+    },
+    {
+     "vi": "đàm phán",
+     "en": "negotiate",
+     "zh": {
+      "hanzi": "谈判",
+      "pinyin": "tánpàn"
+     },
+     "es": "negociar"
+    },
+    {
+     "vi": "khách hàng",
+     "en": "client",
+     "zh": {
+      "hanzi": "客户",
+      "pinyin": "kèhù"
+     },
+     "es": "el cliente"
+    },
+    {
+     "vi": "đối tác",
+     "en": "partner",
+     "zh": {
+      "hanzi": "合作伙伴",
+      "pinyin": "hézuò huǒbàn"
+     },
+     "es": "el socio"
+    },
+    {
+     "vi": "báo giá",
+     "en": "quotation",
+     "zh": {
+      "hanzi": "报价",
+      "pinyin": "bàojià"
+     },
+     "es": "el presupuesto"
+    },
+    {
+     "vi": "chiết khấu",
+     "en": "discount",
+     "zh": {
+      "hanzi": "折扣",
+      "pinyin": "zhékòu"
+     },
+     "es": "el descuento"
+    },
+    {
+     "vi": "điều khoản",
+     "en": "terms",
+     "zh": {
+      "hanzi": "条款",
+      "pinyin": "tiáokuǎn"
+     },
+     "es": "las condiciones"
+    },
+    {
+     "vi": "giao hàng",
+     "en": "delivery",
+     "zh": {
+      "hanzi": "交货",
+      "pinyin": "jiāohuò"
+     },
+     "es": "la entrega"
+    },
+    {
+     "vi": "lợi nhuận",
+     "en": "profit",
+     "zh": {
+      "hanzi": "利润",
+      "pinyin": "lìrùn"
+     },
+     "es": "el beneficio"
+    },
+    {
+     "vi": "thỏa thuận",
+     "en": "agreement",
+     "zh": {
+      "hanzi": "协议",
+      "pinyin": "xiéyì"
+     },
+     "es": "el acuerdo"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Kính gửi ông / bà ...",
+     "en": "Dear Mr / Ms ...",
+     "zh": {
+      "hanzi": "尊敬的……先生 / 女士",
+      "pinyin": "Zūnjìng de ... xiānsheng / nǚshì"
+     },
+     "es": "Estimado Sr. / Estimada Sra. ..."
+    },
+    {
+     "vi": "Chúng tôi xin gửi kèm báo giá.",
+     "en": "Please find attached our quotation.",
+     "zh": {
+      "hanzi": "附件是我们的报价。",
+      "pinyin": "Fùjiàn shì wǒmen de bàojià."
+     },
+     "es": "Adjuntamos nuestro presupuesto."
+    },
+    {
+     "vi": "Nếu đặt trên 1.000 sản phẩm, chúng tôi giảm 5%.",
+     "en": "If you order more than 1,000 units, we can offer a 5% discount.",
+     "zh": {
+      "hanzi": "如果订购超过一千件，我们可以打九五折。",
+      "pinyin": "Rúguǒ dìnggòu chāoguò yìqiān jiàn, wǒmen kěyǐ dǎ jiǔwǔ zhé."
+     },
+     "es": "Si pide más de 1.000 unidades, podemos ofrecerle un 5 % de descuento."
+    },
+    {
+     "vi": "Mong sớm nhận được phản hồi của quý công ty.",
+     "en": "I look forward to hearing from you.",
+     "zh": {
+      "hanzi": "期待您的回复。",
+      "pinyin": "Qīdài nín de huífù."
+     },
+     "es": "Quedo a la espera de su respuesta."
+    }
+   ],
+   "grammar": {
+    "en": "văn phong trang trọng trong email; câu điều kiện loại 2 khi đàm phán (If you were able to ..., we would ...).",
+    "zh": "xưng hô trang trọng 您, 贵公司; 如果 ... 的话; cách nói giảm giá 打九五折 = trả 95% giá, tức giảm 5%.",
+    "es": "ngôi usted; cách điều kiện (podríamos); thức giả định quá khứ trong lời đề nghị lịch sự (le agradecería que nos enviara ...)."
+   },
+   "pronunciation": {
+    "en": "trọng âm đổi theo từ loại: CONtract (danh từ) và conTRACT (động từ), INcrease và inCREASE.",
+    "zh": "phân biệt 您 nín (trang trọng) và 你 nǐ; thanh nhẹ ở 合同 hétong, 先生 xiānsheng.",
+    "es": "d giữa hai nguyên âm đọc nhẹ gần như /ð/ (estimado, acuerdo)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 đoạn đàm phán mẫu, ghi lại đề nghị ban đầu, điều kiện nhượng bộ và kết quả cuối",
+     "minutes": 30
+    },
+    {
+     "skill": "Nói",
+     "task": "Đóng vai người mua và người bán thương lượng giá, số lượng, thời hạn giao hàng (3 vòng đề nghị)",
+     "minutes": 30
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 1 hợp đồng mẫu ngắn, tóm tắt 5 điều khoản chính bằng tiếng Việt",
+     "minutes": 30
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết 3 email trang trọng 120–150 từ (tiếng Trung: 150 chữ): gửi báo giá, đề nghị giảm giá, xác nhận đơn hàng",
+     "minutes": 50
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Lập bảng 10 cụm mở đầu và kết thúc email trang trọng cho cả 3 ngôn ngữ",
+     "minutes": 20
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 户 (4 nét), 合 (6), 同 (6), 价 (6), 客 (9).",
+    "Nhận biết bộ 亻 (người) trong 价, 伙, 伴, 件."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "If you ___ the order, we would offer free delivery. (double)",
+     "answer": "doubled"
+    },
+    {
+     "lang": "en",
+     "sentence": "Please find ___ the contract.",
+     "answer": "attached"
+    },
+    {
+     "lang": "en",
+     "sentence": "I look forward to ___ from you. (hear)",
+     "answer": "hearing"
+    },
+    {
+     "lang": "zh",
+     "sentence": "___您的回复。(mong đợi)",
+     "answer": "期待"
+    },
+    {
+     "lang": "zh",
+     "sentence": "如果订购超过一千件___，我们可以打折。",
+     "answer": "的话"
+    },
+    {
+     "lang": "zh",
+     "sentence": "附件___我们的报价。",
+     "answer": "是"
+    },
+    {
+     "lang": "es",
+     "sentence": "Le ___ que nos enviara el contrato. (agradecer)",
+     "answer": "agradecería"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ ofrecerle un descuento. (poder, nosotros)",
+     "answer": "Podríamos"
+    },
+    {
+     "lang": "es",
+     "sentence": "Quedo a la ___ de su respuesta.",
+     "answer": "espera"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Chúng tôi có thể giao hàng trong vòng 2 tuần.",
+     "en": "We can deliver within two weeks.",
+     "zh": {
+      "hanzi": "我们可以在两周内交货。",
+      "pinyin": "Wǒmen kěyǐ zài liǎng zhōu nèi jiāohuò."
+     },
+     "es": "Podemos entregar en un plazo de dos semanas."
+    },
+    {
+     "vi": "Giá này đã bao gồm thuế chưa?",
+     "en": "Does this price include tax?",
+     "zh": {
+      "hanzi": "这个价格含税吗？",
+      "pinyin": "Zhège jiàgé hán shuì ma?"
+     },
+     "es": "¿Este precio incluye impuestos?"
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What makes a good negotiator?",
+     "zh": "怎样才算是一个好的谈判者？",
+     "es": "¿Qué hace a un buen negociador?"
+    },
+    {
+     "en": "Describe a product you would like to sell.",
+     "zh": "介绍一个你想卖的产品。",
+     "es": "Describe un producto que te gustaría vender."
+    },
+    {
+     "en": "Is it better to work for a big company or start your own business?",
+     "zh": "在大公司工作好还是自己创业好？",
+     "es": "¿Es mejor trabajar en una gran empresa o montar tu propio negocio?"
+    }
+   ],
+   "writing": "Viết email 150 từ (tiếng Trung: 180 chữ) trả lời khách hàng phàn nàn giao hàng trễ: xin lỗi, giải thích, đề nghị bồi thường, giữ quan hệ.",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Quay video 60 giây giới thiệu (pitch) một sản phẩm: vấn đề, giải pháp, giá, lời kêu gọi hành động; xem lại và quay lại lần 2."
+  },
+  {
+   "id": "t15",
+   "title": "Khách sạn & dịch vụ khách hàng",
+   "level": {
+    "cefr": "B1–B2",
+    "hsk": "HSK 4"
+   },
+   "hours": "~4 giờ mỗi ngôn ngữ",
+   "vocab": [
+    {
+     "vi": "đặt chỗ",
+     "en": "reservation",
+     "zh": {
+      "hanzi": "预订",
+      "pinyin": "yùdìng"
+     },
+     "es": "la reserva"
+    },
+    {
+     "vi": "nhận phòng",
+     "en": "check in",
+     "zh": {
+      "hanzi": "入住",
+      "pinyin": "rùzhù"
+     },
+     "es": "registrarse"
+    },
+    {
+     "vi": "trả phòng",
+     "en": "check out",
+     "zh": {
+      "hanzi": "退房",
+      "pinyin": "tuìfáng"
+     },
+     "es": "dejar la habitación"
+    },
+    {
+     "vi": "quầy lễ tân",
+     "en": "reception",
+     "zh": {
+      "hanzi": "前台",
+      "pinyin": "qiántái"
+     },
+     "es": "la recepción"
+    },
+    {
+     "vi": "phòng đôi",
+     "en": "double room",
+     "zh": {
+      "hanzi": "双人间",
+      "pinyin": "shuāngrénjiān"
+     },
+     "es": "la habitación doble"
+    },
+    {
+     "vi": "khiếu nại",
+     "en": "complaint",
+     "zh": {
+      "hanzi": "投诉",
+      "pinyin": "tóusù"
+     },
+     "es": "la queja"
+    },
+    {
+     "vi": "xin lỗi",
+     "en": "apologise",
+     "zh": {
+      "hanzi": "道歉",
+      "pinyin": "dàoqiàn"
+     },
+     "es": "disculparse"
+    },
+    {
+     "vi": "hoàn tiền",
+     "en": "refund",
+     "zh": {
+      "hanzi": "退款",
+      "pinyin": "tuìkuǎn"
+     },
+     "es": "el reembolso"
+    },
+    {
+     "vi": "hài lòng",
+     "en": "satisfied",
+     "zh": {
+      "hanzi": "满意",
+      "pinyin": "mǎn yì"
+     },
+     "es": "satisfecho / satisfecha"
+    },
+    {
+     "vi": "dịch vụ",
+     "en": "service",
+     "zh": {
+      "hanzi": "服务",
+      "pinyin": "fúwù"
+     },
+     "es": "el servicio"
+    }
+   ],
+   "sentences": [
+    {
+     "vi": "Tôi có thể giúp gì cho quý khách?",
+     "en": "How may I help you?",
+     "zh": {
+      "hanzi": "请问有什么可以帮您？",
+      "pinyin": "Qǐngwèn yǒu shénme kěyǐ bāng nín?"
+     },
+     "es": "¿En qué puedo ayudarle?"
+    },
+    {
+     "vi": "Tôi đã đặt một phòng đôi trong hai đêm.",
+     "en": "I've booked a double room for two nights.",
+     "zh": {
+      "hanzi": "我预订了一个双人间，住两个晚上。",
+      "pinyin": "Wǒ yùdìng le yí ge shuāngrénjiān, zhù liǎng ge wǎnshang."
+     },
+     "es": "Tengo una reserva de una habitación doble para dos noches."
+    },
+    {
+     "vi": "Chúng tôi rất xin lỗi vì sự bất tiện này.",
+     "en": "We're very sorry for the inconvenience.",
+     "zh": {
+      "hanzi": "给您带来不便，我们非常抱歉。",
+      "pinyin": "Gěi nín dàilái búbiàn, wǒmen fēicháng bàoqiàn."
+     },
+     "es": "Sentimos mucho las molestias."
+    },
+    {
+     "vi": "Chúng tôi sẽ đổi phòng cho quý khách ngay.",
+     "en": "We'll move you to another room right away.",
+     "zh": {
+      "hanzi": "我们马上给您换房间。",
+      "pinyin": "Wǒmen mǎshàng gěi nín huàn fángjiān."
+     },
+     "es": "Le cambiaremos de habitación enseguida."
+    }
+   ],
+   "grammar": {
+    "en": "động từ khuyết thiếu lịch sự (May I ...?, Would you like ...?); xin lỗi và đưa giải pháp (I'm afraid ..., I'll ... for you).",
+    "zh": "给 + người + động từ (给您换房间); 请问 mở đầu câu hỏi lịch sự; 马上 (ngay lập tức).",
+    "es": "ngôi usted với đại từ le; đề nghị bằng cách điều kiện (¿Le gustaría ...?); sentir để xin lỗi (lo siento, sentimos ...)."
+   },
+   "pronunciation": {
+    "en": "trọng âm từ dài: inconVENience, reCEPtion, accommoDAtion.",
+    "zh": "thanh 4 rõ và dứt khoát trong lời xin lỗi: bàoqiàn, dàoqiàn; phân biệt 两 liǎng và 二 èr.",
+    "es": "h câm và trọng âm cuối của habitación; g trước e / i đọc như j (gestionar)."
+   },
+   "skills": [
+    {
+     "skill": "Nghe",
+     "task": "Nghe 1 đoạn khách gọi điện khiếu nại, ghi lại vấn đề và cách nhân viên xử lý",
+     "minutes": 25
+    },
+    {
+     "skill": "Nói",
+     "task": "Đóng vai lễ tân xử lý 3 tình huống: nhận phòng, phòng ồn, khách đòi hoàn tiền",
+     "minutes": 30
+    },
+    {
+     "skill": "Đọc",
+     "task": "Đọc 5 đánh giá khách sạn trên mạng, phân loại khen / chê theo: phòng, vị trí, nhân viên, giá",
+     "minutes": 20
+    },
+    {
+     "skill": "Viết",
+     "task": "Viết thư trả lời 1 đánh giá tiêu cực, 120 từ (tiếng Trung: 150 chữ): cảm ơn, xin lỗi, giải pháp, mời quay lại",
+     "minutes": 35
+    },
+    {
+     "skill": "Từ vựng",
+     "task": "Học 15 từ về tiện nghi phòng (điều hòa, khăn tắm, wifi, bữa sáng ...)",
+     "minutes": 15
+    }
+   ],
+   "hanzi": [
+    "Tập viết: 务 (5 nét), 住 (7), 间 (7), 房 (8), 服 (8).",
+    "Đọc to hội thoại nhận phòng 1 phút, ghi âm và so thanh với pinyin."
+   ],
+   "fill": [
+    {
+     "lang": "en",
+     "sentence": "___ I take your name, please?",
+     "answer": "May"
+    },
+    {
+     "lang": "en",
+     "sentence": "Would you ___ a room with a sea view?",
+     "answer": "like"
+    },
+    {
+     "lang": "en",
+     "sentence": "I'm ___ the room isn't ready yet.",
+     "answer": "afraid"
+    },
+    {
+     "lang": "zh",
+     "sentence": "我们马上___您换房间。",
+     "answer": "给"
+    },
+    {
+     "lang": "zh",
+     "sentence": "___问有什么可以帮您？",
+     "answer": "请"
+    },
+    {
+     "lang": "zh",
+     "sentence": "您对我们的服务满___吗？",
+     "answer": "意"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿En qué ___ ayudarle?",
+     "answer": "puedo"
+    },
+    {
+     "lang": "es",
+     "sentence": "¿Le ___ una habitación con vistas al mar? (gustar)",
+     "answer": "gustaría"
+    },
+    {
+     "lang": "es",
+     "sentence": "___ mucho las molestias. (sentir, nosotros)",
+     "answer": "Sentimos"
+    }
+   ],
+   "translate": [
+    {
+     "vi": "Mấy giờ phải trả phòng?",
+     "en": "What time is check-out?",
+     "zh": {
+      "hanzi": "几点退房？",
+      "pinyin": "Jǐ diǎn tuìfáng?"
+     },
+     "es": "¿A qué hora hay que dejar la habitación?"
+    },
+    {
+     "vi": "Điều hòa trong phòng tôi bị hỏng.",
+     "en": "The air conditioning in my room isn't working.",
+     "zh": {
+      "hanzi": "我房间的空调坏了。",
+      "pinyin": "Wǒ fángjiān de kōngtiáo huài le."
+     },
+     "es": "El aire acondicionado de mi habitación no funciona."
+    }
+   ],
+   "speaking": [
+    {
+     "en": "What makes good customer service?",
+     "zh": "什么样的服务才算好服务？",
+     "es": "¿Qué es un buen servicio al cliente?"
+    },
+    {
+     "en": "Tell me about a bad experience at a hotel or shop.",
+     "zh": "说说你在酒店或商店遇到的一次不愉快经历。",
+     "es": "Cuéntame una mala experiencia en un hotel o una tienda."
+    },
+    {
+     "en": "Would you like to work in tourism, and why?",
+     "zh": "你想在旅游业工作吗？为什么？",
+     "es": "¿Te gustaría trabajar en turismo y por qué?"
+    }
+   ],
+   "writing": "Viết email khiếu nại 120 từ (tiếng Trung: 150 chữ) gửi khách sạn: mô tả 2 vấn đề, ảnh hưởng, yêu cầu cụ thể (hoàn tiền một phần, đổi phòng).",
+   "dictation": "Nghe 4 mẫu câu và 2 câu dịch nhanh, chép lại, so đáp án; nói nhại mỗi câu 5 lần.",
+   "challenge": "Đọc 10 đánh giá thật của một khách sạn trên trang đặt phòng bằng ngôn ngữ đang học, ghi 10 cụm từ khách hay dùng để khen và chê."
+  }
+ ]
+}

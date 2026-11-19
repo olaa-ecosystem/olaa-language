@@ -1,0 +1,65 @@
+{
+ "name": [
+  "Tiếng Trung",
+  "Chinese"
+ ],
+ "short": "中",
+ "tts": "zh-CN",
+ "native": "中文 · HSK",
+ "levels": [
+  {
+   "c": "HSK1",
+   "n": [
+    "Nhập môn",
+    "Beginner"
+   ],
+   "x": "HSK 1 (≈ A1)",
+   "w": "150"
+  },
+  {
+   "c": "HSK2",
+   "n": [
+    "Sơ cấp",
+    "Elementary"
+   ],
+   "x": "HSK 2 (≈ A2)",
+   "w": "300"
+  },
+  {
+   "c": "HSK3",
+   "n": [
+    "Trung cấp 1",
+    "Intermediate 1"
+   ],
+   "x": "HSK 3 (≈ B1)",
+   "w": "600"
+  },
+  {
+   "c": "HSK4",
+   "n": [
+    "Trung cấp 2",
+    "Intermediate 2"
+   ],
+   "x": "HSK 4 (≈ B2)",
+   "w": "1,200"
+  },
+  {
+   "c": "HSK5",
+   "n": [
+    "Cao cấp",
+    "Advanced"
+   ],
+   "x": "HSK 5 (≈ C1)",
+   "w": "2,500"
+  },
+  {
+   "c": "HSK6",
+   "n": [
+    "Thành thạo",
+    "Mastery"
+   ],
+   "x": "HSK 6 (≈ C1–C2)",
+   "w": "5,000"
+  }
+ ]
+}

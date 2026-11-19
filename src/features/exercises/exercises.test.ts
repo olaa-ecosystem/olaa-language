@@ -85,6 +85,16 @@ function solve(e: Exercise): string {
       return e.accepted[0]!;
     case 'match':
       return '';
+    case 'choice':
+      return String(e.answerIndex);
+    case 'text':
+      return e.accepted[0]!;
+    case 'dictation':
+      return e.audioText;
+    case 'say':
+      return 'said';
+    case 'free':
+      return 'my answer';
   }
 }
 

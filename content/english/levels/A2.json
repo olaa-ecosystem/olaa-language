@@ -1,0 +1,5700 @@
+[
+ {
+  "id": "a2-1",
+  "t": [
+   "Quá khứ đơn",
+   "Past simple"
+  ],
+  "th": [
+   [
+    "Dùng cho hành động **đã kết thúc tại thời điểm xác định** trong quá khứ: yesterday, last week, in 2020, two days ago.",
+    "Use it for actions **finished at a definite time** in the past: yesterday, last week, in 2020, two days ago."
+   ],
+   [
+    "Động từ có quy tắc: thêm **-ed** (worked); kết thúc e → +d (lived); phụ âm + y → ied (studied); gấp đôi phụ âm (stopped).\nPhát âm -ed:\n• **/t/** sau âm vô thanh: worked, watched, stopped\n• **/ɪd/** sau t, d: wanted, needed\n• **/d/** còn lại: played, lived",
+    "Regular verbs add **-ed** (worked); e → +d (lived); consonant + y → ied (studied); doubling (stopped).\n-ed pronunciation:\n• **/t/** after voiceless sounds: worked, watched, stopped\n• **/ɪd/** after t, d: wanted, needed\n• **/d/** elsewhere: played, lived"
+   ],
+   [
+    "Bất quy tắc thường gặp: go → went, see → saw, have → had, buy → bought, eat → ate, take → took, make → made, come → came, get → got, do → did.",
+    "Common irregulars: go → went, see → saw, have → had, buy → bought, eat → ate, take → took, make → made, come → came, get → got, do → did."
+   ],
+   [
+    "Phủ định / câu hỏi: **didn't / Did + động từ nguyên mẫu**. I didn't go. Did you see it? (Sai: didn't went)",
+    "Negative / question: **didn't / Did + base verb**. I didn't go. Did you see it? (Wrong: didn't went)"
+   ]
+  ],
+  "vo": [
+   [
+    "yesterday",
+    "/ˈjestərdeɪ/",
+    "hôm qua",
+    "the day before today"
+   ],
+   [
+    "ago",
+    "/əˈɡoʊ/",
+    "cách đây",
+    "before now"
+   ],
+   [
+    "last week",
+    "/læst wiːk/",
+    "tuần trước",
+    "the week before this one"
+   ],
+   [
+    "went",
+    "/went/",
+    "đã đi (go)",
+    "past of go"
+   ],
+   [
+    "saw",
+    "/sɔː/",
+    "đã thấy (see)",
+    "past of see"
+   ],
+   [
+    "bought",
+    "/bɔːt/",
+    "đã mua (buy)",
+    "past of buy"
+   ],
+   [
+    "visit",
+    "/ˈvɪzɪt/",
+    "thăm",
+    "to go to see someone"
+   ],
+   [
+    "travel",
+    "/ˈtrævl/",
+    "du lịch",
+    "to go on a journey"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "I ___ to Da Nang last summer.",
+    [
+     "go",
+     "went",
+     "goed"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "She didn't ___ the film.",
+    [
+     "saw",
+     "see",
+     "seen"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "___ you buy anything yesterday?",
+    [
+     "Do",
+     "Did",
+     "Were"
+    ],
+    1
+   ],
+   [
+    "type",
+    [
+     "Quá khứ của: buy",
+     "Past of: buy"
+    ],
+    [
+     "bought"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Quá khứ của: study",
+     "Past of: study"
+    ],
+    [
+     "studied"
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Đuôi -ed trong “wanted” đọc là?",
+     "How is -ed pronounced in “wanted”?"
+    ],
+    [
+     "/t/",
+     "/d/",
+     "/ɪd/"
+    ],
+    2
+   ],
+   [
+    "mc",
+    [
+     "Đuôi -ed trong “watched” đọc là?",
+     "How is -ed pronounced in “watched”?"
+    ],
+    [
+     "/t/",
+     "/d/",
+     "/ɪd/"
+    ],
+    0
+   ],
+   [
+    "order",
+    "We visited our grandparents two weeks ago",
+    "Chúng tôi đã thăm ông bà hai tuần trước."
+   ],
+   [
+    "dict",
+    "I bought a new phone yesterday."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Last Saturday we wanted to go to the beach, but it rained all day, so we stayed at home and watched films.",
+    "q": [
+     "Thứ Bảy tuần trước họ đã làm gì?",
+     "What did they do last Saturday?"
+    ],
+    "o": [
+     [
+      "đi biển",
+      "went to the beach"
+     ],
+     [
+      "ở nhà xem phim",
+      "stayed at home and watched films"
+     ],
+     [
+      "đi mua sắm",
+      "went shopping"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Họ “wanted” (muốn) đi biển, nhưng vì mưa nên “stayed at home and watched films”. Đừng chọn theo ý định ban đầu.",
+     "They “wanted” to go to the beach, but because of the rain they “stayed at home and watched films”."
+    ],
+    "f": [
+     "stayed at home and watched films",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I didn't go to school yesterday because I had a terrible headache and a high temperature.",
+    "e": [
+     "Sau “didn't” dùng nguyên mẫu “go”; “had” là quá khứ bất quy tắc của “have”.",
+     "After “didn't” use the base form “go”; “had” is the irregular past of “have”."
+    ],
+    "f": [
+     "didn't go",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Two years ago, my family moved to a new flat, and I started at a new school.",
+    "e": [
+     "Đuôi -ed: “moved” đọc /d/, “started” đọc /ɪd/ vì động từ tận cùng bằng âm /t/.",
+     "-ed endings: “moved” ends in /d/; “started” ends in /ɪd/ because the verb ends in /t/."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Dear diary, yesterday was a very strange day. I woke up late because my alarm didn't ring, so I missed the bus and walked to work in the rain. When I arrived, my boss wasn't angry; she smiled and gave me a cup of hot coffee. At lunchtime, I went to a new restaurant with my colleagues, but the food was cold and expensive. In the evening, I found my old wallet under the sofa. I lost it three months ago! There was still 200,000 dong inside, so I bought a big cake for my family.",
+   "tr": "Nhật ký thân mến, hôm qua là một ngày rất lạ. Tôi dậy muộn vì đồng hồ báo thức không kêu, nên tôi lỡ xe buýt và phải đi bộ đến chỗ làm dưới mưa. Khi tôi đến, sếp không hề giận; chị ấy mỉm cười và đưa cho tôi một tách cà phê nóng. Buổi trưa, tôi đi ăn ở một nhà hàng mới với đồng nghiệp, nhưng đồ ăn thì nguội và đắt. Buổi tối, tôi tìm thấy cái ví cũ dưới gầm ghế sofa. Tôi làm mất nó từ ba tháng trước! Bên trong vẫn còn 200.000 đồng, nên tôi mua một chiếc bánh kem to cho cả nhà."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết dậy muộn?",
+     "Why did the writer wake up late?"
+    ],
+    "o": [
+     [
+      "Đồng hồ báo thức không kêu",
+      "The alarm didn't ring"
+     ],
+     [
+      "Đi ngủ muộn",
+      "She went to bed late"
+     ],
+     [
+      "Bị ốm",
+      "She was ill"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“I woke up late because my alarm didn't ring” – lý do nằm ngay sau “because”.",
+     "“I woke up late because my alarm didn't ring” – the reason follows “because”."
+    ],
+    "f": [
+     "my alarm didn't ring",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Sếp đã phản ứng thế nào?",
+     "How did the boss react?"
+    ],
+    "o": [
+     [
+      "Rất giận",
+      "She was very angry"
+     ],
+     [
+      "Mỉm cười và đưa cà phê",
+      "She smiled and gave her a coffee"
+     ],
+     [
+      "Không nói gì",
+      "She said nothing"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“my boss wasn't angry; she smiled and gave me a cup of hot coffee”. Chú ý “wasn't angry” là phủ định – đừng chọn đáp án “rất giận”.",
+     "“my boss wasn't angry; she smiled and gave me a cup of hot coffee”. Watch the negative “wasn't”."
+    ],
+    "f": [
+     "she smiled and gave me a cup of hot coffee",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết làm mất ví khi nào?",
+     "When did the writer lose the wallet?"
+    ],
+    "o": [
+     [
+      "hôm qua",
+      "yesterday"
+     ],
+     [
+      "ba tháng trước",
+      "three months ago"
+     ],
+     [
+      "tuần trước",
+      "last week"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I lost it three months ago!” Hôm qua là lúc tìm thấy ví, không phải lúc làm mất.",
+     "“I lost it three months ago!” Yesterday is when she found it, not when she lost it."
+    ],
+    "f": [
+     "I lost it three months ago",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "We ___ the museum last Sunday because it was closed for repairs, so we went to the park instead.",
+    "o": [
+     "didn't visit",
+     "didn't visited",
+     "not visited"
+    ],
+    "a": 0,
+    "e": [
+     "Phủ định quá khứ: “didn't + động từ nguyên mẫu”. “didn't visited” sai vì đã có quá khứ ở “did”; “not visited” thiếu trợ động từ.",
+     "Past negative: “didn't + base verb”. “didn't visited” doubles the past; “not visited” has no auxiliary."
+    ],
+    "f": [
+     "didn't visit",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "My cousin ___ a second-hand motorbike two weeks ago, and now he rides it to university every day. (buy)",
+    "a": [
+     "bought"
+    ],
+    "e": [
+     "“two weeks ago” → quá khứ đơn. “buy” là động từ bất quy tắc: buy → bought (không phải “buyed”).",
+     "“two weeks ago” → past simple. “buy” is irregular: buy → bought (not “buyed”)."
+    ],
+    "f": [
+     "bought",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Did you went to the concert in the park last night, or did you stay at home?",
+    "a": [
+     "Did you go to the concert in the park last night, or did you stay at home?",
+     "Did you go to the concert in the park last night or did you stay at home?"
+    ],
+    "e": [
+     "Trong câu hỏi, “Did” đã mang thì quá khứ nên động từ chính về nguyên mẫu: “Did you go”, không phải “Did you went”.",
+     "In questions “Did” already shows the past, so the main verb is the base form: “Did you go”."
+    ],
+    "f": [
+     "Did you go",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tuần trước tôi tình cờ gặp một người bạn cũ ở siêu thị, và chúng tôi nói chuyện gần một tiếng.",
+    "a": [
+     "Last week I met an old friend at the supermarket by chance, and we talked for almost an hour.",
+     "Last week I ran into an old friend at the supermarket, and we talked for almost an hour.",
+     "Last week I bumped into an old friend at the supermarket, and we talked for almost an hour.",
+     "Last week I met an old friend by chance at the supermarket, and we talked for nearly an hour.",
+     "Last week I ran into an old friend at the supermarket, and we talked for nearly an hour.",
+     "I met an old friend at the supermarket by chance last week, and we talked for almost an hour."
+    ],
+    "e": [
+     "“Last week” → quá khứ đơn: meet → met (bất quy tắc), talk → talked. “tình cờ gặp” = meet by chance / run into / bump into. “gần một tiếng” = almost/nearly an hour (an vì h câm).",
+     "“Last week” → past simple: met, talked. “run into / bump into” = meet by chance. “an hour” because the h is silent."
+    ],
+    "f": [
+     "I met an old friend",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở thể phủ định",
+     "Rewrite the sentence in the negative"
+    ],
+    "s": "I understood the teacher's explanation about the past simple in yesterday's lesson.",
+    "a": [
+     "I didn't understand the teacher's explanation about the past simple in yesterday's lesson.",
+     "I did not understand the teacher's explanation about the past simple in yesterday's lesson."
+    ],
+    "e": [
+     "Phủ định: “didn't + understand” (nguyên mẫu). Không viết “didn't understood”.",
+     "Negative: “didn't + understand” (base form). Not “didn't understood”."
+    ],
+    "f": [
+     "didn't understand",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Two days ago|my sister|lost her keys|on the way home,|so she|waited outside|until my mother|came back",
+    "m": [
+     "Hai ngày trước chị tôi làm mất chìa khóa trên đường về, nên chị ấy phải đợi bên ngoài cho đến khi mẹ tôi về.",
+     "Two days ago my sister lost her keys on the way home, so she waited outside until my mother came back."
+    ],
+    "e": [
+     "Cả ba động từ đều ở quá khứ đơn: lost (bất quy tắc), waited (/ɪd/), came (bất quy tắc). “until” nối hai hành động theo thứ tự thời gian.",
+     "All three verbs are past simple: lost (irregular), waited (/ɪd/), came (irregular). “until” links the two actions in time."
+    ],
+    "f": [
+     "lost her keys",
+     "A2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a2-2",
+  "t": [
+   "So sánh hơn & so sánh nhất",
+   "Comparatives & superlatives"
+  ],
+  "th": [
+   [
+    "Tính từ ngắn (1 âm tiết, hoặc 2 âm tiết tận cùng -y): **-er / the -est**.\n• tall → taller → the tallest\n• big → bigger → the biggest (gấp đôi phụ âm)\n• happy → happier → the happiest",
+    "Short adjectives (1 syllable, or 2 ending in -y): **-er / the -est**.\n• tall → taller → the tallest\n• big → bigger → the biggest (double consonant)\n• happy → happier → the happiest"
+   ],
+   [
+    "Tính từ dài (2+ âm tiết): **more / the most**: more expensive, the most beautiful.",
+    "Long adjectives (2+ syllables): **more / the most**: more expensive, the most beautiful."
+   ],
+   [
+    "Bất quy tắc: good → better → the best; bad → worse → the worst; far → further → the furthest.",
+    "Irregular: good → better → the best; bad → worse → the worst; far → further → the furthest."
+   ],
+   [
+    "So sánh bằng: **as + tính từ + as** (She is as tall as me). Không bằng: **not as … as** (Hanoi is not as hot as Saigon).",
+    "Equality: **as + adjective + as** (She is as tall as me). Not equal: **not as … as** (Hanoi is not as hot as Saigon)."
+   ]
+  ],
+  "vo": [
+   [
+    "expensive",
+    "/ɪkˈspensɪv/",
+    "đắt",
+    "costing a lot"
+   ],
+   [
+    "cheap",
+    "/tʃiːp/",
+    "rẻ",
+    "costing little"
+   ],
+   [
+    "tall",
+    "/tɔːl/",
+    "cao",
+    "of great height"
+   ],
+   [
+    "heavy",
+    "/ˈhevi/",
+    "nặng",
+    "weighing a lot"
+   ],
+   [
+    "better",
+    "/ˈbetər/",
+    "tốt hơn",
+    "comparative of good"
+   ],
+   [
+    "worse",
+    "/wɜːrs/",
+    "tệ hơn",
+    "comparative of bad"
+   ],
+   [
+    "than",
+    "/ðæn/",
+    "hơn",
+    "used in comparisons"
+   ],
+   [
+    "the most",
+    "/ðə moʊst/",
+    "nhất",
+    "superlative marker"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "My brother is ___ than me.",
+    [
+     "tall",
+     "taller",
+     "tallest"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "This is ___ book I have ever read.",
+    [
+     "the better",
+     "the best",
+     "best"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "A car is ___ than a bike.",
+    [
+     "expensiver",
+     "more expensive",
+     "most expensive"
+    ],
+    1
+   ],
+   [
+    "type",
+    [
+     "So sánh hơn của: bad",
+     "Comparative of: bad"
+    ],
+    [
+     "worse"
+    ]
+   ],
+   [
+    "type",
+    [
+     "So sánh nhất của: happy",
+     "Superlative of: happy"
+    ],
+    [
+     "the happiest",
+     "happiest"
+    ]
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "She is as tall than me.",
+     "She is as tall as me.",
+     "She is as taller as me."
+    ],
+    1
+   ],
+   [
+    "order",
+    "Hanoi is not as hot as Saigon",
+    "Hà Nội không nóng bằng Sài Gòn."
+   ],
+   [
+    "dict",
+    "Today is colder than yesterday."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "The train to Hue is slower than the plane, but it is much cheaper and more comfortable.",
+    "q": [
+     "Điều gì đúng về tàu hỏa?",
+     "What is true about the train?"
+    ],
+    "o": [
+     [
+      "nhanh hơn máy bay",
+      "faster than the plane"
+     ],
+     [
+      "rẻ hơn và thoải mái hơn",
+      "cheaper and more comfortable"
+     ],
+     [
+      "đắt nhất",
+      "the most expensive"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Tàu “slower” (chậm hơn) nhưng “much cheaper and more comfortable”. “comfortable” dài nên dùng “more”.",
+     "The train is “slower” but “much cheaper and more comfortable”. “comfortable” is long, so it takes “more”."
+    ],
+    "f": [
+     "much cheaper and more comfortable",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "My new flat is bigger than my old one, but it is further from the city centre.",
+    "e": [
+     "big → bigger (gấp đôi g). far → further (bất quy tắc); “farther” cũng đúng khi nói về khoảng cách.",
+     "big → bigger (double g). far → further (irregular); “farther” is also correct for distance."
+    ],
+    "f": [
+     "bigger than",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "In my opinion, Hoi An is the most beautiful town in Vietnam, especially at night.",
+    "e": [
+     "Nhấn “most” và “beautiful”; “the” trước “most” đọc nhẹ /ðə/.",
+     "Stress “most” and “beautiful”; say “the” weakly as /ðə/."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Choosing a phone? We tested three popular models for students. The Alpha is the cheapest, at only three million dong, but its camera is the worst of the three. The Beta costs five million. Its battery is bigger than the Alpha's, so it lasts longer, and its screen is clearer. The Gamma is the most expensive phone, at nine million, and it has the best camera. However, it is also the heaviest, and it is not as fast as the Beta. For most students, we think the Beta is the best choice because it is good value for money.",
+   "tr": "Bạn đang chọn điện thoại? Chúng tôi đã thử ba mẫu phổ biến dành cho sinh viên. Alpha rẻ nhất, chỉ ba triệu đồng, nhưng camera của nó tệ nhất trong ba chiếc. Beta có giá năm triệu. Pin của nó lớn hơn pin của Alpha nên dùng được lâu hơn, và màn hình cũng rõ hơn. Gamma là chiếc đắt nhất, chín triệu, và có camera tốt nhất. Tuy nhiên, nó cũng nặng nhất và không nhanh bằng Beta. Với phần lớn sinh viên, chúng tôi nghĩ Beta là lựa chọn tốt nhất vì đáng đồng tiền."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Điện thoại nào rẻ nhất?",
+     "Which phone is the cheapest?"
+    ],
+    "o": [
+     "Alpha",
+     "Beta",
+     "Gamma"
+    ],
+    "a": 0,
+    "e": [
+     "“The Alpha is the cheapest, at only three million dong.”",
+     "“The Alpha is the cheapest, at only three million dong.”"
+    ],
+    "f": [
+     "The Alpha is the cheapest",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao pin của Beta dùng lâu hơn Alpha?",
+     "Why does the Beta's battery last longer than the Alpha's?"
+    ],
+    "o": [
+     [
+      "vì pin lớn hơn",
+      "because its battery is bigger"
+     ],
+     [
+      "vì màn hình nhỏ hơn",
+      "because its screen is smaller"
+     ],
+     [
+      "vì máy nhẹ hơn",
+      "because it is lighter"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Its battery is bigger than the Alpha's, so it lasts longer” – “so” nối nguyên nhân với kết quả.",
+     "“Its battery is bigger than the Alpha's, so it lasts longer” – “so” links cause and result."
+    ],
+    "f": [
+     "Its battery is bigger than the Alpha's",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào ĐÚNG về Gamma?",
+     "Which is TRUE about the Gamma?"
+    ],
+    "o": [
+     [
+      "Nó nhanh hơn Beta.",
+      "It is faster than the Beta."
+     ],
+     [
+      "Nó nặng nhất.",
+      "It is the heaviest."
+     ],
+     [
+      "Camera của nó tệ nhất.",
+      "Its camera is the worst."
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“it is also the heaviest”. Bài nói Gamma “not as fast as the Beta” (không nhanh bằng), và camera của nó tốt nhất.",
+     "“it is also the heaviest”. It is “not as fast as the Beta”, and it has the best camera."
+    ],
+    "f": [
+     "it is also the heaviest",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "This winter is ___ than last winter, so I bought a thicker coat and a warm scarf.",
+    "o": [
+     "more cold",
+     "colder",
+     "the coldest"
+    ],
+    "a": 1,
+    "e": [
+     "“cold” là tính từ một âm tiết → thêm -er: colder. Có “than” nên không dùng so sánh nhất “the coldest”.",
+     "“cold” has one syllable → “colder”. “than” means a comparative, not “the coldest”."
+    ],
+    "f": [
+     "colder",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Hung is the ___ student in my class, so the teacher often asks him to help the others. (good)",
+    "a": [
+     "best"
+    ],
+    "e": [
+     "“good” bất quy tắc: good → better → the best. Có “the” và “in my class” nên cần so sánh nhất.",
+     "“good” is irregular: good → better → the best. “the … in my class” needs the superlative."
+    ],
+    "f": [
+     "the best student",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My brother is more tall than my father now, although he is only fifteen years old.",
+    "a": [
+     "My brother is taller than my father now, although he is only fifteen years old.",
+     "My brother is taller than my father now, although he's only fifteen years old."
+    ],
+    "e": [
+     "“tall” là tính từ ngắn nên dùng “taller”, không dùng “more tall”. “more” chỉ dùng cho tính từ dài như “more expensive”.",
+     "“tall” is short, so use “taller”, not “more tall”. “more” is for long adjectives like “more expensive”."
+    ],
+    "f": [
+     "taller than",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hà Nội không đông bằng Thành phố Hồ Chí Minh, nhưng mùa đông ở đây lạnh hơn nhiều.",
+    "a": [
+     "Hanoi is not as crowded as Ho Chi Minh City, but the winter here is much colder.",
+     "Hanoi isn't as crowded as Ho Chi Minh City, but the winter here is much colder.",
+     "Hanoi is not as crowded as Ho Chi Minh City, but winter here is much colder.",
+     "Hanoi isn't as crowded as Ho Chi Minh City, but winter here is much colder.",
+     "Hanoi is not as crowded as Ho Chi Minh City, but winters here are much colder.",
+     "Hanoi isn't as crowded as Ho Chi Minh City, but winters here are much colder.",
+     "Hanoi is less crowded than Ho Chi Minh City, but the winter here is much colder."
+    ],
+    "e": [
+     "“không … bằng” = “not as + tính từ + as”. “lạnh hơn nhiều” = “much colder” (không nói “very colder”).",
+     "“not as … as” for “not equal”. To make a comparative stronger, use “much colder”, never “very colder”."
+    ],
+    "f": [
+     "not as crowded as",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại phần đầu câu với “not as … as” (dùng “fast”) mà nghĩa không đổi",
+     "Rewrite the first part with “not as … as” (use “fast”) keeping the meaning"
+    ],
+    "s": "Bicycles are slower than motorbikes, but they are much better for the environment.",
+    "a": [
+     "Bicycles are not as fast as motorbikes, but they are much better for the environment.",
+     "Bicycles aren't as fast as motorbikes, but they are much better for the environment.",
+     "Bicycles aren't as fast as motorbikes, but they're much better for the environment."
+    ],
+    "e": [
+     "“slower than” = “not as fast as”. Sau “as” dùng tính từ nguyên dạng “fast”, không dùng “faster”.",
+     "“slower than” = “not as fast as”. Use the plain adjective “fast” between the two “as”."
+    ],
+    "f": [
+     "not as fast as",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "This is|the most delicious|bowl of pho|I have ever eaten,|and it is|cheaper than|the one near my house",
+    "m": [
+     "Đây là bát phở ngon nhất mà tôi từng ăn, và nó còn rẻ hơn bát phở gần nhà tôi.",
+     "This is the most delicious bowl of pho I have ever eaten, and it is cheaper than the one near my house."
+    ],
+    "e": [
+     "“delicious” dài → “the most delicious”. “cheap” ngắn → “cheaper than”. “the one” thay cho “the bowl of pho”.",
+     "“delicious” is long → “the most delicious”; “cheap” is short → “cheaper than”. “the one” replaces “the bowl of pho”."
+    ],
+    "f": [
+     "the most delicious",
+     "A2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a2-3",
+  "t": [
+   "Tương lai: will & be going to",
+   "Future: will & going to"
+  ],
+  "th": [
+   [
+    "**will + V**: quyết định ngay lúc nói (The phone's ringing – I'll get it!), dự đoán theo ý kiến (I think it will rain), lời hứa, đề nghị (I'll help you).",
+    "**will + V**: instant decisions (The phone's ringing – I'll get it!), opinion-based predictions (I think it will rain), promises and offers (I'll help you)."
+   ],
+   [
+    "**be going to + V**: kế hoạch đã định trước (I'm going to visit Japan next month) và dự đoán có bằng chứng (Look at those clouds – it's going to rain).",
+    "**be going to + V**: plans made before (I'm going to visit Japan next month) and predictions with evidence (Look at those clouds – it's going to rain)."
+   ],
+   [
+    "Hiện tại tiếp diễn cho lịch hẹn đã sắp xếp: I'm meeting Tom at 7 tonight.",
+    "Present continuous for fixed arrangements: I'm meeting Tom at 7 tonight."
+   ]
+  ],
+  "vo": [
+   [
+    "tomorrow",
+    "/təˈmɑːroʊ/",
+    "ngày mai",
+    "the day after today"
+   ],
+   [
+    "next month",
+    "/nekst mʌnθ/",
+    "tháng sau",
+    "the month after this"
+   ],
+   [
+    "plan",
+    "/plæn/",
+    "kế hoạch",
+    "an intention"
+   ],
+   [
+    "promise",
+    "/ˈprɑːmɪs/",
+    "hứa",
+    "to say you will surely do something"
+   ],
+   [
+    "probably",
+    "/ˈprɑːbəbli/",
+    "có lẽ",
+    "very likely"
+   ],
+   [
+    "decide",
+    "/dɪˈsaɪd/",
+    "quyết định",
+    "to make a choice"
+   ],
+   [
+    "cloud",
+    "/klaʊd/",
+    "đám mây",
+    "grey or white mass in the sky"
+   ],
+   [
+    "maybe",
+    "/ˈmeɪbi/",
+    "có thể",
+    "perhaps"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Điện thoại reo. Bạn nói?",
+     "The phone is ringing. You say?"
+    ],
+    [
+     "I'm going to answer it.",
+     "I'll answer it.",
+     "I answer it."
+    ],
+    1,
+    [
+     "Quyết định ngay lúc nói → will.",
+     "Instant decision → will."
+    ]
+   ],
+   [
+    "fill",
+    "Look at those dark clouds! It ___ rain.",
+    [
+     "will",
+     "is going to"
+    ],
+    1,
+    [
+     "Có bằng chứng trước mắt → going to.",
+     "Evidence now → going to."
+    ]
+   ],
+   [
+    "fill",
+    "We ___ visit Hue next month. We've bought the tickets.",
+    [
+     "will",
+     "are going to"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "I promise I ___ call you tonight.",
+    [
+     "will",
+     "am going to"
+    ],
+    0
+   ],
+   [
+    "type",
+    [
+     "Viết dạng rút gọn của “I will”",
+     "Short form of “I will”"
+    ],
+    [
+     "i'll",
+     "ill"
+    ]
+   ],
+   [
+    "fill",
+    "I think Vietnam ___ win the match.",
+    [
+     "will",
+     "are"
+    ],
+    0
+   ],
+   [
+    "order",
+    "Are you going to study tonight",
+    "Tối nay bạn có định học không?"
+   ],
+   [
+    "dict",
+    "I will help you with your homework."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "My parents are going to visit Ha Long Bay next month, and they booked the boat trip last week.",
+    "q": [
+     "Tháng sau bố mẹ sẽ làm gì?",
+     "What are the parents doing next month?"
+    ],
+    "o": [
+     [
+      "thăm vịnh Hạ Long",
+      "visiting Ha Long Bay"
+     ],
+     [
+      "mua một chiếc thuyền",
+      "buying a boat"
+     ],
+     [
+      "đi Đà Lạt",
+      "going to Da Lat"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“are going to visit” = kế hoạch đã định; bằng chứng là họ đã đặt tour tuần trước (“booked … last week”).",
+     "“are going to visit” is a fixed plan; they already “booked the boat trip last week”."
+    ],
+    "f": [
+     "are going to visit",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Don't worry about the heavy bags, because I will carry them to the car for you.",
+    "e": [
+     "“I will carry” là lời đề nghị giúp đỡ quyết định ngay lúc nói. Có thể nghe thành “I'll carry”.",
+     "“I will carry” is an offer made at the moment of speaking. You may hear the contraction “I'll”."
+    ],
+    "f": [
+     "I will carry",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Look at those black clouds over the mountains; I think it's going to rain very soon.",
+    "e": [
+     "“going to” trong văn nói thường đọc nhanh /ˈɡəʊ.ɪŋ tə/; nhấn “black”, “clouds”, “rain”.",
+     "“going to” is said quickly /ˈɡoʊ.ɪŋ tə/; stress “black”, “clouds”, “rain”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hi Ben, thanks for your message! Yes, I'm free this summer. I'm going to spend two weeks with my grandparents in Nha Trang in July, because they're having a big party for my grandfather's eightieth birthday. After that, I'm going to start a part-time job at a bookshop. I'm not sure about August yet, but maybe I'll take a short English course. When are you coming to Vietnam? If you come in August, I'll show you around Hanoi, and I promise I won't take you to boring museums! Write back soon. Minh",
+   "tr": "Chào Ben, cảm ơn tin nhắn của cậu! Ừ, hè này mình rảnh. Tháng Bảy mình định ở với ông bà ở Nha Trang hai tuần, vì ông bà sẽ tổ chức một bữa tiệc lớn mừng sinh nhật lần thứ tám mươi của ông. Sau đó mình sẽ bắt đầu làm thêm ở một hiệu sách. Tháng Tám thì mình chưa chắc, nhưng có lẽ mình sẽ học một khóa tiếng Anh ngắn. Khi nào cậu sang Việt Nam? Nếu cậu sang vào tháng Tám, mình sẽ dẫn cậu đi thăm Hà Nội, và mình hứa sẽ không đưa cậu đến mấy bảo tàng chán ngắt đâu! Nhớ trả lời sớm nhé. Minh"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Minh sẽ ở Nha Trang bao lâu?",
+     "How long will Minh stay in Nha Trang?"
+    ],
+    "o": [
+     [
+      "một tuần",
+      "one week"
+     ],
+     [
+      "hai tuần",
+      "two weeks"
+     ],
+     [
+      "cả mùa hè",
+      "the whole summer"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I'm going to spend two weeks with my grandparents in Nha Trang” – kế hoạch đã định.",
+     "“I'm going to spend two weeks with my grandparents” – a fixed plan."
+    ],
+    "f": [
+     "I'm going to spend two weeks",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Kế hoạch nào Minh CHƯA chắc chắn?",
+     "Which plan is Minh NOT sure about?"
+    ],
+    "o": [
+     [
+      "thăm ông bà",
+      "visiting his grandparents"
+     ],
+     [
+      "làm thêm ở hiệu sách",
+      "working at a bookshop"
+     ],
+     [
+      "học một khóa tiếng Anh",
+      "taking an English course"
+     ]
+    ],
+    "a": 2,
+    "e": [
+     "“I'm not sure… but maybe I'll take a short English course”. “maybe + will” cho thấy chưa chắc; hai kế hoạch kia dùng “going to” vì đã quyết định.",
+     "“maybe I'll take…” shows uncertainty; the other two plans use “going to” because they are decided."
+    ],
+    "f": [
+     "maybe I'll take a short English course",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Minh hứa điều gì với Ben?",
+     "What does Minh promise Ben?"
+    ],
+    "o": [
+     [
+      "sẽ dẫn Ben đi bảo tàng",
+      "to take Ben to museums"
+     ],
+     [
+      "sẽ không dẫn Ben đến bảo tàng nhàm chán",
+      "not to take Ben to boring museums"
+     ],
+     [
+      "sẽ đón Ben ở sân bay",
+      "to meet Ben at the airport"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I promise I won't take you to boring museums” – lời hứa dùng “will / won't”. “won't” = will not.",
+     "“I promise I won't take you to boring museums” – promises use will/won't. “won't” = will not."
+    ],
+    "f": [
+     "I promise I won't take you",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My sister saved money all year, and she ___ buy a new laptop when the sale starts next month.",
+    "o": [
+     "is going to",
+     "will to",
+     "going to"
+    ],
+    "a": 0,
+    "e": [
+     "Cô ấy đã để dành tiền cả năm → kế hoạch có sẵn → “is going to”. “will to” sai cấu trúc; “going to” thiếu “is”.",
+     "She saved all year, so it's a plan → “is going to”. “will to” is wrong; “going to” is missing “is”."
+    ],
+    "f": [
+     "is going to buy",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "It's very hot in here, isn't it? Wait a moment, and I ___ open the window for you.",
+    "a": [
+     "will"
+    ],
+    "e": [
+     "Quyết định / đề nghị ngay lúc nói → “will”. Không dùng “am going to” vì trước đó chưa có kế hoạch.",
+     "An instant decision or offer → “will”. Not “am going to”, because there was no plan before."
+    ],
+    "f": [
+     "I will open",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I think our team wins the match on Saturday because our best player is back from injury.",
+    "a": [
+     "I think our team will win the match on Saturday because our best player is back from injury.",
+     "I think our team'll win the match on Saturday because our best player is back from injury."
+    ],
+    "e": [
+     "Dự đoán theo ý kiến cá nhân (I think…) về tương lai → “will win”, không dùng hiện tại đơn “wins”.",
+     "An opinion-based prediction (I think…) about the future → “will win”, not the present “wins”."
+    ],
+    "f": [
+     "will win",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi định học tiếng Tây Ban Nha vào năm sau vì tôi muốn đi du lịch Nam Mỹ.",
+    "a": [
+     "I am going to study Spanish next year because I want to travel to South America.",
+     "I'm going to study Spanish next year because I want to travel to South America.",
+     "I'm going to learn Spanish next year because I want to travel to South America.",
+     "I am going to learn Spanish next year because I want to travel to South America.",
+     "Next year I'm going to learn Spanish because I want to travel to South America.",
+     "Next year I am going to study Spanish because I want to travel to South America.",
+     "I'm going to learn Spanish next year because I want to travel around South America."
+    ],
+    "e": [
+     "“định” = kế hoạch đã có từ trước → “be going to”. Sau “want” cần “to + động từ”: want to travel.",
+     "“định” means a plan → “be going to”. After “want” use “to + verb”: want to travel."
+    ],
+    "f": [
+     "I'm going to study Spanish",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “be going to” vì có dấu hiệu ngay trước mắt",
+     "Rewrite with “be going to” because there is clear evidence"
+    ],
+    "s": "Be careful! The glass is at the edge of the table, and it will fall.",
+    "a": [
+     "Be careful! The glass is at the edge of the table, and it is going to fall.",
+     "Be careful! The glass is at the edge of the table, and it's going to fall."
+    ],
+    "e": [
+     "Cái cốc đang ở mép bàn = bằng chứng nhìn thấy được → “is going to fall”. “will” dùng cho dự đoán theo ý kiến, không có bằng chứng.",
+     "The glass at the edge is visible evidence → “is going to fall”. “will” is for opinion-based predictions."
+    ],
+    "f": [
+     "it is going to fall",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "I'm meeting|my old classmates|at a restaurant|in the city centre|at seven o'clock|tomorrow evening",
+    "m": [
+     "Tối mai lúc bảy giờ tôi có hẹn gặp các bạn học cũ ở một nhà hàng trung tâm thành phố.",
+     "I'm meeting my old classmates at a restaurant in the city centre at seven o'clock tomorrow evening."
+    ],
+    "e": [
+     "Hiện tại tiếp diễn cho cuộc hẹn đã sắp xếp (có giờ, có địa điểm). Thứ tự: nơi chốn trước, thời gian sau.",
+     "Present continuous for a fixed arrangement. Order: place first, then time."
+    ],
+    "f": [
+     "I'm meeting",
+     "A2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a2-4",
+  "t": [
+   "Danh từ đếm được & không đếm được",
+   "Countable & uncountable nouns"
+  ],
+  "th": [
+   [
+    "Đếm được: có số nhiều (apples, books). Không đếm được: **water, rice, money, information, advice, furniture, news** – không có số nhiều, không dùng a/an.",
+    "Countable: have plurals (apples, books). Uncountable: **water, rice, money, information, advice, furniture, news** – no plural, no a/an."
+   ],
+   [
+    "**some**: câu khẳng định và lời mời/đề nghị (Would you like some tea?). **any**: câu phủ định và câu hỏi.",
+    "**some**: positive sentences and offers (Would you like some tea?). **any**: negatives and questions."
+   ],
+   [
+    "**many** + danh từ đếm được số nhiều; **much** + không đếm được (chủ yếu phủ định/câu hỏi); **a lot of** dùng cho cả hai. How many…? / How much…?",
+    "**many** + plural countable; **much** + uncountable (mostly negatives/questions); **a lot of** for both. How many…? / How much…?"
+   ],
+   [
+    "**a few** (đếm được) / **a little** (không đếm được) = một vài, một chút (ý tích cực). **few / little** = rất ít (ý tiêu cực).",
+    "**a few** (countable) / **a little** (uncountable) = some (positive). **few / little** = almost none (negative)."
+   ]
+  ],
+  "vo": [
+   [
+    "rice",
+    "/raɪs/",
+    "gạo, cơm",
+    "a grain food"
+   ],
+   [
+    "money",
+    "/ˈmʌni/",
+    "tiền",
+    "coins and notes"
+   ],
+   [
+    "advice",
+    "/ədˈvaɪs/",
+    "lời khuyên",
+    "an opinion about what to do"
+   ],
+   [
+    "information",
+    "/ˌɪnfərˈmeɪʃn/",
+    "thông tin",
+    "facts about something"
+   ],
+   [
+    "furniture",
+    "/ˈfɜːrnɪtʃər/",
+    "đồ nội thất",
+    "tables, chairs, beds…"
+   ],
+   [
+    "a few",
+    "/ə fjuː/",
+    "một vài",
+    "a small number"
+   ],
+   [
+    "a little",
+    "/ə ˈlɪtl/",
+    "một chút",
+    "a small amount"
+   ],
+   [
+    "How much",
+    "/haʊ mʌtʃ/",
+    "bao nhiêu (không đếm được)",
+    "question about amount"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "How ___ money do you have?",
+    [
+     "much",
+     "many"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "There aren't ___ eggs left.",
+    [
+     "some",
+     "any"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Would you like ___ coffee?",
+    [
+     "some",
+     "any"
+    ],
+    0,
+    [
+     "Lời mời dùng some.",
+     "Offers use some."
+    ]
+   ],
+   [
+    "fill",
+    "I have ___ friends here, so I'm not lonely.",
+    [
+     "a few",
+     "a little",
+     "few"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "She gave me an advice.",
+     "She gave me some advice.",
+     "She gave me advices."
+    ],
+    1,
+    [
+     "advice không đếm được.",
+     "advice is uncountable."
+    ]
+   ],
+   [
+    "fill",
+    "There is ___ information on the website.",
+    [
+     "a lot of",
+     "many"
+    ],
+    0
+   ],
+   [
+    "order",
+    "How many people are coming to the party",
+    "Bao nhiêu người sẽ đến bữa tiệc?"
+   ],
+   [
+    "dict",
+    "We need a little sugar and some eggs."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "We don't need any rice this week, but we need a little sugar and a few eggs for the cake.",
+    "q": [
+     "Họ cần mua gì?",
+     "What do they need?"
+    ],
+    "o": [
+     [
+      "gạo",
+      "rice"
+     ],
+     [
+      "đường và trứng",
+      "sugar and eggs"
+     ],
+     [
+      "sữa và bột mì",
+      "milk and flour"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“don't need any rice” = không cần gạo; “need a little sugar and a few eggs”. “a little” cho danh từ không đếm được, “a few” cho đếm được.",
+     "They don't need rice; they need “a little sugar” (uncountable) and “a few eggs” (countable)."
+    ],
+    "f": [
+     "a little sugar and a few eggs",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How much money do you usually spend on food and transport every month in the city?",
+    "e": [
+     "“money” không đếm được → “How much”. “spend money on something” = tiêu tiền vào việc gì.",
+     "“money” is uncountable → “How much”. “spend money on something”."
+    ],
+    "f": [
+     "How much money",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "My teacher gave me some useful advice about how to learn new words every day.",
+    "e": [
+     "“advice” (danh từ) đọc /ədˈvaɪs/ với âm /s/; khác với động từ “advise” /ədˈvaɪz/.",
+     "The noun “advice” ends in /s/; the verb “advise” ends in /z/."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hi Tom, I'm at work until seven, so can you go to the supermarket for me? We're having a small party tomorrow and we don't have much food in the house. Please buy some rice, a few onions and a bottle of fish sauce. We have a lot of eggs, so don't buy any. How many people are coming? I think about ten, so we need a lot of fruit too, maybe some mangoes and a big watermelon. There is a little money in the drawer next to the fridge. Thanks! Lan",
+   "tr": "Chào Tom, mình làm đến bảy giờ, nên cậu đi siêu thị giúp mình được không? Mai nhà mình có một bữa tiệc nhỏ mà trong nhà không còn nhiều đồ ăn. Cậu mua giúp ít gạo, vài củ hành và một chai nước mắm nhé. Nhà còn nhiều trứng lắm, nên đừng mua. Có bao nhiêu người đến nhỉ? Mình nghĩ khoảng mười người, nên mình cũng cần nhiều hoa quả, có thể là ít xoài và một quả dưa hấu to. Có một ít tiền trong ngăn kéo cạnh tủ lạnh. Cảm ơn nhé! Lan"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Lan nhờ Tom đi siêu thị?",
+     "Why does Lan ask Tom to go shopping?"
+    ],
+    "o": [
+     [
+      "vì cô ấy bị ốm",
+      "because she is ill"
+     ],
+     [
+      "vì cô ấy làm việc đến bảy giờ",
+      "because she is at work until seven"
+     ],
+     [
+      "vì Tom thích đi mua sắm",
+      "because Tom likes shopping"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I'm at work until seven, so can you go…” – “so” cho thấy đây là lý do.",
+     "“I'm at work until seven, so…” – “so” shows this is the reason."
+    ],
+    "f": [
+     "I'm at work until seven",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tom KHÔNG nên mua gì?",
+     "What should Tom NOT buy?"
+    ],
+    "o": [
+     [
+      "trứng",
+      "eggs"
+     ],
+     [
+      "hành",
+      "onions"
+     ],
+     [
+      "nước mắm",
+      "fish sauce"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“We have a lot of eggs, so don't buy any.” “any” dùng trong câu phủ định.",
+     "“We have a lot of eggs, so don't buy any.” “any” is used in negatives."
+    ],
+    "f": [
+     "We have a lot of eggs, so don't buy any",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tiền để ở đâu?",
+     "Where is the money?"
+    ],
+    "o": [
+     [
+      "trong ví của Lan",
+      "in Lan's wallet"
+     ],
+     [
+      "trong ngăn kéo cạnh tủ lạnh",
+      "in the drawer next to the fridge"
+     ],
+     [
+      "trên bàn bếp",
+      "on the kitchen table"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“There is a little money in the drawer next to the fridge.” Chú ý “There is” (không phải “are”) vì “money” không đếm được.",
+     "“There is a little money in the drawer next to the fridge.” Note “is”, because “money” is uncountable."
+    ],
+    "f": [
+     "in the drawer next to the fridge",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "I can't give you ___ information about the trip now, but I will send you an email tonight.",
+    "o": [
+     "many",
+     "much",
+     "a few"
+    ],
+    "a": 1,
+    "e": [
+     "“information” không đếm được → “much” trong câu phủ định. “many” và “a few” chỉ đi với danh từ đếm được số nhiều.",
+     "“information” is uncountable → “much” in a negative. “many” and “a few” need plural countable nouns."
+    ],
+    "f": [
+     "much information",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "How ___ people came to your birthday party last weekend, and did they bring any presents?",
+    "a": [
+     "many"
+    ],
+    "e": [
+     "“people” là danh từ đếm được số nhiều (số nhiều của “person”) → “How many”.",
+     "“people” is a plural countable noun (plural of “person”) → “How many”."
+    ],
+    "f": [
+     "How many people",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "My grandmother gave me some good advices before I left home to study in Hanoi.",
+    "a": [
+     "My grandmother gave me some good advice before I left home to study in Hanoi.",
+     "My grandmother gave me some good pieces of advice before I left home to study in Hanoi."
+    ],
+    "e": [
+     "“advice” không đếm được nên không có dạng “advices”. Muốn đếm, dùng “a piece of advice / pieces of advice”.",
+     "“advice” is uncountable, so there is no “advices”. To count it, say “a piece / pieces of advice”."
+    ],
+    "f": [
+     "some good advice",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng ta còn rất ít thời gian, nên hãy bắt taxi thay vì đi xe buýt.",
+    "a": [
+     "We have very little time, so let's take a taxi instead of the bus.",
+     "We have very little time left, so let's take a taxi instead of the bus.",
+     "We have very little time, so let's take a taxi instead of taking the bus.",
+     "We have very little time left, so let's take a taxi instead of taking the bus.",
+     "We don't have much time, so let's take a taxi instead of the bus.",
+     "We don't have much time left, so let's take a taxi instead of taking the bus.",
+     "We have very little time left, so let's get a taxi instead of the bus."
+    ],
+    "e": [
+     "“time” ở đây không đếm được → “little / very little” (rất ít, ý tiêu cực) hoặc “not much”. Không dùng “few time”.",
+     "“time” here is uncountable → “(very) little” or “not much”. Never “few time”."
+    ],
+    "f": [
+     "very little time",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu hỏi, bắt đầu bằng “Is there”",
+     "Rewrite as a question starting with “Is there”"
+    ],
+    "s": "There is some cheese left in the fridge for our sandwiches tomorrow morning.",
+    "a": [
+     "Is there any cheese left in the fridge for our sandwiches tomorrow morning?"
+    ],
+    "e": [
+     "Trong câu hỏi thông thường, “some” đổi thành “any”. “cheese” không đếm được nên dùng “Is there”.",
+     "In ordinary questions “some” becomes “any”. “cheese” is uncountable, so “Is there”."
+    ],
+    "f": [
+     "Is there any cheese",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "There isn't|much furniture|in my new flat|yet,|so I'm going to|buy a sofa|and a few chairs|next weekend",
+    "m": [
+     "Căn hộ mới của tôi chưa có nhiều đồ nội thất, nên cuối tuần sau tôi sẽ mua một chiếc sofa và vài cái ghế.",
+     "There isn't much furniture in my new flat yet, so I'm going to buy a sofa and a few chairs next weekend."
+    ],
+    "e": [
+     "“furniture” không đếm được → “isn't much”. “chairs” đếm được → “a few chairs”.",
+     "“furniture” is uncountable → “isn't much”. “chairs” are countable → “a few chairs”."
+    ],
+    "f": [
+     "much furniture",
+     "A2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-a2-travel",
+  "g": "life",
+  "t": [
+   "Du lịch & đặt phòng",
+   "Travel & booking"
+  ],
+  "th": [
+   [
+    "**Đặt phòng và hỏi thông tin** – dùng câu lịch sự:\n• **I'd like to book** a double room for three nights.\n• **Do you have** a room with a sea view?\n• **Is breakfast included?** / **How much is it** per night?\n• **Could you** send me a confirmation email, please?\n“I'd like” (= I would like) lịch sự hơn nhiều so với “I want”.",
+    "**Booking and asking for information** – use polite forms:\n• **I'd like to book** a double room for three nights.\n• **Do you have** a room with a sea view?\n• **Is breakfast included?** / **How much is it** per night?\n• **Could you** send me a confirmation email, please?\n“I'd like” (= I would like) is much more polite than “I want”."
+   ],
+   [
+    "**Hỏi và chỉ đường**:\n• Hỏi: **Excuse me, could you tell me the way to** the station? / **How do I get to**…?\n• Chỉ: **go straight on**, **turn left / right**, **take the second turning on the left**, **it's on your right**, **it's opposite / next to**…\nỞ sân bay: **check in** (làm thủ tục), **boarding pass** (thẻ lên máy bay), **gate** (cổng), **delayed** (bị hoãn), **luggage** (hành lý – không đếm được, không nói “luggages”).",
+    "**Asking for and giving directions**:\n• Ask: **Excuse me, could you tell me the way to** the station? / **How do I get to**…?\n• Give: **go straight on**, **turn left / right**, **take the second turning on the left**, **it's on your right**, **it's opposite / next to**…\nAt the airport: **check in**, **boarding pass**, **gate**, **delayed**, **luggage** (uncountable – never “luggages”)."
+   ],
+   [
+    "**Phàn nàn lịch sự**: nêu vấn đề nhẹ nhàng rồi đưa ra yêu cầu cụ thể.\n• **I'm afraid there's a problem with** my room.\n• The air conditioning **doesn't work**. / There's **no hot water**.\n• **Could you send someone to fix it?** / **Could I change rooms, please?**\nTrong email phàn nàn, kể lại sự việc bằng **quá khứ đơn** và kết thúc bằng một yêu cầu rõ ràng (a refund, a discount).",
+    "**Complaining politely**: state the problem gently, then make a clear request.\n• **I'm afraid there's a problem with** my room.\n• The air conditioning **doesn't work**. / There's **no hot water**.\n• **Could you send someone to fix it?** / **Could I change rooms, please?**\nIn a complaint email, tell the story in the **past simple** and finish with a clear request (a refund, a discount)."
+   ]
+  ],
+  "vo": [
+   [
+    "reservation",
+    "/ˌrez.ɚˈveɪ.ʃən/",
+    "sự đặt chỗ, đặt phòng",
+    "an arrangement to keep a room or seat for you"
+   ],
+   [
+    "double room",
+    "/ˈdʌb.əl ruːm/",
+    "phòng đôi (giường cho hai người)",
+    "a hotel room for two people"
+   ],
+   [
+    "check in",
+    "/ˈtʃek ɪn/",
+    "làm thủ tục (khách sạn, sân bay)",
+    "to report your arrival at a hotel or airport"
+   ],
+   [
+    "boarding pass",
+    "/ˈbɔːr.dɪŋ ˌpæs/",
+    "thẻ lên máy bay",
+    "a card that lets you get on a plane"
+   ],
+   [
+    "luggage",
+    "/ˈlʌɡ.ɪdʒ/",
+    "hành lý",
+    "bags and cases you take on a trip"
+   ],
+   [
+    "delayed",
+    "/dɪˈleɪd/",
+    "bị hoãn, trễ",
+    "later than planned"
+   ],
+   [
+    "turn left",
+    "/tɝːn left/",
+    "rẽ trái",
+    "to change direction to the left"
+   ],
+   [
+    "complain",
+    "/kəmˈpleɪn/",
+    "phàn nàn, khiếu nại",
+    "to say that something is wrong or not good enough"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Go straight along this street, take the second turning on the left, and the hotel is opposite the post office.",
+    "q": [
+     "Khách sạn ở đâu?",
+     "Where is the hotel?"
+    ],
+    "o": [
+     [
+      "cạnh bưu điện",
+      "next to the post office"
+     ],
+     [
+      "đối diện bưu điện",
+      "opposite the post office"
+     ],
+     [
+      "phía sau bưu điện",
+      "behind the post office"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“the hotel is opposite the post office” – đối diện. Hãy nghe kỹ giới từ ở cuối câu chỉ đường.",
+     "“the hotel is opposite the post office”. Listen carefully for the preposition at the end of directions."
+    ],
+    "f": [
+     "opposite the post office",
+     "A2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Passengers on flight VN245 to Bangkok, please go to gate twelve now, because the flight is boarding.",
+    "q": [
+     "Hành khách phải đi đến đâu?",
+     "Where must the passengers go?"
+    ],
+    "o": [
+     [
+      "cổng 2",
+      "gate 2"
+     ],
+     [
+      "cổng 12",
+      "gate 12"
+     ],
+     [
+      "cổng 20",
+      "gate 20"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“gate twelve” = cổng 12. “twelve” /twelv/ khác “twenty” /ˈtwen.ti/ ở âm cuối.",
+     "“gate twelve” = gate 12. “twelve” /twelv/ and “twenty” /ˈtwen.ti/ have different endings."
+    ],
+    "f": [
+     "go to gate twelve",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I'd like to book a double room for three nights, from the fifth to the eighth of June.",
+    "e": [
+     "“I'd like to book” = I would like to book (lịch sự). Ngày tháng dùng số thứ tự: the fifth, the eighth.",
+     "“I'd like to book” = I would like to book (polite). Dates use ordinals: the fifth, the eighth."
+    ],
+    "f": [
+     "I'd like to book",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Excuse me, could you tell me the way to the nearest bus stop, please?",
+    "e": [
+     "“could you” thường nối thành /kʊ.dʒu/. Lên giọng nhẹ ở cuối câu hỏi lịch sự.",
+     "“could you” is often linked as /kʊ.dʒu/. Use a gentle rise at the end of a polite question."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Dear Sir or Madam, I stayed at your hotel from 3rd to 6th May, and I would like to tell you about some problems. When I booked online, I asked for a quiet double room with a sea view. However, the receptionist gave me a small room next to the lift, with no view at all. On the second night, the air conditioning didn't work, so I couldn't sleep because it was too hot. I called reception twice, but nobody came to fix it. The breakfast was excellent and the staff were friendly, but I paid extra for a sea view. Could you please give me a partial refund? Yours faithfully, Lan Pham",
+   "tr": "Kính gửi Quý khách sạn, tôi đã ở khách sạn của quý vị từ ngày 3 đến ngày 6 tháng Năm, và tôi muốn phản ánh một số vấn đề. Khi đặt phòng trực tuyến, tôi đã yêu cầu một phòng đôi yên tĩnh nhìn ra biển. Tuy nhiên, nhân viên lễ tân lại đưa cho tôi một phòng nhỏ cạnh thang máy, hoàn toàn không có tầm nhìn. Vào đêm thứ hai, điều hòa không hoạt động, nên tôi không ngủ được vì quá nóng. Tôi đã gọi lễ tân hai lần nhưng không ai đến sửa. Bữa sáng rất ngon và nhân viên thân thiện, nhưng tôi đã trả thêm tiền cho phòng nhìn ra biển. Quý vị có thể hoàn lại cho tôi một phần tiền được không? Trân trọng, Phạm Lan"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Khi đặt phòng, Lan đã yêu cầu loại phòng nào?",
+     "What kind of room did Lan ask for when she booked?"
+    ],
+    "o": [
+     [
+      "phòng nhỏ cạnh thang máy",
+      "a small room next to the lift"
+     ],
+     [
+      "phòng đôi yên tĩnh nhìn ra biển",
+      "a quiet double room with a sea view"
+     ],
+     [
+      "phòng gia đình",
+      "a family room"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“I asked for a quiet double room with a sea view.” Phòng cạnh thang máy là phòng cô ấy NHẬN, không phải phòng cô ấy đặt.",
+     "“I asked for a quiet double room with a sea view.” The room next to the lift is what she GOT, not what she booked."
+    ],
+    "f": [
+     "a quiet double room with a sea view",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Chuyện gì xảy ra vào đêm thứ hai?",
+     "What happened on the second night?"
+    ],
+    "o": [
+     [
+      "điều hòa không hoạt động",
+      "the air conditioning didn't work"
+     ],
+     [
+      "thang máy bị hỏng",
+      "the lift broke down"
+     ],
+     [
+      "không có bữa sáng",
+      "there was no breakfast"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“On the second night, the air conditioning didn't work” – vì vậy cô ấy không ngủ được.",
+     "“On the second night, the air conditioning didn't work” – so she couldn't sleep."
+    ],
+    "f": [
+     "the air conditioning didn't work",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Lan muốn khách sạn làm gì?",
+     "What does Lan want the hotel to do?"
+    ],
+    "o": [
+     [
+      "đổi phòng cho cô ấy ngay",
+      "change her room immediately"
+     ],
+     [
+      "hoàn lại một phần tiền",
+      "give her a partial refund"
+     ],
+     [
+      "xin lỗi nhân viên lễ tân",
+      "apologise to the receptionist"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "Câu yêu cầu ở cuối thư: “Could you please give me a partial refund?” – “partial refund” = hoàn lại một phần tiền.",
+     "The request at the end: “Could you please give me a partial refund?” – part of the money back."
+    ],
+    "f": [
+     "give me a partial refund",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Excuse me, ___ you tell me how to get to the train station from here, please?",
+    "o": [
+     "could",
+     "should",
+     "must"
+    ],
+    "a": 0,
+    "e": [
+     "“Could you…?” là cách nhờ vả lịch sự. “should” là lời khuyên, “must” là bắt buộc – đều không hợp khi hỏi đường người lạ.",
+     "“Could you…?” is a polite request. “should” gives advice and “must” is an obligation – both sound wrong to a stranger."
+    ],
+    "f": [
+     "could you tell me",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Our flight to Singapore was ___ for three hours because of a storm, so we waited in the airport café.",
+    "a": [
+     "delayed"
+    ],
+    "e": [
+     "“delayed” = bị hoãn, trễ giờ. Không dùng “cancelled” vì chuyến bay vẫn bay sau ba tiếng.",
+     "“delayed” means later than planned. Not “cancelled”, because the flight still left after three hours."
+    ],
+    "f": [
+     "was delayed",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I would like to book a double room for two nights, and could you tell me if breakfast is include?",
+    "a": [
+     "I would like to book a double room for two nights, and could you tell me if breakfast is included?",
+     "I'd like to book a double room for two nights, and could you tell me if breakfast is included?"
+    ],
+    "e": [
+     "Cụm cố định “Is breakfast included?” dùng dạng bị động “is included” (được bao gồm). Thiếu -d là lỗi rất hay gặp.",
+     "The fixed phrase is “Is breakfast included?” – passive “is included”. Missing the -d is a very common mistake."
+    ],
+    "f": [
+     "breakfast is included",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin lỗi, tôi e là phòng của tôi có vấn đề: vòi sen không có nước nóng.",
+    "a": [
+     "Excuse me, I'm afraid there is a problem with my room: there is no hot water in the shower.",
+     "Excuse me, I'm afraid there's a problem with my room: there's no hot water in the shower.",
+     "Excuse me, I'm afraid there is a problem with my room: the shower has no hot water.",
+     "Excuse me, I'm afraid there's a problem with my room: the shower doesn't have any hot water.",
+     "Excuse me, I'm afraid there is a problem with my room: there isn't any hot water in the shower.",
+     "Sorry, I'm afraid there is a problem with my room: there is no hot water in the shower."
+    ],
+    "e": [
+     "“tôi e là” = “I'm afraid” – cách mở đầu phàn nàn lịch sự. “nước nóng” không đếm được nên dùng “no hot water” hoặc “isn't any hot water”.",
+     "“I'm afraid” softens a complaint. “hot water” is uncountable: “no hot water” or “isn't any hot water”."
+    ],
+    "f": [
+     "I'm afraid there is a problem with my room",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành lời đề nghị lịch sự, bắt đầu bằng “Could you”",
+     "Rewrite as a polite request starting with “Could you”"
+    ],
+    "s": "Give me a room on a higher floor because the street outside is too noisy at night.",
+    "a": [
+     "Could you give me a room on a higher floor, please, because the street outside is too noisy at night?",
+     "Could you please give me a room on a higher floor because the street outside is too noisy at night?",
+     "Could you give me a room on a higher floor because the street outside is too noisy at night?",
+     "Could you give me a room on a higher floor because the street outside is too noisy at night, please?"
+    ],
+    "e": [
+     "Câu mệnh lệnh nghe khá thô với nhân viên khách sạn; “Could you + động từ nguyên mẫu…?” lịch sự hơn. Nhớ đổi dấu chấm thành dấu hỏi.",
+     "An imperative sounds rude to hotel staff; “Could you + base verb…?” is polite. Change the full stop to a question mark."
+    ],
+    "f": [
+     "Could you give me",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "You need to|show your passport|and boarding pass|at the gate|before you|get on|the plane",
+    "m": [
+     "Bạn cần xuất trình hộ chiếu và thẻ lên máy bay ở cổng trước khi lên máy bay.",
+     "You need to show your passport and boarding pass at the gate before you get on the plane."
+    ],
+    "e": [
+     "“need to + động từ” = cần làm gì. “get on the plane” = lên máy bay (không dùng “get in” cho máy bay, tàu, xe buýt).",
+     "“need to + verb”. We “get on” a plane, train or bus, not “get in”."
+    ],
+    "f": [
+     "get on the plane",
+     "A2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d03",
+  "g": "daily",
+  "t": [
+   "Ăn uống & nhà hàng",
+   "Food & restaurants"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – danh từ đếm được / không đếm được:** đếm được có số nhiều (an egg, two eggs); không đếm được không có số nhiều (water, rice, sugar). **some** dùng trong câu khẳng định và lời mời/yêu cầu; **any** trong câu phủ định và câu hỏi; **many** + đếm được, **much** + không đếm được.\n• Could I have some water, please?\n• We haven't got any eggs.\n• How much sugar do you want? – How many people are there?",
+    "**Grammar 1 – countable / uncountable nouns:** countable nouns have plurals (an egg, two eggs); uncountable nouns don't (water, rice, sugar). **some** in positive sentences, offers and requests; **any** in negatives and questions; **many** + countable, **much** + uncountable.\n• Could I have some water, please?\n• We haven't got any eggs.\n• How much sugar do you want? – How many people are there?"
+   ],
+   [
+    "**Ngữ pháp 2 – gọi món lịch sự:** **I'd like** (= I would like) + danh từ; **Could I have …, please?** Tránh nói “I want” với phục vụ vì nghe cộc.\n• I'd like the chicken, please.\n• Could we have the bill, please?",
+    "**Grammar 2 – ordering politely:** **I'd like** (= I would like) + noun; **Could I have …, please?** Avoid “I want” with waiters – it sounds rude.\n• I'd like the chicken, please.\n• Could we have the bill, please?"
+   ],
+   [
+    "**Phát âm – dạng yếu /ə/:** trong câu nói nhanh, a, of, and đọc nhẹ thành /ə/, /əv/, /ən/: a cup of tea /ə ˈkʌp əv ˈtiː/, fish and chips /ˌfɪʃ ən ˈtʃɪps/. Chỉ nhấn vào từ chính (cup, tea).",
+    "**Pronunciation – weak form /ə/:** in fast speech a, of and and become /ə/, /əv/, /ən/: a cup of tea /ə ˈkʌp əv ˈtiː/, fish and chips /ˌfɪʃ ən ˈtʃɪps/. Only stress the key words (cup, tea)."
+   ],
+   [
+    "**Tự luyện ngoài app:**\n• Nghe (20 phút): nghe 1 hội thoại gọi món, ghi lại món, số lượng và giá.\n• Nói (25 phút): đóng vai khách và phục vụ – đặt bàn, gọi 3 món, hỏi độ cay, tính tiền; ghi âm cả hai vai.\n• Đọc (20 phút): đọc một thực đơn thật, chọn bữa ăn dưới một mức giá cho trước.\n• Viết (30 phút): viết đánh giá nhà hàng 80 từ: món, giá, phục vụ, có quay lại không.\n• Từ vựng (15 phút): phân loại 20 món quen thuộc: thịt, rau, đồ uống, tráng miệng.\n• Thử thách (20 phút): xem một video nấu ăn tiếng Anh, ghi 10 nguyên liệu và 5 động từ nấu (cut, fry, boil…).",
+    "**Practice outside the app:**\n• Listening (20 min): listen to a restaurant ordering dialogue; note dishes, quantities and prices.\n• Speaking (25 min): role-play customer and waiter – book a table, order 3 dishes, ask if it's spicy, pay; record both roles.\n• Reading (20 min): read a real menu and choose a meal under a set budget.\n• Writing (30 min): write an 80-word restaurant review: food, price, service, would you go back?\n• Vocabulary (15 min): sort 20 familiar foods into meat, vegetables, drinks and desserts.\n• Challenge (20 min): watch an English cooking video; note 10 ingredients and 5 cooking verbs (cut, fry, boil…)."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Could I see the menu, please?",
+    "Cho tôi xem thực đơn."
+   ],
+   [
+    "I'd like a bowl of pho.",
+    "Tôi muốn một bát phở."
+   ],
+   [
+    "Is this dish spicy?",
+    "Món này có cay không?"
+   ],
+   [
+    "Could we have the bill, please?",
+    "Cho tôi tính tiền."
+   ],
+   [
+    "I'd like to book a table for two at seven.",
+    "Tôi muốn đặt bàn cho hai người lúc 7 giờ."
+   ],
+   [
+    "I can't eat spicy food.",
+    "Tôi không ăn được đồ cay."
+   ],
+   [
+    "Could I have another bottle of water?",
+    "Cho tôi thêm một chai nước."
+   ]
+  ],
+  "vo": [
+   [
+    "menu",
+    "/ˈmen.juː/",
+    "thực đơn",
+    "a list of dishes in a restaurant"
+   ],
+   [
+    "order",
+    "/ˈɔːr.dɚ/",
+    "gọi món",
+    "ask for food in a restaurant"
+   ],
+   [
+    "rice",
+    "/raɪs/",
+    "cơm, gạo",
+    "small white grains you cook and eat"
+   ],
+   [
+    "drink",
+    "/drɪŋk/",
+    "đồ uống",
+    "a liquid you drink"
+   ],
+   [
+    "spicy",
+    "/ˈspaɪ.si/",
+    "cay",
+    "with a hot, strong taste"
+   ],
+   [
+    "sweet",
+    "/swiːt/",
+    "ngọt",
+    "tasting of sugar"
+   ],
+   [
+    "delicious",
+    "/dɪˈlɪʃ.əs/",
+    "ngon",
+    "with a very good taste"
+   ],
+   [
+    "the bill",
+    "/ðə ˈbɪl/",
+    "hóa đơn",
+    "the paper that shows how much to pay"
+   ],
+   [
+    "book a table",
+    "/ˌbʊk ə ˈteɪ.bəl/",
+    "đặt bàn",
+    "reserve a table in advance"
+   ],
+   [
+    "waiter",
+    "/ˈweɪ.t̬ɚ/",
+    "người phục vụ",
+    "a person who serves food in a restaurant"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "We'd like a table for four, please, and could you bring us some water while we look at the menu?",
+    "q": [
+     "Khách xin gì trong lúc xem thực đơn?",
+     "What do the customers ask for while they look at the menu?"
+    ],
+    "o": [
+     [
+      "Một ít nước",
+      "Some water"
+     ],
+     [
+      "Hóa đơn",
+      "The bill"
+     ],
+     [
+      "Một bát phở",
+      "A bowl of pho"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“could you bring us some water while we look at the menu” – họ xin nước. “some” dùng trong lời yêu cầu dù là câu hỏi.",
+     "“could you bring us some water while we look at the menu” – they want water. “some” is used in requests even in questions."
+    ],
+    "f": [
+     "bring us some water",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Could I see the menu, please?",
+    "e": [
+     "Yêu cầu lịch sự: Could I + động từ nguyên mẫu. Nhớ dấu phẩy trước “please” và dấu hỏi.",
+     "Polite request: Could I + base verb. Remember the comma before “please” and the question mark."
+    ],
+    "f": [
+     "Could I see the menu",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I'd like a bowl of pho.",
+    "e": [
+     "“I'd” = I would. “a bowl of” đọc nhẹ /ə ˈboʊl əv/.",
+     "“I'd” = I would. Say “a bowl of” lightly: /ə ˈboʊl əv/."
+    ],
+    "f": [
+     "I'd like a bowl of",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Could we have the bill, please?",
+    "e": [
+     "“the bill” (Anh-Anh) = “the check” (Anh-Mỹ). Không viết “Could we have bill”.",
+     "“the bill” (British) = “the check” (American). Don't drop “the”."
+    ],
+    "f": [
+     "the bill",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "My favourite dish is bun cha because the grilled pork is delicious and the sauce is a little sweet.",
+    "e": [
+     "Câu hỏi: What's your favourite dish? – Gợi ý trả lời mẫu. Nhấn vào “favourite”, “delicious” /dɪˈlɪʃ.əs/ (trọng âm âm tiết 2).",
+     "Question: What's your favourite dish? – Model answer. Stress “favourite” and “delicious” /dɪˈlɪʃ.əs/ (stress on syllable 2)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I prefer cooking at home because it's cheaper and healthier, but I sometimes eat out with friends at the weekend.",
+    "e": [
+     "Câu hỏi: Do you prefer cooking at home or eating out? – Gợi ý trả lời mẫu. “prefer” nhấn âm tiết 2 /prɪˈfɝː/; “eat out” đọc nối /iːt̬ ˈaʊt/.",
+     "Question: Do you prefer cooking at home or eating out? – Model answer. “prefer” is stressed on syllable 2 /prɪˈfɝː/; link “eat out” /iːt̬ ˈaʊt/."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Last Friday I went to Hoa Sen, a small Vietnamese restaurant near my office. I booked a table for two, so we didn't wait. The waiter was very friendly and he brought us the menu and some cold water. My friend ordered a bowl of beef pho and I had fried rice with chicken. I asked, “Is this dish spicy?” and the waiter said, “Only a little.” The food was delicious, but there wasn't much chicken in my rice. For dessert we shared a sweet mango cake. The bill was only twenty dollars. I'm going to go back next month with my family.",
+   "tr": "Thứ Sáu tuần trước tôi đến Hoa Sen, một nhà hàng Việt nhỏ gần văn phòng tôi. Tôi đã đặt bàn cho hai người nên chúng tôi không phải chờ. Người phục vụ rất thân thiện, anh ấy mang cho chúng tôi thực đơn và một ít nước lạnh. Bạn tôi gọi một bát phở bò còn tôi ăn cơm rang gà. Tôi hỏi: “Món này có cay không?” và người phục vụ nói: “Chỉ hơi cay thôi.” Đồ ăn rất ngon, nhưng trong cơm của tôi không có nhiều thịt gà. Món tráng miệng, chúng tôi ăn chung một chiếc bánh xoài ngọt. Hóa đơn chỉ có hai mươi đô la. Tôi sẽ quay lại vào tháng sau cùng gia đình."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao họ không phải chờ bàn?",
+     "Why didn't they wait for a table?"
+    ],
+    "o": [
+     "The writer booked a table.",
+     "The restaurant was empty.",
+     "They arrived very early."
+    ],
+    "a": 0,
+    "e": [
+     "“I booked a table for two, so we didn't wait.” – “so” nối nguyên nhân với kết quả.",
+     "“I booked a table for two, so we didn't wait.” – “so” links the cause and the result."
+    ],
+    "f": [
+     "I booked a table for two",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết không hài lòng về điều gì?",
+     "What was the writer not happy about?"
+    ],
+    "o": [
+     "There wasn't much chicken in the rice.",
+     "The waiter was rude.",
+     "The bill was expensive."
+    ],
+    "a": 0,
+    "e": [
+     "“The food was delicious, but there wasn't much chicken in my rice.” Phục vụ thân thiện và hóa đơn “only twenty dollars”.",
+     "“The food was delicious, but there wasn't much chicken in my rice.” The waiter was friendly and the bill was “only twenty dollars”."
+    ],
+    "f": [
+     "there wasn't much chicken",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Món tráng miệng là gì?",
+     "What did they have for dessert?"
+    ],
+    "o": [
+     "A mango cake",
+     "Fried rice",
+     "Beef pho"
+    ],
+    "a": 0,
+    "e": [
+     "“For dessert we shared a sweet mango cake.” Phở và cơm rang là món chính.",
+     "“For dessert we shared a sweet mango cake.” Pho and fried rice were the main dishes."
+    ],
+    "f": [
+     "a sweet mango cake",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Could I have ___ water, please? I'm really thirsty after the long walk. (một ít)",
+    "a": [
+     "some"
+    ],
+    "e": [
+     "Lời yêu cầu/mời dùng “some” dù là câu hỏi. “water” không đếm được nên không dùng “a”.",
+     "Requests and offers use “some”, even as questions. “water” is uncountable, so no “a”."
+    ],
+    "f": [
+     "some water",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "How ___ sugar do you want in your coffee – one spoon or two?",
+    "a": [
+     "much"
+    ],
+    "e": [
+     "“sugar” không đếm được → How much. “How many” dùng với danh từ đếm được số nhiều (How many eggs?).",
+     "“sugar” is uncountable → How much. “How many” is for plural countable nouns (How many eggs?)."
+    ],
+    "f": [
+     "How much sugar",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I'd ___ the chicken, please, and my friend would like the fish soup.",
+    "a": [
+     "like"
+    ],
+    "e": [
+     "“I'd like” = I would like, cách gọi món lịch sự. Không dùng “I'd want”.",
+     "“I'd like” = I would like, the polite way to order. Don't say “I'd want”."
+    ],
+    "f": [
+     "I'd like",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "There aren't ___ tables free tonight, so we can't give you a table until nine o'clock.",
+    "o": [
+     "any",
+     "some",
+     "much"
+    ],
+    "a": 0,
+    "e": [
+     "Câu phủ định với danh từ đếm được số nhiều → “any”. “much” chỉ đi với danh từ không đếm được.",
+     "Negative sentence + plural countable noun → “any”. “much” only goes with uncountable nouns."
+    ],
+    "f": [
+     "aren't any tables",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "We didn't order much dishes because the portions in this restaurant are very big.",
+    "a": [
+     "We didn't order many dishes because the portions in this restaurant are very big."
+    ],
+    "e": [
+     "“dishes” là danh từ đếm được số nhiều → “many”, không phải “much”.",
+     "“dishes” is a plural countable noun → “many”, not “much”."
+    ],
+    "f": [
+     "many dishes",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi không ăn được đồ cay.",
+    "a": [
+     "I can't eat spicy food.",
+     "I cannot eat spicy food.",
+     "I can't eat spicy things."
+    ],
+    "e": [
+     "“không ăn được” = can't eat. “spicy” là tính từ đứng trước “food”.",
+     "“không ăn được” = can't eat. “spicy” is an adjective before “food”."
+    ],
+    "f": [
+     "can't eat spicy food",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cho tôi thêm một chai nước.",
+    "a": [
+     "Could I have another bottle of water?",
+     "Could I have another bottle of water, please?",
+     "Can I have another bottle of water, please?",
+     "Could we have another bottle of water, please?"
+    ],
+    "e": [
+     "“thêm một” = another (an + other, viết liền). Danh từ không đếm được “water” cần đơn vị “a bottle of”.",
+     "“thêm một” = another (one word). Uncountable “water” needs a unit: “a bottle of”."
+    ],
+    "f": [
+     "another bottle of water",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho lịch sự hơn, bắt đầu bằng “I'd like …”.",
+     "Make it more polite, starting with “I'd like …”."
+    ],
+    "s": "I want a glass of orange juice and a plate of fried noodles with vegetables.",
+    "a": [
+     "I'd like a glass of orange juice and a plate of fried noodles with vegetables.",
+     "I'd like a glass of orange juice and a plate of fried noodles with vegetables, please.",
+     "I would like a glass of orange juice and a plate of fried noodles with vegetables, please."
+    ],
+    "e": [
+     "“I want” nghe thô khi gọi món; “I'd like” lịch sự hơn. Có thể thêm “please” ở cuối.",
+     "“I want” sounds rude when ordering; “I'd like” is polite. You can add “please” at the end."
+    ],
+    "f": [
+     "I'd like a glass of",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Excuse me,|could we|have|some more|rice|and|two cups of|green tea,|please?",
+    "m": [
+     "Xin lỗi, cho chúng tôi thêm ít cơm và hai tách trà xanh nhé?",
+     "Excuse me, could we have some more rice and two cups of green tea, please?"
+    ],
+    "e": [
+     "“some more rice” (rice không đếm được) nhưng “two cups of green tea” (đếm bằng cốc).",
+     "“some more rice” (uncountable) but “two cups of green tea” (counted in cups)."
+    ],
+    "f": [
+     "some more rice",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết công thức khoảng 100 từ một món Việt Nam bạn thích: danh sách nguyên liệu và 5 bước nấu, dùng câu mệnh lệnh.",
+     "Write a recipe of about 100 words for a Vietnamese dish you like: a list of ingredients and 5 steps, using imperatives."
+    ],
+    "m": "Vietnamese fried rice (for two people)\nIngredients: two bowls of cooked rice, two eggs, some chicken, one carrot, some green onions, a little fish sauce and some oil.\n1. Cut the chicken and the carrot into small pieces.\n2. Heat some oil in a pan and fry the chicken for five minutes.\n3. Add the carrot and cook for two more minutes.\n4. Put the rice and the eggs in the pan and mix everything well.\n5. Add a little fish sauce and the green onions, then serve it hot.\nIt is quick, cheap and delicious!",
+    "e": [
+     "Cần có: • danh sách nguyên liệu với some / a little / số lượng • 5 bước dùng câu mệnh lệnh (Cut, Fry, Add…) • từ nối thứ tự (then, after that) • đúng đếm được / không đếm được.",
+     "Include: • an ingredient list with some / a little / numbers • 5 imperative steps (Cut, Fry, Add…) • sequence words (then, after that) • correct countable / uncountable use."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d04",
+  "g": "daily",
+  "t": [
+   "Mua sắm & tiền bạc",
+   "Shopping & money"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – so sánh hơn:** tính từ ngắn + **-er + than** (cheap → cheaper than, big → bigger than, easy → easier than); tính từ dài **more + adj + than** (more expensive than). Bất quy tắc: good → better, bad → worse.\n• This jacket is cheaper than that one.\n• The blue shoes are more expensive than the black ones.\n• Online prices are often better than shop prices.",
+    "**Grammar 1 – comparatives:** short adjectives + **-er + than** (cheap → cheaper than, big → bigger than, easy → easier than); long adjectives **more + adj + than** (more expensive than). Irregular: good → better, bad → worse.\n• This jacket is cheaper than that one.\n• The blue shoes are more expensive than the black ones.\n• Online prices are often better than shop prices."
+   ],
+   [
+    "**Ngữ pháp 2 – this / that / these / those:** this (số ít, gần), that (số ít, xa), these (số nhiều, gần), those (số nhiều, xa). Động từ phải hợp: **How much is this?** – **How much are these shoes?**\n• Can I try on those jeans?\n• That bag is too big for me.",
+    "**Grammar 2 – this / that / these / those:** this (singular, near), that (singular, far), these (plural, near), those (plural, far). The verb must agree: **How much is this?** – **How much are these shoes?**\n• Can I try on those jeans?\n• That bag is too big for me."
+   ],
+   [
+    "**Phát âm – thirteen hay thirty?** Số -teen nhấn âm cuối và có /n/: thir**TEEN** /θɝːˈtiːn/, fif**TEEN** /fɪfˈtiːn/. Số -ty nhấn âm đầu: **THIR**ty /ˈθɝː.t̬i/, **FIF**ty /ˈfɪf.ti/. Nghe sai là trả sai tiền!",
+    "**Pronunciation – thirteen or thirty?** -teen numbers stress the end and finish with /n/: thir**TEEN** /θɝːˈtiːn/, fif**TEEN** /fɪfˈtiːn/. -ty numbers stress the start: **THIR**ty /ˈθɝː.t̬i/, **FIF**ty /ˈfɪf.ti/. Mishear it and you pay the wrong price!"
+   ],
+   [
+    "**Tự luyện ngoài app:**\n• Nghe (20 phút): nghe 5 đoạn mua bán ngắn, ghi lại đúng con số giá tiền.\n• Nói (20 phút): đóng vai mua 1 món quần áo – hỏi giá, hỏi cỡ, mặc cả, trả tiền.\n• Đọc (20 phút): đọc 1 trang sản phẩm trên web bán hàng, tìm giá, chính sách đổi trả, phí giao hàng.\n• Viết (30 phút): viết email 80 từ yêu cầu đổi hàng vì sai cỡ.\n• Từ vựng (15 phút): đọc to 20 giá tiền ngẫu nhiên (15.99; 230; 1,450).\n• Thử thách (20 phút): chọn 5 món trên một trang mua sắm tiếng Anh trong ngân sách cố định, đọc to tổng tiền.",
+    "**Practice outside the app:**\n• Listening (20 min): listen to 5 short shopping dialogues and write down the exact prices.\n• Speaking (20 min): role-play buying clothes – ask the price and size, bargain, pay.\n• Reading (20 min): read a product page on a shopping site; find the price, return policy and delivery fee.\n• Writing (30 min): write an 80-word email asking to exchange an item in the wrong size.\n• Vocabulary (15 min): read 20 random prices aloud (15.99; 230; 1,450).\n• Challenge (20 min): choose 5 items on an English shopping site within a fixed budget and say the total aloud."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "How much is this?",
+    "Cái này bao nhiêu tiền?"
+   ],
+   [
+    "Do you have it in a bigger size?",
+    "Có cỡ lớn hơn không?"
+   ],
+   [
+    "Can you give me a discount?",
+    "Bớt cho tôi được không?"
+   ],
+   [
+    "Can I pay by card?",
+    "Tôi trả bằng thẻ được không?"
+   ],
+   [
+    "I'm just looking, thanks.",
+    "Tôi chỉ xem thôi, cảm ơn."
+   ],
+   [
+    "Can I try this on?",
+    "Tôi mặc thử được không?"
+   ],
+   [
+    "I'd like to return this, please.",
+    "Tôi muốn trả lại món này."
+   ]
+  ],
+  "vo": [
+   [
+    "price",
+    "/praɪs/",
+    "giá",
+    "how much money something costs"
+   ],
+   [
+    "expensive",
+    "/ɪkˈspen.sɪv/",
+    "đắt",
+    "costing a lot of money"
+   ],
+   [
+    "cheap",
+    "/tʃiːp/",
+    "rẻ",
+    "costing little money"
+   ],
+   [
+    "discount",
+    "/ˈdɪs.kaʊnt/",
+    "giảm giá",
+    "a lower price than usual"
+   ],
+   [
+    "size",
+    "/saɪz/",
+    "cỡ",
+    "how big clothes or shoes are"
+   ],
+   [
+    "try on",
+    "/ˌtraɪ ˈɑːn/",
+    "mặc thử",
+    "put on clothes to see if they fit"
+   ],
+   [
+    "cash",
+    "/kæʃ/",
+    "tiền mặt",
+    "money in coins and notes"
+   ],
+   [
+    "pay by card",
+    "/ˌpeɪ baɪ ˈkɑːrd/",
+    "quẹt thẻ, trả bằng thẻ",
+    "pay with a bank card"
+   ],
+   [
+    "pay",
+    "/peɪ/",
+    "trả tiền",
+    "give money for something"
+   ],
+   [
+    "return an item",
+    "/rɪˌtɝːn ən ˈaɪ.t̬əm/",
+    "đổi trả hàng",
+    "take something back to the shop"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "These trainers were fifty dollars last week, but today there's a discount, so they're only thirty-five.",
+    "q": [
+     "Hôm nay đôi giày giá bao nhiêu?",
+     "How much are the trainers today?"
+    ],
+    "o": [
+     "$35",
+     "$50",
+     "$15"
+    ],
+    "a": 0,
+    "e": [
+     "“today … they're only thirty-five”. 50 là giá tuần trước. Chú ý “fifty” nhấn âm đầu, “fifteen” nhấn âm cuối.",
+     "“today … they're only thirty-five”. 50 was last week's price. Note “fifty” is stressed at the start, “fifteen” at the end."
+    ],
+    "f": [
+     "they're only thirty-five",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How much is this?",
+    "e": [
+     "Hỏi giá một món: How much is this? Nhiều món: How much are these?",
+     "For one item: How much is this? For several: How much are these?"
+    ],
+    "f": [
+     "How much is this",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Do you have it in a bigger size?",
+    "e": [
+     "“big” → “bigger” (gấp đôi g). “in a … size” là cụm cố định.",
+     "“big” → “bigger” (double g). “in a … size” is a fixed phrase."
+    ],
+    "f": [
+     "in a bigger size",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Can you give me a discount?",
+    "e": [
+     "“give me a discount” = bớt giá cho tôi. “discount” nhấn âm đầu /ˈdɪs.kaʊnt/.",
+     "“give me a discount” = lower the price for me. “discount” is stressed at the start /ˈdɪs.kaʊnt/."
+    ],
+    "f": [
+     "give me a discount",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Can I pay by card?",
+    "e": [
+     "Dùng “by card”, “in cash” – không có mạo từ.",
+     "Say “by card” and “in cash” – no article."
+    ],
+    "f": [
+     "pay by card",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I prefer shopping online because it's cheaper and faster, but I buy shoes in stores because I need to try them on.",
+    "e": [
+     "Câu hỏi: Do you prefer shopping online or in stores? – Gợi ý trả lời mẫu. Nhấn “cheaper”, “faster”; “try them on” đọc nối /ˈtraɪ ðəm ˈɑːn/.",
+     "Question: Do you prefer shopping online or in stores? – Model answer. Stress “cheaper” and “faster”; link “try them on” /ˈtraɪ ðəm ˈɑːn/."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Dear Customer Service,\nLast week I bought a pair of jeans from your website. The price was forty dollars and I paid by card. Unfortunately, they are too small for me. I usually wear a size 30, but these jeans are smaller than my other size 30 jeans. I would like to return them and get a bigger size, a 32. I don't want my money back. Your website says that returns are free if the item is not worn. Could you tell me how to send them back? Also, is the size 32 more expensive than the size 30?\nThank you,\nLinh Tran",
+   "tr": "Kính gửi bộ phận Chăm sóc khách hàng,\nTuần trước tôi đã mua một chiếc quần jeans trên trang web của quý công ty. Giá là bốn mươi đô la và tôi đã thanh toán bằng thẻ. Thật không may, chiếc quần quá nhỏ đối với tôi. Tôi thường mặc cỡ 30, nhưng chiếc quần này nhỏ hơn những chiếc quần cỡ 30 khác của tôi. Tôi muốn trả lại và đổi lấy cỡ lớn hơn, cỡ 32. Tôi không muốn lấy lại tiền. Trang web của quý công ty ghi rằng đổi trả miễn phí nếu sản phẩm chưa mặc. Quý công ty có thể cho tôi biết cách gửi trả không? Ngoài ra, cỡ 32 có đắt hơn cỡ 30 không?\nCảm ơn,\nTrần Linh"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Linh đã trả tiền bằng cách nào?",
+     "How did Linh pay?"
+    ],
+    "o": [
+     "By card",
+     "In cash",
+     "She didn't pay yet."
+    ],
+    "a": 0,
+    "e": [
+     "“The price was forty dollars and I paid by card.”",
+     "“The price was forty dollars and I paid by card.”"
+    ],
+    "f": [
+     "I paid by card",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Linh muốn gì?",
+     "What does Linh want?"
+    ],
+    "o": [
+     "A bigger size",
+     "Her money back",
+     "A cheaper pair of jeans"
+    ],
+    "a": 0,
+    "e": [
+     "“I would like to return them and get a bigger size” và cô ấy nói rõ “I don't want my money back”.",
+     "“I would like to return them and get a bigger size”, and she says “I don't want my money back”."
+    ],
+    "f": [
+     "get a bigger size",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo trang web, khi nào đổi trả miễn phí?",
+     "According to the website, when are returns free?"
+    ],
+    "o": [
+     "When the item is not worn",
+     "When you pay by card",
+     "When the price is under forty dollars"
+    ],
+    "a": 0,
+    "e": [
+     "“returns are free if the item is not worn” – “worn” là quá khứ phân từ của wear (mặc).",
+     "“returns are free if the item is not worn” – “worn” is the past participle of wear."
+    ],
+    "f": [
+     "if the item is not worn",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "This jacket is ___ than that one, but I think the quality is not as good. (cheap)",
+    "a": [
+     "cheaper"
+    ],
+    "e": [
+     "Tính từ ngắn “cheap” → “cheaper than”. Không nói “more cheap”.",
+     "Short adjective “cheap” → “cheaper than”. Don't say “more cheap”."
+    ],
+    "f": [
+     "cheaper than",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "How much ___ these shoes? They look really comfortable for walking.",
+    "a": [
+     "are"
+    ],
+    "e": [
+     "“these shoes” là số nhiều → How much are. Lỗi hay gặp: “How much is these shoes”.",
+     "“these shoes” is plural → How much are. A common mistake is “How much is these shoes”."
+    ],
+    "f": [
+     "How much are",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Can I pay ___ card, or do you only accept cash in this small shop?",
+    "a": [
+     "by"
+    ],
+    "e": [
+     "“pay by card” – giới từ “by”, không có “a/the”. Tiền mặt nói “in cash”.",
+     "“pay by card” – use “by” with no article. For cash, say “in cash”."
+    ],
+    "f": [
+     "pay by card",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "The red dress is nice, but the green one is ___ and it only costs twenty dollars.",
+    "o": [
+     "cheaper",
+     "more cheap",
+     "cheapest"
+    ],
+    "a": 0,
+    "e": [
+     "So sánh hai món → so sánh hơn “cheaper”. “more cheap” sai; “cheapest” là so sánh nhất.",
+     "Comparing two items → comparative “cheaper”. “more cheap” is wrong; “cheapest” is superlative."
+    ],
+    "f": [
+     "cheaper",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "This laptop is more cheaper than the one in the shop next door, so I'm going to buy it.",
+    "a": [
+     "This laptop is cheaper than the one in the shop next door, so I'm going to buy it."
+    ],
+    "e": [
+     "Không dùng “more” cùng đuôi “-er”: chỉ cần “cheaper”.",
+     "Don't use “more” with “-er”: just “cheaper”."
+    ],
+    "f": [
+     "cheaper than",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Can I try on this jeans in a bigger size before I decide to buy them?",
+    "a": [
+     "Can I try on these jeans in a bigger size before I decide to buy them?",
+     "Can I try these jeans on in a bigger size before I decide to buy them?"
+    ],
+    "e": [
+     "“jeans” luôn ở số nhiều → “these jeans”, không phải “this jeans”.",
+     "“jeans” is always plural → “these jeans”, not “this jeans”."
+    ],
+    "f": [
+     "these jeans",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cái áo này có màu khác không?",
+    "a": [
+     "Do you have this shirt in another colour?",
+     "Do you have this shirt in another color?",
+     "Have you got this shirt in another colour?",
+     "Does this shirt come in another colour?"
+    ],
+    "e": [
+     "“có màu khác” = in another colour (Anh-Mỹ: color). Hỏi người bán: Do you have …?",
+     "“có màu khác” = in another colour (US: color). Ask the seller: Do you have …?"
+    ],
+    "f": [
+     "in another colour",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi chỉ xem thôi, cảm ơn.",
+    "a": [
+     "I'm just looking, thanks.",
+     "I'm just looking, thank you.",
+     "I am just looking, thanks."
+    ],
+    "e": [
+     "Câu cố định khi người bán hỏi “Can I help you?”. Dùng hiện tại tiếp diễn “I'm just looking”.",
+     "Fixed reply when a seller asks “Can I help you?”. Use the present continuous “I'm just looking”."
+    ],
+    "f": [
+     "I'm just looking",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đôi giày màu đen đắt hơn đôi màu trắng, nhưng chúng thoải mái hơn nhiều.",
+    "a": [
+     "The black shoes are more expensive than the white ones, but they are much more comfortable.",
+     "The black shoes are more expensive than the white ones, but they're much more comfortable.",
+     "The black shoes are more expensive than the white shoes, but they are much more comfortable."
+    ],
+    "e": [
+     "Tính từ dài → more expensive, more comfortable. “nhiều” trước so sánh hơn = much. “ones” thay cho “shoes”.",
+     "Long adjectives → more expensive, more comfortable. Use “much” to make a comparative stronger. “ones” replaces “shoes”."
+    ],
+    "f": [
+     "more expensive than",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Excuse me,|do you|have|this jacket|in a smaller size?|It's|too big|for me.",
+    "m": [
+     "Xin lỗi, chị có chiếc áo khoác này cỡ nhỏ hơn không? Nó quá rộng so với tôi.",
+     "Excuse me, do you have this jacket in a smaller size? It's too big for me."
+    ],
+    "e": [
+     "“in a smaller size” đi sau tên món đồ; “too big for me” = quá to so với tôi.",
+     "“in a smaller size” comes after the item; “too big for me” = bigger than I need."
+    ],
+    "f": [
+     "in a smaller size",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết đánh giá khoảng 100 từ về một món đồ bạn mới mua: giá, chất lượng, so với sản phẩm khác, có nên mua không.",
+     "Write a review of about 100 words of something you bought recently: price, quality, comparison with other products, and whether people should buy it."
+    ],
+    "m": "Last month I bought a pair of running shoes online. They cost sixty dollars, but there was a twenty percent discount, so I only paid forty-eight. The quality is very good: they are lighter than my old shoes and much more comfortable. My friend has a famous brand that is more expensive than mine, but I think my shoes are better for long runs. The only problem is the colour – it is darker than in the photo. Should you buy them? Yes, if you want good shoes at a fair price.",
+    "e": [
+     "Cần có: • giá và cách trả tiền • ít nhất 3 câu so sánh hơn (cheaper, lighter, more comfortable…) • một điểm chưa tốt • lời khuyên nên mua hay không.",
+     "Include: • the price and how you paid • at least 3 comparatives (cheaper, lighter, more comfortable…) • one weak point • a clear buy / don't buy recommendation."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d05",
+  "g": "travel",
+  "t": [
+   "Du lịch, phương tiện & chỉ đường",
+   "Travel, transport & directions"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – giới từ chỉ vị trí:** **next to** (bên cạnh), **opposite** (đối diện), **between … and …** (giữa), **on the corner of** (ở góc), **in front of** (phía trước), **behind** (phía sau).\n• The bank is next to the post office.\n• The hotel is opposite the train station.\n• The café is between the bookshop and the pharmacy.",
+    "**Grammar 1 – prepositions of place:** **next to**, **opposite**, **between … and …**, **on the corner of**, **in front of**, **behind**.\n• The bank is next to the post office.\n• The hotel is opposite the train station.\n• The café is between the bookshop and the pharmacy."
+   ],
+   [
+    "**Ngữ pháp 2 – câu mệnh lệnh & be going to:** chỉ đường bằng động từ nguyên mẫu đứng đầu câu: **Go straight on. Turn left at the traffic lights. Take the second road on the right.** Kế hoạch đã quyết định dùng **be going to + V**.\n• Go straight on, then turn left.\n• We're going to visit Da Lat next month.",
+    "**Grammar 2 – imperatives & be going to:** give directions with the base verb at the start: **Go straight on. Turn left at the traffic lights. Take the second road on the right.** For decided plans use **be going to + verb**.\n• Go straight on, then turn left.\n• We're going to visit Da Lat next month."
+   ],
+   [
+    "**Phát âm – ngữ điệu câu hỏi Wh-:** câu hỏi bắt đầu bằng Where / How / What thường **xuống giọng** ở cuối: Where is the station? ↘ How long does it take? ↘ Câu hỏi Yes/No thì lên giọng: Is it far? ↗",
+    "**Pronunciation – Wh- question intonation:** questions starting with Where / How / What usually **fall** at the end: Where is the station? ↘ How long does it take? ↘ Yes/No questions rise: Is it far? ↗"
+   ],
+   [
+    "**Tự luyện ngoài app:**\n• Nghe (20 phút): nghe 3 thông báo ở sân bay hoặc nhà ga, ghi số chuyến, cổng, giờ đi.\n• Nói (25 phút): mở bản đồ một thành phố, chỉ đường từ khách sạn đến 3 địa điểm, ghi âm.\n• Đọc (20 phút): đọc 1 lịch trình du lịch 3 ngày, lập bảng ngày – địa điểm – phương tiện.\n• Viết (30 phút): viết 100 từ kể về chuyến đi đáng nhớ nhất.\n• Từ vựng (15 phút): vẽ sơ đồ khu phố nhà bạn, ghi tên địa điểm bằng tiếng Anh.\n• Thử thách (25 phút): đổi Google Maps sang tiếng Anh, lên lộ trình 1 ngày ở London và đọc to chỉ dẫn.",
+    "**Practice outside the app:**\n• Listening (20 min): listen to 3 airport or station announcements; note flight number, gate and departure time.\n• Speaking (25 min): open a city map and give directions from a hotel to 3 places; record yourself.\n• Reading (20 min): read a 3-day travel itinerary and make a table: day – place – transport.\n• Writing (30 min): write 100 words about your most memorable trip.\n• Vocabulary (15 min): draw a map of your neighbourhood and label the places in English.\n• Challenge (25 min): switch Google Maps to English, plan a day in London and read the directions aloud."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Where is the subway station?",
+    "Ga tàu điện ngầm ở đâu?"
+   ],
+   [
+    "Go straight on, then turn left.",
+    "Đi thẳng rồi rẽ trái."
+   ],
+   [
+    "How long does it take on foot?",
+    "Đi bộ mất bao lâu?"
+   ],
+   [
+    "I'd like a return ticket.",
+    "Tôi muốn mua một vé khứ hồi."
+   ],
+   [
+    "The flight is delayed by two hours.",
+    "Chuyến bay bị hoãn hai tiếng."
+   ],
+   [
+    "Please take me to this address.",
+    "Làm ơn đưa tôi đến địa chỉ này."
+   ],
+   [
+    "Is it far from here?",
+    "Có xa đây không?"
+   ]
+  ],
+  "vo": [
+   [
+    "ticket",
+    "/ˈtɪk.ɪt/",
+    "vé",
+    "a paper that lets you travel"
+   ],
+   [
+    "airport",
+    "/ˈer.pɔːrt/",
+    "sân bay",
+    "a place where planes land and take off"
+   ],
+   [
+    "train station",
+    "/ˈtreɪn ˌsteɪ.ʃən/",
+    "ga tàu",
+    "a place where trains stop"
+   ],
+   [
+    "hotel",
+    "/hoʊˈtel/",
+    "khách sạn",
+    "a building where you pay to stay"
+   ],
+   [
+    "passport",
+    "/ˈpæs.pɔːrt/",
+    "hộ chiếu",
+    "an official document for travel abroad"
+   ],
+   [
+    "luggage",
+    "/ˈlʌɡ.ɪdʒ/",
+    "hành lý",
+    "bags and cases for travelling"
+   ],
+   [
+    "turn left",
+    "/ˌtɝːn ˈleft/",
+    "rẽ trái",
+    "change direction to the left"
+   ],
+   [
+    "go straight on",
+    "/ˌɡoʊ streɪt ˈɑːn/",
+    "đi thẳng",
+    "continue forward"
+   ],
+   [
+    "near",
+    "/nɪr/",
+    "gần",
+    "not far"
+   ],
+   [
+    "far",
+    "/fɑːr/",
+    "xa",
+    "a long distance away"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Go straight on for two hundred metres, turn right at the bank, and the museum is opposite the park.",
+    "q": [
+     "Bảo tàng nằm ở đâu?",
+     "Where is the museum?"
+    ],
+    "o": [
+     [
+      "Đối diện công viên",
+      "Opposite the park"
+     ],
+     [
+      "Bên cạnh ngân hàng",
+      "Next to the bank"
+     ],
+     [
+      "Phía sau công viên",
+      "Behind the park"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu cuối: “the museum is opposite the park”. Ngân hàng chỉ là chỗ rẽ phải.",
+     "The last part says “the museum is opposite the park”. The bank is just where you turn right."
+    ],
+    "f": [
+     "opposite the park",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Where is the subway station?",
+    "e": [
+     "“subway” (Mỹ) = “underground / tube” (Anh). Câu hỏi Wh- xuống giọng cuối câu.",
+     "“subway” (US) = “underground / tube” (UK). Wh- questions fall at the end."
+    ],
+    "f": [
+     "Where is",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Go straight on, then turn left.",
+    "e": [
+     "Câu mệnh lệnh: động từ đứng đầu, không có chủ ngữ. Dấu phẩy trước “then”.",
+     "Imperatives start with the verb, no subject. Put a comma before “then”."
+    ],
+    "f": [
+     "Go straight on",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How long does it take on foot?",
+    "e": [
+     "“How long does it take” = mất bao lâu. “on foot” = đi bộ (không phải “by foot”).",
+     "“How long does it take” asks about time. “on foot” = walking (not “by foot”)."
+    ],
+    "f": [
+     "How long does it take",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Last summer I went to Hoi An with my family, and we spent three days walking around the old town.",
+    "e": [
+     "Câu hỏi: Where did you go on your last holiday? – Gợi ý trả lời mẫu. “went”, “spent” là quá khứ bất quy tắc; nối “walking around” /ˈwɑː.kɪŋ əˈraʊnd/.",
+     "Question: Where did you go on your last holiday? – Model answer. “went” and “spent” are irregular past forms; link “walking around”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I usually get around my city by motorbike, but when it rains I take a bus or book a taxi on an app.",
+    "e": [
+     "Câu hỏi: How do you usually get around your city? – Gợi ý trả lời mẫu. “get around” = đi lại; nhấn “motorbike”, “bus”, “taxi”.",
+     "Question: How do you usually get around your city? – Model answer. “get around” = travel from place to place; stress the transport words."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Hi Tom,\nWelcome to Hanoi! Here are the directions from the train station to my flat. It isn't far, so you can walk. It takes about fifteen minutes on foot. When you leave the station, turn left and go straight on for two blocks. At the traffic lights, turn right into Hang Bong Street. My building is on the left, between a small café and a pharmacy, and opposite a big bank. I live on the fourth floor. If you have a lot of luggage, take a taxi – it's cheap. Tomorrow we're going to visit the Old Quarter by bike. See you soon!\nHa",
+   "tr": "Chào Tom,\nChào mừng cậu đến Hà Nội! Đây là đường đi từ ga tàu đến căn hộ của tớ. Không xa đâu, nên cậu có thể đi bộ. Đi bộ mất khoảng mười lăm phút. Khi ra khỏi ga, cậu rẽ trái và đi thẳng qua hai dãy nhà. Đến đèn giao thông thì rẽ phải vào phố Hàng Bông. Tòa nhà của tớ ở bên trái, nằm giữa một quán cà phê nhỏ và một hiệu thuốc, đối diện một ngân hàng lớn. Tớ sống ở tầng bốn. Nếu cậu mang nhiều hành lý thì đi taxi nhé – rẻ lắm. Ngày mai chúng mình sẽ đi thăm Phố Cổ bằng xe đạp. Hẹn sớm gặp cậu!\nHà"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Đi bộ từ ga đến căn hộ mất bao lâu?",
+     "How long does it take to walk from the station to the flat?"
+    ],
+    "o": [
+     "About fifteen minutes",
+     "About fifty minutes",
+     "About five minutes"
+    ],
+    "a": 0,
+    "e": [
+     "“It takes about fifteen minutes on foot.” Chú ý fifteen (15) khác fifty (50).",
+     "“It takes about fifteen minutes on foot.” Careful: fifteen (15) is not fifty (50)."
+    ],
+    "f": [
+     "It takes about fifteen minutes on foot",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tòa nhà của Hà nằm ở đâu?",
+     "Where is Ha's building?"
+    ],
+    "o": [
+     "Between a café and a pharmacy",
+     "Next to a big bank",
+     "Opposite the train station"
+    ],
+    "a": 0,
+    "e": [
+     "“between a small café and a pharmacy, and opposite a big bank” – ngân hàng ở đối diện, không phải bên cạnh.",
+     "“between a small café and a pharmacy, and opposite a big bank” – the bank is opposite, not next to it."
+    ],
+    "f": [
+     "between a small café and a pharmacy",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ngày mai họ định làm gì?",
+     "What are they going to do tomorrow?"
+    ],
+    "o": [
+     "Visit the Old Quarter by bike",
+     "Take a taxi to the airport",
+     "Walk to the train station"
+    ],
+    "a": 0,
+    "e": [
+     "“Tomorrow we're going to visit the Old Quarter by bike.” – be going to cho kế hoạch.",
+     "“Tomorrow we're going to visit the Old Quarter by bike.” – be going to for a plan."
+    ],
+    "f": [
+     "we're going to visit the Old Quarter",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The bank is ___ to the post office, so you can do both things in ten minutes. (bên cạnh)",
+    "a": [
+     "next"
+    ],
+    "e": [
+     "“next to” = bên cạnh, luôn đi với “to”. Đừng nhầm với “near” (gần, không cần to).",
+     "“next to” = beside, always with “to”. Don't confuse it with “near” (no “to”)."
+    ],
+    "f": [
+     "next to",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ left at the traffic lights and you will see the hotel on your right.",
+    "a": [
+     "Turn",
+     "turn"
+    ],
+    "e": [
+     "Câu mệnh lệnh chỉ đường dùng động từ nguyên mẫu đầu câu: Turn left / Turn right.",
+     "Directions use the base verb at the start: Turn left / Turn right."
+    ],
+    "f": [
+     "Turn left",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "We're ___ to visit Da Lat next month because the weather there is cool and pleasant.",
+    "a": [
+     "going"
+    ],
+    "e": [
+     "Kế hoạch đã quyết định: be going to + V. “We're going to visit”.",
+     "A decided plan: be going to + verb. “We're going to visit”."
+    ],
+    "f": [
+     "We're going to visit",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "The pharmacy is ___ the supermarket and the bus stop, so it's very easy to find.",
+    "o": [
+     "between",
+     "next",
+     "opposite to"
+    ],
+    "a": 0,
+    "e": [
+     "Có hai địa điểm nối bằng “and” → “between … and …”. “next” thiếu “to”; “opposite” không đi với “to”.",
+     "Two places joined by “and” → “between … and …”. “next” needs “to”; “opposite” takes no “to”."
+    ],
+    "f": [
+     "between the supermarket and the bus stop",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "How long does it take to go to the airport by foot from the city centre?",
+    "a": [
+     "How long does it take to go to the airport on foot from the city centre?",
+     "How long does it take to walk to the airport from the city centre?"
+    ],
+    "e": [
+     "Đi bộ là “on foot”, không phải “by foot”. Các phương tiện khác dùng “by”: by bus, by taxi.",
+     "Walking is “on foot”, not “by foot”. Other transport uses “by”: by bus, by taxi."
+    ],
+    "f": [
+     "on foot",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Our hotel is opposite to the train station, so we can walk there with our luggage.",
+    "a": [
+     "Our hotel is opposite the train station, so we can walk there with our luggage."
+    ],
+    "e": [
+     "“opposite” là giới từ, không cần “to”. Lỗi do dịch từ “đối diện với”.",
+     "“opposite” is a preposition with no “to”. The mistake comes from translating “đối diện với”."
+    ],
+    "f": [
+     "opposite the train station",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chuyến bay bị hoãn hai tiếng.",
+    "a": [
+     "The flight is delayed by two hours.",
+     "The flight is two hours late.",
+     "The flight has been delayed by two hours.",
+     "The flight is delayed two hours."
+    ],
+    "e": [
+     "“bị hoãn” = is delayed. Khoảng thời gian dùng “by”: delayed by two hours.",
+     "“bị hoãn” = is delayed. Use “by” for the amount of time: delayed by two hours."
+    ],
+    "f": [
+     "is delayed by two hours",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Làm ơn đưa tôi đến địa chỉ này.",
+    "a": [
+     "Please take me to this address.",
+     "Could you take me to this address, please?",
+     "Can you take me to this address, please?"
+    ],
+    "e": [
+     "Nói với tài xế: “take me to …” (đưa tôi đến). Không dùng “bring me to”.",
+     "To a driver: “take me to …”. Don't say “bring me to”."
+    ],
+    "f": [
+     "take me to this address",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ngân hàng ở đối diện khách sạn, ngay cạnh một quán cà phê nhỏ.",
+    "a": [
+     "The bank is opposite the hotel, right next to a small café.",
+     "The bank is opposite the hotel, next to a small café.",
+     "The bank is across from the hotel, right next to a small café.",
+     "The bank is opposite the hotel, just next to a small cafe."
+    ],
+    "e": [
+     "“đối diện” = opposite (không có to); “ngay cạnh” = right next to.",
+     "“đối diện” = opposite (no “to”); “ngay cạnh” = right next to."
+    ],
+    "f": [
+     "opposite the hotel",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Excuse me,|is there|a train station|near here?|I need|to buy|a return ticket|to Hue.",
+    "m": [
+     "Xin lỗi, gần đây có ga tàu không? Tôi cần mua một vé khứ hồi đi Huế.",
+     "Excuse me, is there a train station near here? I need to buy a return ticket to Hue."
+    ],
+    "e": [
+     "“Is there … near here?” để hỏi có địa điểm gần đây không. “a return ticket to + nơi đến”.",
+     "“Is there … near here?” asks if a place is nearby. “a return ticket to + destination”."
+    ],
+    "f": [
+     "is there a train station near here",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 100 từ đặt phòng khách sạn: ngày đến, ngày đi, loại phòng, 1 yêu cầu đặc biệt, hỏi về đưa đón sân bay.",
+     "Write an email of about 100 words to book a hotel room: arrival and departure dates, room type, one special request, and a question about airport pick-up."
+    ],
+    "m": "Dear Sir or Madam,\nI would like to book a double room at your hotel for three nights. I'm going to arrive on 12 May and leave on 15 May. My flight lands at 9 p.m., so I will arrive quite late. Could I have a quiet room on a high floor, away from the street? I would also like to ask about airport pick-up. Do you have a shuttle bus from the airport, and how much does it cost? If not, how long does it take to get to the hotel by taxi?\nThank you in advance.\nBest regards,\nNguyen Thu Ha",
+    "e": [
+     "Cần có: • ngày đến và ngày đi • loại phòng và số đêm • 1 yêu cầu đặc biệt (Could I have …?) • câu hỏi về đưa đón sân bay, lời chào lịch sự.",
+     "Include: • arrival and departure dates • room type and number of nights • one special request (Could I have …?) • a question about airport pick-up, polite opening and closing."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d18",
+  "g": "daily",
+  "t": [
+   "Nhà cửa & thuê nhà",
+   "Home & renting"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – there is / there are + some / any**\n• Số ít: **There is** a balcony. **There isn't** a dishwasher.\n• Số nhiều: **There are** two bedrooms. **There aren't any** shelves in the kitchen.\n• Câu hỏi: **Is there** a lift? **Are there any** shops nearby? – Yes, there are. / No, there aren't.\n• Giới từ nơi chốn: next to, opposite, near, between, on the fifth floor.",
+    "**Grammar 1 – there is / there are + some / any**\n• Singular: **There is** a balcony. **There isn't** a dishwasher.\n• Plural: **There are** two bedrooms. **There aren't any** shelves in the kitchen.\n• Questions: **Is there** a lift? **Are there any** shops nearby? – Yes, there are. / No, there aren't.\n• Prepositions of place: next to, opposite, near, between, on the fifth floor."
+   ],
+   [
+    "**Ngữ pháp 2 – so sánh khi chọn nhà**\n• Tính từ ngắn: cheap → **cheaper than**, big → **bigger than**, quiet → **quieter than**.\n• Tính từ dài: **more modern than**, **more expensive than**.\n• Bất quy tắc: good → better, bad → worse, far → further.\n• Ví dụ: The flat in District 3 is smaller, but it's cheaper and closer to my office.",
+    "**Grammar 2 – comparing places to live**\n• Short adjectives: cheap → **cheaper than**, big → **bigger than**, quiet → **quieter than**.\n• Long adjectives: **more modern than**, **more expensive than**.\n• Irregular: good → better, bad → worse, far → further.\n• Example: The flat in District 3 is smaller, but it's cheaper and closer to my office."
+   ],
+   [
+    "**Phát âm – trọng âm danh từ ghép**\n• Danh từ ghép thường nhấn từ **đầu**: **LIV**ing room, **BED**room, **BATH**room, **WASH**ing machine, **BUS** stop.\n• Từ cần chú ý: furnished /ˈfɝː.nɪʃt/ (đuôi -ed đọc /t/), deposit /dɪˈpɑː.zɪt/, landlord /ˈlænd.lɔːrd/.",
+    "**Pronunciation – stress in compound nouns**\n• Compound nouns are usually stressed on the **first** part: **LIV**ing room, **BED**room, **BATH**room, **WASH**ing machine, **BUS** stop.\n• Watch out: furnished /ˈfɝː.nɪʃt/ (-ed = /t/), deposit /dɪˈpɑː.zɪt/, landlord /ˈlænd.lɔːrd/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem 1 video house tour bằng tiếng Anh, ghi lại các phòng và 5 đồ vật.\n• Nói (15 phút): mô tả nhà/phòng bạn đang ở trong 1 phút với there is/there are và giới từ.\n• Đọc (20 phút): đọc 3 tin cho thuê nhà bằng tiếng Anh, so sánh giá, diện tích, tiện ích.\n• Viết (20 phút): viết tin nhắn 60–80 từ hỏi chủ nhà về một căn hộ (giá, tiền cọc, thú cưng, ngày xem nhà).\n• Từ vựng (10 phút): học 15 từ: landlord, tenant, rent, deposit, bills, furnished, balcony, lift, wardrobe, sofa, fridge, microwave, washing machine, neighbour, lease.",
+    "**Practice outside the app**\n• Listening (20 min): watch an English house-tour video; note the rooms and 5 objects.\n• Speaking (15 min): describe your home or room for 1 minute with there is/there are and prepositions.\n• Reading (20 min): read 3 English rental ads; compare price, size and facilities.\n• Writing (20 min): write a 60–80-word message to a landlord asking about a flat (price, deposit, pets, viewing date).\n• Vocabulary (10 min): learn 15 words: landlord, tenant, rent, deposit, bills, furnished, balcony, lift, wardrobe, sofa, fridge, microwave, washing machine, neighbour, lease."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "I'm looking for a flat to rent.",
+    "Tôi đang tìm căn hộ để thuê."
+   ],
+   [
+    "How much is the rent a month?",
+    "Tiền thuê một tháng là bao nhiêu?"
+   ],
+   [
+    "Are the bills included?",
+    "Đã bao gồm tiền điện nước chưa?"
+   ],
+   [
+    "Is there a washing machine?",
+    "Có máy giặt không?"
+   ],
+   [
+    "Can I see the flat this weekend?",
+    "Cuối tuần này tôi xem nhà được không?"
+   ],
+   [
+    "The tap in the kitchen is leaking.",
+    "Vòi nước trong bếp bị rò."
+   ],
+   [
+    "It's smaller, but it's cheaper and closer to work.",
+    "Nó nhỏ hơn, nhưng rẻ hơn và gần chỗ làm hơn."
+   ]
+  ],
+  "vo": [
+   [
+    "flat / apartment",
+    "/flæt/, /əˈpɑːrt.mənt/",
+    "căn hộ",
+    "a set of rooms to live in, in a building"
+   ],
+   [
+    "rent",
+    "/rent/",
+    "tiền thuê; thuê",
+    "money paid to live in a place"
+   ],
+   [
+    "landlord",
+    "/ˈlænd.lɔːrd/",
+    "chủ nhà",
+    "a person who rents a home to you"
+   ],
+   [
+    "tenant",
+    "/ˈten.ənt/",
+    "người thuê nhà",
+    "a person who pays rent"
+   ],
+   [
+    "deposit",
+    "/dɪˈpɑː.zɪt/",
+    "tiền đặt cọc",
+    "money paid first and returned later"
+   ],
+   [
+    "bills",
+    "/bɪlz/",
+    "hóa đơn (điện, nước…)",
+    "payments for electricity, water etc."
+   ],
+   [
+    "furnished",
+    "/ˈfɝː.nɪʃt/",
+    "có sẵn đồ đạc",
+    "with furniture already in it"
+   ],
+   [
+    "balcony",
+    "/ˈbæl.kə.ni/",
+    "ban công",
+    "a small area outside an upper room"
+   ],
+   [
+    "neighbour",
+    "/ˈneɪ.bɚ/",
+    "hàng xóm",
+    "a person who lives near you"
+   ],
+   [
+    "move in",
+    "/muːv ˈɪn/",
+    "dọn vào ở",
+    "start living in a new home"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "The flat in District 3 is smaller than the one in District 7, but it's cheaper and much closer to my office, so I'm going to rent it.",
+    "q": [
+     "Vì sao người nói chọn căn hộ ở Quận 3?",
+     "Why does the speaker choose the flat in District 3?"
+    ],
+    "o": [
+     [
+      "Vì rẻ hơn và gần chỗ làm hơn",
+      "Because it's cheaper and closer to the office"
+     ],
+     [
+      "Vì nó rộng hơn",
+      "Because it's bigger"
+     ],
+     [
+      "Vì có ban công",
+      "Because it has a balcony"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“it's cheaper and much closer to my office” – căn ở Quận 3 thực ra nhỏ hơn (smaller than).",
+     "“it's cheaper and much closer to my office” – the District 3 flat is actually smaller (smaller than)."
+    ],
+    "f": [
+     "cheaper and much closer to my office",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How much is the rent a month, and are the bills included?",
+    "e": [
+     "“a month” = mỗi tháng. “are the bills included” = bị động: hóa đơn có được bao gồm không.",
+     "“a month” = per month. “are the bills included” is passive: are bills part of the price?"
+    ],
+    "f": [
+     "are the bills included",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "There are two bedrooms, but there isn't a washing machine.",
+    "e": [
+     "There are + số nhiều; there isn't a + số ít. “washing machine” hai từ.",
+     "There are + plural; there isn't a + singular. “washing machine” is two words."
+    ],
+    "f": [
+     "there isn't a washing machine",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I live in a small flat on the third floor, and there's a lovely balcony where I grow some plants and drink coffee in the morning.",
+    "e": [
+     "Nhấn âm: third FLOOR (tính từ + danh từ) nhưng BALcony (trọng âm đầu); nối âm “there's_a”.",
+     "Stress: third FLOOR (adjective + noun) but BALcony (first syllable); link “there's_a”."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Bồn rửa trong nhà tắm bị tắc từ hôm thứ Hai – anh có thể cho người đến sửa sớm được không?",
+    "a": [
+     "The sink in the bathroom has been blocked since Monday – could you send someone to fix it as soon as possible?",
+     "The bathroom sink has been blocked since Monday. Could you get someone to fix it soon?",
+     "The sink in the bathroom has been blocked since Monday – could you send someone round to fix it soon?"
+    ],
+    "e": [
+     "Hiện tại hoàn thành + since: has been blocked since Monday. “send someone (round) to fix it” / “get someone to fix it” = cho người đến sửa.",
+     "Present perfect + since: has been blocked since Monday. “send someone (round) to fix it” / “get someone to fix it” = arrange a repair."
+    ],
+    "f": [
+     "has been blocked since Monday",
+     "B1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu hỏi gián tiếp, lịch sự hơn, bắt đầu bằng “Could you tell me …”.",
+     "Rewrite as a polite indirect question, starting with “Could you tell me …”."
+    ],
+    "s": "Is the deposit refundable when I move out?",
+    "a": [
+     "Could you tell me if the deposit is refundable when I move out?",
+     "Could you tell me whether the deposit is refundable when I move out?"
+    ],
+    "e": [
+     "Câu hỏi gián tiếp Yes/No dùng if/whether + chủ ngữ + động từ: if the deposit is … (không đảo “is the deposit”).",
+     "Indirect yes/no questions use if/whether + subject + verb: if the deposit is … (no inversion)."
+    ],
+    "f": [
+     "if the deposit is refundable",
+     "B1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "The landlord told me that I can't to keep a cat in the flat, so I'm still looking for somewhere else to live.",
+    "a": [
+     "The landlord told me that I can't keep a cat in the flat, so I'm still looking for somewhere else to live.",
+     "The landlord told me that I couldn't keep a cat in the flat, so I'm still looking for somewhere else to live."
+    ],
+    "e": [
+     "Sau can't dùng động từ nguyên mẫu không “to”: can't keep (hoặc couldn't keep khi tường thuật).",
+     "After can't, use the base verb without “to”: can't keep (or couldn't keep in reported speech)."
+    ],
+    "f": [
+     "can't keep a cat",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "My flatmate and I get ___ really well, but we sometimes argue about who should take the rubbish out.",
+    "a": [
+     "on",
+     "along"
+    ],
+    "e": [
+     "“get on/along (well) with sb” = hòa hợp với ai. “take the rubbish out” = đổ rác.",
+     "“get on/along (well) with sb” = have a good relationship. “take the rubbish out” = put the bin outside."
+    ],
+    "f": [
+     "get on really well",
+     "B1"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "FLAT FOR RENT – Thao Dien, District 2\nBright one-bedroom flat on the fifth floor of a quiet building. There is a large living room with a balcony, a small kitchen and a modern bathroom. There are two air conditioners and a washing machine, but there isn't a dishwasher. The flat is fully furnished. Rent: 8 million dong a month, including water and internet. Electricity is not included. Tenants must pay a deposit of one month's rent and sign a contract for at least six months. No pets, please. The building is near a supermarket and a bus stop. Call Mrs Hanh on 0903 123 456 to arrange a viewing.",
+   "tr": "CHO THUÊ CĂN HỘ – Thảo Điền, Quận 2\nCăn hộ một phòng ngủ sáng sủa ở tầng năm của một tòa nhà yên tĩnh. Có phòng khách rộng với ban công, một bếp nhỏ và phòng tắm hiện đại. Có hai máy điều hòa và một máy giặt, nhưng không có máy rửa bát. Căn hộ có đầy đủ đồ đạc. Giá thuê: 8 triệu đồng một tháng, đã bao gồm nước và internet. Chưa bao gồm tiền điện. Người thuê phải đặt cọc một tháng tiền nhà và ký hợp đồng ít nhất sáu tháng. Vui lòng không nuôi thú cưng. Tòa nhà gần siêu thị và trạm xe buýt. Gọi cô Hạnh theo số 0903 123 456 để hẹn xem nhà."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Giá thuê chưa bao gồm khoản nào?",
+     "What is NOT included in the rent?"
+    ],
+    "o": [
+     [
+      "Tiền điện",
+      "Electricity"
+     ],
+     [
+      "Tiền nước",
+      "Water"
+     ],
+     [
+      "Internet",
+      "Internet"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“including water and internet. Electricity is not included.” – chỉ tiền điện phải trả thêm.",
+     "“including water and internet. Electricity is not included.” – only electricity is extra."
+    ],
+    "f": [
+     "Electricity is not included",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Căn hộ KHÔNG có thứ gì?",
+     "What does the flat NOT have?"
+    ],
+    "o": [
+     [
+      "Máy rửa bát",
+      "A dishwasher"
+     ],
+     [
+      "Máy giặt",
+      "A washing machine"
+     ],
+     [
+      "Ban công",
+      "A balcony"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“There are two air conditioners and a washing machine, but there isn't a dishwasher.”",
+     "“There are two air conditioners and a washing machine, but there isn't a dishwasher.”"
+    ],
+    "f": [
+     "there isn't a dishwasher",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người thuê phải ký hợp đồng tối thiểu bao lâu?",
+     "What is the minimum contract length?"
+    ],
+    "o": [
+     [
+      "Sáu tháng",
+      "Six months"
+     ],
+     [
+      "Một tháng",
+      "One month"
+     ],
+     [
+      "Một năm",
+      "One year"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“sign a contract for at least six months” – “one month's rent” là số tiền cọc, không phải thời hạn hợp đồng.",
+     "“sign a contract for at least six months” – “one month's rent” is the deposit, not the contract length."
+    ],
+    "f": [
+     "for at least six months",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Excuse me, ___ any supermarkets near the building, or do I need to take a bus to go shopping?",
+    "o": [
+     "are there",
+     "is there",
+     "there are"
+    ],
+    "a": 0,
+    "e": [
+     "“supermarkets” số nhiều + câu hỏi → Are there any …? “there are” là trật tự câu khẳng định.",
+     "“supermarkets” is plural + question → Are there any …? “there are” is statement order."
+    ],
+    "f": [
+     "are there any supermarkets",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "I prefer the flat on Le Loi Street because it is ___ than the other one, even though it doesn't have a balcony.",
+    "o": [
+     "quieter",
+     "more quiet",
+     "quietest"
+    ],
+    "a": 0,
+    "e": [
+     "Tính từ ngắn quiet → quieter than. “quietest” là so sánh nhất, không đi với “than”.",
+     "Short adjective quiet → quieter than. “quietest” is superlative and doesn't go with “than”."
+    ],
+    "f": [
+     "quieter than",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The rent is six million dong a month, and the price ___ water, internet and a weekly cleaning service.",
+    "a": [
+     "includes"
+    ],
+    "e": [
+     "Chủ ngữ số ít “the price” → includes (thêm -s). “include” = bao gồm.",
+     "Singular subject “the price” → includes (with -s)."
+    ],
+    "f": [
+     "includes",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Our new flat is much ___ than our old one, so now the children each have their own bedroom. (big)",
+    "a": [
+     "bigger"
+    ],
+    "e": [
+     "big → bigger (gấp đôi g). “much” nhấn mạnh so sánh hơn.",
+     "big → bigger (double g). “much” makes the comparison stronger."
+    ],
+    "f": [
+     "much bigger than",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "There is three bedrooms in the house, but only one of them is big enough for a double bed and a desk.",
+    "a": [
+     "There are three bedrooms in the house, but only one of them is big enough for a double bed and a desk."
+    ],
+    "e": [
+     "“three bedrooms” số nhiều → There are. Lỗi “there is + số nhiều” rất hay gặp.",
+     "“three bedrooms” is plural → There are. “there is + plural” is a very common mistake."
+    ],
+    "f": [
+     "There are three bedrooms",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "This apartment is more cheap than the one near the river, but it is a long way from the city centre.",
+    "a": [
+     "This apartment is cheaper than the one near the river, but it is a long way from the city centre.",
+     "This apartment is cheaper than the one near the river, but it's a long way from the city centre."
+    ],
+    "e": [
+     "Tính từ một âm tiết: cheap → cheaper, không dùng “more cheap”.",
+     "One-syllable adjective: cheap → cheaper, not “more cheap”."
+    ],
+    "f": [
+     "cheaper than",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi đang tìm một căn hộ nhỏ gần trường đại học, có máy giặt và không quá đắt.",
+    "a": [
+     "I'm looking for a small flat near the university with a washing machine, and it shouldn't be too expensive.",
+     "I am looking for a small apartment near the university that has a washing machine and isn't too expensive.",
+     "I'm looking for a small flat near the university which has a washing machine and isn't too expensive."
+    ],
+    "e": [
+     "“look for” = tìm; “with a washing machine” hoặc mệnh đề quan hệ “that has …”. “too expensive” = quá đắt.",
+     "“look for” = search for; “with a washing machine” or a relative clause “that has …”. “too expensive” = more than you can pay."
+    ],
+    "f": [
+     "I'm looking for a small flat",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chủ nhà nói tôi có thể dọn vào ở từ thứ Bảy tuần sau nếu tôi trả tiền cọc hôm nay.",
+    "a": [
+     "The landlord says I can move in next Saturday if I pay the deposit today.",
+     "The landlord said I could move in next Saturday if I paid the deposit today.",
+     "The landlady says I can move in from next Saturday if I pay the deposit today."
+    ],
+    "e": [
+     "“move in” = dọn vào ở. Câu điều kiện loại 1: if I pay … I can … (không dùng “will pay” sau if).",
+     "“move in” = start living there. First conditional: if I pay … I can … (no “will” after if)."
+    ],
+    "f": [
+     "move in next Saturday",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "There is a|large living room|with a balcony,|but the kitchen|is quite small|and there isn't|a dishwasher",
+    "m": [
+     "Có một phòng khách rộng với ban công, nhưng bếp khá nhỏ và không có máy rửa bát.",
+     "There is a large living room with a balcony, but the kitchen is quite small and there isn't a dishwasher."
+    ],
+    "e": [
+     "There is + số ít; tính từ đứng trước danh từ: large living room; phủ định: there isn't a …",
+     "There is + singular; adjective before noun: large living room; negative: there isn't a …"
+    ],
+    "f": [
+     "there isn't a dishwasher",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn khoảng 70 từ gửi chủ nhà hỏi về căn hộ trong quảng cáo: giá, hóa đơn, thú cưng, ngày xem nhà.",
+     "Write a message (about 70 words) to a landlord about the flat in an ad: price, bills, pets and a viewing day."
+    ],
+    "m": "Hello Mrs Hanh,\nI saw your advert for the one-bedroom flat in Thao Dien. I'm very interested in it. Could you tell me if the rent includes electricity? Is there a parking space for a motorbike? I have a small cat – is that a problem? I'm free on Saturday morning, so could I see the flat then?\nThank you,\nTuan",
+    "e": [
+     "Cần có: lời chào + nhắc tới quảng cáo; 2–3 câu hỏi (Is there…? Could you tell me if…?); câu về thú cưng; đề xuất thời gian xem nhà.",
+     "Include: greeting + mention the advert; 2–3 questions (Is there…? Could you tell me if…?); a question about pets; a suggested viewing time."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d19",
+  "g": "health",
+  "t": [
+   "Thể thao & tập luyện",
+   "Sports & exercise"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – play / go / do + môn thể thao**\n• **play** + môn có bóng, đối kháng: play football, play badminton, play tennis.\n• **go** + môn đuôi -ing: go swimming, go running, go cycling, go jogging.\n• **do** + môn cá nhân, không bóng: do yoga, do karate, do exercise, do aerobics.\n• Ví dụ: I play badminton on Mondays and go swimming at the weekend. My mum does yoga every morning.",
+    "**Grammar 1 – play / go / do + sport**\n• **play** + ball games and competitive games: play football, play badminton, play tennis.\n• **go** + activities ending in -ing: go swimming, go running, go cycling, go jogging.\n• **do** + individual activities without a ball: do yoga, do karate, do exercise, do aerobics.\n• Example: I play badminton on Mondays and go swimming at the weekend. My mum does yoga every morning."
+   ],
+   [
+    "**Ngữ pháp 2 – quá khứ đơn & lời khuyên với should**\n• Kể buổi tập/trận đấu: I **ran** 5 km. We **won** 2–1. I **didn't stop** once.\n• Bất quy tắc thường gặp: run → ran, swim → swam, win → won, lose → lost, take part → took part.\n• Lời khuyên: You **should** warm up before running. You **shouldn't** exercise right after a big meal.",
+    "**Grammar 2 – past simple & advice with should**\n• Describing a training session or match: I **ran** 5 km. We **won** 2–1. I **didn't stop** once.\n• Common irregular verbs: run → ran, swim → swam, win → won, lose → lost, take part → took part.\n• Advice: You **should** warm up before running. You **shouldn't** exercise right after a big meal."
+   ],
+   [
+    "**Phát âm – đuôi -ed**\n• /t/ sau âm vô thanh: stretched /stretʃt/, jumped /dʒʌmpt/, walked /wɔːkt/.\n• /d/ sau âm hữu thanh: trained /treɪnd/, joined /dʒɔɪnd/, played /pleɪd/.\n• /ɪd/ sau t, d: started /ˈstɑːr.t̬ɪd/, needed /ˈniː.dɪd/.\n• Đừng thêm âm /ɪd/ vào mọi động từ: “walked” không đọc là “walk-ed”.",
+    "**Pronunciation – -ed endings**\n• /t/ after voiceless sounds: stretched /stretʃt/, jumped /dʒʌmpt/, walked /wɔːkt/.\n• /d/ after voiced sounds: trained /treɪnd/, joined /dʒɔɪnd/, played /pleɪd/.\n• /ɪd/ after t and d: started /ˈstɑːr.t̬ɪd/, needed /ˈniː.dɪd/.\n• Don't add /ɪd/ to every verb: “walked” is not “walk-ed”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe/xem bình luận 5 phút một trận đấu, ghi tỉ số và 5 động từ quá khứ.\n• Nói (15 phút): kể buổi tập gần nhất trong 1 phút (where, how long, how you felt), chú ý đuôi -ed.\n• Đọc (20 phút): đọc 1 bài “10 tips for beginner runners”, chọn 3 lời khuyên với should.\n• Viết (20 phút): viết nhật ký tập luyện 1 tuần (5–7 câu, quá khứ đơn).\n• Từ vựng (10 phút): học 15 từ: warm up, stretch, coach, team, match, score, win, lose, draw, gym, training, race, injury, fit, muscles.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 5 minutes of match commentary; note the score and 5 past-tense verbs.\n• Speaking (15 min): describe your last workout in 1 minute (where, how long, how you felt); watch the -ed endings.\n• Reading (20 min): read a “10 tips for beginner runners” article; choose 3 pieces of advice with should.\n• Writing (20 min): keep a one-week training diary (5–7 sentences in the past simple).\n• Vocabulary (10 min): learn 15 words: warm up, stretch, coach, team, match, score, win, lose, draw, gym, training, race, injury, fit, muscles."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "How often do you exercise?",
+    "Bạn tập thể dục bao lâu một lần?"
+   ],
+   [
+    "I go running three times a week.",
+    "Tôi chạy bộ ba lần một tuần."
+   ],
+   [
+    "Do you want to play badminton after work?",
+    "Bạn muốn chơi cầu lông sau giờ làm không?"
+   ],
+   [
+    "We won the match 3–1.",
+    "Chúng tôi thắng trận 3–1."
+   ],
+   [
+    "You should warm up before you run.",
+    "Bạn nên khởi động trước khi chạy."
+   ],
+   [
+    "I hurt my knee, so I can't play this week.",
+    "Tôi bị đau đầu gối nên tuần này không chơi được."
+   ]
+  ],
+  "vo": [
+   [
+    "exercise",
+    "/ˈek.sɚ.saɪz/",
+    "tập thể dục",
+    "physical activity to stay healthy"
+   ],
+   [
+    "team",
+    "/tiːm/",
+    "đội",
+    "a group playing together"
+   ],
+   [
+    "match",
+    "/mætʃ/",
+    "trận đấu",
+    "a sports game between two sides"
+   ],
+   [
+    "win",
+    "/wɪn/",
+    "thắng",
+    "be the best in a game"
+   ],
+   [
+    "lose",
+    "/luːz/",
+    "thua",
+    "not win"
+   ],
+   [
+    "coach",
+    "/koʊtʃ/",
+    "huấn luyện viên",
+    "a person who trains players"
+   ],
+   [
+    "warm up",
+    "/wɔːrm ˈʌp/",
+    "khởi động",
+    "do light exercise before sport"
+   ],
+   [
+    "gym",
+    "/dʒɪm/",
+    "phòng tập",
+    "a place with machines for exercise"
+   ],
+   [
+    "race",
+    "/reɪs/",
+    "cuộc đua",
+    "a competition to be the fastest"
+   ],
+   [
+    "fit",
+    "/fɪt/",
+    "khỏe, cân đối",
+    "healthy and strong from exercise"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "I play football with my colleagues on Tuesdays, and on Saturday mornings I go swimming at the sports centre near my flat.",
+    "q": [
+     "Người nói làm gì vào sáng thứ Bảy?",
+     "What does the speaker do on Saturday mornings?"
+    ],
+    "o": [
+     [
+      "Đi bơi",
+      "Goes swimming"
+     ],
+     [
+      "Đá bóng",
+      "Plays football"
+     ],
+     [
+      "Tập yoga",
+      "Does yoga"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“on Saturday mornings I go swimming” – đá bóng là vào thứ Ba. Chú ý: go + swimming.",
+     "“on Saturday mornings I go swimming” – football is on Tuesdays. Note: go + swimming."
+    ],
+    "f": [
+     "go swimming",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How often do you exercise, and which sport do you like best?",
+    "e": [
+     "“How often” hỏi tần suất. “exercise” có thể là động từ (tập luyện).",
+     "“How often” asks about frequency. “exercise” can be a verb."
+    ],
+    "f": [
+     "How often do you exercise",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "We won the match, but our best player hurt his knee.",
+    "e": [
+     "win → won (bất quy tắc); hurt → hurt (giữ nguyên ở quá khứ).",
+     "win → won (irregular); hurt → hurt (same in the past)."
+    ],
+    "f": [
+     "We won the match",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Yesterday I walked to the park, stretched for ten minutes and then jogged around the lake twice before work.",
+    "e": [
+     "Đuôi -ed: walked /t/, stretched /t/, jogged /d/. Không đọc thành /ɪd/.",
+     "-ed endings: walked /t/, stretched /t/, jogged /d/. Don't say /ɪd/."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "My doctor says I should do more exercise, so I'm going to join a gym next month and go there after work.",
+    "e": [
+     "should /ʃʊd/ – âm l câm; nối âm “join_a”.",
+     "should /ʃʊd/ – the l is silent; link “join_a”."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Tôi định bắt đầu chơi quần vợt nhưng cứ trì hoãn mãi vì không có ai chơi cùng.",
+    "a": [
+     "I've been meaning to take up tennis, but I keep putting it off because I don't have anyone to play with.",
+     "I've been planning to take up tennis, but I keep putting it off because I have no one to play with.",
+     "I've been meaning to start playing tennis, but I keep putting it off because there's nobody to play with."
+    ],
+    "e": [
+     "“take up” = bắt đầu (môn mới); “keep + V-ing” = cứ mãi; “put off” = trì hoãn; “anyone to play with” – giới từ with đứng cuối.",
+     "“take up” = start (a new sport); “keep + -ing” = continue repeatedly; “put off” = postpone; “anyone to play with” – with goes at the end."
+    ],
+    "f": [
+     "I keep putting it off",
+     "B1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại lời khuyên bằng câu điều kiện “If I were you, …”.",
+     "Rewrite the advice using “If I were you, …”."
+    ],
+    "s": "You should see a physiotherapist before you start running again.",
+    "a": [
+     "If I were you, I'd see a physiotherapist before I started running again.",
+     "If I were you, I would see a physiotherapist before starting running again.",
+     "If I were you, I'd see a physiotherapist before you start running again."
+    ],
+    "e": [
+     "“If I were you, I'd …” = nếu tôi là bạn, tôi sẽ … – lời khuyên mềm mỏng. Dùng “were” cho mọi ngôi.",
+     "“If I were you, I'd …” is a soft way to give advice. Use “were” for all persons."
+    ],
+    "f": [
+     "If I were you, I'd see",
+     "B1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I haven't been to the gym since two weeks because I twisted my ankle while I was playing basketball.",
+    "a": [
+     "I haven't been to the gym for two weeks because I twisted my ankle while I was playing basketball."
+    ],
+    "e": [
+     "“for” + khoảng thời gian (two weeks); “since” + mốc thời gian (since Monday).",
+     "“for” + a period (two weeks); “since” + a point in time (since Monday)."
+    ],
+    "f": [
+     "for two weeks",
+     "B1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "After the long holiday I'm really out of ___, so I can only run for about ten minutes before I need a rest.",
+    "a": [
+     "shape"
+    ],
+    "e": [
+     "“out of shape” = không còn khỏe/thể lực kém; ngược lại “in shape” = khỏe, cân đối.",
+     "“out of shape” = not physically fit; the opposite is “in shape”."
+    ],
+    "f": [
+     "out of shape",
+     "B1"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Last Sunday I took part in my first five-kilometre fun run in Hue. I started training two months ago because my doctor said I should do more exercise. At first I could only run for ten minutes, so I joined a running club. We met three times a week by the river. On the day of the race it was hot, but I wasn't nervous. I finished in 34 minutes and I didn't stop once! After the race my legs hurt, so I stretched and drank a lot of water. Now I want to try something new. My friend plays badminton and does yoga, so maybe I'll go swimming with her next month.",
+   "tr": "Chủ nhật vừa rồi tôi tham gia giải chạy vui 5 ki-lô-mét đầu tiên ở Huế. Tôi bắt đầu tập luyện từ hai tháng trước vì bác sĩ nói tôi nên tập thể dục nhiều hơn. Lúc đầu tôi chỉ chạy được mười phút, nên tôi tham gia một câu lạc bộ chạy bộ. Chúng tôi gặp nhau ba lần một tuần bên bờ sông. Vào ngày đua trời nóng, nhưng tôi không hồi hộp. Tôi về đích sau 34 phút và không dừng lại lần nào! Sau cuộc đua chân tôi bị đau, nên tôi giãn cơ và uống rất nhiều nước. Bây giờ tôi muốn thử một môn mới. Bạn tôi chơi cầu lông và tập yoga, nên có lẽ tháng sau tôi sẽ đi bơi với cô ấy."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết bắt đầu tập luyện?",
+     "Why did the writer start training?"
+    ],
+    "o": [
+     [
+      "Vì bác sĩ khuyên nên tập thể dục nhiều hơn",
+      "Because the doctor said they should exercise more"
+     ],
+     [
+      "Vì bạn rủ đi bơi",
+      "Because a friend invited them to swim"
+     ],
+     [
+      "Vì muốn thắng giải",
+      "Because they wanted to win a prize"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“because my doctor said I should do more exercise” – should = nên (lời khuyên).",
+     "“because my doctor said I should do more exercise” – should gives advice."
+    ],
+    "f": [
+     "I should do more exercise",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu lạc bộ chạy bộ gặp nhau bao lâu một lần?",
+     "How often did the running club meet?"
+    ],
+    "o": [
+     [
+      "Ba lần một tuần",
+      "Three times a week"
+     ],
+     [
+      "Mỗi Chủ nhật",
+      "Every Sunday"
+     ],
+     [
+      "Hai lần một tháng",
+      "Twice a month"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“We met three times a week by the river.” Hai tháng là thời gian tập, không phải tần suất.",
+     "“We met three times a week by the river.” Two months is the training period, not the frequency."
+    ],
+    "f": [
+     "three times a week",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết làm gì sau cuộc đua?",
+     "What did the writer do after the race?"
+    ],
+    "o": [
+     [
+      "Giãn cơ và uống nhiều nước",
+      "Stretched and drank a lot of water"
+     ],
+     [
+      "Đi bơi với bạn",
+      "Went swimming with a friend"
+     ],
+     [
+      "Chơi cầu lông",
+      "Played badminton"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“so I stretched and drank a lot of water”. Đi bơi là kế hoạch tháng sau (maybe I'll …).",
+     "“so I stretched and drank a lot of water”. Swimming is a plan for next month (maybe I'll …)."
+    ],
+    "f": [
+     "I stretched and drank a lot of water",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My grandmother ___ tai chi in the park every morning, and she says it helps her sleep better at night.",
+    "o": [
+     "does",
+     "plays",
+     "goes"
+    ],
+    "a": 0,
+    "e": [
+     "Môn cá nhân, không có bóng → do tai chi (giống do yoga). “plays” dùng cho môn có bóng.",
+     "An individual activity without a ball → do tai chi (like do yoga). “plays” is for ball games."
+    ],
+    "f": [
+     "does tai chi",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Our team played really well in the final, but in the end we ___ the match 2–1 because of a late goal.",
+    "o": [
+     "lost",
+     "losed",
+     "lose"
+    ],
+    "a": 0,
+    "e": [
+     "lose → lost (bất quy tắc). “losed” không tồn tại. “in the end” → quá khứ.",
+     "lose → lost (irregular). “losed” doesn't exist. The story is in the past."
+    ],
+    "f": [
+     "lost the match",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "You ___ eat a big meal just before you go swimming, because you might feel sick in the water.",
+    "a": [
+     "shouldn't",
+     "should not"
+    ],
+    "e": [
+     "Lời khuyên không nên → shouldn't + động từ nguyên mẫu.",
+     "Advice not to do something → shouldn't + base verb."
+    ],
+    "f": [
+     "shouldn't eat a big meal",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Last weekend my brother and I ___ cycling along the coast from Da Nang to Hoi An, and it took about two hours. (go)",
+    "a": [
+     "went"
+    ],
+    "e": [
+     "go → went (quá khứ bất quy tắc); go cycling (không phải “played cycling”).",
+     "go → went (irregular past); go cycling (not “played cycling”)."
+    ],
+    "f": [
+     "went cycling",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I play yoga twice a week at a small studio near my office because it helps me relax after work.",
+    "a": [
+     "I do yoga twice a week at a small studio near my office because it helps me relax after work."
+    ],
+    "e": [
+     "yoga đi với do, không đi với play: do yoga.",
+     "yoga goes with do, not play: do yoga."
+    ],
+    "f": [
+     "do yoga",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Yesterday we runned for forty minutes in the rain, so today my legs are really tired and a bit painful.",
+    "a": [
+     "Yesterday we ran for forty minutes in the rain, so today my legs are really tired and a bit painful."
+    ],
+    "e": [
+     "run là động từ bất quy tắc: run → ran → run. Không thêm -ed.",
+     "run is irregular: run → ran → run. Don't add -ed."
+    ],
+    "f": [
+     "we ran",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn nên khởi động ít nhất mười phút trước khi chơi bóng đá.",
+    "a": [
+     "You should warm up for at least ten minutes before you play football.",
+     "You should warm up for at least ten minutes before playing football.",
+     "You should warm up at least ten minutes before playing football."
+    ],
+    "e": [
+     "“should + V” = nên; “warm up” = khởi động; “before + V-ing” hoặc “before you + V”.",
+     "“should + verb” = advice; “warm up” = prepare your body; “before + -ing” or “before you + verb”."
+    ],
+    "f": [
+     "You should warm up",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tuần trước đội của chúng tôi thắng 3–0, nhưng huấn luyện viên vẫn bắt chúng tôi tập thêm vào thứ Bảy.",
+    "a": [
+     "Last week our team won 3–0, but the coach still made us train on Saturday too.",
+     "Our team won 3–0 last week, but the coach still made us do extra training on Saturday.",
+     "Last week our team won 3–0, but our coach still made us practise on Saturday as well."
+    ],
+    "e": [
+     "win → won. “make sb do sth” = bắt ai làm gì (không có “to”). “still” = vẫn.",
+     "win → won. “make sb do sth” = force someone (no “to”). “still” shows contrast."
+    ],
+    "f": [
+     "made us train",
+     "B1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "At first|I could only run|for ten minutes,|so I joined|a running club|by the river",
+    "m": [
+     "Lúc đầu tôi chỉ chạy được mười phút, nên tôi tham gia một câu lạc bộ chạy bộ bên bờ sông.",
+     "At first I could only run for ten minutes, so I joined a running club by the river."
+    ],
+    "e": [
+     "“could” = quá khứ của can (khả năng). “only” đứng trước động từ chính: could only run.",
+     "“could” = past of can (ability). “only” goes before the main verb: could only run."
+    ],
+    "f": [
+     "I could only run",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 80 từ kể về một buổi tập hoặc trận đấu gần đây: ở đâu, với ai, diễn ra thế nào, cảm giác sau đó.",
+     "Write about 80 words about a recent workout or match: where, who with, what happened and how you felt afterwards."
+    ],
+    "m": "Last Saturday I played badminton with my colleagues at a sports centre near our office. We played for two hours and changed partners after every game. At first I lost two games because I was tired after a long week, but then I won three games in a row! After that we went to a small café and drank fresh orange juice. I felt tired but very happy. I think I should play every week because it helps me forget my stress.",
+    "e": [
+     "Cần có: thời gian + nơi chốn + người cùng tập; ít nhất 5 động từ quá khứ (có bất quy tắc); play/go/do đúng; 1 câu với should.",
+     "Include: time, place and partners; at least 5 past-tense verbs (some irregular); correct play/go/do; one sentence with should."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d20",
+  "g": "daily",
+  "t": [
+   "Gọi điện, hẹn lịch & lời mời",
+   "Phone calls, appointments & invitations"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – hiện tại tiếp diễn cho lịch hẹn tương lai**\n• Việc đã sắp xếp, có giờ, có người: I'**m meeting** Lan at 7 tonight. We'**re flying** to Hue on Friday.\n• Dùng để từ chối lời mời một cách tự nhiên: Sorry, I'**m working** on Saturday.\n• Hỏi lịch: **Are you doing** anything on Sunday? / **Are you free** on Thursday?",
+    "**Grammar 1 – present continuous for future arrangements**\n• Fixed plans with a time and other people: I'**m meeting** Lan at 7 tonight. We'**re flying** to Hue on Friday.\n• A natural way to decline: Sorry, I'**m working** on Saturday.\n• Asking about plans: **Are you doing** anything on Sunday? / **Are you free** on Thursday?"
+   ],
+   [
+    "**Ngữ pháp 2 – mời, gợi ý, nhận lời, từ chối**\n• Mời: **Would you like to** come to my party? (to + V)\n• Gợi ý: **How about** + V-ing? (How about having lunch?) / **Let's** + V / **Shall we** + V?\n• Nhận lời: I'd love to! / Sounds good! / That's a great idea.\n• Từ chối lịch sự: I'd love to, **but** I'm busy. / I'm afraid I can't make it.\n• Gọi điện: Could I speak to …? / I'd like to make an appointment. / Can I leave a message?",
+    "**Grammar 2 – inviting, suggesting, accepting, declining**\n• Invite: **Would you like to** come to my party? (to + verb)\n• Suggest: **How about** + -ing? (How about having lunch?) / **Let's** + verb / **Shall we** + verb?\n• Accept: I'd love to! / Sounds good! / That's a great idea.\n• Decline politely: I'd love to, **but** I'm busy. / I'm afraid I can't make it.\n• On the phone: Could I speak to …? / I'd like to make an appointment. / Can I leave a message?"
+   ],
+   [
+    "**Phát âm – đọc số điện thoại & giờ**\n• Đọc từng số; số 0 thường đọc **“oh”** /oʊ/; hai số giống nhau có thể đọc **“double”**: 554 = double five four.\n• Ngắt nhóm 3–4 số, lên giọng cuối mỗi nhóm, xuống giọng ở nhóm cuối.\n• Giờ: 3:30 = half past three / three thirty; 7:15 = a quarter past seven.",
+    "**Pronunciation – phone numbers & times**\n• Say each digit; 0 is often **“oh”** /oʊ/; two same digits can be **“double”**: 554 = double five four.\n• Pause between groups of 3–4 digits, rising at the end of each group and falling on the last one.\n• Times: 3:30 = half past three / three thirty; 7:15 = a quarter past seven."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 3 đoạn hội thoại điện thoại mẫu (đặt lịch, để lại lời nhắn), ghi tên, ngày, giờ, số điện thoại.\n• Nói (15 phút): tự đọc to 5 số điện thoại và 5 giờ hẹn; đóng vai gọi đặt lịch cắt tóc.\n• Đọc (15 phút): đọc 5 tin nhắn mời/từ chối, đánh dấu cụm nhận lời và từ chối.\n• Viết (20 phút): viết 2 tin nhắn 40–60 từ: mời bạn đi ăn sinh nhật và từ chối lịch sự một lời mời.\n• Từ vựng (10 phút): học 12 cụm: make/cancel/change an appointment, call back, hang up, leave a message, be free, be busy, invite, accept, decline, reschedule.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 3 sample phone calls (booking, leaving a message); note names, days, times, numbers.\n• Speaking (15 min): read aloud 5 phone numbers and 5 appointment times; role-play booking a haircut.\n• Reading (15 min): read 5 invitation/refusal messages; mark the phrases for accepting and declining.\n• Writing (20 min): write 2 messages of 40–60 words: inviting a friend to a birthday dinner and politely declining an invitation.\n• Vocabulary (10 min): learn 12 phrases: make/cancel/change an appointment, call back, hang up, leave a message, be free, be busy, invite, accept, decline, reschedule."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Could I speak to Ms Lan, please?",
+    "Cho tôi nói chuyện với chị Lan được không?"
+   ],
+   [
+    "I'd like to make an appointment.",
+    "Tôi muốn đặt lịch hẹn."
+   ],
+   [
+    "Are you free on Friday afternoon?",
+    "Chiều thứ Sáu bạn rảnh không?"
+   ],
+   [
+    "Would you like to come to my party?",
+    "Bạn có muốn đến bữa tiệc của mình không?"
+   ],
+   [
+    "I'd love to, but I'm working that day.",
+    "Mình rất muốn, nhưng hôm đó mình đi làm."
+   ],
+   [
+    "Can I leave a message?",
+    "Tôi có thể để lại lời nhắn không?"
+   ],
+   [
+    "I need to cancel my appointment.",
+    "Tôi cần hủy lịch hẹn."
+   ]
+  ],
+  "vo": [
+   [
+    "appointment",
+    "/əˈpɔɪnt.mənt/",
+    "cuộc hẹn, lịch hẹn",
+    "an arranged time to see someone"
+   ],
+   [
+    "invite",
+    "/ɪnˈvaɪt/",
+    "mời",
+    "ask someone to come to an event"
+   ],
+   [
+    "invitation",
+    "/ˌɪn.vəˈteɪ.ʃən/",
+    "lời mời",
+    "a request to come to an event"
+   ],
+   [
+    "free",
+    "/friː/",
+    "rảnh",
+    "not busy"
+   ],
+   [
+    "busy",
+    "/ˈbɪz.i/",
+    "bận",
+    "having a lot to do"
+   ],
+   [
+    "cancel",
+    "/ˈkæn.səl/",
+    "hủy",
+    "say that something will not happen"
+   ],
+   [
+    "call back",
+    "/kɑːl ˈbæk/",
+    "gọi lại",
+    "phone someone again later"
+   ],
+   [
+    "message",
+    "/ˈmes.ɪdʒ/",
+    "lời nhắn, tin nhắn",
+    "a short piece of information for someone"
+   ],
+   [
+    "arrive",
+    "/əˈraɪv/",
+    "đến nơi",
+    "get to a place"
+   ],
+   [
+    "party",
+    "/ˈpɑːr.t̬i/",
+    "bữa tiệc",
+    "a social event with food and music"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Hi Nam, it's Lan. I'm calling because the dentist has changed my appointment to Friday, so I can't meet you for coffee that afternoon.",
+    "q": [
+     "Vì sao Lan không gặp Nam chiều thứ Sáu được?",
+     "Why can't Lan meet Nam on Friday afternoon?"
+    ],
+    "o": [
+     [
+      "Vì lịch nha sĩ bị đổi sang thứ Sáu",
+      "Because her dentist appointment moved to Friday"
+     ],
+     [
+      "Vì cô ấy bị ốm",
+      "Because she is ill"
+     ],
+     [
+      "Vì cô ấy phải đi làm",
+      "Because she has to work"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“the dentist has changed my appointment to Friday, so I can't meet you” – lý do là lịch hẹn nha sĩ.",
+     "“the dentist has changed my appointment to Friday, so I can't meet you” – the reason is the dentist."
+    ],
+    "f": [
+     "changed my appointment to Friday",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I'd like to make an appointment for next Tuesday morning, please.",
+    "e": [
+     "I'd like = I would like (lịch sự). “make an appointment” – không nói “do an appointment”.",
+     "I'd like = I would like (polite). “make an appointment” – not “do an appointment”."
+    ],
+    "f": [
+     "make an appointment",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Would you like to come to my birthday party on Saturday evening?",
+    "e": [
+     "Would you like + to V = lời mời. “on Saturday evening” – dùng “on” với ngày.",
+     "Would you like + to-infinitive = an invitation. “on Saturday evening” – “on” with days."
+    ],
+    "f": [
+     "Would you like to come",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "My number is oh nine one two, double five four, eight seven oh.",
+    "e": [
+     "Đọc 0912 554 870: 0 = “oh”, 55 = “double five”; ngắt sau mỗi nhóm.",
+     "Reading 0912 554 870: 0 = “oh”, 55 = “double five”; pause after each group."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I'd love to come, but I'm visiting my grandparents this weekend. How about next Saturday?",
+    "e": [
+     "Từ chối lịch sự: I'd love to, but … + hiện tại tiếp diễn cho lịch đã sắp xếp; rồi gợi ý ngày khác.",
+     "A polite refusal: I'd love to, but … + present continuous for the arrangement; then suggest another day."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Xin lỗi, tôi phải gác máy đây – tôi sắp vào họp. Tôi gọi lại cho bạn khoảng 5 giờ nhé?",
+    "a": [
+     "Sorry, I've got to hang up now – I'm about to go into a meeting. Can I call you back around five?",
+     "Sorry, I have to hang up – I'm just about to go into a meeting. Shall I call you back at about five?",
+     "Sorry, I need to go now – I'm about to go into a meeting. I'll call you back around five, OK?"
+    ],
+    "e": [
+     "“hang up” = gác máy; “be about to + V” = sắp sửa; “call sb back” = gọi lại.",
+     "“hang up” = end the call; “be about to + verb” = going to very soon; “call sb back” = return a call."
+    ],
+    "f": [
+     "I'm about to go into a meeting",
+     "B1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại lời từ chối cho khéo léo hơn, dùng “I'm afraid I can't make it …”.",
+     "Rewrite the refusal more tactfully, using “I'm afraid I can't make it …”."
+    ],
+    "s": "I can't come to your dinner on Friday because I have to work late.",
+    "a": [
+     "I'm afraid I can't make it to your dinner on Friday because I have to work late.",
+     "I'm afraid I can't make it on Friday because I have to work late.",
+     "I'm afraid I can't make it to your dinner on Friday – I have to work late."
+    ],
+    "e": [
+     "“make it (to sth)” = đến dự được. “I'm afraid” làm mềm lời từ chối.",
+     "“make it (to sth)” = manage to attend. “I'm afraid” softens the refusal."
+    ],
+    "f": [
+     "I can't make it",
+     "B1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Can I take a rain check on lunch today? Something came up at work, so how about to meet on Thursday instead?",
+    "a": [
+     "Can I take a rain check on lunch today? Something came up at work, so how about meeting on Thursday instead?"
+    ],
+    "e": [
+     "How about + V-ing: how about meeting. “take a rain check” = hẹn dịp khác; “something came up” = có việc đột xuất.",
+     "How about + -ing: how about meeting. “take a rain check” = postpone to another time; “something came up” = an unexpected problem happened."
+    ],
+    "f": [
+     "how about meeting",
+     "B1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Hold ___ a second, please – I'll just check if the doctor has any free appointments this afternoon.",
+    "a": [
+     "on"
+    ],
+    "e": [
+     "“Hold on (a second)” = vui lòng chờ máy một chút. Cũng nói “Hang on a second” (thân mật hơn).",
+     "“Hold on (a second)” = please wait on the phone. “Hang on a second” is more informal."
+    ],
+    "f": [
+     "Hold on a second",
+     "B1"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Receptionist: Good morning, Smile Dental Clinic. How can I help you?\nHoa: Hello, I'd like to make an appointment with Doctor Lam, please.\nReceptionist: Are you free on Thursday at ten?\nHoa: Sorry, I'm working on Thursday morning. Is Friday afternoon possible?\nReceptionist: Yes, we have a free slot at half past three.\nHoa: Perfect. My name is Hoa Tran and my number is 0912 554 870.\n(Later, Hoa sends a message to her friend Ben.)\nHoa: Hi Ben! I'm having a small party on Saturday evening. Would you like to come?\nBen: I'd love to, but I'm visiting my aunt in Vung Tau this weekend. How about lunch next Sunday?\nHoa: Sounds good! Let's meet at twelve.",
+   "tr": "Lễ tân: Chào buổi sáng, Phòng khám Nha khoa Smile xin nghe. Tôi có thể giúp gì cho chị?\nHoa: Xin chào, tôi muốn đặt lịch hẹn với bác sĩ Lâm.\nLễ tân: Chị có rảnh lúc 10 giờ thứ Năm không?\nHoa: Xin lỗi, sáng thứ Năm tôi đi làm. Chiều thứ Sáu được không?\nLễ tân: Được ạ, chúng tôi còn một suất trống lúc 3 giờ rưỡi.\nHoa: Tuyệt. Tôi tên là Trần Hoa, số điện thoại là 0912 554 870.\n(Sau đó, Hoa nhắn tin cho bạn là Ben.)\nHoa: Chào Ben! Tối thứ Bảy mình tổ chức một bữa tiệc nhỏ. Bạn có muốn đến không?\nBen: Mình rất muốn, nhưng cuối tuần này mình đi thăm dì ở Vũng Tàu. Hay là ăn trưa Chủ nhật tuần sau nhé?\nHoa: Được đấy! Mình gặp nhau lúc 12 giờ nhé."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Lịch hẹn của Hoa với bác sĩ là khi nào?",
+     "When is Hoa's appointment with the doctor?"
+    ],
+    "o": [
+     [
+      "Chiều thứ Sáu lúc 3 giờ rưỡi",
+      "Friday afternoon at half past three"
+     ],
+     [
+      "Thứ Năm lúc 10 giờ",
+      "Thursday at ten"
+     ],
+     [
+      "Chủ nhật lúc 12 giờ",
+      "Sunday at twelve"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Hoa từ chối thứ Năm vì đi làm; lễ tân đưa ra “a free slot at half past three” chiều thứ Sáu.",
+     "Hoa can't do Thursday because she's working; the receptionist offers “a free slot at half past three” on Friday afternoon."
+    ],
+    "f": [
+     "a free slot at half past three",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Ben không đến bữa tiệc được?",
+     "Why can't Ben come to the party?"
+    ],
+    "o": [
+     [
+      "Vì đi thăm dì ở Vũng Tàu",
+      "Because he's visiting his aunt in Vung Tau"
+     ],
+     [
+      "Vì phải đi làm",
+      "Because he's working"
+     ],
+     [
+      "Vì có hẹn nha sĩ",
+      "Because he has a dentist appointment"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“I'm visiting my aunt in Vung Tau this weekend” – hiện tại tiếp diễn cho kế hoạch đã sắp xếp.",
+     "“I'm visiting my aunt in Vung Tau this weekend” – present continuous for an arrangement."
+    ],
+    "f": [
+     "I'm visiting my aunt",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ben gợi ý điều gì?",
+     "What does Ben suggest?"
+    ],
+    "o": [
+     [
+      "Ăn trưa Chủ nhật tuần sau",
+      "Lunch next Sunday"
+     ],
+     [
+      "Tiệc vào tối Chủ nhật",
+      "A party on Sunday evening"
+     ],
+     [
+      "Đi Vũng Tàu cùng nhau",
+      "Going to Vung Tau together"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“How about lunch next Sunday?” – How about + danh từ/V-ing để gợi ý.",
+     "“How about lunch next Sunday?” – How about + noun/-ing makes a suggestion."
+    ],
+    "f": [
+     "How about lunch next Sunday",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Sorry, I can't come to the cinema tonight because I ___ my cousin at the airport at eight o'clock.",
+    "o": [
+     "'m meeting",
+     "meet",
+     "met"
+    ],
+    "a": 0,
+    "e": [
+     "Lịch đã sắp xếp cho tương lai (tối nay, 8 giờ) → hiện tại tiếp diễn: I'm meeting.",
+     "A fixed arrangement for the future (tonight, at eight) → present continuous: I'm meeting."
+    ],
+    "f": [
+     "I'm meeting my cousin",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "It's such a lovely evening – ___ going for a walk along the river after dinner?",
+    "o": [
+     "how about",
+     "let's",
+     "shall we"
+    ],
+    "a": 0,
+    "e": [
+     "Phía sau là V-ing (going) → How about. “Let's/Shall we” đi với động từ nguyên mẫu (Let's go …).",
+     "The -ing form (going) follows → How about. “Let's/Shall we” take the base verb (Let's go …)."
+    ],
+    "f": [
+     "how about going",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Ms Hoa isn't in the office at the moment. Would you like to leave a ___, or shall I ask her to call you back?",
+    "a": [
+     "message"
+    ],
+    "e": [
+     "“leave a message” = để lại lời nhắn – cụm cố định khi gọi điện.",
+     "“leave a message” is a fixed phone phrase."
+    ],
+    "f": [
+     "leave a message",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I'm really sorry, but I need to ___ my appointment on Monday because I have to travel to Hanoi for work.",
+    "a": [
+     "cancel",
+     "change",
+     "reschedule"
+    ],
+    "e": [
+     "“cancel an appointment” = hủy lịch; “change/reschedule” = đổi lịch.",
+     "“cancel an appointment” = call it off; “change/reschedule” = move it."
+    ],
+    "f": [
+     "cancel my appointment",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Would you like come to our house for dinner on Saturday? My mum is cooking her famous fish soup.",
+    "a": [
+     "Would you like to come to our house for dinner on Saturday? My mum is cooking her famous fish soup."
+    ],
+    "e": [
+     "Would you like + to V: would you like to come. Thiếu “to” là lỗi rất phổ biến.",
+     "Would you like + to-infinitive: would you like to come. Missing “to” is a very common mistake."
+    ],
+    "f": [
+     "Would you like to come",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Could I speak with Mr Tuan, please? I call about the meeting that we arranged for next Wednesday.",
+    "a": [
+     "Could I speak with Mr Tuan, please? I'm calling about the meeting that we arranged for next Wednesday.",
+     "Could I speak with Mr Tuan, please? I am calling about the meeting that we arranged for next Wednesday."
+    ],
+    "e": [
+     "Đang gọi điện (ngay lúc nói) → hiện tại tiếp diễn: I'm calling about … – cụm chuẩn khi nêu lý do gọi.",
+     "Happening now → present continuous: I'm calling about … – the standard phrase for the reason for a call."
+    ],
+    "f": [
+     "I'm calling about",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cảm ơn lời mời của bạn! Mình rất muốn đến, nhưng tối thứ Sáu mình phải làm thêm giờ.",
+    "a": [
+     "Thanks for the invitation! I'd love to come, but I have to work late on Friday evening.",
+     "Thank you for inviting me! I'd love to come, but I'm working late on Friday evening.",
+     "Thanks for your invitation! I'd love to come, but I have to work overtime on Friday evening."
+    ],
+    "e": [
+     "“Thanks for the invitation / for inviting me”. “I'd love to …, but …” = cách từ chối khéo.",
+     "“Thanks for the invitation / for inviting me”. “I'd love to …, but …” is a polite refusal."
+    ],
+    "f": [
+     "I'd love to come, but",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi muốn đặt lịch cắt tóc vào chiều thứ Bảy, khoảng 4 giờ có được không?",
+    "a": [
+     "I'd like to book a haircut for Saturday afternoon. Is around four o'clock possible?",
+     "I'd like to make an appointment for a haircut on Saturday afternoon – is about four o'clock OK?",
+     "I would like to book a haircut on Saturday afternoon. Is four o'clock possible?"
+    ],
+    "e": [
+     "“book a haircut / make an appointment for a haircut”. “Is … possible?” = có được không.",
+     "“book a haircut / make an appointment for a haircut”. “Is … possible?” checks availability."
+    ],
+    "f": [
+     "I'd like to book a haircut",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Are you|doing anything|on Sunday afternoon?|We're having|a barbecue|in the garden",
+    "m": [
+     "Chiều Chủ nhật bạn có làm gì không? Nhà mình tổ chức tiệc nướng ngoài vườn.",
+     "Are you doing anything on Sunday afternoon? We're having a barbecue in the garden."
+    ],
+    "e": [
+     "Hỏi kế hoạch bằng hiện tại tiếp diễn: Are you doing anything …? We're having … = lịch đã định.",
+     "Ask about plans with the present continuous: Are you doing anything …? We're having … = a fixed plan."
+    ],
+    "f": [
+     "Are you doing anything",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn khoảng 60 từ mời một người bạn đi ăn mừng sinh nhật: ngày, giờ, địa điểm, đề nghị trả lời.",
+     "Write a message (about 60 words) inviting a friend to a birthday dinner: day, time, place and a request to reply."
+    ],
+    "m": "Hi Linh! I'm having a small birthday dinner on Friday evening at Hoa Sen restaurant near the lake. We're meeting there at seven o'clock. Would you like to come? There will be good food and a big chocolate cake! Could you let me know by Wednesday, so I can book a table? I really hope you can make it.\nThu",
+    "e": [
+     "Cần có: lời mời Would you like to …?; ngày, giờ, địa điểm (hiện tại tiếp diễn cho kế hoạch); yêu cầu trả lời trước một ngày; lời kết thân thiện.",
+     "Include: Would you like to …?; day, time, place (present continuous for the plan); a reply deadline; a friendly ending."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d21",
+  "g": "daily",
+  "t": [
+   "Nấu ăn & công thức",
+   "Cooking & recipes"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – câu mệnh lệnh và từ nối trình tự**\n• Công thức dùng câu mệnh lệnh (động từ nguyên mẫu ở đầu câu): **Chop** the onion. **Heat** the oil. **Don't** add too much salt.\n• Từ nối: **First**, … **Then** … **After that**, … **When** the water boils, … **Finally**, …\n• Ví dụ: First, wash the rice. Then put it in the pot with two cups of water. Finally, cook it for 20 minutes.",
+    "**Grammar 1 – imperatives and sequencers**\n• Recipes use imperatives (base verb at the start): **Chop** the onion. **Heat** the oil. **Don't** add too much salt.\n• Sequencers: **First**, … **Then** … **After that**, … **When** the water boils, … **Finally**, …\n• Example: First, wash the rice. Then put it in the pot with two cups of water. Finally, cook it for 20 minutes."
+   ],
+   [
+    "**Ngữ pháp 2 – danh từ đếm được / không đếm được**\n• Đếm được: an egg, two onions, **a few** tomatoes, **How many** eggs?\n• Không đếm được: rice, oil, salt, sugar, water → **a little** oil, **some** salt, **How much** sugar?\n• Đơn vị đo cho danh từ không đếm được: a cup **of** rice, a spoon **of** sugar, a pinch **of** salt, a bottle **of** fish sauce.\n• Lỗi hay gặp: “two rices”, “many salt” ✗.",
+    "**Grammar 2 – countable and uncountable nouns**\n• Countable: an egg, two onions, **a few** tomatoes, **How many** eggs?\n• Uncountable: rice, oil, salt, sugar, water → **a little** oil, **some** salt, **How much** sugar?\n• Containers/measures for uncountable nouns: a cup **of** rice, a spoon **of** sugar, a pinch **of** salt, a bottle **of** fish sauce.\n• Common mistakes: “two rices”, “many salt” ✗."
+   ],
+   [
+    "**Phát âm**\n• Dạng yếu của “of” /əv/ và “a” /ə/: a cup of rice = /ə ˈkʌp əv raɪs/ – đọc nhanh, nối âm.\n• Âm /ɔɪ/: boil, oil, soy – miệng tròn rồi kéo sang /ɪ/.\n• Từ dễ đọc sai: recipe /ˈres.ə.pi/ (3 âm tiết), vegetable /ˈvedʒ.tə.bəl/ (3 âm tiết), sauce /sɑːs/.",
+    "**Pronunciation**\n• Weak forms of “of” /əv/ and “a” /ə/: a cup of rice = /ə ˈkʌp əv raɪs/ – said quickly and linked.\n• The /ɔɪ/ sound: boil, oil, soy – round lips, then glide to /ɪ/.\n• Easy to mispronounce: recipe /ˈres.ə.pi/ (3 syllables), vegetable /ˈvedʒ.tə.bəl/ (3 syllables), sauce /sɑːs/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem 1 video nấu ăn ngắn bằng tiếng Anh, ghi lại nguyên liệu và 6 động từ nấu ăn.\n• Nói (15 phút): vừa nấu một món đơn giản vừa nói to từng bước bằng tiếng Anh (First, … Then, …).\n• Đọc (15 phút): đọc 2 công thức trên một trang nấu ăn tiếng Anh, gạch chân đơn vị đo.\n• Viết (25 phút): viết công thức 80–100 từ cho một món Việt bạn biết nấu.\n• Từ vựng (10 phút): học 15 từ: chop, slice, peel, boil, fry, stir, bake, mix, pour, add, pan, pot, oven, spoon, ingredients.",
+    "**Practice outside the app**\n• Listening (20 min): watch a short English cooking video; note the ingredients and 6 cooking verbs.\n• Speaking (15 min): cook a simple dish and say each step aloud in English (First, … Then, …).\n• Reading (15 min): read 2 recipes on an English cooking website; underline the measurements.\n• Writing (25 min): write an 80–100-word recipe for a Vietnamese dish you can cook.\n• Vocabulary (10 min): learn 15 words: chop, slice, peel, boil, fry, stir, bake, mix, pour, add, pan, pot, oven, spoon, ingredients."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "What ingredients do we need?",
+    "Chúng ta cần nguyên liệu gì?"
+   ],
+   [
+    "How much rice do we need?",
+    "Chúng ta cần bao nhiêu gạo?"
+   ],
+   [
+    "First, chop the onion.",
+    "Đầu tiên, thái hành."
+   ],
+   [
+    "Fry it for two minutes until it is soft.",
+    "Rán/xào 2 phút cho đến khi mềm."
+   ],
+   [
+    "Add a pinch of salt.",
+    "Thêm một nhúm muối."
+   ],
+   [
+    "Don't put too much sugar in it.",
+    "Đừng cho quá nhiều đường."
+   ],
+   [
+    "It smells delicious!",
+    "Thơm quá!"
+   ]
+  ],
+  "vo": [
+   [
+    "recipe",
+    "/ˈres.ə.pi/",
+    "công thức nấu ăn",
+    "instructions for cooking a dish"
+   ],
+   [
+    "ingredient",
+    "/ɪnˈɡriː.di.ənt/",
+    "nguyên liệu",
+    "one of the foods used in a dish"
+   ],
+   [
+    "chop",
+    "/tʃɑːp/",
+    "thái, băm",
+    "cut into small pieces"
+   ],
+   [
+    "boil",
+    "/bɔɪl/",
+    "luộc, đun sôi",
+    "cook in very hot water"
+   ],
+   [
+    "fry",
+    "/fraɪ/",
+    "chiên, rán, xào",
+    "cook in hot oil"
+   ],
+   [
+    "stir",
+    "/stɝː/",
+    "khuấy, đảo",
+    "move food around with a spoon"
+   ],
+   [
+    "add",
+    "/æd/",
+    "thêm",
+    "put something in with other things"
+   ],
+   [
+    "pan",
+    "/pæn/",
+    "chảo",
+    "a flat metal pot for frying"
+   ],
+   [
+    "spoon",
+    "/spuːn/",
+    "thìa, muỗng",
+    "a tool for eating or measuring"
+   ],
+   [
+    "taste",
+    "/teɪst/",
+    "nếm; vị",
+    "try a little food; flavour"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "First, boil the noodles for three minutes, then put them in a bowl and add the hot soup and some fresh herbs.",
+    "q": [
+     "Phải luộc mì trong bao lâu?",
+     "How long should you boil the noodles?"
+    ],
+    "o": [
+     [
+      "Ba phút",
+      "Three minutes"
+     ],
+     [
+      "Mười phút",
+      "Ten minutes"
+     ],
+     [
+      "Năm phút",
+      "Five minutes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“boil the noodles for three minutes” – for + khoảng thời gian.",
+     "“boil the noodles for three minutes” – for + a length of time."
+    ],
+    "f": [
+     "for three minutes",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "How much sugar do we need, and how many eggs are there in the fridge?",
+    "e": [
+     "sugar không đếm được → How much; eggs đếm được → How many.",
+     "sugar is uncountable → How much; eggs are countable → How many."
+    ],
+    "f": [
+     "How much sugar",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Fry the onion for two minutes until it is soft.",
+    "e": [
+     "Câu mệnh lệnh bắt đầu bằng động từ “Fry”. “until” = cho đến khi.",
+     "An imperative starting with “Fry”. “until” = up to the time when."
+    ],
+    "f": [
+     "until it is soft",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Mix the flour with a little milk, add two eggs and a pinch of salt, and then stir everything slowly.",
+    "e": [
+     "Đọc yếu “a” /ə/ và “of” /əv/: a little, a pinch of salt.",
+     "Weak forms: “a” /ə/ and “of” /əv/: a little, a pinch of salt."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Món này hơi nhạt – bạn có muốn mình cho thêm chút nước mắm không, hay để mọi người tự nêm?",
+    "a": [
+     "This is a bit bland – do you want me to add a bit more fish sauce, or shall we let everyone season it themselves?",
+     "It's a little bland – would you like me to add some more fish sauce, or should everyone add their own?",
+     "This dish is a bit bland. Do you want me to put in a little more fish sauce, or shall we let people season it themselves?"
+    ],
+    "e": [
+     "“bland” = nhạt; “want sb to do sth” = muốn ai làm gì; “season” = nêm gia vị; “let sb do sth” (không có “to”).",
+     "“bland” = without much flavour; “want sb to do sth”; “season” = add salt and spices; “let sb do sth” (no “to”)."
+    ],
+    "f": [
+     "do you want me to add",
+     "B1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại bằng câu bị động.",
+     "Rewrite in the passive."
+    ],
+    "s": "You should keep the sauce in the fridge and use it within three days.",
+    "a": [
+     "The sauce should be kept in the fridge and used within three days.",
+     "The sauce should be kept in the fridge and should be used within three days."
+    ],
+    "e": [
+     "Bị động với động từ khuyết thiếu: should be + V3 (kept, used).",
+     "Passive with a modal: should be + past participle (kept, used)."
+    ],
+    "f": [
+     "should be kept in the fridge",
+     "B1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I've run out of eggs, so could you pop to the shop and buy few on your way home from work?",
+    "a": [
+     "I've run out of eggs, so could you pop to the shop and buy a few on your way home from work?",
+     "I've run out of eggs, so could you pop to the shop and buy some on your way home from work?"
+    ],
+    "e": [
+     "“a few” = vài (nghĩa tích cực); “few” = rất ít (gần như không). “run out of” = hết; “pop to the shop” = chạy ra cửa hàng.",
+     "“a few” = some; “few” = hardly any. “run out of” = have none left; “pop to the shop” = go quickly to the shop."
+    ],
+    "f": [
+     "buy a few",
+     "B1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Don't worry if the cake doesn't look perfect – it's my first attempt, so I'm just going to play it by ___.",
+    "a": [
+     "ear"
+    ],
+    "e": [
+     "“play it by ear” = tùy cơ ứng biến, không theo kế hoạch cố định.",
+     "“play it by ear” = decide as you go, without a fixed plan."
+    ],
+    "f": [
+     "play it by ear",
+     "B1"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Easy egg fried rice (for two people)\nYou need: two cups of cooked rice, two eggs, a small onion, some peas, a little oil, two spoons of soy sauce and some salt.\nFirst, chop the onion. Then heat a little oil in a large pan. Fry the onion for two minutes until it is soft. After that, add the eggs and stir quickly. When the eggs are almost cooked, add the rice and the peas. Cook everything for five minutes and don't stop stirring. Finally, add the soy sauce and a pinch of salt. Serve it hot. Tip: cold rice from the day before is better than fresh rice, because it is drier.",
+   "tr": "Cơm chiên trứng đơn giản (cho hai người)\nBạn cần: hai bát cơm đã nấu chín, hai quả trứng, một củ hành tây nhỏ, một ít đậu Hà Lan, một chút dầu ăn, hai thìa xì dầu và một ít muối.\nĐầu tiên, thái nhỏ hành. Sau đó đun nóng một chút dầu trong chảo lớn. Phi hành trong hai phút cho đến khi mềm. Tiếp theo, cho trứng vào và đảo nhanh tay. Khi trứng gần chín, cho cơm và đậu vào. Xào tất cả trong năm phút và đảo liên tục. Cuối cùng, thêm xì dầu và một nhúm muối. Dùng nóng. Mẹo: cơm nguội từ hôm trước ngon hơn cơm mới nấu, vì nó khô hơn."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Món ăn này dành cho bao nhiêu người?",
+     "How many people is the recipe for?"
+    ],
+    "o": [
+     [
+      "Hai người",
+      "Two people"
+     ],
+     [
+      "Bốn người",
+      "Four people"
+     ],
+     [
+      "Một người",
+      "One person"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Tiêu đề ghi “(for two people)”. “two cups”, “two eggs” là lượng nguyên liệu.",
+     "The title says “(for two people)”. “two cups”, “two eggs” are amounts of ingredients."
+    ],
+    "f": [
+     "for two people",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khi nào cho cơm vào chảo?",
+     "When do you add the rice?"
+    ],
+    "o": [
+     [
+      "Khi trứng gần chín",
+      "When the eggs are almost cooked"
+     ],
+     [
+      "Trước khi phi hành",
+      "Before frying the onion"
+     ],
+     [
+      "Sau khi thêm xì dầu",
+      "After adding the soy sauce"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“When the eggs are almost cooked, add the rice and the peas.” Xì dầu được thêm ở bước cuối (Finally).",
+     "“When the eggs are almost cooked, add the rice and the peas.” Soy sauce comes last (Finally)."
+    ],
+    "f": [
+     "When the eggs are almost cooked",
+     "A2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao cơm nguội tốt hơn cơm mới nấu?",
+     "Why is cold rice better than fresh rice?"
+    ],
+    "o": [
+     [
+      "Vì nó khô hơn",
+      "Because it is drier"
+     ],
+     [
+      "Vì nó rẻ hơn",
+      "Because it is cheaper"
+     ],
+     [
+      "Vì nó nóng hơn",
+      "Because it is hotter"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“cold rice from the day before is better than fresh rice, because it is drier” – dry → drier (y → i + er).",
+     "“cold rice from the day before is better than fresh rice, because it is drier” – dry → drier (y → i + er)."
+    ],
+    "f": [
+     "because it is drier",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "We only need ___ oil for this recipe, so please don't pour half the bottle into the pan.",
+    "o": [
+     "a little",
+     "a few",
+     "many"
+    ],
+    "a": 0,
+    "e": [
+     "oil không đếm được → a little. “a few/many” đi với danh từ đếm được số nhiều.",
+     "oil is uncountable → a little. “a few/many” go with plural countable nouns."
+    ],
+    "f": [
+     "a little oil",
+     "A2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "___ eggs do I need for the cake? I only have three in the fridge, so I might need to buy some more.",
+    "o": [
+     "How many",
+     "How much",
+     "How long"
+    ],
+    "a": 0,
+    "e": [
+     "eggs đếm được số nhiều → How many. “How much” cho danh từ không đếm được.",
+     "eggs are plural countable → How many. “How much” is for uncountable nouns."
+    ],
+    "f": [
+     "How many eggs",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "First, wash the vegetables carefully. ___ that, cut them into small pieces and put them in a bowl.",
+    "a": [
+     "After"
+    ],
+    "e": [
+     "“After that” = sau đó – từ nối trình tự trong công thức.",
+     "“After that” = next – a sequencer used in recipes."
+    ],
+    "f": [
+     "After that",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Add a ___ of salt and a little pepper, then taste the soup to check if it needs anything else.",
+    "a": [
+     "pinch"
+    ],
+    "e": [
+     "“a pinch of salt” = một nhúm muối (lượng nhỏ cầm giữa hai ngón tay).",
+     "“a pinch of salt” = the small amount you hold between two fingers."
+    ],
+    "f": [
+     "a pinch of salt",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Please buy two kilos of rices and some vegetables at the market, because my grandparents are coming for dinner tonight.",
+    "a": [
+     "Please buy two kilos of rice and some vegetables at the market, because my grandparents are coming for dinner tonight."
+    ],
+    "e": [
+     "rice không đếm được → không thêm -s, kể cả khi có “two kilos of”.",
+     "rice is uncountable → no -s, even after “two kilos of”."
+    ],
+    "f": [
+     "two kilos of rice",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "You stir the soup slowly and don't let it boil, or the chicken will become hard and dry.",
+    "a": [
+     "Stir the soup slowly and don't let it boil, or the chicken will become hard and dry."
+    ],
+    "e": [
+     "Công thức dùng câu mệnh lệnh: bỏ “You”, bắt đầu bằng động từ “Stir”.",
+     "Recipes use imperatives: drop “You” and start with the verb “Stir”."
+    ],
+    "f": [
+     "Stir the soup slowly",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đầu tiên, đun sôi nước. Sau đó cho mì vào và nấu thêm ba phút.",
+    "a": [
+     "First, boil the water. Then add the noodles and cook them for three more minutes.",
+     "First, boil the water. Then put the noodles in and cook for another three minutes.",
+     "First, boil some water. Then add the noodles and cook for three more minutes."
+    ],
+    "e": [
+     "Câu mệnh lệnh + từ nối First/Then. “three more minutes / another three minutes” = thêm ba phút.",
+     "Imperatives + First/Then. “three more minutes / another three minutes” = three extra minutes."
+    ],
+    "f": [
+     "First, boil the water",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đừng cho quá nhiều đường vào cà phê của bố tôi, vì ông ấy không được ăn đồ ngọt.",
+    "a": [
+     "Don't put too much sugar in my dad's coffee, because he can't eat sweet things.",
+     "Don't put too much sugar in my father's coffee because he isn't allowed to eat sweet food.",
+     "Don't add too much sugar to my dad's coffee, because he mustn't eat sweet things."
+    ],
+    "e": [
+     "Mệnh lệnh phủ định: Don't + V. sugar không đếm được → too much (không phải too many).",
+     "Negative imperative: Don't + verb. sugar is uncountable → too much (not too many)."
+    ],
+    "f": [
+     "Don't put too much sugar",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "When the water|starts to boil,|add the chicken|and cook it|for twenty minutes|with the lid on",
+    "m": [
+     "Khi nước bắt đầu sôi, cho gà vào và nấu trong hai mươi phút, đậy nắp.",
+     "When the water starts to boil, add the chicken and cook it for twenty minutes with the lid on."
+    ],
+    "e": [
+     "Mệnh đề “When …” chỉ thời điểm, sau đó là câu mệnh lệnh. “with the lid on” = đậy nắp.",
+     "A “When …” clause gives the time, then the imperative. “with the lid on” = covered."
+    ],
+    "f": [
+     "When the water starts to boil",
+     "A2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết công thức khoảng 80 từ cho một món ăn Việt Nam đơn giản: nguyên liệu (có số lượng) và 4–5 bước.",
+     "Write a recipe (about 80 words) for a simple Vietnamese dish: ingredients with amounts and 4–5 steps."
+    ],
+    "m": "Tomato egg soup (for three people)\nYou need: two tomatoes, two eggs, a spring onion, a litre of water, a spoon of fish sauce and a little salt.\nFirst, cut the tomatoes into small pieces. Then fry them in a little oil for two minutes. After that, add the water and boil it. When the water is boiling, pour in the eggs slowly and stir gently. Finally, add the fish sauce, salt and chopped spring onion. Serve hot with rice.",
+    "e": [
+     "Cần có: danh sách nguyên liệu với a little/some/a cup of …; 4–5 câu mệnh lệnh; từ nối First, Then, After that, Finally; ít nhất một câu với When/until.",
+     "Include: an ingredient list with a little/some/a cup of …; 4–5 imperatives; sequencers First, Then, After that, Finally; at least one When/until sentence."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a2-r",
+  "t": [
+   "Bài đọc: Cuối tuần ở Đà Lạt",
+   "Reading: A weekend in Da Lat"
+  ],
+  "rd": {
+   "tx": "Last weekend, Nam and his friends went to Da Lat by bus. The trip took seven hours, so they arrived late on Friday night. On Saturday morning it was cold and foggy. They visited a flower farm and took a lot of photos. In the afternoon they rented bikes and rode around Xuan Huong Lake. The food was cheaper than in Ho Chi Minh City, and Nam ate too much grilled corn. On Sunday it rained, so they stayed in a small coffee shop for three hours. Nam says it was the best trip of the year.",
+   "tr": "Cuối tuần trước, Nam và các bạn đi Đà Lạt bằng xe khách. Chuyến đi mất bảy tiếng nên họ đến nơi muộn vào tối thứ Sáu. Sáng thứ Bảy trời lạnh và có sương mù. Họ thăm một vườn hoa và chụp rất nhiều ảnh. Buổi chiều họ thuê xe đạp và đạp quanh hồ Xuân Hương. Đồ ăn rẻ hơn ở TP.HCM, và Nam ăn quá nhiều ngô nướng. Chủ nhật trời mưa nên họ ngồi ba tiếng trong một quán cà phê nhỏ. Nam nói đó là chuyến đi tuyệt nhất trong năm."
+  },
+  "vo": [
+   [
+    "trip",
+    "/trɪp/",
+    "chuyến đi",
+    "a journey"
+   ],
+   [
+    "arrive",
+    "/əˈraɪv/",
+    "đến nơi",
+    "to reach a place"
+   ],
+   [
+    "foggy",
+    "/ˈfɑːɡi/",
+    "có sương mù",
+    "full of fog"
+   ],
+   [
+    "rent",
+    "/rent/",
+    "thuê",
+    "to pay to use"
+   ],
+   [
+    "grilled",
+    "/ɡrɪld/",
+    "nướng",
+    "cooked over fire"
+   ],
+   [
+    "stay",
+    "/steɪ/",
+    "ở lại",
+    "to remain"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    "How did they travel to Da Lat?",
+    [
+     "by plane",
+     "by bus",
+     "by train"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Sáng thứ Bảy thời tiết thế nào?",
+     "What was the weather like on Saturday morning?"
+    ],
+    [
+     [
+      "nóng và nắng",
+      "hot and sunny"
+     ],
+     [
+      "lạnh và có sương mù",
+      "cold and foggy"
+     ],
+     [
+      "mưa to",
+      "heavy rain"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Chiều thứ Bảy họ làm gì?",
+     "What did they do on Saturday afternoon?"
+    ],
+    [
+     [
+      "thuê xe đạp đi quanh hồ",
+      "rented bikes and rode around the lake"
+     ],
+     [
+      "thăm vườn hoa",
+      "visited a flower farm"
+     ],
+     [
+      "ngồi quán cà phê",
+      "sat in a coffee shop"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Vì sao họ ngồi quán cà phê ba tiếng?",
+     "Why did they stay in a coffee shop for three hours?"
+    ],
+    [
+     [
+      "vì trời mưa",
+      "because it rained"
+     ],
+     [
+      "vì mệt",
+      "because they were tired"
+     ],
+     [
+      "vì xe hỏng",
+      "because the bus broke down"
+     ]
+    ],
+    0
+   ],
+   [
+    "type",
+    [
+     "Quá khứ của “ride” trong bài",
+     "Past of “ride” in the text"
+    ],
+    [
+     "rode"
+    ]
+   ],
+   [
+    "fill",
+    "The food was ___ than in Ho Chi Minh City.",
+    [
+     "cheap",
+     "cheaper",
+     "cheapest"
+    ],
+    1
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "The trip to Da Lat took seven hours by bus, so Nam and his friends arrived late on Friday night.",
+    "q": [
+     "Họ đến Đà Lạt khi nào?",
+     "When did they arrive in Da Lat?"
+    ],
+    "o": [
+     [
+      "sáng thứ Sáu",
+      "on Friday morning"
+     ],
+     [
+      "tối muộn thứ Sáu",
+      "late on Friday night"
+     ],
+     [
+      "sáng thứ Bảy",
+      "on Saturday morning"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“arrived late on Friday night” – vì chuyến xe mất bảy tiếng (“took seven hours”).",
+     "“arrived late on Friday night” – because the bus trip “took seven hours”."
+    ],
+    "f": [
+     "arrived late on Friday night",
+     "A2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "On Sunday it rained, so they stayed in a small coffee shop for three hours.",
+    "e": [
+     "“rained”, “stayed” là động từ có quy tắc, đuôi -ed đọc /d/. “for three hours” chỉ khoảng thời gian.",
+     "“rained” and “stayed” are regular; -ed sounds like /d/. “for three hours” gives a duration."
+    ],
+    "f": [
+     "stayed in a small coffee shop",
+     "A2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "The food in Da Lat was cheaper than in Ho Chi Minh City, and it was delicious.",
+    "e": [
+     "Nhấn “cheaper” và “delicious”; “than” đọc nhẹ /ðən/.",
+     "Stress “cheaper” and “delicious”; say “than” weakly as /ðən/."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "On Saturday afternoon, Nam and his friends ___ bikes and rode around Xuan Huong Lake.",
+    "o": [
+     "rent",
+     "rented",
+     "renting"
+    ],
+    "a": 1,
+    "e": [
+     "Câu kể chuyện quá khứ, và động từ sau “and” là “rode” (quá khứ) → “rented”.",
+     "It is a past story, and the next verb is “rode” (past) → “rented”."
+    ],
+    "f": [
+     "rented bikes",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Nam says the weekend in Da Lat was the ___ trip of the year, even though it rained on Sunday. (good)",
+    "a": [
+     "best"
+    ],
+    "e": [
+     "good → better → the best. Có “the … of the year” nên dùng so sánh nhất.",
+     "good → better → the best. “the … of the year” needs the superlative."
+    ],
+    "f": [
+     "the best trip",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "On Saturday morning it was cold and foggy, but they visit a flower farm and took a lot of photos.",
+    "a": [
+     "On Saturday morning it was cold and foggy, but they visited a flower farm and took a lot of photos.",
+     "On Saturday morning it was cold and foggy but they visited a flower farm and took a lot of photos."
+    ],
+    "e": [
+     "Mọi hành động đều ở quá khứ (“was”, “took”) nên “visit” phải là “visited”. Đừng trộn hiện tại vào câu kể quá khứ.",
+     "All the actions are past (“was”, “took”), so “visit” must be “visited”. Don't mix tenses in a past story."
+    ],
+    "f": [
+     "they visited a flower farm",
+     "A2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Đà Lạt lạnh hơn Thành phố Hồ Chí Minh nhiều, nên chúng tôi đã mang theo áo khoác ấm.",
+    "a": [
+     "Da Lat is much colder than Ho Chi Minh City, so we brought warm jackets.",
+     "Da Lat is much colder than Ho Chi Minh City, so we brought warm jackets with us.",
+     "Da Lat is much colder than Ho Chi Minh City, so we took warm jackets.",
+     "Da Lat is much colder than Ho Chi Minh City, so we took warm jackets with us.",
+     "Da Lat is much colder than Ho Chi Minh City, so we brought warm coats.",
+     "Da Lat is much colder than Ho Chi Minh City, so we took warm coats with us."
+    ],
+    "e": [
+     "“lạnh hơn nhiều” = “much colder than”. “đã mang theo” → quá khứ: bring → brought, take → took (bất quy tắc).",
+     "“much colder than” for a big difference. “brought / took” are irregular past forms."
+    ],
+    "f": [
+     "much colder than",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu thành kế hoạch tương lai với “be going to”, thay “Last weekend” bằng “Next weekend”",
+     "Rewrite as a future plan with “be going to”, replacing “Last weekend” with “Next weekend”"
+    ],
+    "s": "Last weekend Nam and his friends went to Da Lat by bus.",
+    "a": [
+     "Next weekend Nam and his friends are going to go to Da Lat by bus.",
+     "Next weekend Nam and his friends are going to Da Lat by bus.",
+     "Nam and his friends are going to go to Da Lat by bus next weekend.",
+     "Next weekend, Nam and his friends are going to go to Da Lat by bus."
+    ],
+    "e": [
+     "Kế hoạch tương lai: “are going to + go”. “Nam and his friends” số nhiều → “are”. Có thể rút gọn “going to go to” thành “going to”.",
+     "Future plan: “are going to + go”. The plural subject takes “are”. “going to go to” can be shortened to “going to”."
+    ],
+    "f": [
+     "are going to go",
+     "A2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Nam|ate too much|grilled corn|because the food|was much cheaper|than in|Ho Chi Minh City",
+    "m": [
+     "Nam ăn quá nhiều ngô nướng vì đồ ăn rẻ hơn ở Thành phố Hồ Chí Minh nhiều.",
+     "Nam ate too much grilled corn because the food was much cheaper than in Ho Chi Minh City."
+    ],
+    "e": [
+     "“eat” → “ate” (bất quy tắc). “corn” không đếm được nên dùng “too much”, không dùng “too many”.",
+     "“eat” → “ate” (irregular). “corn” is uncountable, so “too much”, not “too many”."
+    ],
+    "f": [
+     "ate too much grilled corn",
+     "A2"
+    ]
+   }
+  ]
+ }
+]

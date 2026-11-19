@@ -5,7 +5,9 @@ import { Mascot } from '../../components/mascots';
 import { EmptyState, ProgressBar } from '../../components/ui';
 import { appStore, useAppState } from '../../stores/appStore';
 import { applyCardReview, awardXp, courseProgress } from '../../stores/appState';
-import { toDayKey } from '../../utils/date';
+import { toDayKey, type DayKey } from '../../utils/date';
+import type { SpeechLang } from '../../utils/speech';
+import type { MascotId } from '../../types';
 import { playFeedback } from '../../utils/sound';
 import type { Course } from '../curriculum';
 import { SpeakButton } from '../lesson-player/exercises/common';
@@ -15,12 +17,41 @@ const MAX_CARDS_PER_SESSION = 20;
 
 export function ReviewPage({ course }: { course: Course }) {
   const state = useAppState();
-  const buddy = state.profile?.buddy ?? course.mascot;
+  return (
+    <FlashcardSession
+      cards={courseProgress(state, course.id).cards}
+      frontLang={course.targetLang}
+      backLang={course.baseLang}
+      buddy={state.profile?.buddy ?? course.mascot}
+      soundOn={state.soundOn}
+      onGrade={(cardId, g, today) =>
+        appStore.update((s) => applyCardReview(s, course.id, cardId, g, today))
+      }
+      onExit={() => navigate({ name: 'practice' })}
+    />
+  );
+}
+
+/** A review session over any deck of cards (course words or level vocabulary). */
+export function FlashcardSession({
+  cards,
+  frontLang,
+  backLang,
+  buddy,
+  soundOn,
+  onGrade,
+  onExit,
+}: {
+  cards: Record<string, SrsCard>;
+  frontLang: SpeechLang;
+  backLang: SpeechLang;
+  buddy: MascotId;
+  soundOn: boolean;
+  onGrade: (cardId: string, grade: ReviewGrade, today: DayKey) => void;
+  onExit: () => void;
+}) {
   const [queue, setQueue] = useState<SrsCard[]>(() =>
-    dueCards(courseProgress(appStore.getState(), course.id).cards, toDayKey(new Date())).slice(
-      0,
-      MAX_CARDS_PER_SESSION,
-    ),
+    dueCards(cards, toDayKey(new Date())).slice(0, MAX_CARDS_PER_SESSION),
   );
   const [total] = useState(queue.length);
   const [reviewed, setReviewed] = useState<string[]>([]);
@@ -28,12 +59,12 @@ export function ReviewPage({ course }: { course: Course }) {
   const [finished, setFinished] = useState(false);
 
   const card = queue[0];
-  const exit = () => navigate({ name: 'practice' });
+  const exit = onExit;
 
   const grade = (g: ReviewGrade) => {
     if (!card) return;
     const today = toDayKey(new Date());
-    appStore.update((s) => applyCardReview(s, course.id, card.id, g, today));
+    onGrade(card.id, g, today);
     const nextReviewed = reviewed.includes(card.id) ? reviewed : [...reviewed, card.id];
     setReviewed(nextReviewed);
     // "Again" cards come back at the end of this session.
@@ -43,7 +74,7 @@ export function ReviewPage({ course }: { course: Course }) {
     if (!rest.length) {
       const xp = Math.min(10, nextReviewed.length);
       appStore.update((s) => awardXp(s, xp, today));
-      if (state.soundOn) playFeedback('complete');
+      if (soundOn) playFeedback('complete');
       setFinished(true);
     }
   };
@@ -103,18 +134,18 @@ export function ReviewPage({ course }: { course: Course }) {
             aria-label={flipped ? 'Hide answer' : 'Show answer'}
           >
             <span className="flashcard__inner">
-              <span className="flashcard__face flashcard__front" lang={course.targetLang}>
+              <span className="flashcard__face flashcard__front" lang={frontLang}>
                 {card.front}
                 <small>Tap to flip</small>
               </span>
-              <span className="flashcard__face flashcard__back" lang={course.baseLang}>
+              <span className="flashcard__face flashcard__back" lang={backLang}>
                 {card.back}
-                <small lang={course.targetLang}>{card.front}</small>
+                <small lang={frontLang}>{card.front}</small>
               </span>
             </span>
           </button>
           <div className="listen-controls">
-            <SpeakButton text={card.front} lang={course.targetLang} />
+            <SpeakButton text={card.front} lang={frontLang} />
           </div>
         </div>
       </main>

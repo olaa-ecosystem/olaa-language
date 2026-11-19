@@ -1,0 +1,2899 @@
+[
+ {
+  "id": "h6-1",
+  "t": [
+   "Văn viết trang trọng (书面语)",
+   "Formal written Chinese"
+  ],
+  "hz": "然此鉴",
+  "th": [
+   [
+    "Văn viết dùng từ trang trọng thay khẩu ngữ:\n• 但是 → **然而**\n• 所以 → **因此 / 因而**\n• 还有 → **此外**\n• 为了 (vế sau) → **以便**\n• 因为 → **由于 / 鉴于**\n• 给 → **予以 / 给予**",
+    "Formal writing replaces spoken words:\n• 但是 → **然而**\n• 所以 → **因此 / 因而**\n• 还有 → **此外**\n• 为了 (second clause) → **以便**\n• 因为 → **由于 / 鉴于**\n• 给 → **予以 / 给予**"
+   ],
+   [
+    "**以便 yǐbiàn** đứng đầu vế sau: 请提前报名，**以便**我们安排。\n**鉴于 jiànyú** (xét thấy) đứng đầu câu: **鉴于**目前情况，会议推迟举行。\n**予以 yǔyǐ** + động từ hai âm tiết: 予以支持 / 予以批准.",
+    "**以便 yǐbiàn** starts the second clause: 请提前报名，**以便**我们安排。\n**鉴于 jiànyú** (in view of) starts the sentence: **鉴于**目前情况，会议推迟举行。\n**予以 yǔyǐ** + two-syllable verb: 予以支持 / 予以批准."
+   ]
+  ],
+  "vo": [
+   [
+    "然而",
+    "rán'ér",
+    "tuy nhiên",
+    "however"
+   ],
+   [
+    "因此",
+    "yīncǐ",
+    "vì vậy",
+    "therefore"
+   ],
+   [
+    "此外",
+    "cǐwài",
+    "ngoài ra",
+    "in addition"
+   ],
+   [
+    "以便",
+    "yǐbiàn",
+    "để tiện cho",
+    "so that"
+   ],
+   [
+    "鉴于",
+    "jiànyú",
+    "xét thấy",
+    "in view of"
+   ],
+   [
+    "予以",
+    "yǔyǐ",
+    "dành cho, tiến hành",
+    "to give (formal)"
+   ],
+   [
+    "由于",
+    "yóuyú",
+    "do, bởi vì",
+    "due to"
+   ],
+   [
+    "推迟",
+    "tuīchí",
+    "hoãn lại",
+    "to postpone"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "他很努力，___结果并不理想。",
+    [
+     "然而",
+     "因此",
+     "此外"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "由于天气原因，航班___推迟。",
+    [
+     "因此",
+     "然而",
+     "以便"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "请提前通知，___我们做好准备。",
+    [
+     "以便",
+     "因此",
+     "鉴于"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___目前的情况，会议将推迟举行。",
+    [
+     "鉴于",
+     "以便",
+     "然而"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "公司对他的建议___支持。",
+    [
+     "予以",
+     "鉴于",
+     "此外"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "这家酒店交通方便，___价格也合理。",
+    [
+     "此外",
+     "然而",
+     "鉴于"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Từ trang trọng tương ứng với “但是”?",
+     "Formal equivalent of “但是”?"
+    ],
+    [
+     "然而",
+     "所以",
+     "还有"
+    ],
+    0
+   ],
+   [
+    "listen",
+    "鉴于以上原因，我们决定取消活动。",
+    [
+     "Jiànyú yǐshàng yuányīn, wǒmen juédìng qǔxiāo huódòng.",
+     "Yóuyú tiānqì yuányīn, huódòng tuīchí.",
+     "Rán'ér wǒmen juédìng jìxù."
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "鉴于近期天气持续恶化，本次户外活动将推迟至下月举行，具体时间另行通知。",
+    "q": [
+     "Vì sao hoạt động bị hoãn?",
+     "Why is the event postponed?"
+    ],
+    "o": [
+     [
+      "thời tiết liên tục xấu đi",
+      "the weather keeps getting worse"
+     ],
+     [
+      "thiếu kinh phí",
+      "lack of funding"
+     ],
+     [
+      "quá ít người đăng ký",
+      "too few sign-ups"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "鉴于 (xét thấy) đứng đầu câu, nêu căn cứ cho quyết định: 天气持续恶化.",
+     "鉴于 (in view of) opens the sentence and gives the basis for the decision: 天气持续恶化."
+    ],
+    "f": [
+     "鉴于近期天气持续恶化",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "由于报名人数较多，请各位参加者提前十分钟到达会场，以便工作人员安排座位。",
+    "e": [
+     "由于 thay 因为 trong văn viết; 以便 đứng đầu vế sau, chỉ mục đích “để tiện cho”.",
+     "由于 replaces 因为 in writing; 以便 opens the second clause, meaning “so that”."
+    ],
+    "f": [
+     "以便工作人员安排座位",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "该方案在技术上是可行的，然而成本过高，因此公司决定暂不予以批准。"
+   }
+  ],
+  "rd2": {
+   "tx": "各部门员工：鉴于近期用电量大幅增加，为节约能源，经公司研究决定，自下月一日起，办公楼开放时间调整为早上七点至晚上九点。由于部分项目需要加班完成，相关部门可提前三天向行政部提交申请，以便我们统一安排。此外，周末办公楼原则上不再开放，如遇特殊情况，公司将视具体情况予以考虑。然而，未经批准私自进入者，一经发现，将予以通报批评。望各位员工理解并配合。行政部",
+   "tr": "Gửi nhân viên các phòng ban: Xét thấy gần đây lượng điện tiêu thụ tăng mạnh, để tiết kiệm năng lượng, sau khi nghiên cứu, công ty quyết định: kể từ ngày mùng một tháng sau, giờ mở cửa tòa nhà văn phòng được điều chỉnh thành từ bảy giờ sáng đến chín giờ tối. Do một số dự án cần làm thêm giờ để hoàn thành, các phòng ban liên quan có thể nộp đơn cho phòng Hành chính trước ba ngày, để chúng tôi sắp xếp thống nhất. Ngoài ra, về nguyên tắc tòa nhà sẽ không mở cửa vào cuối tuần nữa; nếu có trường hợp đặc biệt, công ty sẽ xem xét tùy tình hình cụ thể. Tuy nhiên, người tự ý vào mà chưa được phê duyệt, một khi bị phát hiện sẽ bị phê bình công khai. Mong toàn thể nhân viên thông cảm và phối hợp. Phòng Hành chính"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao công ty điều chỉnh giờ mở cửa?",
+     "Why are the opening hours being changed?"
+    ],
+    "o": [
+     [
+      "lượng điện tiêu thụ tăng mạnh, cần tiết kiệm năng lượng",
+      "electricity use has risen sharply; energy must be saved"
+     ],
+     [
+      "nhân viên phàn nàn làm việc quá muộn",
+      "staff complained about late hours"
+     ],
+     [
+      "tòa nhà đang được sửa chữa",
+      "the building is under repair"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“鉴于近期用电量大幅增加，为节约能源” – 鉴于 nêu căn cứ, 为 nêu mục đích.",
+     "“鉴于近期用电量大幅增加，为节约能源” – 鉴于 gives the basis, 为 the purpose."
+    ],
+    "f": [
+     "鉴于近期用电量大幅增加",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Phòng ban cần làm thêm giờ phải làm gì?",
+     "What must a department that needs overtime do?"
+    ],
+    "o": [
+     [
+      "nộp đơn cho phòng Hành chính trước ba ngày",
+      "apply to Administration three days in advance"
+     ],
+     [
+      "báo cho giám đốc trước một ngày",
+      "tell the director a day ahead"
+     ],
+     [
+      "tự dùng thẻ để vào tòa nhà",
+      "let themselves in with a card"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“可提前三天向行政部提交申请，以便我们统一安排” – 以便 nêu mục đích của việc nộp đơn sớm.",
+     "“可提前三天向行政部提交申请，以便我们统一安排” – 以便 gives the purpose of applying early."
+    ],
+    "f": [
+     "提前三天向行政部提交申请",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người tự ý vào khi chưa được phép sẽ bị xử lý thế nào?",
+     "What happens to anyone entering without approval?"
+    ],
+    "o": [
+     [
+      "bị phê bình công khai",
+      "they will be publicly reprimanded"
+     ],
+     [
+      "bị phạt tiền",
+      "they will be fined"
+     ],
+     [
+      "bị sa thải",
+      "they will be dismissed"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“将予以通报批评” – 予以 + động từ hai âm tiết (通报批评) là lối văn công văn.",
+     "“将予以通报批评” – 予以 + two-syllable verb (通报批评) is official-notice style."
+    ],
+    "f": [
+     "予以通报批评",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "本次调查的样本数量较少，___，其结论是否适用于全国范围，仍有待进一步研究。",
+    "o": [
+     "因此",
+     "然而",
+     "以便"
+    ],
+    "a": 0,
+    "e": [
+     "Mẫu ít → kết luận chưa chắc áp dụng được: quan hệ nhân quả, dùng 因此. 然而 chỉ sự đối lập, 以便 chỉ mục đích.",
+     "Small sample → conclusion may not apply: cause and effect, so 因此. 然而 is contrast, 以便 is purpose."
+    ],
+    "f": [
+     "因此",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "请各单位于本周五以前将参会人员名单报送至办公室，___统一安排住宿和交通。",
+    "a": [
+     "以便"
+    ],
+    "e": [
+     "以便 đứng đầu vế sau, chỉ mục đích “để tiện cho việc …”, trang trọng hơn 为了 và không đứng ở vế đầu.",
+     "以便 opens the second clause meaning “so that”; more formal than 为了 and never in the first clause."
+    ],
+    "f": [
+     "以便",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "该公司去年的销售额增长了百分之二十，然而利润也有所上升，因此董事会决定扩大生产规模。",
+    "a": [
+     "该公司去年的销售额增长了百分之二十，而且利润也有所上升，因此董事会决定扩大生产规模。",
+     "该公司去年的销售额增长了百分之二十，同时利润也有所上升，因此董事会决定扩大生产规模。",
+     "该公司去年的销售额增长了百分之二十，此外利润也有所上升，因此董事会决定扩大生产规模。",
+     "该公司去年的销售额增长了百分之二十，此外，利润也有所上升，因此董事会决定扩大生产规模。"
+    ],
+    "e": [
+     "然而 (tuy nhiên) chỉ sự tương phản, nhưng doanh thu và lợi nhuận đều tăng → phải dùng 而且 / 同时 / 此外 (bổ sung).",
+     "然而 (however) signals contrast, but sales and profit both rose → use 而且 / 同时 / 此外 (addition)."
+    ],
+    "f": [
+     "而且",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại theo văn phong trang trọng: thay 因为 → 由于, 所以 → 因此, 还有 → 此外",
+     "Rewrite formally: 因为 → 由于, 所以 → 因此, 还有 → 此外"
+    ],
+    "s": "因为天气不好，所以明天的比赛推迟到下周举行，还有，观众的门票可以退。",
+    "a": [
+     "由于天气不好，因此明天的比赛推迟到下周举行，此外，观众的门票可以退。",
+     "由于天气不好，明天的比赛因此推迟到下周举行，此外，观众的门票可以退。",
+     "由于天气不好，因此明天的比赛推迟到下周举行，此外观众的门票可以退。"
+    ],
+    "e": [
+     "Văn viết dùng 由于 / 因此 / 此外 thay cho 因为 / 所以 / 还有; 此外 thường có dấu phẩy theo sau.",
+     "Formal writing uses 由于 / 因此 / 此外 for 因为 / 所以 / 还有; 此外 is usually followed by a comma."
+    ],
+    "f": [
+     "由于…因此…此外",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xét thấy tình hình hiện nay, công ty quyết định tạm dừng tuyển dụng; ngoài ra, mọi chi phí công tác đều phải được phê duyệt trước.",
+    "a": [
+     "鉴于目前的情况，公司决定暂停招聘；此外，所有出差费用都必须事先得到批准。",
+     "鉴于目前的情况，公司决定暂停招聘，此外，所有出差费用都必须事先得到批准。",
+     "鉴于目前的情况，公司决定暂停招聘；此外，所有出差费用都必须提前批准。",
+     "鉴于当前情况，公司决定暂停招聘；此外，一切出差费用均须事先获得批准。",
+     "鉴于目前的情况，公司决定暂停招聘；此外，所有出差费用都须事先批准。"
+    ],
+    "e": [
+     "“Xét thấy” = 鉴于 (đứng đầu câu), “ngoài ra” = 此外. Văn bản hành chính ưa 均须, 事先, 获得.",
+     "“In view of” = 鉴于 (sentence-initial), “in addition” = 此外. Official texts favour 均须, 事先, 获得."
+    ],
+    "f": [
+     "鉴于目前的情况",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "鉴于|该员工|在工作中|表现|突出|公司|决定|对其|予以|奖励",
+    "m": [
+     "Xét thấy nhân viên này có thành tích nổi bật trong công việc, công ty quyết định khen thưởng.",
+     "In view of this employee's outstanding performance, the company has decided to reward them."
+    ],
+    "e": [
+     "对 + 其 (người đó) + 予以 + động từ hai âm tiết (奖励). 该 = “này / nói trên” trong văn viết.",
+     "对 + 其 (him/her) + 予以 + two-syllable verb (奖励). 该 = “the said / this” in writing."
+    ],
+    "f": [
+     "对其予以奖励",
+     "HSK6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h6-2",
+  "t": [
+   "Văn ngôn cơ bản (文言文)",
+   "Classical Chinese basics"
+  ],
+  "hz": "之其而",
+  "th": [
+   [
+    "Văn ngôn xuất hiện trong thành ngữ, danh ngôn và bài đọc HSK 6. Thường **một chữ = một từ**.",
+    "Classical Chinese appears in idioms, quotations and HSK 6 readings. Usually **one character = one word**."
+   ],
+   [
+    "Hư từ cơ bản:\n• **之** zhī – của; nó (đại từ tân ngữ)\n• **其** qí – của anh ta / của nó\n• **而** ér – mà, và, nhưng\n• **以** yǐ – dùng, lấy … để\n• **于** yú – ở, tại, từ; hơn\n• **也** yě – cuối câu khẳng định\n• **乎** hū – cuối câu hỏi / cảm thán\n• **者** zhě – người (làm việc gì)\n• **焉** yān – cuối câu (ở đó, vậy)",
+    "Core function words:\n• **之** zhī – of; it (object)\n• **其** qí – his / its\n• **而** ér – and, yet\n• **以** yǐ – by means of, in order to\n• **于** yú – at, from; than\n• **也** yě – final assertion\n• **乎** hū – final question / exclamation\n• **者** zhě – one who\n• **焉** yān – final particle (there, thus)"
+   ],
+   [
+    "Luận Ngữ:\n• 学而时习之，不亦说乎？– Học mà thường ôn lại, chẳng vui sao? (说 đọc **yuè** = 悦, vui)\n• 三人行，必有我师焉。– Ba người cùng đi, ắt có người làm thầy ta.\n• 知之为知之，不知为不知，是知也。– Biết thì nói biết, không biết thì nói không biết, thế mới là biết.",
+    "The Analects:\n• 学而时习之，不亦说乎？– Is it not a joy to learn and regularly practise it? (说 read **yuè** = 悦, joy)\n• 三人行，必有我师焉。– Among any three people walking, one can be my teacher.\n• 知之为知之，不知为不知，是知也。– To know what you know and admit what you don't – that is knowledge."
+   ]
+  ],
+  "vo": [
+   [
+    "之",
+    "zhī",
+    "của; nó",
+    "of; it"
+   ],
+   [
+    "其",
+    "qí",
+    "của anh ta / nó",
+    "his, its"
+   ],
+   [
+    "而",
+    "ér",
+    "mà, và",
+    "and, yet"
+   ],
+   [
+    "以",
+    "yǐ",
+    "dùng, để",
+    "by, to"
+   ],
+   [
+    "于",
+    "yú",
+    "ở, từ, hơn",
+    "at, from, than"
+   ],
+   [
+    "乎",
+    "hū",
+    "(trợ từ hỏi)",
+    "question particle"
+   ],
+   [
+    "者",
+    "zhě",
+    "người (làm…)",
+    "one who"
+   ],
+   [
+    "焉",
+    "yān",
+    "(trợ từ cuối câu)",
+    "final particle"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Trong “学而时习之”, “之” nghĩa là?",
+     "In “学而时习之”, “之” means?"
+    ],
+    [
+     [
+      "nó (điều đã học)",
+      "it (what was learned)"
+     ],
+     [
+      "đi",
+      "to go"
+     ],
+     [
+      "của",
+      "of"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Trong “不亦说乎”, chữ “说” đọc và nghĩa là?",
+     "In “不亦说乎”, “说” is read and means?"
+    ],
+    [
+     [
+      "shuō – nói",
+      "shuō – speak"
+     ],
+     [
+      "yuè – vui",
+      "yuè – joyful"
+     ],
+     [
+      "shuì – thuyết phục",
+      "shuì – persuade"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "“乎” ở cuối câu biểu thị?",
+     "Sentence-final “乎” marks?"
+    ],
+    [
+     [
+      "câu hỏi / cảm thán",
+      "question / exclamation"
+     ],
+     [
+      "sở hữu",
+      "possession"
+     ],
+     [
+      "phủ định",
+      "negation"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“者” trong “学者” nghĩa là?",
+     "“者” in “学者” means?"
+    ],
+    [
+     [
+      "người (làm việc gì)",
+      "one who"
+     ],
+     [
+      "ở tại",
+      "at"
+     ],
+     [
+      "và",
+      "and"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Trong “青出于蓝”, “于” nghĩa là?",
+     "In “青出于蓝”, “于” means?"
+    ],
+    [
+     [
+      "từ (xuất phát từ)",
+      "from"
+     ],
+     [
+      "và",
+      "and"
+     ],
+     [
+      "không",
+      "not"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "三人行，必有我师___。",
+    [
+     "焉",
+     "之",
+     "者"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Nghĩa của “知之为知之，不知为不知”:",
+     "Meaning of “知之为知之，不知为不知”:"
+    ],
+    [
+     [
+      "Biết thì nói biết, không biết thì nói không biết",
+      "Say you know when you know, and admit it when you don't"
+     ],
+     [
+      "Học càng nhiều càng biết ít",
+      "The more you learn, the less you know"
+     ],
+     [
+      "Người biết thì không nói",
+      "Those who know do not speak"
+     ]
+    ],
+    0
+   ],
+   [
+    "listen",
+    "学而时习之",
+    [
+     "xué ér shí xí zhī",
+     "xué zhě shí xí zhī",
+     "xué ér shí xí qí"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "孔子说“学而时习之，不亦说乎”，意思是学习以后经常复习，难道不是一件快乐的事吗？",
+    "q": [
+     "Theo câu này, điều gì là niềm vui?",
+     "According to this, what is a joy?"
+    ],
+    "o": [
+     [
+      "học rồi thường xuyên ôn lại",
+      "learning and regularly reviewing"
+     ],
+     [
+      "có bạn từ xa đến",
+      "friends coming from afar"
+     ],
+     [
+      "đọc thật nhiều sách",
+      "reading many books"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "习 = ôn luyện, 之 = điều đã học, 说 đọc yuè = vui. Câu hỏi tu từ 不亦…乎 = chẳng phải … sao?",
+     "习 = practise, 之 = what was learned, 说 is read yuè = joyful. 不亦…乎 = isn't it …?"
+    ],
+    "f": [
+     "学而时习之",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "“三人行，必有我师焉”告诉我们，每个人身上都有值得我们学习的地方。",
+    "e": [
+     "焉 là trợ từ cuối câu (ở đó, trong số đó). 必 = ắt hẳn, chắc chắn.",
+     "焉 is a final particle (therein, among them). 必 = surely."
+    ],
+    "f": [
+     "必有我师焉",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "“知之为知之，不知为不知，是知也”，这句话提醒我们做学问一定要诚实。"
+   }
+  ],
+  "rd2": {
+   "tx": "《荀子·劝学》开篇写道：“学不可以已。青，取之于蓝，而青于蓝；冰，水为之，而寒于水。”这几句话的意思是：学习不可以停止。靛青是从蓼蓝中提取出来的，颜色却比蓼蓝更深；冰是由水凝结而成的，却比水更冷。荀子以此说明，人通过不断学习，可以超越原来的自己，学生也可能超过老师。后来，人们把它概括为成语“青出于蓝”，用来称赞学生比老师更优秀。文中“取之于蓝”的“于”表示“从”，“青于蓝”的“于”则表示比较，相当于现代汉语的“比”。",
+   "tr": "Thiên “Khuyến học” trong sách Tuân Tử mở đầu: “Việc học không thể dừng. Màu chàm lấy từ cây chàm mà xanh hơn cây chàm; băng do nước tạo thành mà lạnh hơn nước.” Mấy câu này có nghĩa: việc học không được ngừng lại. Màu chàm được chiết xuất từ cây chàm nhưng màu lại đậm hơn; băng do nước đông lại mà thành nhưng lại lạnh hơn nước. Tuân Tử dùng điều đó để nói rằng con người nhờ không ngừng học tập có thể vượt qua chính mình trước kia, học trò cũng có thể vượt thầy. Về sau, người ta khái quát thành thành ngữ “thanh xuất ư lam”, dùng để khen học trò giỏi hơn thầy. Trong bài, chữ “于” trong “取之于蓝” nghĩa là “từ”, còn “于” trong “青于蓝” biểu thị so sánh, tương đương với “比” trong tiếng Hán hiện đại."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "“学不可以已” nghĩa là gì?",
+     "What does “学不可以已” mean?"
+    ],
+    "o": [
+     [
+      "việc học không được dừng lại",
+      "learning must not stop"
+     ],
+     [
+      "việc học đã hoàn thành",
+      "learning is complete"
+     ],
+     [
+      "không thể học thêm được nữa",
+      "one cannot learn any more"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "已 trong văn ngôn = dừng lại. Bài giải thích ngay: “学习不可以停止”.",
+     "已 in Classical Chinese = to stop. The text explains: “学习不可以停止”."
+    ],
+    "f": [
+     "学习不可以停止",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tuân Tử dùng ví dụ màu chàm và băng để nói điều gì?",
+     "What does Xunzi illustrate with indigo and ice?"
+    ],
+    "o": [
+     [
+      "học không ngừng có thể vượt qua chính mình",
+      "constant learning lets you surpass your former self"
+     ],
+     [
+      "nước lạnh hơn băng",
+      "water is colder than ice"
+     ],
+     [
+      "phải học khoa học tự nhiên",
+      "one must study natural science"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“以此说明，人通过不断学习，可以超越原来的自己” – 以此 = dùng điều này. Đáp án thứ hai đảo ngược thực tế.",
+     "“以此说明，人通过不断学习，可以超越原来的自己” – 以此 = by this. Option two reverses the fact."
+    ],
+    "f": [
+     "可以超越原来的自己",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Trong “青于蓝”, chữ “于” có nghĩa gì?",
+     "In “青于蓝”, what does “于” mean?"
+    ],
+    "o": [
+     [
+      "hơn (so sánh)",
+      "than (comparison)"
+     ],
+     [
+      "từ",
+      "from"
+     ],
+     [
+      "ở tại",
+      "at"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Bài nói rõ: “青于蓝”的“于”表示比较，相当于“比”. Còn “于” trong “取之于蓝” mới là “từ”.",
+     "The text says “青于蓝”的“于” marks comparison, like 比. The “于” in “取之于蓝” is the one meaning “from”."
+    ],
+    "f": [
+     "相当于现代汉语的“比”",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "在“青，取之于蓝，而青于蓝”这句话中，第二个“于”表示比较，相当于现代汉语的“___”。",
+    "o": [
+     "比",
+     "从",
+     "在"
+    ],
+    "a": 0,
+    "e": [
+     "Hình thức “tính từ + 于 + B” = hơn B: 青于蓝 = 比蓝青. 从 là nghĩa của “于” thứ nhất.",
+     "“Adjective + 于 + B” = more … than B: 青于蓝 = 比蓝青. 从 is the meaning of the first “于”."
+    ],
+    "f": [
+     "比",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "孔子说：“学而不思则罔，思而不学则___。”意思是只思考而不学习，就会陷入危险。",
+    "a": [
+     "殆"
+    ],
+    "e": [
+     "殆 dài = nguy hiểm, đối với 罔 (mờ mịt). Hai vế đối nhau: học mà không nghĩ / nghĩ mà không học.",
+     "殆 dài = perilous, paired with 罔 (confused). The halves mirror each other: learn without thinking / think without learning."
+    ],
+    "f": [
+     "思而不学则殆",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "“三人行，必有我师乎”的意思是：几个人一起走路，其中一定有可以做我老师的人。",
+    "a": [
+     "“三人行，必有我师焉”的意思是：几个人一起走路，其中一定有可以做我老师的人。",
+     "“三人行，必有我师焉”的意思是，几个人一起走路，其中一定有可以做我老师的人。"
+    ],
+    "e": [
+     "Đây là câu khẳng định nên dùng 焉 (trợ từ cuối câu); 乎 dùng cho câu hỏi hay cảm thán.",
+     "This is a statement, so the final particle is 焉; 乎 marks questions or exclamations."
+    ],
+    "f": [
+     "必有我师焉",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển câu văn ngôn sang tiếng Hán hiện đại (bắt đầu bằng 知道就说知道)",
+     "Render the Classical sentence in modern Chinese (start with 知道就说知道)"
+    ],
+    "s": "知之为知之，不知为不知，是知也。",
+    "a": [
+     "知道就说知道，不知道就说不知道，这才是真正的智慧。",
+     "知道就说知道，不知道就说不知道，这才是真正的知道。",
+     "知道就说知道，不知道就说不知道，这才是聪明的态度。",
+     "知道就说知道，不知道就说不知道，这就是智慧。"
+    ],
+    "e": [
+     "之 = điều đó; 为 = coi là / nói là; 是 = đây (đại từ chỉ định, không phải “là”); 知 cuối câu = 智 (trí tuệ).",
+     "之 = it; 为 = regard as / say; 是 = this (a demonstrative, not “to be”); the final 知 = 智 (wisdom)."
+    ],
+    "f": [
+     "这才是真正的智慧",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Câu “học mà thường ôn lại, chẳng vui sao” nhắc chúng ta rằng ôn tập thường xuyên cũng là một niềm vui.",
+    "a": [
+     "“学而时习之，不亦说乎”提醒我们，经常复习也是一种快乐。",
+     "“学而时习之，不亦说乎”告诉我们，经常复习也是一件快乐的事。",
+     "“学而时习之，不亦说乎”提醒我们，经常复习也是一件快乐的事。",
+     "“学而时习之，不亦说乎”提醒我们，常常复习也是一种乐趣。",
+     "学而时习之，不亦说乎，提醒我们经常复习也是一种快乐。"
+    ],
+    "e": [
+     "Trích nguyên văn Luận Ngữ, giữ chữ 说 (= 悦). “nhắc chúng ta” = 提醒我们; “niềm vui” = 快乐 / 乐趣.",
+     "Quote the Analects verbatim, keeping 说 (= 悦). “reminds us” = 提醒我们; “a joy” = 快乐 / 乐趣."
+    ],
+    "f": [
+     "学而时习之，不亦说乎",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "荀子|认为|人|只要|不断|学习|就|可能|青出于蓝|而胜于蓝",
+    "m": [
+     "Tuân Tử cho rằng chỉ cần không ngừng học tập, con người có thể “trò giỏi hơn thầy”.",
+     "Xunzi believed that through constant study a student can surpass the master."
+    ],
+    "e": [
+     "只要…就… nối điều kiện và kết quả; 青出于蓝而胜于蓝: 于 thứ nhất = từ, 于 thứ hai = hơn.",
+     "只要…就… links condition and result; in 青出于蓝而胜于蓝 the first 于 = from, the second = than."
+    ],
+    "f": [
+     "青出于蓝而胜于蓝",
+     "HSK6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d30",
+  "g": "work",
+  "t": [
+   "Toàn cầu hoá & kinh tế",
+   "Globalisation & the economy"
+  ],
+  "th": [
+   [
+    "**Cấu trúc lập luận văn viết (书面语)**\n• **以** A **为例** = lấy A làm ví dụ: **以越南为例**，…\n• **自**… **以来** = kể từ… đến nay: **自**2007年加入世贸组织**以来**，…\n• **一旦** A，**就** B = một khi A (điều không mong muốn) thì B: **一旦**供应链出了问题，工厂**就**不得不停工。\n• **未必** = chưa chắc (phủ định mềm, văn viết): 小企业**未必**扛得住。⚠ Không chồng với 不一定: ~~不一定…未必~~.\n• **为** + đối tượng + **创造/提供** = tạo ra cho…: **为**年轻人**创造**了大量就业机会。",
+    "**Written argument structures (书面语)**\n• **以** A **为例** = take A as an example: **以越南为例**，…\n• **自**… **以来** = since…: **自**2007年加入世贸组织**以来**，…\n• **一旦** A，**就** B = once A (undesired) happens, B: **一旦**供应链出了问题，工厂**就**不得不停工。\n• **未必** = not necessarily (soft negation, written). ⚠ Don't stack with 不一定.\n• **为** + beneficiary + **创造/提供** = create for…: **为**年轻人**创造**了大量就业机会。"
+   ],
+   [
+    "**Ngữ dụng trong tranh luận: không đồng ý mà vẫn lịch sự**\n• Mở lời phản bác: **恕我直言** (thứ lỗi tôi nói thẳng), **我基本同意，不过…**, **这一点我不敢苟同** (rất trang trọng: tôi khó lòng đồng tình).\n• Ghi nhận trước khi phản bác: **您说得有道理。可是…**\n• Rào đón (hedging) để giảm độ gắt: **未必**, **恐怕**, **在一定程度上**, **总体上**.\n• Chốt ý tự nhiên: **说到底** (nói cho cùng – khẩu ngữ) ↔ **总而言之 / 由此可见** (văn viết).\n• Trong đàm phán, từ chối khéo: **恐怕**我们**实在**没办法再降价了。",
+    "**Pragmatics in debate: disagreeing politely**\n• Openers: **恕我直言** (pardon my bluntness), **我基本同意，不过…**, **这一点我不敢苟同** (very formal: I can hardly agree).\n• Acknowledge first: **您说得有道理。可是…**\n• Hedges: **未必**, **恐怕**, **在一定程度上**, **总体上**.\n• Wrap up: **说到底** (spoken) ↔ **总而言之 / 由此可见** (written).\n• In negotiation, refuse gently: **恐怕**我们**实在**没办法再降价了。"
+   ],
+   [
+    "**Từ gần nghĩa: 增长 / 增加 / 提高; 发展 / 发达**\n• **增长**: số liệu kinh tế tự tăng (nội động từ): 出口快速**增长**；经济**增长**.\n• **增加**: tăng số lượng, có thể mang tân ngữ: **增加**投资 / 投资不断**增加**.\n• **提高**: nâng mức độ, chất lượng, giá thuế: **提高**竞争力 / **提高**关税 / **提高**水平. ⚠ ~~增长关税~~, ~~增长竞争力~~.\n• **发展** = phát triển (danh/động từ): 经济**发展**; **发达** = phát triển (tính từ, đã đạt trình độ cao): **发达**国家. ⚠ ~~经济发达受到影响~~.",
+    "**Near-synonyms: 增长 / 增加 / 提高; 发展 / 发达**\n• **增长**: economic figures grow (intransitive): 出口快速**增长**.\n• **增加**: increase a quantity, can take an object: **增加**投资.\n• **提高**: raise a level, quality, price or tax: **提高**竞争力 / **提高**关税. ⚠ ~~增长关税~~.\n• **发展** = development / develop; **发达** = developed (adjective): **发达**国家. ⚠ ~~经济发达受到影响~~."
+   ],
+   [
+    "**Thành ngữ & quán ngữ kinh tế**\n• **息息相关** = liên quan mật thiết (hơi thở gắn liền): 各国经济早已息息相关。\n• **双刃剑** = con dao hai lưỡi: 全球化是一把双刃剑。\n• **优胜劣汰** = mạnh thắng yếu bị loại (quy luật thị trường).\n• **趋利避害** = hướng tới cái lợi, tránh cái hại.\n• **以卵击石** = trứng chọi đá.\n• **关起门来** + động từ = đóng cửa lại mà… (tự cô lập).",
+    "**Economic idioms & set phrases**\n• **息息相关** = closely bound up.\n• **双刃剑** = double-edged sword.\n• **优胜劣汰** = survival of the fittest.\n• **趋利避害** = seek benefits and avoid harm.\n• **以卵击石** = throw an egg at a rock (hopeless fight).\n• **关起门来** + verb = do… behind closed doors (isolated)."
+   ],
+   [
+    "**Phát âm: chữ đa âm trong văn kinh tế**\n• 应: 供**应**链 gōng**yìng**liàn (cung ứng) ↔ **应**当 **yīng**dāng.\n• 为: **为**年轻人创造… **wèi** (cho) ↔ 认**为** rèn**wéi**.\n• 得: 说**得**有道理 de ↔ 不**得**不 bù**dé**bù ↔ **得**去 **děi** qù.\n• 恕 **shù** (không phải rú), 扛 **káng** (không phải gāng), 弊 **bì**.",
+    "**Pronunciation: polyphones in economic texts**\n• 应: 供**应**链 gōng**yìng**liàn ↔ **应**当 **yīng**dāng.\n• 为: **为**年轻人创造… **wèi** ↔ 认**为** rèn**wéi**.\n• 得: 说**得** de ↔ 不**得**不 bù**dé**bù ↔ **得**去 **děi** qù.\n• 恕 **shù**, 扛 **káng**, 弊 **bì**."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **经** (8 nét), **易** (8), **济** (9), **贸** (9), **资** (10).\n• 贸 và 资 đều có bộ 贝 (vỏ sò – tiền thời xưa): liên quan đến tiền bạc.\n• 济 = 氵 + 齐: qua sông → cứu giúp; 经济 = kinh bang tế thế.\n• 易 = 日 + 勿: dễ; trong 贸易 nghĩa là trao đổi.\n• Đọc to: 经济 jīngjì (1-4) · 贸易 màoyì (4-4) · 投资 tóuzī (2-1) · 竞争 jìngzhēng (4-1).",
+    "**Characters & tones**\nWrite: **经** (8 strokes), **易** (8), **济** (9), **贸** (9), **资** (10).\n• 贸 and 资 contain 贝 (shell – ancient money).\n• 济 = 氵 + 齐: cross a river → help; 经济 = managing the world.\n• 易 = 日 + 勿: easy; in 贸易 it means exchange.\n• Read aloud: 经济 jīngjì (1-4) · 贸易 màoyì (4-4) · 投资 tóuzī (2-1) · 竞争 jìngzhēng (4-1)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe một đoạn tọa đàm kinh tế (财经访谈), ghi lại câu mở đầu phản bác và cách rào đón.\n• Nói (30 phút): tranh luận 3 phút “Toàn cầu hóa có lợi cho Việt Nam không?” – một lần đóng vai ủng hộ, một lần phản đối.\n• Đọc (30 phút): đọc tin kinh tế trên trang tiếng Trung, tìm 增长/增加/提高 và giải thích vì sao dùng từ đó.\n• Viết (40 phút): viết bài phát biểu tranh luận khoảng 200 chữ.\n• Từ vựng (15 phút): 10 từ + 6 thành ngữ/quán ngữ; đặt câu với 双刃剑 và 息息相关.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a finance interview (财经访谈); note rebuttal openers and hedges.\n• Speaking (30 min): debate for 3 minutes “Is globalisation good for Vietnam?” – once for, once against.\n• Reading (30 min): read Chinese economic news; find 增长/增加/提高 and explain each choice.\n• Writing (40 min): write a 200-character debate speech.\n• Vocabulary (15 min): the 10 words + 6 idioms; make sentences with 双刃剑 and 息息相关."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "以越南为例，……Yǐ Yuènán wéi lì, …",
+    "Lấy Việt Nam làm ví dụ, …"
+   ],
+   [
+    "恕我直言，……Shù wǒ zhíyán, …",
+    "Thứ lỗi cho tôi nói thẳng, …"
+   ],
+   [
+    "您说得有道理，可是……Nín shuō de yǒu dàolǐ, kěshì …",
+    "Anh/chị nói có lý, nhưng…"
+   ],
+   [
+    "全球化是一把双刃剑。Quánqiúhuà shì yì bǎ shuāngrènjiàn.",
+    "Toàn cầu hóa là con dao hai lưỡi."
+   ],
+   [
+    "各国经济早已息息相关。Gè guó jīngjì zǎo yǐ xīxī-xiāngguān.",
+    "Kinh tế các nước từ lâu đã gắn bó mật thiết."
+   ],
+   [
+    "恐怕我们实在没办法再降价了。Kǒngpà wǒmen shízài méi bànfǎ zài jiàngjià le.",
+    "E rằng chúng tôi thật sự không thể giảm giá thêm."
+   ]
+  ],
+  "vo": [
+   [
+    "全球化",
+    "quánqiúhuà",
+    "toàn cầu hóa",
+    "globalisation"
+   ],
+   [
+    "贸易",
+    "màoyì",
+    "thương mại",
+    "trade"
+   ],
+   [
+    "出口",
+    "chūkǒu",
+    "xuất khẩu",
+    "export"
+   ],
+   [
+    "投资",
+    "tóuzī",
+    "đầu tư",
+    "investment; to invest"
+   ],
+   [
+    "竞争",
+    "jìngzhēng",
+    "cạnh tranh",
+    "competition; to compete"
+   ],
+   [
+    "供应链",
+    "gōngyìngliàn",
+    "chuỗi cung ứng",
+    "supply chain"
+   ],
+   [
+    "关税",
+    "guānshuì",
+    "thuế quan",
+    "tariff"
+   ],
+   [
+    "消费者",
+    "xiāofèizhě",
+    "người tiêu dùng",
+    "consumer"
+   ],
+   [
+    "就业",
+    "jiùyè",
+    "việc làm",
+    "employment"
+   ],
+   [
+    "息息相关",
+    "xīxī-xiāngguān",
+    "liên quan mật thiết",
+    "closely linked"
+   ]
+  ],
+  "hz": "经济贸易资",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "自加入世贸组织以来，越南的出口快速增长。",
+    "e": [
+     "自…以来 = kể từ… đến nay (văn viết). 世贸组织 = WTO. Số liệu tự tăng → 增长.",
+     "自…以来 = since… (written). 世贸组织 = WTO. Figures growing on their own → 增长."
+    ],
+    "f": [
+     "自加入世贸组织以来",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "说到底，各国经济早已息息相关。",
+    "e": [
+     "说到底 = nói cho cùng (khẩu ngữ, dùng để chốt ý); 早已 = từ lâu đã (văn viết của 早就); 息息相关 xīxī-xiāngguān.",
+     "说到底 = when all is said and done (spoken summariser); 早已 = long since (written form of 早就)."
+    ],
+    "f": [
+     "息息相关",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "关税提高以后，进口商品越来越贵，有的消费者开始转向购买国产商品，这对本地企业来说未必是坏事。",
+    "q": [
+     "Theo người nói, việc tăng thuế quan có thể dẫn tới điều gì?",
+     "According to the speaker, what might higher tariffs lead to?"
+    ],
+    "o": [
+     [
+      "Không hẳn là xấu với doanh nghiệp trong nước",
+      "Not necessarily bad for local firms"
+     ],
+     [
+      "Chắc chắn gây hại cho mọi người",
+      "Certain harm for everyone"
+     ],
+     [
+      "Làm hàng nội địa đắt hơn hàng nhập",
+      "Making local goods dearer than imports"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "这对本地企业来说未必是坏事 – 未必 = chưa chắc, rào đón nhẹ. Hàng NHẬP đắt hơn (进口商品越来越贵), không phải hàng nội.",
+     "这对本地企业来说未必是坏事 – 未必 = not necessarily. IMPORTS get dearer, not local goods."
+    ],
+    "f": [
+     "未必是坏事",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "全球化对你的生活有什么影响？以我自己为例，我穿的衣服是越南做的，用的手机是韩国的，喝的咖啡却来自巴西。",
+    "e": [
+     "Câu hỏi: 全球化对你的生活有什么影响？– Gợi ý trả lời mẫu. 以…为例 mở ví dụ; 却 = lại (tương phản); 来自 = đến từ (văn viết).",
+     "Question: 全球化对你的生活有什么影响？– A model answer. 以…为例 introduces an example; 却 = yet; 来自 = come from (written)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "恕我直言，这个观点在一定程度上忽视了普通工人的利益，我们不能只看出口数字有多好看。",
+    "e": [
+     "Luyện giọng phản bác lịch sự: hạ giọng ở 恕我直言, nhấn vào 忽视. 恕 shù (không đọc rú); 在一定程度上 = ở mức độ nhất định (rào đón).",
+     "Practise a polite rebuttal: soften 恕我直言, stress 忽视. 恕 is shù; 在一定程度上 = to some extent (hedge)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nói gì thì nói, giá cả cứ tăng là người chịu thiệt cuối cùng vẫn là người tiêu dùng.",
+    "a": [
+     "不管怎么说，物价一涨，最后吃亏的还是消费者。",
+     "说来说去，物价一涨，最后吃亏的还是消费者。",
+     "不管怎么说，价格一上涨，最后吃亏的总是消费者。"
+    ],
+    "e": [
+     "不管怎么说 / 说来说去 = nói gì thì nói; 一…(就)… = hễ… là…; 吃亏 = chịu thiệt (khẩu ngữ rất thông dụng).",
+     "不管怎么说 / 说来说去 = whatever you say; 一… = as soon as…; 吃亏 = lose out (very common)."
+    ],
+    "f": [
+     "最后吃亏的还是消费者",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nói lại lời từ chối giảm giá cho uyển chuyển, dùng 恐怕…实在…",
+     "Refuse the discount tactfully using 恐怕…实在…"
+    ],
+    "s": "我们不能再降价了。",
+    "a": [
+     "恐怕我们实在没办法再降价了。",
+     "我们恐怕实在没办法再降价了。",
+     "恐怕我们实在不能再降价了。",
+     "恐怕我们实在没有办法再降价了。"
+    ],
+    "e": [
+     "恐怕 (e rằng) + 实在 (thật sự) + 没办法 (không còn cách) → từ chối dứt khoát nhưng nghe như “bất đắc dĩ”, giữ quan hệ làm ăn.",
+     "恐怕 + 实在 + 没办法 → a firm refusal that sounds reluctant, protecting the relationship."
+    ],
+    "f": [
+     "恐怕我们实在没办法",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "疫情期间，很多工厂被迫停工，全球的经济发达受到了严重的影响。",
+    "a": [
+     "疫情期间，很多工厂被迫停工，全球的经济发展受到了严重的影响。"
+    ],
+    "e": [
+     "发达 là tính từ (đã phát triển cao: 发达国家), không làm danh từ chủ ngữ. Sự phát triển → 发展. 被迫 = bị buộc phải.",
+     "发达 is an adjective (developed: 发达国家), not a noun. Development → 发展. 被迫 = be forced to."
+    ],
+    "f": [
+     "经济发展",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我们公司规模这么小，跟大企业拼价格无异于以卵击___，还是走特色路线吧。",
+    "a": [
+     "石"
+    ],
+    "e": [
+     "以卵击石 = lấy trứng chọi đá. 无异于 = chẳng khác gì (văn viết); 拼价格 = đua giá; 走特色路线 = đi theo hướng khác biệt.",
+     "以卵击石 = an egg against a rock. 无异于 = no different from; 拼价格 = compete on price; 走特色路线 = go niche."
+    ],
+    "f": [
+     "以卵击石",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "主持人：今天的话题是全球化对普通人的影响。陈经理，您先说说？陈经理：我认为全球化总体上利大于弊。以越南为例，自2007年加入世贸组织以来，出口快速增长，外国投资不断增加，为年轻人创造了大量就业机会。林教授：恕我直言，全球化也是一把双刃剑。一旦全球供应链出了问题，很多工厂就不得不停工；再说竞争越来越激烈，本地小企业未必扛得住。陈经理：您说得有道理。可是与其害怕竞争，不如提高自身的竞争力。说到底，各国经济早已息息相关，谁也不可能关起门来发展。",
+   "tr": "MC: Chủ đề hôm nay là ảnh hưởng của toàn cầu hóa đến người bình thường. Giám đốc Trần, mời anh nói trước? Giám đốc Trần: Tôi cho rằng nhìn chung toàn cầu hóa lợi nhiều hơn hại. Lấy Việt Nam làm ví dụ, từ khi gia nhập WTO năm 2007 đến nay, xuất khẩu tăng trưởng nhanh, đầu tư nước ngoài không ngừng tăng, tạo ra rất nhiều cơ hội việc làm cho người trẻ. Giáo sư Lâm: Thứ lỗi cho tôi nói thẳng, toàn cầu hóa cũng là con dao hai lưỡi. Một khi chuỗi cung ứng toàn cầu gặp trục trặc, nhiều nhà máy buộc phải ngừng sản xuất; hơn nữa cạnh tranh ngày càng gay gắt, doanh nghiệp nhỏ trong nước chưa chắc trụ nổi. Giám đốc Trần: Giáo sư nói có lý. Nhưng thay vì sợ cạnh tranh, chi bằng nâng cao năng lực cạnh tranh của chính mình. Nói cho cùng, kinh tế các nước từ lâu đã gắn bó mật thiết, không ai có thể đóng cửa lại mà phát triển."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Giám đốc Trần dùng ví dụ Việt Nam để chứng minh điều gì?",
+     "What does Manager Chen use Vietnam to show?"
+    ],
+    "o": [
+     [
+      "Sau khi vào WTO, xuất khẩu, đầu tư và việc làm đều tăng",
+      "After joining the WTO, exports, investment and jobs all grew"
+     ],
+     [
+      "Doanh nghiệp nhỏ không trụ nổi",
+      "Small firms can't survive"
+     ],
+     [
+      "Nhà máy phải ngừng sản xuất",
+      "Factories had to stop"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "以越南为例，…出口快速增长，外国投资不断增加，为年轻人创造了大量就业机会. Hai lựa chọn kia là lo ngại của Giáo sư Lâm.",
+     "以越南为例… The other two options are Professor Lin's concerns."
+    ],
+    "f": [
+     "以越南为例",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Giáo sư Lâm gọi toàn cầu hóa là “con dao hai lưỡi”?",
+     "Why does Professor Lin call globalisation a double-edged sword?"
+    ],
+    "o": [
+     [
+      "Chuỗi cung ứng trục trặc thì nhà máy ngừng, cạnh tranh gay gắt hại doanh nghiệp nhỏ",
+      "Supply-chain problems stop factories and fierce competition hurts small firms"
+     ],
+     [
+      "Thuế quan quá cao",
+      "Tariffs are too high"
+     ],
+     [
+      "Người trẻ không muốn làm nhà máy",
+      "Young people don't want factory jobs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "一旦全球供应链出了问题，很多工厂就不得不停工；再说竞争越来越激烈，本地小企业未必扛得住. Bài không nhắc đến thuế quan.",
+     "一旦…就不得不停工；再说…未必扛得住. Tariffs aren't mentioned."
+    ],
+    "f": [
+     "一把双刃剑",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Giám đốc Trần đáp lại Giáo sư Lâm thế nào?",
+     "How does Manager Chen respond to Professor Lin?"
+    ],
+    "o": [
+     [
+      "Công nhận có lý nhưng cho rằng nên nâng cao năng lực cạnh tranh",
+      "Grants the point but argues for raising competitiveness"
+     ],
+     [
+      "Hoàn toàn bác bỏ ý kiến của giáo sư",
+      "Rejects it completely"
+     ],
+     [
+      "Đề nghị đóng cửa với nước ngoài",
+      "Proposes closing the economy"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "您说得有道理。可是与其害怕竞争，不如提高自身的竞争力 – ghi nhận trước, phản bác sau. “Đóng cửa” (关起门来) chính là điều ông cho là không thể.",
+     "您说得有道理。可是与其…不如… – acknowledge, then rebut. Closing the doors is what he says is impossible."
+    ],
+    "f": [
+     "您说得有道理。可是",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "为了___产品的竞争力，这家越南公司每年都把利润的百分之十投入到技术研发中。",
+    "o": [
+     "提高",
+     "增长",
+     "增加"
+    ],
+    "a": 0,
+    "e": [
+     "Năng lực, trình độ, chất lượng → 提高. 增长 là nội động từ (số liệu tự tăng), không mang tân ngữ 竞争力; 增加 dùng cho số lượng.",
+     "Ability, level, quality → 提高. 增长 is intransitive; 增加 is for quantities."
+    ],
+    "f": [
+     "提高产品的竞争力",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "近十年来，越南的咖啡出口量持续___，如今已经是世界上最大的咖啡出口国之一。",
+    "o": [
+     "增长",
+     "提高",
+     "发达"
+    ],
+    "a": 0,
+    "e": [
+     "Số liệu kinh tế tăng theo thời gian → 持续增长 (kết hợp cố định). 提高 cần tân ngữ/mức độ; 发达 là tính từ (phát triển cao).",
+     "Economic figures growing → 持续增长 (collocation). 提高 needs a level; 发达 is an adjective."
+    ],
+    "f": [
+     "持续增长",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___中国为例，很多年轻人现在更喜欢买国产品牌，这对外国企业来说是一个新的挑战。",
+    "a": [
+     "以"
+    ],
+    "e": [
+     "以 A 为例 = lấy A làm ví dụ – mở luận cứ trong văn nói trang trọng và văn viết. Không dùng 把 hay 拿…来说 lẫn với 为例.",
+     "以 A 为例 = take A as an example. Don't mix 把 or 拿…来说 with 为例."
+    ],
+    "f": [
+     "以中国为例",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我们的零件几乎全部依赖进口，___国际海运出了问题，生产线就得停下来。",
+    "a": [
+     "一旦",
+     "万一"
+    ],
+    "e": [
+     "一旦 A 就 B = một khi A xảy ra thì B – dùng cho rủi ro. 万一 (lỡ như) cũng hợp. 得 ở đây đọc děi (phải).",
+     "一旦 A 就 B = once A happens, B – for risks. 万一 (in case) also fits. 得 here is děi."
+    ],
+    "f": [
+     "一旦",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "现在各国经济息息相___，美国的利率一变，越南的汇率和股市也会跟着波动。",
+    "a": [
+     "关"
+    ],
+    "e": [
+     "息息相关 = liên quan mật thiết. 一变…也会跟着… = vừa thay đổi thì… cũng theo đó…. 波动 = dao động.",
+     "息息相关 = closely linked. 一变…也会跟着… = as soon as… changes, … follows. 波动 = fluctuate."
+    ],
+    "f": [
+     "息息相关",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "政府决定增长对进口汽车的关税，以保护国内刚刚起步的汽车产业。",
+    "a": [
+     "政府决定提高对进口汽车的关税，以保护国内刚刚起步的汽车产业。",
+     "政府决定增加对进口汽车的关税，以保护国内刚刚起步的汽车产业。"
+    ],
+    "e": [
+     "增长 không mang tân ngữ. Thuế, giá, mức → 提高 (hoặc 增加). 以 + mục đích = để (văn viết).",
+     "增长 takes no object. Taxes, prices, levels → 提高 (or 增加). 以 + purpose = so as to (written)."
+    ],
+    "f": [
+     "提高对进口汽车的关税",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "虽然全球化带来了很多机会，但是不一定每个人都未必能从中受益。",
+    "a": [
+     "虽然全球化带来了很多机会，但是未必每个人都能从中受益。",
+     "虽然全球化带来了很多机会，但是不一定每个人都能从中受益。"
+    ],
+    "e": [
+     "不一定 và 未必 cùng nghĩa “chưa chắc” – dùng cả hai thành phủ định kép, sai nghĩa. Giữ một: 未必 (văn viết) hoặc 不一定 (văn nói).",
+     "不一定 and 未必 both mean “not necessarily”; using both makes a double negative. Keep one."
+    ],
+    "f": [
+     "未必每个人都能从中受益",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Thứ lỗi cho tôi nói thẳng, quan điểm này hơi phiến diện, vì nó chỉ nhìn thấy lợi ích của các công ty lớn.",
+    "a": [
+     "恕我直言，这个观点有点儿片面，因为它只看到了大公司的利益。",
+     "恕我直言，这个观点有些片面，因为它只看到了大公司的利益。",
+     "恕我直言，这种观点有点儿片面，因为它只看到了大企业的利益。"
+    ],
+    "e": [
+     "恕我直言 = thứ lỗi tôi nói thẳng – báo trước phản bác để giữ thể diện cho người nghe. 片面 = phiến diện; 有点儿/有些 làm câu bớt gắt.",
+     "恕我直言 warns that disagreement is coming, saving the listener's face. 片面 = one-sided; 有点儿/有些 soften it."
+    ],
+    "f": [
+     "恕我直言",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Doanh nghiệp nhỏ thay vì sợ cạnh tranh với công ty nước ngoài, chi bằng tìm cách nâng cao năng lực cạnh tranh của chính mình.",
+    "a": [
+     "小企业与其害怕跟外国公司竞争，不如想办法提高自身的竞争力。",
+     "小企业与其害怕和外国公司竞争，不如想办法提高自己的竞争力。",
+     "小企业与其害怕与外国公司竞争，还不如想办法提高自身的竞争力。"
+    ],
+    "e": [
+     "与其 A，不如 B = thay vì A, chi bằng B. Năng lực cạnh tranh → 提高竞争力 (không dùng 增长). 自身 trang trọng hơn 自己.",
+     "与其 A，不如 B = rather than A, better B. 提高竞争力 (not 增长). 自身 is more formal than 自己."
+    ],
+    "f": [
+     "与其害怕…不如想办法提高自身的竞争力",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang văn viết: 从…开始 → 自…以来, 给…带来 → 为…创造, 好多工作机会 → 大量就业机会",
+     "Make it written: 从…开始 → 自…以来, 给…带来 → 为…创造, 好多工作机会 → 大量就业机会"
+    ],
+    "s": "从加入世贸组织开始，外国投资给年轻人带来了好多工作机会。",
+    "a": [
+     "自加入世贸组织以来，外国投资为年轻人创造了大量就业机会。"
+    ],
+    "e": [
+     "自…以来 (văn viết của 从…以来/开始), 为…创造 (tạo ra cho…), 大量就业机会 – đúng giọng báo cáo, phát biểu chính thức.",
+     "自…以来, 为…创造, 大量就业机会 – the register of reports and formal speeches."
+    ],
+    "f": [
+     "自加入世贸组织以来",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "一旦|全球|供应链|出了|问题|，很多|工厂|就|不得不|停工",
+    "m": [
+     "Một khi chuỗi cung ứng toàn cầu gặp trục trặc, nhiều nhà máy buộc phải ngừng sản xuất.",
+     "Once the global supply chain runs into trouble, many factories have to stop."
+    ],
+    "e": [
+     "一旦 + điều kiện rủi ro, vế sau có 就; 不得不 = buộc phải (đứng trước động từ 停工).",
+     "一旦 + risky condition, then 就; 不得不 = have no choice but (before 停工)."
+    ],
+    "f": [
+     "一旦…就不得不停工",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết bài phát biểu tranh luận khoảng 200 chữ: “Toàn cầu hóa có lợi cho Việt Nam không?”. Dùng 以…为例, 不可否认…但是…, 一旦…就…, 与其…不如… và một thành ngữ.",
+     "Write a 200-character debate speech: “Is globalisation good for Vietnam?”. Use 以…为例, 不可否认…但是…, 一旦…就…, 与其…不如… and an idiom."
+    ],
+    "m": "我认为全球化对越南总体上利大于弊。以纺织业为例，自加入世贸组织以来，越南的服装出口快速增长，为几百万工人创造了就业机会。不可否认，全球化也是一把双刃剑：一旦国外订单减少，很多工厂就会面临困难，本地小企业也承受着激烈竞争的压力。但是，与其害怕竞争，不如提高产品质量，打造自己的品牌。在各国经济息息相关的今天，关起门来发展是不现实的。由此可见，关键不在于要不要全球化，而在于如何趋利避害。",
+    "e": [
+     "Cần có: • quan điểm rõ (我认为…) • 以…为例 + số liệu/ví dụ • 不可否认…但是… và 一旦…就… • 与其…不如… + thành ngữ + kết luận (由此可见).",
+     "Must include: • a clear claim • 以…为例 + an example • 不可否认…但是… and 一旦…就… • 与其…不如… + an idiom + a conclusion (由此可见)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d31",
+  "g": "study",
+  "t": [
+   "Tư duy phản biện & tranh luận",
+   "Critical thinking & debate"
+  ],
+  "th": [
+   [
+    "**Khung lập luận & từ nối logic**\n• Sắp xếp luận cứ: **首先**… **其次**… **最后**… / **一方面**… **另一方面**…\n• Nhượng bộ rồi phản bác: **诚然** (văn viết) / **虽然** A，**但** B: **诚然**，这个方法有缺点，**但**总体利大于弊。\n• Giả định mạnh: **即使** A，**也** B: **即使**数据再多，样本有问题，结论**也**不可靠。\n• Kết luận: **由此可见** / **可见** / **因此**.\n• Tư duy phản biện: **相关不等于因果** (tương quan ≠ nhân quả); **未必** (chưa chắc); **样本** (mẫu khảo sát), **证据** (bằng chứng).",
+    "**Argument frame & logical connectors**\n• Order your points: **首先**… **其次**… **最后**… / **一方面**… **另一方面**…\n• Concede, then rebut: **诚然** (written) / **虽然** A，**但** B.\n• Strong supposition: **即使** A，**也** B.\n• Conclude: **由此可见** / **可见** / **因此**.\n• Critical thinking: **相关不等于因果** (correlation ≠ causation); **未必**; **样本** (sample), **证据** (evidence)."
+   ],
+   [
+    "**Ngữ dụng: chất vấn mà không công kích**\n• Làm chậm người kia lại: **先别急着下结论**。\n• Câu hỏi tu từ mang hàm ý (言外之意): **你不觉得**有点儿可疑**吗？** = tôi thấy đáng ngờ; **难道**大家都错了**吗？** = không lẽ ai cũng sai (→ ý: chắc không sai).\n• Phân biệt “phủ định” và “chất vấn”: **我没有否定，只是质疑它的证据。**\n• Ghi nhận rồi bổ sung: **有道理。不过**… / **我的意思是**…\n• Phê bình nhẹ cách lập luận của đối phương: 你这样说**是不是**也太绝对了？ (câu hỏi thay cho khẳng định → lịch sự hơn).",
+    "**Pragmatics: questioning without attacking**\n• Slow things down: **先别急着下结论**。\n• Rhetorical questions carry implied meaning: **你不觉得**有点儿可疑**吗？** = I find it suspicious; **难道**大家都错了**吗？** = surely not everyone is wrong.\n• Separate “denying” from “questioning”: **我没有否定，只是质疑它的证据。**\n• Acknowledge, then add: **有道理。不过**… / **我的意思是**…\n• Criticise reasoning gently with a question: 你这样说**是不是**也太绝对了？"
+   ],
+   [
+    "**Từ gần nghĩa (近义词)**\n• **反驳** = bác lại một lập luận cụ thể (进行反驳, 反驳对方的观点) ≠ **反对** = phản đối (một kế hoạch, ý kiến, người).\n• **证明** = chứng minh (đưa ra bằng chứng xác thực) ≠ **说明** = cho thấy, giải thích (mức độ yếu hơn): 只能**说明**有关，不能**证明**有因果关系。\n• **质疑** = đặt câu hỏi nghi vấn (công khai, có lý lẽ) ≠ **怀疑** = nghi ngờ, ngờ rằng. ⚠ 我**怀疑**他是对的 = tôi ngờ là anh ấy ĐÚNG (không phải “tôi nghi ngờ anh ấy đúng”).\n• **观点** (quan điểm) ≠ **观念** (quan niệm, tư tưởng lâu dài).",
+    "**Near-synonyms (近义词)**\n• **反驳** = rebut a specific argument ≠ **反对** = oppose (a plan, opinion, person).\n• **证明** = prove ≠ **说明** = show, explain (weaker): 只能**说明**有关，不能**证明**有因果关系。\n• **质疑** = openly question ≠ **怀疑** = doubt, suspect. ⚠ 我**怀疑**他是对的 = I suspect he's RIGHT.\n• **观点** (viewpoint) ≠ **观念** (long-held idea, mindset)."
+   ],
+   [
+    "**Thành ngữ cho tranh luận**\n• **人云亦云** = người ta nói sao mình nói vậy.\n• **以偏概全** = lấy một phần suy ra toàn bộ (vơ đũa cả nắm).\n• **自相矛盾** = tự mâu thuẫn.\n• **断章取义** = cắt câu lấy ý.\n• **道听途说** = nghe hơi nồi chõ, tin đồn vô căn cứ.\n• **有理有据** = có lý có cứ.\n• Quán ngữ: **一棍子打死** = vì một lỗi mà phủ nhận hết.",
+    "**Idioms for debate**\n• **人云亦云** = parrot what others say.\n• **以偏概全** = generalise from a part.\n• **自相矛盾** = contradict oneself.\n• **断章取义** = quote out of context.\n• **道听途说** = hearsay.\n• **有理有据** = well-reasoned and evidenced.\n• Set phrase: **一棍子打死** = write off entirely because of one fault."
+   ],
+   [
+    "**Phát âm: ngữ điệu câu hỏi tu từ & trọng âm đối lập**\n• Câu hỏi tu từ với 难道…吗 / 不是…吗: giọng lên ở từ then chốt, cuối câu không lên cao như câu hỏi thật: **难道**大家都**错**了吗？\n• Trọng âm đối lập: 相关**不等于**因果; 我没有**否定**，只是**质疑**。\n• 质疑 zhìyí (4-2) – zh uốn lưỡi; 逻辑 luójí (2-2); 偏见 piānjiàn (1-4).",
+    "**Pronunciation: rhetorical-question intonation & contrastive stress**\n• With 难道…吗 / 不是…吗, stress the key word; the end doesn't rise like a real question: **难道**大家都**错**了吗？\n• Contrastive stress: 相关**不等于**因果; 我没有**否定**，只是**质疑**。\n• 质疑 zhìyí (4-2); 逻辑 luójí (2-2); 偏见 piānjiàn (1-4)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **论** (6 nét), **证** (7), **据** (11), **理** (11), **辩** (16).\n• 论, 证, 辩 đều có bộ 讠 (lời nói) – hoạt động bằng ngôn từ.\n• 辩 = 辛 + 讠 + 辛: lời nói kẹp giữa hai bên tranh cãi.\n• 证 = 讠 + 正: lời nói ngay thẳng → chứng cứ.\n• 据 = 扌 (tay) + 居: nắm vào → căn cứ.\n• Đọc to: 辩论 biànlùn (4-4) · 证据 zhèngjù (4-4) · 道理 dàolǐ (4-3) · 结论 jiélùn (2-4).",
+    "**Characters & tones**\nWrite: **论** (6 strokes), **证** (7), **据** (11), **理** (11), **辩** (16).\n• 论, 证, 辩 share 讠 (speech).\n• 辩 = 辛 + 讠 + 辛: words between two arguing sides.\n• 证 = 讠 + 正: upright words → evidence.\n• 据 = 扌 (hand) + 居: hold on to → basis.\n• Read aloud: 辩论 biànlùn (4-4) · 证据 zhèngjù (4-4) · 道理 dàolǐ (4-3) · 结论 jiélùn (2-4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem một đoạn chương trình tranh biện tiếng Trung (如《奇葩说》), ghi lại cách mở đầu phản bác và các câu hỏi tu từ.\n• Nói (30 phút): chọn một tin lan truyền trên mạng, nói 3 phút theo khung 首先…其次…最后 để chất vấn nó.\n• Đọc (30 phút): đọc một bài viết gây tranh cãi, tìm 1 chỗ 以偏概全 và 1 chỗ 相关≠因果.\n• Viết (40 phút): viết đoạn phản bác khoảng 200 chữ.\n• Từ vựng (15 phút): 10 từ + 7 thành ngữ; mỗi thành ngữ một câu tình huống đời thường.",
+    "**Practice outside the app**\n• Listening (30 min): watch a clip of a Chinese debate show (e.g. 《奇葩说》); note rebuttal openers and rhetorical questions.\n• Speaking (30 min): pick a viral claim and question it for 3 minutes with 首先…其次…最后.\n• Reading (30 min): read a controversial article; find one 以偏概全 and one correlation-vs-causation error.\n• Writing (40 min): write a 200-character rebuttal.\n• Vocabulary (15 min): the 10 words + 7 idioms; an everyday sentence for each idiom."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "先别急着下结论。Xiān bié jízhe xià jiélùn.",
+    "Đừng vội kết luận."
+   ],
+   [
+    "你这样说有什么根据？Nǐ zhèyàng shuō yǒu shénme gēnjù?",
+    "Bạn nói vậy có căn cứ gì?"
+   ],
+   [
+    "相关不等于因果。Xiāngguān bù děngyú yīnguǒ.",
+    "Tương quan không đồng nghĩa với nhân quả."
+   ],
+   [
+    "我没有否定，只是质疑它的证据。Wǒ méiyǒu fǒudìng, zhǐshì zhìyí tā de zhèngjù.",
+    "Tôi không phủ định, chỉ đặt câu hỏi về bằng chứng."
+   ],
+   [
+    "这样说是不是太绝对了？Zhèyàng shuō shì bu shì tài juéduì le?",
+    "Nói vậy có phải tuyệt đối quá không?"
+   ],
+   [
+    "由此可见，……Yóu cǐ kějiàn, …",
+    "Từ đó có thể thấy, …"
+   ]
+  ],
+  "vo": [
+   [
+    "观点",
+    "guāndiǎn",
+    "quan điểm",
+    "viewpoint"
+   ],
+   [
+    "论据",
+    "lùnjù",
+    "luận cứ",
+    "supporting argument"
+   ],
+   [
+    "反驳",
+    "fǎnbó",
+    "bác bỏ, phản bác",
+    "to rebut"
+   ],
+   [
+    "逻辑",
+    "luójí",
+    "logic",
+    "logic"
+   ],
+   [
+    "偏见",
+    "piānjiàn",
+    "định kiến",
+    "prejudice, bias"
+   ],
+   [
+    "证据",
+    "zhèngjù",
+    "bằng chứng",
+    "evidence"
+   ],
+   [
+    "结论",
+    "jiélùn",
+    "kết luận",
+    "conclusion"
+   ],
+   [
+    "质疑",
+    "zhìyí",
+    "chất vấn, đặt nghi vấn",
+    "to question, call into question"
+   ],
+   [
+    "以偏概全",
+    "yǐpiān-gàiquán",
+    "lấy phần suy ra toàn bộ",
+    "to overgeneralise"
+   ],
+   [
+    "人云亦云",
+    "rényún-yìyún",
+    "người ta nói sao nói vậy",
+    "to parrot others"
+   ]
+  ],
+  "hz": "论证辩据理",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "先别急着下结论，我们再看看别的证据。",
+    "e": [
+     "别急着 + động từ = đừng vội…; 下结论 = đưa ra kết luận (kết hợp cố định, không nói 做结论 trong khẩu ngữ).",
+     "别急着 + verb = don't rush to…; 下结论 = draw a conclusion (fixed collocation)."
+    ],
+    "f": [
+     "先别急着下结论",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "相关不等于因果，这是做研究的基本常识。",
+    "e": [
+     "相关 = có tương quan; 不等于 = không bằng, không đồng nghĩa; 因果 = nhân quả; 常识 = kiến thức thông thường.",
+     "相关 = correlated; 不等于 = doesn't equal; 因果 = cause and effect; 常识 = common knowledge."
+    ],
+    "f": [
+     "相关不等于因果",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我不是说你的观点错了，只是你举的例子太少了，光凭两三个朋友的经历，恐怕很难说服别人。",
+    "q": [
+     "Ý chính của người nói là gì?",
+     "What is the speaker's main point?"
+    ],
+    "o": [
+     [
+      "Ví dụ quá ít nên khó thuyết phục",
+      "Too few examples to be convincing"
+     ],
+     [
+      "Quan điểm của bạn là sai",
+      "Your view is wrong"
+     ],
+     [
+      "Không nên lấy bạn bè làm ví dụ",
+      "Never use friends as examples"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我不是说你的观点错了，只是… – mở đầu phủ nhận ý công kích, rồi mới chỉ ra vấn đề: 例子太少. 光凭 = chỉ dựa vào; 恐怕 làm mềm phê bình.",
+     "我不是说…，只是… – deny attacking, then name the issue: too few examples. 光凭 = relying only on; 恐怕 softens it."
+    ],
+    "f": [
+     "光凭两三个朋友的经历",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你怎么判断网上的信息是不是可靠？首先看是谁发布的，其次看有没有具体的数据和来源，最后再跟别的报道比较一下。",
+    "e": [
+     "Câu hỏi: 你怎么判断网上的信息是不是可靠？– Gợi ý trả lời mẫu. Khung 首先…其次…最后; 来源 láiyuán, 可靠 kěkào.",
+     "Question: 你怎么判断网上的信息是不是可靠？– A model answer. Frame 首先…其次…最后; 来源 láiyuán, 可靠 kěkào."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "难道转发的人多，说法就一定是对的吗？人云亦云往往是谣言传得最快的原因。",
+    "e": [
+     "Luyện ngữ điệu câu hỏi tu từ: nhấn 难道 và 一定, cuối câu hạ giọng. 谣言 yáoyán = tin đồn; 人云亦云 nhịp 2+2.",
+     "Practise rhetorical intonation: stress 难道 and 一定, fall at the end. 谣言 = rumour; 人云亦云 read 2+2."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Bạn đừng cắt câu lấy ý nữa, nguyên văn của anh ấy không phải ý đó, đoạn sau anh ấy còn nói rõ điều kiện tiên quyết.",
+    "a": [
+     "你别断章取义了，他的原话不是这个意思，后面他还说清楚了前提条件。",
+     "你别断章取义了，他原话不是这个意思，后面他还把前提条件说清楚了。",
+     "你不要断章取义，他的原话不是这个意思，后面他还特意说明了前提条件。"
+    ],
+    "e": [
+     "断章取义 = cắt câu lấy ý; 原话 = nguyên văn lời nói; 前提条件 = điều kiện tiên quyết. Dùng 别…了 để nhắc nhở thân mật.",
+     "断章取义 = quote out of context; 原话 = exact words; 前提条件 = precondition. 别…了 = a friendly “stop…”."
+    ],
+    "f": [
+     "断章取义",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đổi câu chất vấn gay gắt thành lời hỏi uyển chuyển, dùng 能不能再…一下",
+     "Make the harsh challenge tactful with 能不能再…一下"
+    ],
+    "s": "你这个数据是从哪儿编出来的？",
+    "a": [
+     "你这个数据能不能再说明一下出处？",
+     "能不能再说明一下你这个数据的出处？",
+     "你这个数据的出处能不能再说明一下？",
+     "你能不能再说明一下这个数据的出处？"
+    ],
+    "e": [
+     "编出来 (bịa ra) hàm ý buộc tội người nói dối. 能不能再说明一下出处 hỏi nguồn mà vẫn giữ thể diện – người nghe tự hiểu mình cần đưa bằng chứng.",
+     "编出来 (made up) accuses the speaker of lying. 能不能再说明一下出处 asks for the source while saving face."
+    ],
+    "f": [
+     "能不能再说明一下出处",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我怀疑这篇报道是真的，因为里面连一个具体的数据和来源都没有。",
+    "a": [
+     "我怀疑这篇报道是假的，因为里面连一个具体的数据和来源都没有。",
+     "我不相信这篇报道是真的，因为里面连一个具体的数据和来源都没有。"
+    ],
+    "e": [
+     "怀疑 + mệnh đề = ngờ rằng (nghiêng về tin điều đó). 我怀疑…是真的 = tôi ngờ là nó THẬT – mâu thuẫn với lý do phía sau. Phải nói 怀疑…是假的 hoặc 不相信…是真的.",
+     "怀疑 + clause = suspect that (lean towards it being so). 我怀疑…是真的 means you suspect it's TRUE – contradicting your reason."
+    ],
+    "f": [
+     "我怀疑这篇报道是假的",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "他说的这些都是道听途___，一点儿根据都没有，你千万别当真。",
+    "a": [
+     "说"
+    ],
+    "e": [
+     "道听途说 = nghe ngoài đường, kể lại ngoài đường → tin đồn vô căn cứ. 当真 = tin là thật.",
+     "道听途说 = hearsay picked up on the street. 当真 = take seriously."
+    ],
+    "f": [
+     "道听途说",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "阿明：这篇文章说每天喝咖啡的人更长寿，我决定以后每天喝三杯！小雪：先别急着下结论。这项调查只问了一千个人，而且是咖啡公司出钱做的，你不觉得可疑吗？阿明：可是好多人都转发了，难道大家都错了？小雪：转发的人多，不代表说法就对，人云亦云最容易出问题。再说，喝咖啡的人可能本来就更注意锻炼，长寿未必是因为咖啡。阿明：有道理。不过你这样一棍子打死，是不是也太绝对了？小雪：我没有否定，只是质疑它的证据。相关不等于因果，要证明咖啡有好处，得有更严谨的研究。",
+   "tr": "A Minh: Bài này nói người uống cà phê mỗi ngày sống thọ hơn, mình quyết định từ giờ mỗi ngày uống ba cốc! Tiểu Tuyết: Đừng vội kết luận. Cuộc khảo sát này chỉ hỏi một nghìn người, lại còn do công ty cà phê bỏ tiền ra làm, cậu không thấy đáng ngờ à? A Minh: Nhưng bao nhiêu người chia sẻ rồi, chẳng lẽ ai cũng sai? Tiểu Tuyết: Người chia sẻ nhiều không có nghĩa là thông tin đúng, người ta nói sao mình nói vậy là dễ xảy ra chuyện nhất. Hơn nữa, người uống cà phê có thể vốn đã chú ý tập thể dục hơn, sống thọ chưa chắc là nhờ cà phê. A Minh: Có lý. Nhưng cậu gạt bỏ hết như vậy thì có phải cũng tuyệt đối quá không? Tiểu Tuyết: Mình không phủ định, chỉ đặt câu hỏi về bằng chứng của nó. Tương quan không đồng nghĩa với nhân quả; muốn chứng minh cà phê có lợi thì phải có nghiên cứu chặt chẽ hơn."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Tuyết đưa ra những lý do nào để nghi ngờ cuộc khảo sát?",
+     "Why does Xiaoxue doubt the survey?"
+    ],
+    "o": [
+     [
+      "Mẫu nhỏ và do công ty cà phê tài trợ",
+      "Small sample, funded by a coffee company"
+     ],
+     [
+      "Bài viết quá cũ",
+      "The article is too old"
+     ],
+     [
+      "Người viết bài không uống cà phê",
+      "The author doesn't drink coffee"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "这项调查只问了一千个人，而且是咖啡公司出钱做的 – hai vấn đề: cỡ mẫu (样本) và xung đột lợi ích.",
+     "这项调查只问了一千个人，而且是咖啡公司出钱做的 – sample size and conflict of interest."
+    ],
+    "f": [
+     "咖啡公司出钱做的",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Tuyết đưa ra cách giải thích khác nào cho việc sống thọ?",
+     "What alternative explanation does Xiaoxue offer?"
+    ],
+    "o": [
+     [
+      "Người uống cà phê có thể vốn chú ý tập thể dục hơn",
+      "Coffee drinkers may exercise more anyway"
+     ],
+     [
+      "Cà phê có hại cho sức khỏe",
+      "Coffee is harmful"
+     ],
+     [
+      "Người sống thọ thích chia sẻ bài viết",
+      "Long-lived people share more posts"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "喝咖啡的人可能本来就更注意锻炼，长寿未必是因为咖啡 – yếu tố gây nhiễu (biến thứ ba). Cô không nói cà phê có hại.",
+     "喝咖啡的人可能本来就更注意锻炼 – a confounding factor. She never says coffee is harmful."
+    ],
+    "f": [
+     "长寿未必是因为咖啡",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Lập trường cuối cùng của Tiểu Tuyết là gì?",
+     "What is Xiaoxue's final position?"
+    ],
+    "o": [
+     [
+      "Không phủ định, chỉ nghi vấn bằng chứng; cần nghiên cứu chặt chẽ hơn",
+      "Not denying, just questioning the evidence; needs more rigorous research"
+     ],
+     [
+      "Cà phê chắc chắn không giúp sống thọ",
+      "Coffee definitely doesn't help"
+     ],
+     [
+      "Đồng ý uống ba cốc mỗi ngày",
+      "Agrees to three cups a day"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我没有否定，只是质疑它的证据…得有更严谨的研究. Phân biệt 否定 (phủ định) và 质疑 (chất vấn) là điểm mấu chốt.",
+     "我没有否定，只是质疑它的证据. The key is 否定 (deny) vs 质疑 (question)."
+    ],
+    "f": [
+     "我没有否定，只是质疑它的证据",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "对方辩手提出的三个观点都有明显的漏洞，我们可以从数据和逻辑两个方面进行___。",
+    "o": [
+     "反驳",
+     "反对",
+     "反映"
+    ],
+    "a": 0,
+    "e": [
+     "Bác lại lập luận cụ thể → 进行反驳. 反对 = phản đối (một ý kiến, kế hoạch) và ít đi với 进行; 反映 = phản ánh.",
+     "Rebut a specific argument → 进行反驳. 反对 = oppose; 反映 = reflect."
+    ],
+    "f": [
+     "进行反驳",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这项研究只能___喝咖啡和长寿之间有一定关系，并不能证明咖啡本身能让人更长寿。",
+    "o": [
+     "说明",
+     "证明",
+     "发明"
+    ],
+    "a": 0,
+    "e": [
+     "说明 (cho thấy) yếu hơn 证明 (chứng minh). Câu đối lập 只能说明… 并不能证明… chính là tư duy phản biện: tương quan ≠ nhân quả.",
+     "说明 (show) is weaker than 证明 (prove). 只能说明…并不能证明… is the core of correlation vs causation."
+    ],
+    "f": [
+     "只能说明",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___你没看出来吗？他刚才说的和十分钟前说的完全是自相矛盾的。",
+    "a": [
+     "难道"
+    ],
+    "e": [
+     "难道…吗？ = chẳng lẽ… sao? – câu hỏi tu từ, hàm ý “rõ ràng là thấy rồi”. 自相矛盾 = tự mâu thuẫn.",
+     "难道…吗？ = surely you can see… – rhetorical, implying “it's obvious”. 自相矛盾 = self-contradictory."
+    ],
+    "f": [
+     "难道…吗",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "网上的消息一定要先核实再转发，千万不能人云亦___，否则很容易帮着传播谣言。",
+    "a": [
+     "云"
+    ],
+    "e": [
+     "人云亦云 = người ta nói sao mình nói vậy. 核实 = xác minh; 谣言 = tin đồn.",
+     "人云亦云 = parrot what others say. 核实 = verify; 谣言 = rumour."
+    ],
+    "f": [
+     "人云亦云",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___，这个方法有一些缺点，但是从整体上看，它还是目前最可行的方案。",
+    "a": [
+     "诚然",
+     "不可否认"
+    ],
+    "e": [
+     "诚然 = quả thật (văn viết) – nhượng bộ trước khi phản bác, thường đi với 但是. 不可否认 cũng hợp. 可行 = khả thi.",
+     "诚然 = admittedly (written) – a concession before 但是. 不可否认 also fits. 可行 = feasible."
+    ],
+    "f": [
+     "诚然",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "即使调查的人数再多，如果样本选择有问题，得出的结论就不一定可靠。",
+    "a": [
+     "即使调查的人数再多，如果样本选择有问题，得出的结论也不一定可靠。"
+    ],
+    "e": [
+     "即使 A，也 B – vế sau dùng 也, không dùng 就. Câu có 如果 chen giữa nên dễ nhầm sang 就.",
+     "即使 A，也 B – the result uses 也, not 就. The inserted 如果 makes 就 tempting."
+    ],
+    "f": [
+     "结论也不一定可靠",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "你只见过两个不守时的越南人，就说越南人都不守时，这不是自相矛盾吗？",
+    "a": [
+     "你只见过两个不守时的越南人，就说越南人都不守时，这不是以偏概全吗？"
+    ],
+    "e": [
+     "Từ hai trường hợp suy ra cả dân tộc → 以偏概全 (vơ đũa cả nắm). 自相矛盾 là khi chính người nói tự nói ngược lại mình.",
+     "Generalising from two cases → 以偏概全. 自相矛盾 is when someone contradicts themselves."
+    ],
+    "f": [
+     "以偏概全",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hai việc xảy ra cùng lúc không có nghĩa là việc này gây ra việc kia; tương quan không đồng nghĩa với nhân quả.",
+    "a": [
+     "两件事同时发生，并不代表其中一件导致了另一件，相关不等于因果。",
+     "两件事同时发生，不代表一件事导致了另一件事，相关不等于因果。",
+     "两件事同时发生，并不意味着其中一件导致了另一件，相关并不等于因果。"
+    ],
+    "e": [
+     "不代表 / 并不意味着 = không có nghĩa là; 导致 = dẫn đến, gây ra. 并 trước phủ định nhấn mạnh “thực ra không”.",
+     "不代表 / 并不意味着 = doesn't mean; 导致 = cause. 并 before a negative stresses “actually not”."
+    ],
+    "f": [
+     "相关不等于因果",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ý mình không phải là phủ định bài viết này, mà chỉ muốn xem nó có bằng chứng đáng tin cậy hay không.",
+    "a": [
+     "我的意思不是否定这篇文章，只是想看看它有没有可靠的证据。",
+     "我不是要否定这篇文章，只是想看看它有没有可靠的证据。",
+     "我的意思并不是否定这篇文章，只是想看看它到底有没有可靠的证据。"
+    ],
+    "e": [
+     "我的意思不是…，只是… = ý tôi không phải…, chỉ là… – làm rõ ý để tránh bị hiểu là công kích. 可靠 = đáng tin cậy.",
+     "我的意思不是…，只是… = I don't mean…, I just… – clarifying to avoid sounding hostile. 可靠 = reliable."
+    ],
+    "f": [
+     "我的意思不是否定…只是",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đổi câu khẳng định thành câu hỏi tu từ dùng 难道…吗",
+     "Turn it into a rhetorical question with 难道…吗"
+    ],
+    "s": "转发的人多，并不代表说法就一定是对的。",
+    "a": [
+     "难道转发的人多，说法就一定是对的吗？",
+     "转发的人多，难道说法就一定是对的吗？",
+     "难道转发的人多，说法就一定对吗？"
+    ],
+    "e": [
+     "Câu hỏi tu từ khẳng định mạnh hơn câu trần thuật: 难道…吗？ hàm ý “tất nhiên là không”. Bỏ 并不代表 vì 难道 đã mang ý phủ định.",
+     "A rhetorical question is more forceful: 难道…吗？ implies “of course not”. Drop 并不代表 – 难道 carries the negation."
+    ],
+    "f": [
+     "难道…就一定是对的吗",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "首先|，这项|调查的|样本|太小|；其次|，出钱的|恰恰|是|咖啡公司",
+    "m": [
+     "Thứ nhất, mẫu khảo sát quá nhỏ; thứ hai, bên bỏ tiền lại chính là công ty cà phê.",
+     "First, the survey's sample is too small; second, the funder happens to be a coffee company."
+    ],
+    "e": [
+     "首先…其次… sắp xếp luận cứ; 恰恰 = lại chính là (nhấn mạnh sự trùng hợp đáng ngờ).",
+     "首先…其次… orders the points; 恰恰 = precisely (stressing a suspicious coincidence)."
+    ],
+    "f": [
+     "首先…其次",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết đoạn phản bác khoảng 200 chữ cho nhận định: “Học sinh dùng điện thoại nhiều thì học kém.” Dùng 首先/其次/最后, 诚然…但…, 相关不等于因果 hoặc 以偏概全, và 由此可见.",
+     "Write a 200-character rebuttal of: “Students who use phones a lot do badly at school.” Use 首先/其次/最后, 诚然…但…, 相关不等于因果 or 以偏概全, and 由此可见."
+    ],
+    "m": "诚然，有些学生因为玩手机耽误了学习，但是“用手机多的学生成绩就差”这个结论恐怕站不住脚。首先，这种说法往往只举了几个例子，有以偏概全之嫌。其次，相关不等于因果：成绩差的学生也许本来就对学习缺乏兴趣，才把时间花在手机上。最后，很多学生用手机查资料、学外语、上网课，手机反而提高了学习效率。由此可见，问题不在于用不用手机，而在于怎么用。与其一棍子打死，不如教学生合理使用。",
+    "e": [
+     "Cần có: • 诚然…但是… mở đầu • 首先/其次/最后 với 3 luận cứ khác nhau • ít nhất 1 thành ngữ/khái niệm phản biện • kết luận 由此可见 + đề xuất.",
+     "Must include: • 诚然…但是… opening • 首先/其次/最后 with 3 distinct points • at least one idiom/critical concept • 由此可见 conclusion + proposal."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d32",
+  "g": "study",
+  "t": [
+   "Ngôn ngữ, dịch thuật & giao tiếp liên văn hoá",
+   "Language, translation & intercultural communication"
+  ],
+  "th": [
+   [
+    "**Ngữ dụng: lời khách sáo (客套话) & từ chối khéo**\n• Lời mời ăn cơm thường phải mời 2–3 lần; lần đầu từ chối (**不用了，太麻烦你了**) chỉ là khách sáo. Muốn đi thì lần hai nhận lời: **那就不客气了！**\n• Câu xã giao, không phải lời hẹn thật: **改天有空一起吃个饭吧** – đừng ngồi chờ người ta hẹn.\n• Đáp lời khen: **哪里哪里** / **还差得远呢** / **您过奖了** – khiêm tốn hơn “谢谢”.\n• Từ chối khéo: **我考虑考虑** · **恐怕不太方便** · **改天吧** · **我尽量** – thường đều mang nghĩa “không”.",
+    "**Pragmatics: polite formulas (客套话) & soft refusals**\n• Meal invitations are often repeated 2–3 times; the first refusal (**不用了，太麻烦你了**) is mere politeness. To accept, say yes the second time: **那就不客气了！**\n• Social nicety, not a real plan: **改天有空一起吃个饭吧**.\n• Answering praise: **哪里哪里** / **还差得远呢** / **您过奖了** – humbler than “谢谢”.\n• Soft refusals: **我考虑考虑** · **恐怕不太方便** · **改天吧** · **我尽量** – often mean “no”."
+   ],
+   [
+    "**Hàm ý (言外之意) trong công việc**\n• **这个想法很有意思，我们再研究研究。** → thường là: chưa khả thi.\n• **你的报告还有提高的空间。** → cần sửa nhiều.\n• **这件事比较复杂。** → khó, đừng mong nhanh.\n• **原则上可以。** → về nguyên tắc thì được, nhưng thực tế còn vướng.\n• Cách hiểu đúng: nghe ngữ cảnh, giọng điệu và hành động tiếp theo, không chỉ nghĩa đen. Ngược lại, khi phê bình hãy dùng cách nói giảm (**委婉**): 恐怕…, 是不是可以…, 还可以再…一下.",
+    "**Implied meaning (言外之意) at work**\n• **这个想法很有意思，我们再研究研究。** → often: not feasible.\n• **你的报告还有提高的空间。** → needs a lot of work.\n• **这件事比较复杂。** → difficult, don't expect it soon.\n• **原则上可以。** → yes in principle, but there are obstacles.\n• Read context, tone and follow-up actions, not just literal meaning. When criticising, soften (**委婉**): 恐怕…, 是不是可以…, 还可以再…一下."
+   ],
+   [
+    "**Dịch thuật & từ gần nghĩa**\n• **直译** (dịch sát chữ) vs **意译** (dịch thoát ý): thành ngữ, câu đùa, câu xã giao gần như luôn phải 意译. 胸有成竹 → “đã tính sẵn trong lòng”, không phải “trong bụng có tre”.\n• **翻译** = dịch (từ ngôn ngữ này sang ngôn ngữ khác) ≠ **解释** = giải thích (cùng ngôn ngữ).\n• **沟通** = trao đổi để hai bên hiểu nhau, giải quyết vướng mắc ≠ **交流** = giao lưu, trao đổi (văn hóa, kinh nghiệm).\n• **了解** = biết rõ về (thông tin, tình hình) ≠ **理解** = thấu hiểu, cảm thông (lý do, cảm xúc).",
+    "**Translation & near-synonyms**\n• **直译** (literal) vs **意译** (free): idioms, jokes and polite formulas almost always need 意译. 胸有成竹 → “have a plan in mind”, not “bamboo in one's belly”.\n• **翻译** = translate (between languages) ≠ **解释** = explain (same language).\n• **沟通** = communicate to reach understanding ≠ **交流** = exchange (culture, experience).\n• **了解** = know about ≠ **理解** = understand, sympathise with."
+   ],
+   [
+    "**Thành ngữ về ngôn ngữ & văn hóa**\n• **入乡随俗** = nhập gia tùy tục.\n• **言外之意** = ý ngoài lời, hàm ý.\n• **一头雾水** = mù mờ, chẳng hiểu gì.\n• **胸有成竹** = đã có tính toán sẵn.\n• **约定俗成** = quen dùng thành lệ.\n• **拐弯抹角** = nói vòng vo.\n• **心照不宣** = hiểu ngầm với nhau mà không nói ra.",
+    "**Idioms on language & culture**\n• **入乡随俗** = when in Rome, do as the Romans do.\n• **言外之意** = implied meaning.\n• **一头雾水** = completely confused.\n• **胸有成竹** = have a well-thought-out plan.\n• **约定俗成** = established by usage.\n• **拐弯抹角** = beat about the bush.\n• **心照不宣** = tacit understanding."
+   ],
+   [
+    "**Phát âm: giọng điệu mềm & thanh nhẹ khi nói khéo**\n• Động từ lặp mang ý nhẹ nhàng, âm sau đọc nhẹ: 研究研究 yánjiu yánjiu, 考虑考虑 kǎolü kǎolü.\n• 委婉 wěiwǎn: hai thanh 3 → đọc **wéiwǎn**; 哪里哪里 nǎli nǎli → **náli náli**.\n• Lời từ chối nên đọc chậm, hạ giọng cuối câu, kèm 啊/吧 cho mềm: 改天吧。不好意思啊。",
+    "**Pronunciation: soft tone & neutral syllables in tactful speech**\n• Reduplicated verbs sound gentle, the repeat is light: 研究研究, 考虑考虑.\n• 委婉: two third tones → **wéiwǎn**; 哪里哪里 → **náli náli**.\n• Say refusals slowly with a falling end, adding 啊/吧 to soften: 改天吧。不好意思啊。"
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **言** (7 nét), **译** (7), **语** (9), **通** (10), **意** (13).\n• 言 là gốc của bộ 讠: khi đứng một mình viết đủ 7 nét.\n• 译 = 讠 + 又 + 二 bên dưới… (bản giản thể của 譯): chuyển lời.\n• 意 = 音 + 心: âm thanh trong lòng → ý.\n• 通 = 甬 + 辶: đường thông suốt → 沟通.\n• Đọc to: 翻译 fānyì (1-4) · 语言 yǔyán (3-2) · 沟通 gōutōng (1-1) · 意思 yìsi (4-nhẹ).",
+    "**Characters & tones**\nWrite: **言** (7 strokes), **译** (7), **语** (9), **通** (10), **意** (13).\n• 言 is the full form of the radical 讠 (7 strokes on its own).\n• 译 (simplified from 譯): convey speech.\n• 意 = 音 + 心: the sound in one's heart → meaning.\n• 通 = 甬 + 辶: an open road → 沟通.\n• Read aloud: 翻译 fānyì (1-4) · 语言 yǔyán (3-2) · 沟通 gōutōng (1-1) · 意思 yìsi (4-neutral)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): xem một video về “中国人的客套话”, ghi lại 5 câu và nghĩa thật của chúng.\n• Nói (30 phút): đóng vai: từ chối khéo một lời mời, đáp lời khen, góp ý cho đồng nghiệp bằng cách nói giảm.\n• Đọc (30 phút): so sánh một đoạn truyện tiếng Trung với bản dịch tiếng Việt, tìm 3 chỗ dịch thoát.\n• Viết (40 phút): viết email khoảng 200 chữ kể một lần hiểu lầm văn hóa.\n• Từ vựng (15 phút): 10 từ + 7 thành ngữ; tự dịch thoát 5 thành ngữ sang tiếng Việt.",
+    "**Practice outside the app**\n• Listening (30 min): watch a video on Chinese polite formulas; note 5 phrases and their real meanings.\n• Speaking (30 min): role-play declining an invitation, answering praise, giving a colleague softened feedback.\n• Reading (30 min): compare a Chinese story passage with its Vietnamese translation; find 3 free renderings.\n• Writing (40 min): write a 200-character email about a cultural misunderstanding.\n• Vocabulary (15 min): the 10 words + 7 idioms; freely translate 5 idioms into Vietnamese."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "哪里哪里，还差得远呢。Nǎli nǎli, hái chà de yuǎn ne.",
+    "Đâu có, còn kém xa lắm."
+   ],
+   [
+    "那就不客气了！Nà jiù bú kèqi le!",
+    "Vậy thì tôi không khách sáo nữa!"
+   ],
+   [
+    "我考虑考虑再答复你。Wǒ kǎolǜ kǎolǜ zài dáfù nǐ.",
+    "Để tôi suy nghĩ rồi trả lời bạn."
+   ],
+   [
+    "这个周末恐怕不太方便。Zhège zhōumò kǒngpà bú tài fāngbiàn.",
+    "Cuối tuần này e là không tiện lắm."
+   ],
+   [
+    "这句话不能直译，得意译。Zhè jù huà bù néng zhíyì, děi yìyì.",
+    "Câu này không dịch sát được, phải dịch thoát."
+   ],
+   [
+    "入乡随俗嘛！Rùxiāng-suísú ma!",
+    "Nhập gia tùy tục mà!"
+   ]
+  ],
+  "vo": [
+   [
+    "翻译",
+    "fānyì",
+    "dịch; phiên dịch",
+    "to translate; translator"
+   ],
+   [
+    "直译",
+    "zhíyì",
+    "dịch sát chữ",
+    "literal translation"
+   ],
+   [
+    "意译",
+    "yìyì",
+    "dịch thoát ý",
+    "free translation"
+   ],
+   [
+    "沟通",
+    "gōutōng",
+    "giao tiếp, trao đổi để hiểu nhau",
+    "to communicate"
+   ],
+   [
+    "误解",
+    "wùjiě",
+    "hiểu lầm",
+    "misunderstanding"
+   ],
+   [
+    "委婉",
+    "wěiwǎn",
+    "uyển chuyển, nói giảm",
+    "tactful, euphemistic"
+   ],
+   [
+    "客套话",
+    "kètàohuà",
+    "lời khách sáo",
+    "polite formula"
+   ],
+   [
+    "文化差异",
+    "wénhuà chāyì",
+    "khác biệt văn hóa",
+    "cultural difference"
+   ],
+   [
+    "言外之意",
+    "yánwàizhīyì",
+    "ý ngoài lời",
+    "implied meaning"
+   ],
+   [
+    "入乡随俗",
+    "rùxiāng-suísú",
+    "nhập gia tùy tục",
+    "when in Rome…"
+   ]
+  ],
+  "hz": "言译语通意",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "会说中文，不等于会用中文沟通。",
+    "e": [
+     "不等于 = không đồng nghĩa với; 沟通 gōutōng (1-1) – giao tiếp để hiểu nhau, không chỉ là “nói được”.",
+     "不等于 = doesn't equal; 沟通 gōutōng (1-1) – communicating so both sides understand."
+    ],
+    "f": [
+     "不等于会用中文沟通",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "他的言外之意其实是“不太可行”。",
+    "e": [
+     "言外之意 = ý ngoài lời; 可行 = khả thi. 其实 = thật ra (đối lập với nghĩa đen).",
+     "言外之意 = implied meaning; 可行 = feasible. 其实 = actually (vs the literal sense)."
+    ],
+    "f": [
+     "言外之意",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "中国朋友夸你中文说得好的时候，你可以说“哪里哪里，还差得远呢”，这样既有礼貌又显得谦虚。",
+    "q": [
+     "Theo người nói, nên đáp lời khen thế nào?",
+     "How should you answer praise, according to the speaker?"
+    ],
+    "o": [
+     [
+      "Nói “đâu có, còn kém xa lắm”",
+      "Say “not at all, I've a long way to go”"
+     ],
+     [
+      "Nói “cảm ơn, tôi cũng thấy vậy”",
+      "Say “thanks, I think so too”"
+     ],
+     [
+      "Im lặng mỉm cười",
+      "Just smile silently"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "你可以说“哪里哪里，还差得远呢”，这样既有礼貌又显得谦虚. 谦虚 = khiêm tốn; 既…又… = vừa… vừa….",
+     "你可以说“哪里哪里，还差得远呢” – polite and modest (谦虚). 既…又… = both… and…."
+    ],
+    "f": [
+     "哪里哪里，还差得远呢",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你遇到过因为文化差异产生的误会吗？有一次我对房东说“不用了”，本来是客气，结果她以为我真的不需要，就再也没问过我。",
+    "e": [
+     "Câu hỏi: 你遇到过因为文化差异产生的误会吗？– Gợi ý trả lời mẫu. 差异 chāyì (1-4), 误会 wùhuì, 客气 kèqi (âm sau nhẹ).",
+     "Question: 你遇到过因为文化差异产生的误会吗？– A model answer. 差异 chāyì (1-4), 误会 wùhuì, 客气 kèqi (neutral)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你觉得翻译的时候直译好还是意译好？我觉得要看情况，一般的句子可以直译，可是成语和客套话最好意译。",
+    "e": [
+     "Câu hỏi: 你觉得翻译的时候直译好还是意译好？– Gợi ý trả lời mẫu. 直译 zhíyì (2-4), 意译 yìyì (4-4) – hai thanh 4 liền: thanh đầu không hạ hết.",
+     "Question: 你觉得翻译的时候直译好还是意译好？– A model answer. 直译 zhíyì (2-4), 意译 yìyì (4-4)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Anh ấy nói “hôm nào rảnh đi ăn bữa cơm nhé” chỉ là câu xã giao thôi, bạn đừng tưởng thật, càng đừng ngồi chờ anh ấy hẹn.",
+    "a": [
+     "他说“改天有空一起吃个饭”只是客套话，你别当真，更别等着他约你。",
+     "他说的“改天有空一起吃个饭”只是客气话，你别当真，更别等他约你。",
+     "他说“改天有空一起吃饭”只不过是客套话，你别当真，更不要等着他约你。"
+    ],
+    "e": [
+     "客套话 = câu khách sáo; 当真 = tưởng thật; 更别… = càng đừng…. 改天有空一起吃个饭 là câu chào tạm biệt kiểu xã giao.",
+     "客套话 = polite formula; 当真 = take seriously; 更别… = even less…. The phrase is a social goodbye."
+    ],
+    "f": [
+     "别当真",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành lời từ chối khéo theo mẫu: 真不好意思，那天我恐怕……，改天……吧",
+     "Rewrite as a tactful refusal: 真不好意思，那天我恐怕……，改天……吧"
+    ],
+    "s": "那天我不去你的生日聚会，以后再找时间见面。",
+    "a": [
+     "真不好意思，那天我恐怕去不了你的生日聚会，改天再找时间见面吧。",
+     "真不好意思，那天我恐怕去不了，改天再找时间见面吧。",
+     "真不好意思，那天我恐怕参加不了你的生日聚会，改天再找时间见面吧。"
+    ],
+    "e": [
+     "恐怕 + 去不了 (bổ ngữ khả năng: “không đi được” thay vì “không đi”) → không phải vì không muốn mà vì không thể. 改天…吧 giữ quan hệ.",
+     "恐怕 + 去不了 (potential complement: “can't” rather than “won't”) → it's ability, not will. 改天…吧 keeps the relationship."
+    ],
+    "f": [
+     "那天我恐怕去不了",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "“吃了吗？”在中国北方曾经是一种约定成俗的打招呼方式，并不是真的问你吃饭没有。",
+    "a": [
+     "“吃了吗？”在中国北方曾经是一种约定俗成的打招呼方式，并不是真的问你吃饭没有。"
+    ],
+    "e": [
+     "Thành ngữ đúng là 约定俗成 (giao ước → tập tục thành), không phải 约定成俗. Người học hay đảo chữ khi nhớ thành ngữ bốn chữ.",
+     "The idiom is 约定俗成, not 约定成俗 – learners often swap characters in four-character idioms."
+    ],
+    "f": [
+     "约定俗成",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "他说话总爱拐弯抹___，我听了半天也没弄明白他到底愿不愿意帮这个忙。",
+    "a": [
+     "角"
+    ],
+    "e": [
+     "拐弯抹角 = nói vòng vo tam quốc. 弄明白 = hiểu ra; 到底 = rốt cuộc.",
+     "拐弯抹角 = beat about the bush. 弄明白 = figure out; 到底 = after all."
+    ],
+    "f": [
+     "拐弯抹角",
+     "HSK6"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "阿兰：好久不见！来上海工作半年，我最大的体会是：会说中文，不等于会用中文沟通。刚来时，同事请我周末去他家吃饭，我说“不用了，太麻烦你了”，本来是客套话，结果他真以为我不想去，再也没请过我。还有一次，我给经理的方案提了意见，他笑着说“这个想法很有意思，我们再研究研究”。我挺高兴，后来才明白，他的言外之意是“不太可行”。翻译也一样，“胸有成竹”要是直译成“肚子里有竹子”，越南读者肯定一头雾水，意译成“心里早有打算”才自然。所以学语言也要学文化，入乡随俗，才能减少误解。",
+   "tr": "Lan thân mến: Lâu quá không gặp! Sang Thượng Hải làm việc nửa năm, điều mình thấm thía nhất là: biết nói tiếng Trung không có nghĩa là biết dùng tiếng Trung để giao tiếp. Hồi mới đến, đồng nghiệp mời mình cuối tuần đến nhà ăn cơm, mình nói “Thôi, phiền anh quá”, vốn chỉ là câu khách sáo, ai ngờ anh ấy tưởng thật là mình không muốn đi, từ đó không mời mình nữa. Còn một lần, mình góp ý cho phương án của giám đốc, ông ấy cười nói “Ý tưởng này rất thú vị, chúng ta nghiên cứu thêm”. Mình mừng lắm, sau này mới hiểu, ý ngoài lời của ông ấy là “không khả thi lắm”. Dịch thuật cũng vậy, “胸有成竹” nếu dịch sát thành “trong bụng có cây tre” thì độc giả Việt chắc chắn chẳng hiểu gì, dịch thoát thành “trong lòng đã có tính toán” mới tự nhiên. Vì vậy học ngôn ngữ cũng phải học văn hóa, nhập gia tùy tục, mới giảm được hiểu lầm."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người đồng nghiệp không mời người viết nữa?",
+     "Why did the colleague never invite the writer again?"
+    ],
+    "o": [
+     [
+      "Anh ấy tưởng lời từ chối khách sáo là thật",
+      "He took the polite refusal literally"
+     ],
+     [
+      "Người viết không biết nói tiếng Trung",
+      "The writer couldn't speak Chinese"
+     ],
+     [
+      "Người viết đến muộn",
+      "The writer arrived late"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "本来是客套话，结果他真以为我不想去，再也没请过我. 结果 = kết quả là (ngoài dự đoán).",
+     "本来是客套话，结果他真以为我不想去. 结果 = as it turned out."
+    ],
+    "f": [
+     "他真以为我不想去",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “chúng ta nghiên cứu thêm” của giám đốc thực ra có nghĩa gì?",
+     "What did the manager's “let's study it further” really mean?"
+    ],
+    "o": [
+     [
+      "Phương án không khả thi lắm",
+      "The plan isn't very feasible"
+     ],
+     [
+      "Phương án rất thú vị, sẽ thực hiện ngay",
+      "It's great and will be done at once"
+     ],
+     [
+      "Giám đốc cần thêm số liệu",
+      "He needs more data"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他的言外之意是“不太可行”. Người viết lúc đầu hiểu theo nghĩa đen nên “挺高兴”.",
+     "他的言外之意是“不太可行”. The writer first took it literally and was pleased."
+    ],
+    "f": [
+     "不太可行",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao không nên dịch sát “胸有成竹”?",
+     "Why shouldn't 胸有成竹 be translated literally?"
+    ],
+    "o": [
+     [
+      "Độc giả Việt sẽ không hiểu; dịch thoát mới tự nhiên",
+      "Vietnamese readers wouldn't understand; a free rendering is natural"
+     ],
+     [
+      "Vì tiếng Việt không có từ “tre”",
+      "Vietnamese has no word for bamboo"
+     ],
+     [
+      "Vì thành ngữ này đã lỗi thời",
+      "The idiom is outdated"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "直译成“肚子里有竹子”，越南读者肯定一头雾水，意译成“心里早有打算”才自然. 一头雾水 = mù mờ.",
+     "Literal → 一头雾水 (confusion); free rendering → natural."
+    ],
+    "f": [
+     "意译成“心里早有打算”才自然",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你别跟我道歉了，我完全___你的难处，要是换了我，也会做出同样的决定。",
+    "o": [
+     "理解",
+     "了解",
+     "解释"
+    ],
+    "a": 0,
+    "e": [
+     "Thấu hiểu, cảm thông khó khăn của ai → 理解. 了解 = nắm thông tin (了解情况); 解释 = giải thích.",
+     "Sympathise with someone's difficulty → 理解. 了解 = know about; 解释 = explain."
+    ],
+    "f": [
+     "完全理解你的难处",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "谢谢你的邀请，不过这个周末我恐怕不太___，下次有机会我一定参加。",
+    "o": [
+     "方便",
+     "容易",
+     "舒服"
+    ],
+    "a": 0,
+    "e": [
+     "不太方便 = không tiện – cách từ chối khéo, không cần nói lý do cụ thể. 恐怕 làm lời từ chối mềm thêm.",
+     "不太方便 = not convenient – a tactful refusal needing no reason. 恐怕 softens it further."
+    ],
+    "f": [
+     "恐怕不太方便",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这句俗语不能直___，要根据上下文意译，不然越南读者根本看不懂。",
+    "a": [
+     "译"
+    ],
+    "e": [
+     "直译 (dịch sát chữ) đối lập 意译 (dịch thoát). 俗语 = tục ngữ; 上下文 = ngữ cảnh trước sau.",
+     "直译 (literal) vs 意译 (free). 俗语 = folk saying; 上下文 = context."
+    ],
+    "f": [
+     "直译",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "在别人的国家生活和工作，就要入乡随___，先尊重当地的习惯再说。",
+    "a": [
+     "俗"
+    ],
+    "e": [
+     "入乡随俗 = nhập gia tùy tục. …再说 = …rồi hãy tính (khẩu ngữ).",
+     "入乡随俗 = when in Rome. …再说 = deal with the rest later (spoken)."
+    ],
+    "f": [
+     "入乡随俗",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "老板说“你的报告还有提高的空间”，他的言外之___其实是让你回去重写。",
+    "a": [
+     "意"
+    ],
+    "e": [
+     "言外之意 = ý ngoài lời. 还有提高的空间 = vẫn còn chỗ để cải thiện – lời phê bình được nói giảm.",
+     "言外之意 = implied meaning. 还有提高的空间 = there's room for improvement – softened criticism."
+    ],
+    "f": [
+     "言外之意",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这本小说已经被解释成了二十多种语言，在世界各地都很受欢迎。",
+    "a": [
+     "这本小说已经被翻译成了二十多种语言，在世界各地都很受欢迎。"
+    ],
+    "e": [
+     "Chuyển sang ngôn ngữ khác → 翻译成. 解释 = giải thích (thường trong cùng một ngôn ngữ). Người Việt hay lẫn vì “dịch nghĩa” ≈ “giải nghĩa”.",
+     "Into other languages → 翻译成. 解释 = explain (same language)."
+    ],
+    "f": [
+     "被翻译成了二十多种语言",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们把误会说开了以后，现在的关系比以前还要更好得多。",
+    "a": [
+     "我们把误会说开了以后，现在的关系比以前还要好。",
+     "我们把误会说开了以后，现在的关系比以前好得多。"
+    ],
+    "e": [
+     "So sánh với 比: chọn một cách nhấn mạnh – 还要 + tính từ hoặc tính từ + 得多; không chồng 还要 + 更 + 得多. 说开 = nói rõ cho hết hiểu lầm.",
+     "With 比 use one intensifier – 还要 + adj or adj + 得多; don't stack 还要 + 更 + 得多. 说开 = talk it through."
+    ],
+    "f": [
+     "比以前还要好",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Người Trung Quốc mời ăn cơm thường phải mời hai ba lần, lần đầu từ chối nhiều khi chỉ là khách sáo.",
+    "a": [
+     "中国人请吃饭常常要请两三次，第一次拒绝往往只是客套。",
+     "中国人请人吃饭常常要请两三次，第一次拒绝很多时候只是客气。",
+     "中国人请客吃饭往往要请两三次，第一次的拒绝常常只是客套话。"
+    ],
+    "e": [
+     "往往 = thường (theo thói quen, quy luật); 客套 / 客气 = khách sáo. Số lần (两三次) đứng sau động từ 请.",
+     "往往 = tend to; 客套 / 客气 = politeness. The count (两三次) follows the verb 请."
+    ],
+    "f": [
+     "第一次拒绝往往只是客套",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Câu “để chúng tôi nghiên cứu thêm” nhiều khi có ý ngầm là “không khả thi lắm”.",
+    "a": [
+     "“我们再研究研究”这句话，很多时候的言外之意是“不太可行”。",
+     "“我们再研究研究”这句话很多时候的言外之意是“不太可行”。",
+     "“我们再研究研究”，很多时候言外之意就是“不太可行”。"
+    ],
+    "e": [
+     "Câu trích dẫn làm chủ đề đầu câu + 这句话; 言外之意 = ý ngầm. 研究研究 lặp động từ làm câu nghe nhẹ nhàng.",
+     "The quote opens as topic + 这句话; 言外之意 = implied meaning. Reduplicated 研究研究 sounds soft."
+    ],
+    "f": [
+     "言外之意是“不太可行”",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Câu dưới đây dịch sát chữ nghe rất lạ. Viết lại tự nhiên bằng thành ngữ 胸有成竹",
+     "This literal rendering sounds odd. Rewrite it naturally with 胸有成竹"
+    ],
+    "s": "他做这件事以前，肚子里已经有了竹子。",
+    "a": [
+     "他做这件事以前，已经胸有成竹了。",
+     "做这件事以前，他已经胸有成竹了。",
+     "他做这件事以前就已经胸有成竹了。"
+    ],
+    "e": [
+     "胸有成竹 = trong ngực đã có sẵn hình cây tre (họa sĩ vẽ tre) → đã tính sẵn. Đây chính là lý do không thể 直译 thành ngữ.",
+     "胸有成竹 = the painter already sees the bamboo in his mind → has a plan. That's why idioms can't be translated literally."
+    ],
+    "f": [
+     "胸有成竹",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "会说|中文|，不等于|会用|中文|跟人|沟通",
+    "m": [
+     "Biết nói tiếng Trung không có nghĩa là biết dùng tiếng Trung để giao tiếp với người khác.",
+     "Being able to speak Chinese doesn't mean being able to communicate in it."
+    ],
+    "e": [
+     "A，不等于 B: hai cụm động từ song song (会说中文 / 会用中文跟人沟通). 跟人 đứng trước 沟通.",
+     "A，不等于 B: two parallel verb phrases. 跟人 precedes 沟通."
+    ],
+    "f": [
+     "不等于",
+     "HSK5"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 200 chữ cho một người bạn Trung Quốc kể về một lần hiểu lầm do khác biệt văn hóa hoặc ngôn ngữ, và bài học bạn rút ra. Dùng ít nhất hai thành ngữ.",
+     "Write a 200-character email to a Chinese friend about a misunderstanding caused by cultural or language differences and what you learned. Use at least two idioms."
+    ],
+    "m": "小林：最近好吗？跟你说件好笑的事。上个月我第一次去中国朋友家做客，阿姨一直给我夹菜，我吃饱了，就把碗里的菜全吃光了，想表示礼貌。没想到阿姨以为我还没吃饱，又给我盛了一大碗饭。后来朋友才告诉我，在他们家，碗里留一点儿菜，言外之意是“已经吃饱了，谢谢”。我当时真是一头雾水！这件事让我明白，语言背后都是文化，光会说还不够，还得入乡随俗，多观察、多问。你在越南有没有遇到过类似的误会？",
+    "e": [
+     "Cần có: • kể sự việc theo thứ tự (刚…/后来才…) • chỉ ra hàm ý hoặc khác biệt văn hóa • ít nhất 2 thành ngữ (一头雾水, 入乡随俗, 言外之意…) • bài học + câu hỏi lại bạn.",
+     "Must include: • events in order (刚…/后来才…) • the implied meaning or cultural difference • at least 2 idioms • a lesson + a question back."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h6-r",
+  "t": [
+   "Bài đọc: Bàn về đọc sách",
+   "Reading: On reading"
+  ],
+  "rd": {
+   "tx": "读书之益，人所共知。然而，在信息爆炸的时代，真正能够静下心来读完一本好书的人却越来越少。鉴于此，不少学者呼吁重视“深度阅读”。所谓深度阅读，并非单纯地增加阅读量，而是在阅读过程中积极思考、反复推敲，以便将书中的知识转化为自己的能力。古人云：“学而不思则罔，思而不学则殆。”由此可见，读书与思考二者缺一不可。",
+   "tr": "Lợi ích của việc đọc sách ai cũng biết. Tuy nhiên, trong thời đại bùng nổ thông tin, số người thật sự có thể tĩnh tâm đọc hết một cuốn sách hay lại ngày càng ít. Xét thấy điều này, nhiều học giả kêu gọi coi trọng “đọc sâu”. Cái gọi là đọc sâu không phải đơn thuần tăng lượng đọc, mà là trong quá trình đọc tích cực suy nghĩ, cân nhắc kỹ lưỡng, để biến kiến thức trong sách thành năng lực của bản thân. Người xưa nói: “Học mà không nghĩ thì mờ mịt, nghĩ mà không học thì nguy hiểm.” Từ đó có thể thấy, đọc sách và suy nghĩ thiếu một cũng không được."
+  },
+  "vo": [
+   [
+    "爆炸",
+    "bàozhà",
+    "bùng nổ",
+    "explosion"
+   ],
+   [
+    "呼吁",
+    "hūyù",
+    "kêu gọi",
+    "to appeal"
+   ],
+   [
+    "所谓",
+    "suǒwèi",
+    "cái gọi là",
+    "so-called"
+   ],
+   [
+    "并非",
+    "bìngfēi",
+    "không phải là",
+    "is not"
+   ],
+   [
+    "推敲",
+    "tuīqiāo",
+    "cân nhắc kỹ",
+    "to weigh carefully"
+   ],
+   [
+    "缺一不可",
+    "quē yī bù kě",
+    "thiếu một không được",
+    "both indispensable"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Thực trạng được nêu?",
+     "What situation is described?"
+    ],
+    [
+     [
+      "người đọc hết một cuốn sách hay ngày càng ít",
+      "fewer people finish a good book"
+     ],
+     [
+      "sách ngày càng đắt",
+      "books cost more"
+     ],
+     [
+      "thư viện đóng cửa",
+      "libraries are closing"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“深度阅读” là gì?",
+     "What is “deep reading”?"
+    ],
+    [
+     [
+      "vừa đọc vừa suy nghĩ, cân nhắc kỹ",
+      "reading with active thought and reflection"
+     ],
+     [
+      "đọc thật nhiều sách",
+      "reading lots of books"
+     ],
+     [
+      "đọc nhanh",
+      "speed reading"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“学而不思则罔” nghĩa là?",
+     "“学而不思则罔” means?"
+    ],
+    [
+     [
+      "học mà không nghĩ thì mờ mịt",
+      "learning without thinking leads to confusion"
+     ],
+     [
+      "học nhiều thì mệt",
+      "studying a lot is tiring"
+     ],
+     [
+      "nghĩ nhiều thì vui",
+      "thinking brings joy"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___此，不少学者呼吁重视深度阅读。",
+    [
+     "鉴于",
+     "以便",
+     "然而"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "积极思考、反复推敲，___将书中的知识转化为自己的能力。",
+    [
+     "以便",
+     "鉴于",
+     "然而"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "“缺一不可” nghĩa là?",
+     "“缺一不可” means?"
+    ],
+    [
+     [
+      "thiếu một cũng không được",
+      "both are indispensable"
+     ],
+     [
+      "có một là đủ",
+      "one is enough"
+     ],
+     [
+      "không cần cái nào",
+      "neither is needed"
+     ]
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "在信息爆炸的时代，真正能够静下心来读完一本好书的人却越来越少，这一现象值得我们反思。",
+    "q": [
+     "Hiện tượng nào đáng để suy ngẫm?",
+     "Which phenomenon deserves reflection?"
+    ],
+    "o": [
+     [
+      "người đọc hết một cuốn sách hay ngày càng ít",
+      "fewer people finish a good book"
+     ],
+     [
+      "sách điện tử quá đắt",
+      "e-books are too expensive"
+     ],
+     [
+      "thư viện quá đông người",
+      "libraries are too crowded"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "却 nhấn mạnh sự trái ngược: thông tin bùng nổ nhưng người đọc sâu lại ít đi.",
+     "却 stresses the contrast: information explodes, yet deep readers dwindle."
+    ],
+    "f": [
+     "读完一本好书的人却越来越少",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "所谓深度阅读，并非单纯地增加阅读量，而是在阅读过程中积极思考、反复推敲。",
+    "e": [
+     "所谓 = cái gọi là; 并非…而是… = không phải … mà là, lối văn viết của 不是…而是.",
+     "所谓 = so-called; 并非…而是… = not … but rather, the written form of 不是…而是."
+    ],
+    "f": [
+     "并非单纯地增加阅读量",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "古人云：“学而不思则罔，思而不学则殆。”由此可见，读书与思考二者缺一不可。"
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "所谓终身学习，___仅仅指在学校里读书，而是指在一生中不断获取新知识的过程。",
+    "o": [
+     "并非",
+     "然而",
+     "鉴于"
+    ],
+    "a": 0,
+    "e": [
+     "Vế sau có 而是 → dùng 并非…而是…. 然而 là “tuy nhiên”, 鉴于 là “xét thấy” – đều không đi với 而是.",
+     "The clause has 而是 → use 并非…而是…. 然而 (however) and 鉴于 (in view of) don't pair with 而是."
+    ],
+    "f": [
+     "并非",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "读书之益虽人所共知，___真正能够静下心来读完一本好书的人却越来越少。",
+    "a": [
+     "然而",
+     "但是",
+     "可是"
+    ],
+    "e": [
+     "虽 (tuy) ở vế trước, vế sau dùng 然而 – từ trang trọng của 但是, đúng như bài đọc.",
+     "虽 (although) in the first clause; the second uses 然而, the formal 但是, as in the passage."
+    ],
+    "f": [
+     "然而",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "鉴于此，不少学者呼吁重视深度阅读，因此将书中的知识转化为自己的能力。",
+    "a": [
+     "鉴于此，不少学者呼吁重视深度阅读，以便将书中的知识转化为自己的能力。"
+    ],
+    "e": [
+     "Vế sau chỉ MỤC ĐÍCH (để biến kiến thức thành năng lực) nên dùng 以便, không dùng 因此 (chỉ kết quả).",
+     "The second clause expresses PURPOSE, so use 以便, not 因此 (which marks a result)."
+    ],
+    "f": [
+     "以便",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 并非…而是…",
+     "Rewrite with 并非…而是…"
+    ],
+    "s": "深度阅读不是单纯地增加阅读量，是在阅读过程中积极思考、反复推敲。",
+    "a": [
+     "深度阅读并非单纯地增加阅读量，而是在阅读过程中积极思考、反复推敲。"
+    ],
+    "e": [
+     "并非 thay 不是, 而是 mở đầu vế đúng. Đây là cặp từ rất hay gặp trong bài đọc HSK 6.",
+     "并非 replaces 不是 and 而是 opens the correct alternative – a very common pair in HSK 6 readings."
+    ],
+    "f": [
+     "并非…而是",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Từ đó có thể thấy, đọc sách và suy nghĩ thiếu một cũng không được; chỉ đọc mà không nghĩ thì khó biến kiến thức thành năng lực.",
+    "a": [
+     "由此可见，读书与思考二者缺一不可，只读不想就很难把知识转化为能力。",
+     "由此可见，读书与思考缺一不可，只读书不思考就很难将知识转化为能力。",
+     "由此可见，读书和思考缺一不可，只读书不思考就很难把知识转化为能力。",
+     "由此可见，读书与思考二者缺一不可；只读不思，就难以将知识转化为能力。",
+     "由此可见，读书与思考缺一不可，只读不思就难以把知识转化为自己的能力。"
+    ],
+    "e": [
+     "“Từ đó có thể thấy” = 由此可见; “thiếu một cũng không được” = 缺一不可; “biến … thành …” = 把/将…转化为….",
+     "“From this we see” = 由此可见; “both indispensable” = 缺一不可; “turn … into …” = 把/将…转化为…."
+    ],
+    "f": [
+     "由此可见",
+     "HSK6"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "在|信息爆炸的|时代|我们|更|需要|静下心来|读完|一本|好书",
+    "m": [
+     "Trong thời đại bùng nổ thông tin, chúng ta càng cần tĩnh tâm đọc hết một cuốn sách hay.",
+     "In an age of information overload, we need all the more to calm down and finish a good book."
+    ],
+    "e": [
+     "Trạng ngữ 在…时代 đứng đầu câu; 静下心来 (bổ ngữ xu hướng nghĩa mở rộng) đứng trước 读完.",
+     "The adverbial 在…时代 opens the sentence; 静下心来 (extended directional) precedes 读完."
+    ],
+    "f": [
+     "静下心来读完一本好书",
+     "HSK6"
+    ]
+   }
+  ]
+ }
+]

@@ -35,9 +35,18 @@ export function isComplete(session: SessionState): boolean {
   return session.position >= session.queue.length;
 }
 
-export function answerCurrent(session: SessionState, correct: boolean): SessionState {
+/** With `retry` false (tests) a wrong answer is final: it is not asked again. */
+export function answerCurrent(session: SessionState, correct: boolean, retry = true): SessionState {
   const exercise = currentExercise(session);
   if (!exercise) return session;
+  if (!correct && !retry) {
+    return {
+      ...session,
+      position: session.position + 1,
+      completed: session.completed + 1,
+      missedIds: [...session.missedIds, exercise.id],
+    };
+  }
   if (correct) {
     const firstTry = !session.missedIds.includes(exercise.id);
     return {

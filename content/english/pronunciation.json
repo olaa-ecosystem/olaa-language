@@ -1,0 +1,700 @@
+{
+ "chart": [
+  [
+   [
+    "Nguyên âm ngắn",
+    "Short vowels"
+   ],
+   [
+    [
+     "ɪ",
+     "ship, sit, gym",
+     "“i” ngắn, thả lỏng, dứt khoát – không kéo dài",
+     "short, relaxed “i”"
+    ],
+    [
+     "e",
+     "bed, head, said",
+     "giống “e” tiếng Việt nhưng khép hơn một chút",
+     "like Vietnamese “e”, a bit closer"
+    ],
+    [
+     "æ",
+     "cat, bad, apple",
+     "mở miệng rộng, giữa “a” và “e”",
+     "mouth wide open, between “a” and “e”"
+    ],
+    [
+     "ʌ",
+     "cup, love, money",
+     "“ă” ngắn, miệng thả lỏng",
+     "a short “ă”"
+    ],
+    [
+     "ɒ / ɑ",
+     "hot, dog, watch",
+     "Anh-Anh /ɒ/ tròn môi; Anh-Mỹ /ɑː/ mở rộng",
+     "British rounded /ɒ/, American open /ɑː/"
+    ],
+    [
+     "ʊ",
+     "book, put, could",
+     "“u” ngắn, môi hơi tròn",
+     "short, slightly rounded “u”"
+    ],
+    [
+     "ə",
+     "about, sofa, teacher",
+     "âm “ơ” rất nhẹ ở âm tiết không nhấn – âm phổ biến nhất",
+     "the weak “uh” in unstressed syllables"
+    ]
+   ]
+  ],
+  [
+   [
+    "Nguyên âm dài",
+    "Long vowels"
+   ],
+   [
+    [
+     "iː",
+     "see, sheep, team",
+     "“i” kéo dài, miệng dẹt như cười",
+     "long “ee”, lips spread"
+    ],
+    [
+     "ɑː",
+     "car, father, start",
+     "“a” dài, miệng mở rộng",
+     "long open “ah”"
+    ],
+    [
+     "ɔː",
+     "law, door, caught",
+     "“o” dài, tròn môi",
+     "long rounded “aw”"
+    ],
+    [
+     "uː",
+     "food, blue, two",
+     "“u” dài, môi tròn chu ra",
+     "long “oo”, lips pushed forward"
+    ],
+    [
+     "ɜː",
+     "bird, work, learn",
+     "“ơ” dài; Anh-Mỹ có âm r /ɝ/",
+     "long “er”; American adds r"
+    ]
+   ]
+  ],
+  [
+   [
+    "Nguyên âm đôi",
+    "Diphthongs"
+   ],
+   [
+    [
+     "eɪ",
+     "day, rain, great",
+     "“ây”",
+     "like “ây”"
+    ],
+    [
+     "aɪ",
+     "my, time, high",
+     "“ai”",
+     "like “ai”"
+    ],
+    [
+     "ɔɪ",
+     "boy, coin, enjoy",
+     "“oi”",
+     "like “oi”"
+    ],
+    [
+     "aʊ",
+     "now, house, mouth",
+     "“ao”",
+     "like “ao”"
+    ],
+    [
+     "əʊ / oʊ",
+     "go, home, know",
+     "“âu” (Anh) / “ôu” (Mỹ) – không đọc thành “ô”",
+     "not a pure “ô”"
+    ],
+    [
+     "ɪə",
+     "near, here, idea",
+     "“ia” (Anh-Anh)",
+     "British “ia”"
+    ],
+    [
+     "eə",
+     "hair, care, where",
+     "“e-ơ” (Anh-Anh)",
+     "British “air”"
+    ]
+   ]
+  ],
+  [
+   [
+    "Phụ âm khó với người Việt",
+    "Tricky consonants"
+   ],
+   [
+    [
+     "θ",
+     "think, three, month",
+     "đặt đầu lưỡi giữa hai răng rồi thổi hơi – không đọc thành “t” hay “th”",
+     "tongue between the teeth, blow air"
+    ],
+    [
+     "ð",
+     "this, mother, they",
+     "như /θ/ nhưng rung dây thanh – không đọc thành “d”",
+     "voiced /θ/"
+    ],
+    [
+     "ʃ",
+     "she, ship, nation",
+     "“s” nặng, tròn môi",
+     "“sh”, lips rounded"
+    ],
+    [
+     "ʒ",
+     "measure, vision, usually",
+     "như /ʃ/ nhưng rung – gần “gi” nhẹ",
+     "voiced “sh”"
+    ],
+    [
+     "tʃ",
+     "church, watch, nature",
+     "“ch” bật mạnh, tròn môi",
+     "strong “ch”"
+    ],
+    [
+     "dʒ",
+     "job, age, bridge",
+     "“ch” rung, gần “gi” bật",
+     "“j”"
+    ],
+    [
+     "ŋ",
+     "sing, long, thinking",
+     "“ng” cuối – không thêm “g” phía sau",
+     "final “ng”, no extra g"
+    ],
+    [
+     "r",
+     "red, right, very",
+     "lưỡi cong, không chạm vòm miệng, không rung lưỡi",
+     "curled tongue, no trill"
+    ],
+    [
+     "l",
+     "light, feel, milk",
+     "cuối từ là “l tối”: lưỡi chạm lợi, hơi giống “ô”",
+     "dark L at the end"
+    ],
+    [
+     "v",
+     "very, have, love",
+     "răng trên chạm môi dưới, rung – khác /b/",
+     "teeth on lip, voiced – not /b/"
+    ],
+    [
+     "z",
+     "zoo, is, music",
+     "“s” rung như tiếng ong – đuôi -s sau âm hữu thanh",
+     "buzzing “s”"
+    ],
+    [
+     "s / z / ɪz (đuôi -s)",
+     "cats /s/, dogs /z/, buses /ɪz/",
+     "người Việt hay bỏ âm cuối: luôn đọc rõ đuôi -s, -ed",
+     "never drop final -s / -ed"
+    ],
+    [
+     "t / d / ɪd (đuôi -ed)",
+     "worked /t/, played /d/, wanted /ɪd/",
+     "-ed sau âm vô thanh đọc /t/, sau hữu thanh /d/, sau t/d đọc /ɪd/",
+     "the three -ed endings"
+    ]
+   ]
+  ]
+ ],
+ "pairs": [
+  [
+   "ship",
+   "sheep",
+   "ɪ – iː"
+  ],
+  [
+   "sit",
+   "seat",
+   "ɪ – iː"
+  ],
+  [
+   "live",
+   "leave",
+   "ɪ – iː"
+  ],
+  [
+   "full",
+   "fool",
+   "ʊ – uː"
+  ],
+  [
+   "pull",
+   "pool",
+   "ʊ – uː"
+  ],
+  [
+   "cat",
+   "cut",
+   "æ – ʌ"
+  ],
+  [
+   "bad",
+   "bed",
+   "æ – e"
+  ],
+  [
+   "hat",
+   "hut",
+   "æ – ʌ"
+  ],
+  [
+   "cap",
+   "cup",
+   "æ – ʌ"
+  ],
+  [
+   "think",
+   "sink",
+   "θ – s"
+  ],
+  [
+   "three",
+   "free",
+   "θ – f"
+  ],
+  [
+   "thin",
+   "tin",
+   "θ – t"
+  ],
+  [
+   "they",
+   "day",
+   "ð – d"
+  ],
+  [
+   "very",
+   "berry",
+   "v – b"
+  ],
+  [
+   "vest",
+   "best",
+   "v – b"
+  ],
+  [
+   "light",
+   "right",
+   "l – r"
+  ],
+  [
+   "long",
+   "wrong",
+   "l – r"
+  ],
+  [
+   "sheep",
+   "cheap",
+   "ʃ – tʃ"
+  ],
+  [
+   "ship",
+   "chip",
+   "ʃ – tʃ"
+  ],
+  [
+   "rice",
+   "rise",
+   "s – z"
+  ],
+  [
+   "price",
+   "prize",
+   "s – z"
+  ],
+  [
+   "bag",
+   "back",
+   "ɡ – k (âm cuối)"
+  ],
+  [
+   "white",
+   "wide",
+   "t – d (âm cuối)"
+  ],
+  [
+   "card",
+   "cart",
+   "d – t (âm cuối)"
+  ],
+  [
+   "walk",
+   "work",
+   "ɔː – ɜː"
+  ],
+  [
+   "law",
+   "low",
+   "ɔː – əʊ"
+  ],
+  [
+   "bird",
+   "bed",
+   "ɜː – e"
+  ],
+  [
+   "coat",
+   "caught",
+   "əʊ – ɔː"
+  ],
+  [
+   "man",
+   "men",
+   "æ – e"
+  ],
+  [
+   "seat",
+   "sheet",
+   "s – ʃ"
+  ]
+ ],
+ "stress": [
+  [
+   "photograph",
+   [
+    "pho",
+    "to",
+    "graph"
+   ],
+   0
+  ],
+  [
+   "photography",
+   [
+    "pho",
+    "to",
+    "gra",
+    "phy"
+   ],
+   1
+  ],
+  [
+   "photographic",
+   [
+    "pho",
+    "to",
+    "gra",
+    "phic"
+   ],
+   2
+  ],
+  [
+   "economy",
+   [
+    "e",
+    "co",
+    "no",
+    "my"
+   ],
+   1
+  ],
+  [
+   "economic",
+   [
+    "e",
+    "co",
+    "no",
+    "mic"
+   ],
+   2
+  ],
+  [
+   "comfortable",
+   [
+    "com",
+    "for",
+    "ta",
+    "ble"
+   ],
+   0
+  ],
+  [
+   "vegetable",
+   [
+    "ve",
+    "ge",
+    "ta",
+    "ble"
+   ],
+   0
+  ],
+  [
+   "hotel",
+   [
+    "ho",
+    "tel"
+   ],
+   1
+  ],
+  [
+   "banana",
+   [
+    "ba",
+    "na",
+    "na"
+   ],
+   1
+  ],
+  [
+   "important",
+   [
+    "im",
+    "por",
+    "tant"
+   ],
+   1
+  ],
+  [
+   "interesting",
+   [
+    "in",
+    "te",
+    "res",
+    "ting"
+   ],
+   0
+  ],
+  [
+   "development",
+   [
+    "de",
+    "ve",
+    "lop",
+    "ment"
+   ],
+   1
+  ],
+  [
+   "information",
+   [
+    "in",
+    "for",
+    "ma",
+    "tion"
+   ],
+   2
+  ],
+  [
+   "necessary",
+   [
+    "ne",
+    "ces",
+    "sa",
+    "ry"
+   ],
+   0
+  ],
+  [
+   "communicate",
+   [
+    "com",
+    "mu",
+    "ni",
+    "cate"
+   ],
+   1
+  ],
+  [
+   "technology",
+   [
+    "tech",
+    "no",
+    "lo",
+    "gy"
+   ],
+   1
+  ],
+  [
+   "opportunity",
+   [
+    "op",
+    "por",
+    "tu",
+    "ni",
+    "ty"
+   ],
+   2
+  ],
+  [
+   "engineer",
+   [
+    "en",
+    "gi",
+    "neer"
+   ],
+   2
+  ],
+  [
+   "Japanese",
+   [
+    "Ja",
+    "pa",
+    "nese"
+   ],
+   2
+  ],
+  [
+   "advice",
+   [
+    "ad",
+    "vice"
+   ],
+   1
+  ],
+  [
+   "colleague",
+   [
+    "col",
+    "league"
+   ],
+   0
+  ],
+  [
+   "event",
+   [
+    "e",
+    "vent"
+   ],
+   1
+  ],
+  [
+   "chocolate",
+   [
+    "choc",
+    "o",
+    "late"
+   ],
+   0
+  ],
+  [
+   "mistake",
+   [
+    "mis",
+    "take"
+   ],
+   1
+  ],
+  [
+   "understand",
+   [
+    "un",
+    "der",
+    "stand"
+   ],
+   2
+  ],
+  [
+   "computer",
+   [
+    "com",
+    "pu",
+    "ter"
+   ],
+   1
+  ],
+  [
+   "family",
+   [
+    "fa",
+    "mi",
+    "ly"
+   ],
+   0
+  ],
+  [
+   "decide",
+   [
+    "de",
+    "cide"
+   ],
+   1
+  ],
+  [
+   "ability",
+   [
+    "a",
+    "bi",
+    "li",
+    "ty"
+   ],
+   1
+  ],
+  [
+   "available",
+   [
+    "a",
+    "vai",
+    "la",
+    "ble"
+   ],
+   1
+  ]
+ ],
+ "src": [
+  [
+   "Cambridge Dictionary",
+   "IPA Anh-Anh & Anh-Mỹ, có file nghe cho từng giọng",
+   "UK & US IPA with audio for both accents",
+   "https://dictionary.cambridge.org/dictionary/english/{w}"
+  ],
+  [
+   "Oxford Learner's Dictionaries",
+   "IPA chuẩn Oxford, giọng Anh và Mỹ",
+   "Oxford IPA, British and American audio",
+   "https://www.oxfordlearnersdictionaries.com/definition/english/{w}"
+  ],
+  [
+   "YouGlish",
+   "Nghe từ trong hàng nghìn video thật của người bản xứ",
+   "Hear the word in real native videos",
+   "https://youglish.com/pronounce/{w}/english"
+  ],
+  [
+   "Forvo",
+   "Người bản xứ thu âm từng từ, nhiều vùng miền",
+   "Native speakers record each word",
+   "https://forvo.com/word/{w}/#en"
+  ],
+  [
+   "Bảng IPA tương tác",
+   "Bấm từng ký hiệu IPA để nghe âm chuẩn",
+   "Click each IPA symbol to hear it",
+   "https://www.ipachart.com/"
+  ],
+  [
+   "BBC Learning English – Pronunciation",
+   "Video luyện từng âm IPA của BBC",
+   "BBC videos for every IPA sound",
+   "https://www.bbc.co.uk/learningenglish/english/features/pronunciation"
+  ]
+ ]
+}

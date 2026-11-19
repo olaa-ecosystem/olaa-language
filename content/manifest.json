@@ -1,0 +1,52 @@
+{
+ "source": "index.html",
+ "sha256": "e2f36f6d71371c9cc3214d640b3c52aba83aef158716b5fb976193b7a2d9aede",
+ "extractedAt": "2026-11-14",
+ "languages": {
+  "en": {
+   "levels": {
+    "A1": 10,
+    "A2": 13,
+    "B1": 14,
+    "B2": 12,
+    "C1": 8,
+    "C2": 5
+   },
+   "units": 62,
+   "exercises": 1247,
+   "vocabulary": 552,
+   "passages": 62,
+   "glossaryEntries": 6594
+  },
+  "es": {
+   "levels": {
+    "A1": 10,
+    "A2": 13,
+    "B1": 15,
+    "B2": 11,
+    "C1": 6,
+    "C2": 5
+   },
+   "units": 60,
+   "exercises": 1239,
+   "vocabulary": 532,
+   "passages": 60,
+   "glossaryEntries": 6251
+  },
+  "zh": {
+   "levels": {
+    "HSK1": 10,
+    "HSK2": 13,
+    "HSK3": 14,
+    "HSK4": 11,
+    "HSK5": 6,
+    "HSK6": 6
+   },
+   "units": 60,
+   "exercises": 1237,
+   "vocabulary": 533,
+   "passages": 60,
+   "glossaryEntries": 8065
+  }
+ }
+}
