@@ -6,7 +6,6 @@ import {
   courseProgress,
   finishLesson,
   initialState,
-  loseHeart,
   recordMistake,
   resolveMistake,
 } from './appState';
@@ -60,7 +59,10 @@ describe('app state actions', () => {
     expect(courseProgress(state, course.id).mistakes).toEqual({});
   });
 
-  it('loses hearts', () => {
-    expect(loseHeart(initialState(), 1000).hearts.current).toBe(4);
+  it('counts mistakes by category', () => {
+    const exercise = generateLessonExercises(course, lesson, 0, 1).find((e) => e.kind !== 'match')!;
+    const s = recordMistake(initialState(), course.id, exercise, 'word-order');
+    const again = recordMistake(s, course.id, exercise, 'word-order');
+    expect(courseProgress(again, course.id).mistakeCategories).toEqual({ 'word-order': 2 });
   });
 });

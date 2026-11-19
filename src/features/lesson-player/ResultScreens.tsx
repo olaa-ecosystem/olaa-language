@@ -1,5 +1,5 @@
 import type { CSSProperties, ReactNode } from 'react';
-import { BoltIcon, HeartIcon, StarIcon } from '../../components/Icons';
+import { BoltIcon, StarIcon } from '../../components/Icons';
 import { Mascot } from '../../components/mascots';
 import type { MascotId } from '../../types';
 import type { SessionSummary } from './session';
@@ -62,41 +62,6 @@ export function SessionComplete({
         autoFocus
       >
         Continue
-      </button>
-    </div>
-  );
-}
-
-export function OutOfHearts({
-  buddy,
-  msUntilNext,
-  onPractice,
-  onExit,
-}: {
-  buddy: MascotId;
-  msUntilNext: number | null;
-  onPractice: () => void;
-  onExit: () => void;
-}) {
-  const minutes = msUntilNext === null ? 0 : Math.ceil(msUntilNext / 60000);
-  return (
-    <div className="result-screen">
-      <Mascot id={buddy} size={180} mood="sad" />
-      <h1>You ran out of hearts</h1>
-      <p className="result-screen__sub">
-        <HeartIcon size={18} style={{ color: 'var(--heart)', verticalAlign: '-3px' }} /> Next heart
-        in {minutes} min. Practise what you know to earn one now!
-      </p>
-      <button
-        type="button"
-        className="btn btn--block result-screen__cta"
-        onClick={onPractice}
-        autoFocus
-      >
-        Practise to earn hearts
-      </button>
-      <button type="button" className="btn btn--ghost btn--block" onClick={onExit}>
-        Back to path
       </button>
     </div>
   );

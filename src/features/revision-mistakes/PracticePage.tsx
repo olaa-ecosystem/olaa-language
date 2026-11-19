@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import { navigate } from '../../app/router';
-import { CardsIcon, DumbbellIcon, HeartIcon } from '../../components/Icons';
+import { CardsIcon, DumbbellIcon } from '../../components/Icons';
 import { Mascot } from '../../components/mascots';
 import { useNow } from '../../hooks/useNow';
 import type { MascotId } from '../../types';
@@ -9,7 +9,6 @@ import { courseProgress } from '../../stores/appState';
 import { toDayKey } from '../../utils/date';
 import type { Course } from '../curriculum';
 import { dueCards } from '../flashcards-srs/srs';
-import { currentHearts, MAX_HEARTS, msUntilNextHeart } from '../learning-progress/hearts';
 
 export function PracticePage({ course }: { course: Course }) {
   const state = useAppState();
@@ -18,8 +17,6 @@ export function PracticePage({ course }: { course: Course }) {
   const mistakes = Object.keys(progress.mistakes).length;
   const due = dueCards(progress.cards, toDayKey(new Date(now))).length;
   const anyCompleted = Object.values(progress.lessonLevels).some((l) => l > 0);
-  const hearts = currentHearts(state.hearts, now).current;
-  const nextHeart = msUntilNextHeart(state.hearts, now);
   const buddy = state.profile?.buddy ?? course.mascot;
 
   return (
@@ -27,23 +24,10 @@ export function PracticePage({ course }: { course: Course }) {
       <header className="page-hero page-hero--practice">
         <div>
           <h1>Practice hub</h1>
-          <p>Strengthen what you’ve learned. Every practice earns a heart back.</p>
+          <p>Strengthen what you’ve learned. Review comes back inside new lessons too.</p>
         </div>
         <Mascot id={buddy} size={120} mood="wave" />
       </header>
-
-      <div className="hearts-panel card">
-        <div className="hearts-row" aria-label={`${hearts} of ${MAX_HEARTS} hearts`}>
-          {Array.from({ length: MAX_HEARTS }, (_, i) => (
-            <HeartIcon key={i} size={30} className={i < hearts ? 'heart-on' : 'heart-off'} />
-          ))}
-        </div>
-        <p>
-          {nextHeart === null
-            ? 'Your hearts are full!'
-            : `Next heart in ${Math.ceil(nextHeart / 60000)} min — or practise to refill now.`}
-        </p>
-      </div>
 
       <div className="practice-grid">
         <PracticeCard
@@ -72,7 +56,7 @@ export function PracticePage({ course }: { course: Course }) {
           mascot="turtle"
           title="Quick practice"
           detail={anyCompleted ? 'A mixed session from your lessons' : 'Finish a lesson to unlock'}
-          icon={<HeartIcon />}
+          icon={<DumbbellIcon />}
           disabled={!anyCompleted}
           onClick={() => navigate({ name: 'practice-session', kind: 'mix' })}
         />

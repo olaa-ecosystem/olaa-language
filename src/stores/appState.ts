@@ -8,12 +8,7 @@ import {
   type ReviewGrade,
   type SrsCard,
 } from '../features/flashcards-srs/srs';
-import {
-  gainHeart as gainHeartFn,
-  loseHeart as loseHeartFn,
-  MAX_HEARTS,
-  type HeartsState,
-} from '../features/learning-progress/hearts';
+import type { ErrorCategory } from '../features/exercises/explain';
 import { recordActivity, type StreakState } from '../features/learning-progress/streak';
 
 export const STATE_VERSION = 1;
@@ -25,6 +20,8 @@ export interface CourseProgress {
   cards: Record<string, SrsCard>;
   /** Exercises answered wrongly, kept for targeted practice. */
   mistakes: Record<string, Exercise>;
+  /** How often each kind of mistake happened (PRD v1.0 §6.3). */
+  mistakeCategories?: Partial<Record<ErrorCategory, number>>;
 }
 
 export interface Profile {
@@ -38,7 +35,6 @@ export interface AppState {
   activeCourseId: CourseId | null;
   dailyGoalXp: number;
   soundOn: boolean;
-  hearts: HeartsState;
   streak: StreakState;
   totalXp: number;
   xpByDay: Record<DayKey, number>;
@@ -55,7 +51,6 @@ export function initialState(): AppState {
     activeCourseId: null,
     dailyGoalXp: 20,
     soundOn: true,
-    hearts: { current: MAX_HEARTS, updatedAt: 0 },
     streak: { count: 0, longest: 0, lastActive: null },
     totalXp: 0,
     xpByDay: {},
@@ -125,19 +120,20 @@ export function finishLesson(
   return awardXp({ ...next, lessonsCompleted: next.lessonsCompleted + 1 }, xp, today);
 }
 
-export function loseHeart(state: AppState, now: number): AppState {
-  return { ...state, hearts: loseHeartFn(state.hearts, now) };
-}
-
-export function gainHeart(state: AppState, now: number, amount = 1): AppState {
-  return { ...state, hearts: gainHeartFn(state.hearts, now, amount) };
-}
-
-export function recordMistake(state: AppState, courseId: CourseId, exercise: Exercise): AppState {
+export function recordMistake(
+  state: AppState,
+  courseId: CourseId,
+  exercise: Exercise,
+  category?: ErrorCategory,
+): AppState {
   if (exercise.kind === 'match') return state;
   return withCourse(state, courseId, (p) => ({
     ...p,
-    mistakes: { ...p.mistakes, [exercise.id]: exercise },
+    // Review copies are stored as plain exercises so they can come back again.
+    mistakes: { ...p.mistakes, [exercise.id]: { ...exercise, review: undefined } as Exercise },
+    mistakeCategories: category
+      ? { ...p.mistakeCategories, [category]: (p.mistakeCategories?.[category] ?? 0) + 1 }
+      : p.mistakeCategories,
   }));
 }
 

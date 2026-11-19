@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { navigate } from '../../app/router';
-import { CloseIcon, HeartIcon } from '../../components/Icons';
+import { CloseIcon } from '../../components/Icons';
 import { Mascot } from '../../components/mascots';
 import { EmptyState, ProgressBar } from '../../components/ui';
 import { appStore, useAppState } from '../../stores/appStore';
-import { applyCardReview, awardXp, courseProgress, gainHeart } from '../../stores/appState';
+import { applyCardReview, awardXp, courseProgress } from '../../stores/appState';
 import { toDayKey } from '../../utils/date';
 import { playFeedback } from '../../utils/sound';
 import type { Course } from '../curriculum';
@@ -42,7 +42,7 @@ export function ReviewPage({ course }: { course: Course }) {
     setFlipped(false);
     if (!rest.length) {
       const xp = Math.min(10, nextReviewed.length);
-      appStore.update((s) => gainHeart(awardXp(s, xp, today), Date.now()));
+      appStore.update((s) => awardXp(s, xp, today));
       if (state.soundOn) playFeedback('complete');
       setFinished(true);
     }
@@ -56,9 +56,6 @@ export function ReviewPage({ course }: { course: Course }) {
         <p className="result-screen__sub">
           You reviewed {reviewed.length} word{reviewed.length === 1 ? '' : 's'} · +
           {Math.min(10, reviewed.length)} XP
-        </p>
-        <p className="reward-chip">
-          <HeartIcon size={18} /> +1 heart earned
         </p>
         <button
           type="button"

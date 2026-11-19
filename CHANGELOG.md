@@ -22,3 +22,13 @@ All notable changes will be recorded here. Until the first release, this reposit
 - Events for Olaa Habits (platform `contracts/events/language-events.md`): `language.daily_goal.completed`
   when today's XP first reaches the goal, `language.lesson.completed` on a lesson's first completion.
   Written to Firestore `events/` while signed in; ids are fixed so repeats are ignored.
+- Ecosystem PRD v1.0, Language core (§6):
+  - Hearts removed: mistakes no longer block learning; the "out of hearts" screen and heart refills are gone.
+  - Wrong answers explain why (meaning, word order, missing/extra words, spelling, translation, listening, skipped)
+    and are counted by category; Profile shows the most common ones.
+  - Lessons open with a goal, estimated time, the new words and example sentences (with audio), and end with a
+    recap and a "Next lesson" step.
+  - A lesson left part-way can be continued where it stopped (saved in this browser for 7 days).
+  - Review inside lessons: about a quarter of each lesson is earlier mistakes and due flashcards, starting with a
+    warm-up; answers update the mistake list and the card schedule.
+

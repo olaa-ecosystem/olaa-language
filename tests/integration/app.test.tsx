@@ -36,6 +36,10 @@ describe('onboarding to first lesson', () => {
     });
 
     expect(window.location.hash).toBe('#/lesson/u1-greetings');
+    // The lesson opens with its goal, words and examples (PRD v1.0 §6.2) before practice.
+    expect(await screen.findByText(/^Goal: understand and use/)).toBeInTheDocument();
+    expect(screen.getByRole('region', { name: 'New words' })).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: /start lesson/i }));
     expect(
       await screen.findByRole('progressbar', { name: /lesson progress/i }),
     ).toBeInTheDocument();
@@ -70,12 +74,10 @@ describe('LessonPlayer', () => {
       buddy: 'bear' as const,
       targetLang: 'en' as const,
       mode: 'lesson' as const,
-      hearts: 5,
       soundOn: false,
       onAnswer: vi.fn(),
       onCantListen: vi.fn(),
       onComplete: vi.fn(),
-      onOutOfHearts: vi.fn(),
       onQuit: vi.fn(),
       ...overrides,
     };
@@ -92,7 +94,7 @@ describe('LessonPlayer', () => {
     await user.click(screen.getByRole('button', { name: /con mèo/ }));
     await user.click(check);
 
-    expect(props.onAnswer).toHaveBeenCalledWith(exercise, true);
+    expect(props.onAnswer).toHaveBeenCalledWith(exercise, true, null);
     expect(within(screen.getByRole('status')).getByRole('heading')).toBeInTheDocument();
     await user.click(screen.getByRole('button', { name: /continue/i }));
     expect(props.onComplete).toHaveBeenCalledWith(
@@ -107,17 +109,25 @@ describe('LessonPlayer', () => {
     await user.keyboard('1');
     await user.click(screen.getByRole('button', { name: /check/i }));
 
-    expect(props.onAnswer).toHaveBeenCalledWith(exercise, false);
+    expect(props.onAnswer).toHaveBeenCalledWith(
+      exercise,
+      false,
+      expect.objectContaining({ category: 'meaning' }),
+    );
     expect(screen.getByText(/correct answer: con mèo/i)).toBeInTheDocument();
+    expect(screen.getByText('“cat” means “con mèo”.')).toBeInTheDocument();
   });
 
-  it('stops the lesson when hearts run out', async () => {
+  it('never blocks the learner after mistakes', async () => {
     const user = userEvent.setup();
-    const props = renderPlayer({ hearts: 0 });
+    const props = renderPlayer();
     await user.click(screen.getByRole('button', { name: /con chó/ }));
     await user.click(screen.getByRole('button', { name: /check/i }));
     await user.click(screen.getByRole('button', { name: /continue/i }));
-    expect(props.onOutOfHearts).toHaveBeenCalled();
-    expect(props.onComplete).not.toHaveBeenCalled();
+    // The missed exercise comes back; answering it finishes the lesson.
+    await user.click(screen.getByRole('button', { name: /con mèo/ }));
+    await user.click(screen.getByRole('button', { name: /check/i }));
+    await user.click(screen.getByRole('button', { name: /continue/i }));
+    expect(props.onComplete).toHaveBeenCalledWith(expect.objectContaining({ perfect: false }));
   });
 });

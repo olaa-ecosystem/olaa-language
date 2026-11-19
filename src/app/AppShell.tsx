@@ -1,10 +1,9 @@
 import type { ReactNode } from 'react';
 import { CardsIcon, DumbbellIcon, HomeIcon, UserIcon } from '../components/Icons';
 import { Mascot } from '../components/mascots';
-import { HeartsStat, StreakStat, XpStat } from '../components/ui';
+import { StreakStat, XpStat } from '../components/ui';
 import type { Course } from '../features/curriculum';
 import { DailyGoalCard } from '../features/learning-progress/DailyGoalCard';
-import { currentHearts } from '../features/learning-progress/hearts';
 import { practicedToday, visibleStreak } from '../features/learning-progress/streak';
 import { useNow } from '../hooks/useNow';
 import { useAppState } from '../stores/appStore';
@@ -42,7 +41,6 @@ export function AppShell({
         active={practicedToday(state.streak, today)}
       />
       <XpStat xp={state.totalXp} />
-      <HeartsStat hearts={currentHearts(state.hearts, now).current} />
     </div>
   );
 

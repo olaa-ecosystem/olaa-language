@@ -1,27 +1,4 @@
-import { currentHearts, gainHeart, HEART_REFILL_MS, loseHeart, msUntilNextHeart } from './hearts';
 import { recordActivity, visibleStreak } from './streak';
-
-describe('hearts', () => {
-  const t0 = 1_000_000;
-
-  it('loses a heart and starts the refill timer when dropping from full', () => {
-    const after = loseHeart({ current: 5, updatedAt: 0 }, t0);
-    expect(after).toEqual({ current: 4, updatedAt: t0 });
-    expect(msUntilNextHeart(after, t0)).toBe(HEART_REFILL_MS);
-  });
-
-  it('refills over time without exceeding the maximum', () => {
-    const hearts = { current: 2, updatedAt: t0 };
-    expect(currentHearts(hearts, t0 + HEART_REFILL_MS * 2 + 5).current).toBe(4);
-    expect(currentHearts(hearts, t0 + HEART_REFILL_MS * 10).current).toBe(5);
-  });
-
-  it('never drops below zero and can be topped up', () => {
-    expect(loseHeart({ current: 0, updatedAt: t0 }, t0).current).toBe(0);
-    expect(gainHeart({ current: 0, updatedAt: t0 }, t0).current).toBe(1);
-    expect(msUntilNextHeart({ current: 5, updatedAt: t0 }, t0)).toBeNull();
-  });
-});
 
 describe('streak', () => {
   const empty = { count: 0, longest: 0, lastActive: null };
