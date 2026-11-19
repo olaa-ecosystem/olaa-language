@@ -19,3 +19,6 @@ All notable changes will be recorded here. Until the first release, this reposit
   - Sign-out clears this device; the account keeps the progress.
   - Without `VITE_FIREBASE_*` config the app stays local-only, as before.
   - `firebase.json` / `.firebaserc` to deploy the build to Firebase Hosting.
+- Events for Olaa Habits (platform `contracts/events/language-events.md`): `language.daily_goal.completed`
+  when today's XP first reaches the goal, `language.lesson.completed` on a lesson's first completion.
+  Written to Firestore `events/` while signed in; ids are fixed so repeats are ignored.
