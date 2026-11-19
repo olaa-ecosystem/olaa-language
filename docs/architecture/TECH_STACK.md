@@ -21,3 +21,9 @@
 - Deployment provider
 
 Do not install dependencies until decisions are recorded and approved.
+
+## MVP decisions (2026-11-19)
+The open items above are resolved for the MVP in `docs/decisions/ADR-001-mvp-web-stack.md`
+(React 18 + Vite 5 + strict TypeScript, pnpm, hash router, in-repo store, plain CSS tokens,
+localStorage persistence, Vitest + RTL, ESLint + Prettier, GitHub Actions). Auth, API
+client, sync and deployment provider remain open.
