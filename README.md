@@ -63,7 +63,9 @@ Optional. Copy `.env.example` to `.env.local` and fill the `VITE_FIREBASE_*` val
 Firebase console → Project settings → Your apps → Web app. Without them the app runs local-only.
 Firestore rules live in `olaa-platform/infrastructure/firebase/`.
 
-Deploy to Firebase Hosting (project `olaa-ecosystem`):
+Deploy to Firebase Hosting site `olaa-language` (project `olaa-ecosystem`), live at
+https://olaa-language.web.app. GitHub Actions deploys PR previews and `main` automatically
+(`.github/workflows/deploy.yml`). By hand:
 
 ```bash
 pnpm build && npx firebase-tools deploy --only hosting
