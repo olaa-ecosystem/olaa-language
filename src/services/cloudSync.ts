@@ -265,6 +265,21 @@ export function createAccountWithEmail(email: string, password: string): Promise
   return run((fb) => fb.authSdk.createUserWithEmailAndPassword(fb.auth, email.trim(), password));
 }
 
+/**
+ * Email a password-reset link. Resolves to null when sent. An unknown address is reported as
+ * sent too, so the form never reveals which emails have accounts.
+ */
+export function sendPasswordReset(email: string): Promise<string | null> {
+  return run(async (fb) => {
+    fb.auth.languageCode = 'vi';
+    try {
+      await fb.authSdk.sendPasswordResetEmail(fb.auth, email.trim());
+    } catch (error) {
+      if ((error as { code?: string }).code !== 'auth/user-not-found') throw error;
+    }
+  });
+}
+
 /** Save pending changes, sign out, and clear this device (the account keeps the progress). */
 export async function signOutAndClear(): Promise<void> {
   const fb = loadedFirebase();

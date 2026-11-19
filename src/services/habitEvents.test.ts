@@ -1,5 +1,5 @@
 import { completeOnboarding, initialState, type AppState } from '../stores/appState';
-import { detectEvents, eventId } from './habitEvents';
+import { detectEvents, eventDocument, eventId } from './habitEvents';
 
 const today = '2026-11-19';
 const base = completeOnboarding(initialState(), {
@@ -53,5 +53,23 @@ describe('detectEvents', () => {
   it('builds stable ids', () => {
     const [goal] = detectEvents(withXp(base, 0), withXp(base, 25), today);
     expect(goal && eventId('uid1', goal)).toBe('uid1_language.daily_goal.completed_2026-11-19');
+  });
+});
+
+describe('eventDocument', () => {
+  it('wraps an event in envelope v1 with its own id', () => {
+    const event = {
+      type: 'language.lesson.completed' as const,
+      date: today,
+      payload: { courseId: 'zh-vi', lessonId: 'h1-1' },
+    };
+    expect(eventDocument('uid1', event, 5)).toEqual({
+      id: 'uid1_language.lesson.completed_zh-vi_h1-1',
+      version: 1,
+      ...event,
+      userId: 'uid1',
+      occurredAt: 5,
+      source: 'language',
+    });
   });
 });

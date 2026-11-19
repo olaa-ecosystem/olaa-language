@@ -15,6 +15,8 @@ import { firebaseEnabled } from '../../services/firebase';
 import { MASCOT_IDS } from '../../types';
 import { fromDayKey, lastNDays, toDayKey } from '../../utils/date';
 import { AccountCard } from '../account/AccountCard';
+import { downloadExport } from '../data-export/exportData';
+import { useAccount } from '../../services/cloudSync';
 import { COURSES, courseCompletion, type Course } from '../curriculum';
 import { ERROR_LABELS, type ErrorCategory } from '../exercises/explain';
 import { masteredCount } from '../flashcards-srs/srs';
@@ -22,6 +24,7 @@ import { visibleStreak } from './streak';
 
 export function ProfilePage({ course }: { course: Course }) {
   const state = useAppState();
+  const account = useAccount();
   const [confirmReset, setConfirmReset] = useState(false);
   const today = toDayKey(new Date());
   const progress = courseProgress(state, course.id);
@@ -210,6 +213,18 @@ export function ProfilePage({ course }: { course: Course }) {
               Reset all progress
             </button>
           )}
+        </div>
+        <div>
+          <button
+            type="button"
+            className="btn btn--ghost"
+            onClick={() => downloadExport(appStore.getState(), account.email)}
+          >
+            Download my data (JSON)
+          </button>
+          <p className="muted small">
+            Everything this app stores about you: progress, flashcards and settings.
+          </p>
         </div>
         {!firebaseEnabled && <p className="muted small">Progress is saved in this browser only.</p>}
       </div>
