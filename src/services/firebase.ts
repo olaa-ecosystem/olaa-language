@@ -1,10 +1,12 @@
 /**
  * Firebase connection (platform ADR-0004). The web config is public by design and comes from
  * VITE_FIREBASE_* variables. When it is missing the app runs exactly as before: local only.
+ *
+ * The SDK is loaded on demand in its own chunk, so the learning UI does not wait for it.
  */
-import { initializeApp, type FirebaseApp } from 'firebase/app';
-import { getAuth, type Auth } from 'firebase/auth';
-import { getFirestore, type Firestore } from 'firebase/firestore';
+import type { FirebaseApp } from 'firebase/app';
+import type { Auth } from 'firebase/auth';
+import type { Firestore } from 'firebase/firestore';
 
 const env = import.meta.env;
 
@@ -19,19 +21,43 @@ const config = {
 
 export const firebaseEnabled = Boolean(config.apiKey && config.projectId && config.appId);
 
-interface FirebaseServices {
+export interface FirebaseServices {
   app: FirebaseApp;
   auth: Auth;
   db: Firestore;
+  authSdk: typeof import('firebase/auth');
+  firestoreSdk: typeof import('firebase/firestore');
 }
 
-let services: FirebaseServices | null = null;
+let loading: Promise<FirebaseServices> | null = null;
+let loaded: FirebaseServices | null = null;
 
-export function getFirebase(): FirebaseServices | null {
-  if (!firebaseEnabled) return null;
-  if (!services) {
+/** Start (or reuse) loading the SDK. Resolves to null when Firebase is not configured. */
+export function loadFirebase(): Promise<FirebaseServices | null> {
+  if (!firebaseEnabled) return Promise.resolve(null);
+  loading ??= (async () => {
+    const [{ initializeApp }, authSdk, firestoreSdk] = await Promise.all([
+      import('firebase/app'),
+      import('firebase/auth'),
+      import('firebase/firestore'),
+    ]);
     const app = initializeApp(config);
-    services = { app, auth: getAuth(app), db: getFirestore(app) };
-  }
-  return services;
+    loaded = {
+      app,
+      auth: authSdk.getAuth(app),
+      db: firestoreSdk.getFirestore(app),
+      authSdk,
+      firestoreSdk,
+    };
+    return loaded;
+  })();
+  return loading;
+}
+
+/**
+ * The SDK if it has finished loading. Sign-in popups must open in the same tick as the tap
+ * (Safari blocks them otherwise), so callers use this before falling back to loadFirebase().
+ */
+export function loadedFirebase(): FirebaseServices | null {
+  return loaded;
 }

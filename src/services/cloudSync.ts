@@ -5,20 +5,12 @@
  * When signed in, every change is also written to Firestore at language/{uid} (debounced), and
  * changes made on another device are applied here. Conflicts: the most recent copy wins.
  */
-import {
-  createUserWithEmailAndPassword,
-  GoogleAuthProvider,
-  onAuthStateChanged,
-  signInWithEmailAndPassword,
-  signInWithPopup,
-  signOut,
-  type User,
-} from 'firebase/auth';
-import { doc, getDoc, onSnapshot, setDoc, type Unsubscribe } from 'firebase/firestore';
+import type { User } from 'firebase/auth';
+import type { Unsubscribe } from 'firebase/firestore';
 import { useSyncExternalStore } from 'react';
 import { appStore } from '../stores/appStore';
 import type { AppState } from '../stores/appState';
-import { firebaseEnabled, getFirebase } from './firebase';
+import { firebaseEnabled, loadedFirebase, loadFirebase, type FirebaseServices } from './firebase';
 import { fromRemoteDoc, initialSyncAction, toRemoteDoc } from './syncPolicy';
 
 const META_KEY = 'olaa-language/sync-meta';
@@ -69,20 +61,22 @@ function writeMeta(value: number): void {
   }
 }
 
-function userDoc(uid: string) {
-  const fb = getFirebase();
-  if (!fb) throw new Error('Firebase is not configured');
-  return doc(fb.db, 'language', uid);
+function userDoc(fb: FirebaseServices, uid: string) {
+  return fb.firestoreSdk.doc(fb.db, 'language', uid);
 }
 
 async function push(): Promise<void> {
   if (pushTimer) clearTimeout(pushTimer);
   pushTimer = null;
   const uid = currentUid;
-  if (!uid) return;
+  const fb = loadedFirebase();
+  if (!uid || !fb) return;
   setAccount({ status: 'syncing' });
   try {
-    await setDoc(userDoc(uid), toRemoteDoc(appStore.getState(), localUpdatedAt));
+    await fb.firestoreSdk.setDoc(
+      userDoc(fb, uid),
+      toRemoteDoc(appStore.getState(), localUpdatedAt),
+    );
     if (currentUid === uid) setAccount({ status: 'synced', error: null });
   } catch {
     if (currentUid === uid) {
@@ -114,11 +108,12 @@ function applyRemote(state: AppState, updatedAt: number): void {
   writeMeta(updatedAt);
 }
 
-async function handleSignedIn(user: User): Promise<void> {
+async function handleSignedIn(fb: FirebaseServices, user: User): Promise<void> {
+  const { getDoc, onSnapshot } = fb.firestoreSdk;
   currentUid = user.uid;
   setAccount({ status: 'syncing', email: user.email, error: null });
   try {
-    const snap = await getDoc(userDoc(user.uid));
+    const snap = await getDoc(userDoc(fb, user.uid));
     const remote = snap.exists() ? fromRemoteDoc(snap.data()) : null;
     if (snap.exists() && !remote) {
       // Written by a newer app version: never overwrite it from here.
@@ -135,7 +130,7 @@ async function handleSignedIn(user: User): Promise<void> {
 
     stopSnapshot?.();
     stopSnapshot = onSnapshot(
-      userDoc(user.uid),
+      userDoc(fb, user.uid),
       (s) => {
         if (s.metadata.hasPendingWrites || !s.exists()) return;
         const latest = fromRemoteDoc(s.data());
@@ -166,23 +161,31 @@ function handleSignedOut(): void {
 
 /** Call once at startup. Does nothing when Firebase is not configured. */
 export function startCloudSync(): void {
-  if (started) return;
+  if (started || !firebaseEnabled) return;
   started = true;
-  const fb = getFirebase();
-  if (!fb) return;
 
   appStore.subscribe(() => {
     if (applyingRemote) return;
     writeMeta(Date.now());
     schedulePush();
   });
-  onAuthStateChanged(fb.auth, (user) => {
-    if (user) void handleSignedIn(user);
-    else handleSignedOut();
-  });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden') void flush();
   });
+  loadFirebase().then(
+    (fb) => {
+      if (!fb) return;
+      fb.authSdk.onAuthStateChanged(fb.auth, (user) => {
+        if (user) void handleSignedIn(fb, user);
+        else handleSignedOut();
+      });
+    },
+    () =>
+      setAccount({
+        status: 'error',
+        error: 'Could not load sign-in. Check your connection and reload the page.',
+      }),
+  );
 }
 
 function authErrorMessage(error: unknown): string | null {
@@ -214,40 +217,41 @@ function authErrorMessage(error: unknown): string | null {
   }
 }
 
-/** Each action resolves to an error message, or null on success / user cancel. */
-async function run(action: () => Promise<unknown>): Promise<string | null> {
-  try {
-    await action();
-    return null;
-  } catch (error) {
-    return authErrorMessage(error);
-  }
+/**
+ * Run an auth action and resolve to an error message, or null on success / user cancel.
+ * Uses the already-loaded SDK synchronously when possible so popups stay tied to the tap.
+ */
+function run(action: (fb: FirebaseServices) => Promise<unknown>): Promise<string | null> {
+  const attempt = (fb: FirebaseServices | null) =>
+    fb
+      ? action(fb).then(
+          () => null,
+          (error: unknown) => authErrorMessage(error),
+        )
+      : Promise.resolve('Sign-in is not available.');
+  const ready = loadedFirebase();
+  if (ready) return attempt(ready);
+  return loadFirebase().then(attempt, () => 'Could not load sign-in. Check your connection.');
 }
 
 export function signInWithGoogle(): Promise<string | null> {
-  const fb = getFirebase();
-  if (!fb) return Promise.resolve('Sign-in is not available.');
-  return run(() => signInWithPopup(fb.auth, new GoogleAuthProvider()));
+  return run((fb) => fb.authSdk.signInWithPopup(fb.auth, new fb.authSdk.GoogleAuthProvider()));
 }
 
 export function signInWithEmail(email: string, password: string): Promise<string | null> {
-  const fb = getFirebase();
-  if (!fb) return Promise.resolve('Sign-in is not available.');
-  return run(() => signInWithEmailAndPassword(fb.auth, email.trim(), password));
+  return run((fb) => fb.authSdk.signInWithEmailAndPassword(fb.auth, email.trim(), password));
 }
 
 export function createAccountWithEmail(email: string, password: string): Promise<string | null> {
-  const fb = getFirebase();
-  if (!fb) return Promise.resolve('Sign-in is not available.');
-  return run(() => createUserWithEmailAndPassword(fb.auth, email.trim(), password));
+  return run((fb) => fb.authSdk.createUserWithEmailAndPassword(fb.auth, email.trim(), password));
 }
 
 /** Save pending changes, sign out, and clear this device (the account keeps the progress). */
 export async function signOutAndClear(): Promise<void> {
-  const fb = getFirebase();
+  const fb = loadedFirebase();
   if (!fb) return;
   await flush();
-  await signOut(fb.auth);
+  await fb.authSdk.signOut(fb.auth);
   handleSignedOut();
   applyingRemote = true;
   try {
