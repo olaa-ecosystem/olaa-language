@@ -1,10 +1,11 @@
 import { useCallback, useEffect, useState } from 'react';
 import { CloseIcon } from '../../components/Icons';
 import { CHEERS, COMFORTS, Mascot } from '../../components/mascots';
-import { HeartsStat, ProgressBar } from '../../components/ui';
+import { ProgressBar } from '../../components/ui';
 import type { LanguageCode, MascotId } from '../../types';
 import { playFeedback } from '../../utils/sound';
 import { gradeExercise, type Exercise, type GradeResult } from '../exercises';
+import { explainMistake, type Explanation } from '../exercises/explain';
 import { PictureView, SelectView } from './exercises/ChoiceViews';
 import { MatchView } from './exercises/MatchView';
 import { BuildView, ListenView } from './exercises/TileViews';
@@ -25,14 +26,15 @@ export interface LessonPlayerProps {
   exercises: Exercise[];
   buddy: MascotId;
   targetLang: LanguageCode;
-  /** In practice mode mistakes cost no hearts. */
   mode: 'lesson' | 'practice';
-  hearts: number;
   soundOn: boolean;
-  onAnswer: (exercise: Exercise, correct: boolean) => void;
+  /** Continue a saved session instead of starting fresh (PRD v1.0 §6.1 "resume state"). */
+  initialSession?: SessionState;
+  /** Called after every step so the caller can save the session. */
+  onProgress?: (session: SessionState) => void;
+  onAnswer: (exercise: Exercise, correct: boolean, explanation: Explanation | null) => void;
   onCantListen: () => void;
   onComplete: (summary: SessionSummary) => void;
-  onOutOfHearts: () => void;
   onQuit: () => void;
 }
 
@@ -43,10 +45,13 @@ function skipListening(session: SessionState): SessionState {
 }
 
 export function LessonPlayer(props: LessonPlayerProps) {
-  const { exercises, buddy, targetLang, mode, hearts, soundOn } = props;
-  const { onAnswer, onCantListen, onComplete, onOutOfHearts, onQuit } = props;
+  const { exercises, buddy, targetLang, mode, soundOn, initialSession } = props;
+  const { onAnswer, onCantListen, onComplete, onQuit, onProgress } = props;
 
-  const [session, setSession] = useState(() => startSession(exercises, Date.now()));
+  const [session, setSession] = useState(
+    () => initialSession ?? startSession(exercises, Date.now()),
+  );
+  const [explanation, setExplanation] = useState<Explanation | null>(null);
   const [response, setResponse] = useState<string | null>(null);
   const [result, setResult] = useState<GradeResult | null>(null);
   const [listenOff, setListenOff] = useState(false);
@@ -57,9 +62,12 @@ export function LessonPlayer(props: LessonPlayerProps) {
   const check = useCallback(
     (forced?: string) => {
       if (!exercise || result) return;
-      const graded = gradeExercise(exercise, forced ?? response ?? '');
+      const given = forced ?? response ?? '';
+      const graded = gradeExercise(exercise, given);
+      const why = explainMistake(exercise, given, graded);
       setResult(graded);
-      onAnswer(exercise, graded.correct);
+      setExplanation(why);
+      onAnswer(exercise, graded.correct, why);
       if (soundOn) playFeedback(graded.correct ? 'correct' : 'wrong');
     },
     [exercise, result, response, onAnswer, soundOn],
@@ -71,22 +79,20 @@ export function LessonPlayer(props: LessonPlayerProps) {
       setSession(settled);
       setResponse(null);
       setResult(null);
+      setExplanation(null);
+      onProgress?.(settled);
       if (isComplete(settled)) {
         if (soundOn) playFeedback('complete');
         onComplete(summarize(settled, Date.now()));
       }
     },
-    [listenOff, onComplete, soundOn],
+    [listenOff, onComplete, soundOn, onProgress],
   );
 
   const proceed = useCallback(() => {
     if (!result) return;
-    if (mode === 'lesson' && !result.correct && hearts <= 0) {
-      onOutOfHearts();
-      return;
-    }
     advance(answerCurrent(session, result.correct));
-  }, [result, mode, hearts, onOutOfHearts, advance, session]);
+  }, [result, advance, session]);
 
   const cantListen = () => {
     setListenOff(true);
@@ -134,7 +140,7 @@ export function LessonPlayer(props: LessonPlayerProps) {
           <CloseIcon />
         </button>
         <ProgressBar value={progressRatio(session)} label="Lesson progress" />
-        <HeartsStat hearts={hearts} unlimited={mode === 'practice'} />
+        {exercise.review && <span className="review-chip">Review</span>}
       </header>
 
       <main className="lesson__body" key={session.position}>
@@ -153,7 +159,12 @@ export function LessonPlayer(props: LessonPlayerProps) {
       >
         <div className="lesson__footer-inner">
           {result ? (
-            <Feedback result={result} buddy={buddy} seed={session.position} />
+            <Feedback
+              result={result}
+              explanation={explanation}
+              buddy={buddy}
+              seed={session.position}
+            />
           ) : (
             exercise.kind !== 'match' && (
               <button type="button" className="btn btn--ghost" onClick={() => check('')}>
@@ -188,7 +199,11 @@ export function LessonPlayer(props: LessonPlayerProps) {
           <div className="modal" role="dialog" aria-modal="true" aria-labelledby="quit-title">
             <Mascot id={buddy} size={120} mood="sad" />
             <h2 id="quit-title">Wait, don’t go!</h2>
-            <p>You’ll lose your progress in this {mode === 'lesson' ? 'lesson' : 'practice'}.</p>
+            <p>
+              {mode === 'lesson'
+                ? 'Your place is saved. You can continue this lesson later.'
+                : 'You’ll lose your progress in this practice.'}
+            </p>
             <button
               type="button"
               className="btn btn--block"
@@ -207,7 +222,17 @@ export function LessonPlayer(props: LessonPlayerProps) {
   );
 }
 
-function Feedback({ result, buddy, seed }: { result: GradeResult; buddy: MascotId; seed: number }) {
+function Feedback({
+  result,
+  explanation,
+  buddy,
+  seed,
+}: {
+  result: GradeResult;
+  explanation: Explanation | null;
+  buddy: MascotId;
+  seed: number;
+}) {
   let title: string;
   let detail: string | null = null;
   if (result.correct) {
@@ -224,6 +249,7 @@ function Feedback({ result, buddy, seed }: { result: GradeResult; buddy: MascotI
       <div>
         <h3>{title}</h3>
         {detail && <p>{detail}</p>}
+        {explanation && <p className="feedback__why">{explanation.why}</p>}
       </div>
     </div>
   );

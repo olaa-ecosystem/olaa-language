@@ -1,13 +1,11 @@
 import { useCallback, useState } from 'react';
 import { navigate } from '../../app/router';
 import { Mascot } from '../../components/mascots';
-import { HeartIcon } from '../../components/Icons';
 import { EmptyState } from '../../components/ui';
 import { appStore, useAppState } from '../../stores/appStore';
 import {
   awardXp,
   courseProgress,
-  gainHeart,
   pauseListening,
   recordMistake,
   resolveMistake,
@@ -16,6 +14,7 @@ import { toDayKey } from '../../utils/date';
 import { createRng, shuffle } from '../../utils/random';
 import type { Course } from '../curriculum';
 import { generatePracticeExercises, type Exercise } from '../exercises';
+import type { Explanation } from '../exercises/explain';
 import { LessonPlayer } from '../lesson-player/LessonPlayer';
 import { SessionComplete } from '../lesson-player/ResultScreens';
 import type { SessionSummary } from '../lesson-player/session';
@@ -51,16 +50,18 @@ export function PracticeSessionPage({
   const [summary, setSummary] = useState<SessionSummary | null>(null);
 
   const onAnswer = useCallback(
-    (exercise: Exercise, correct: boolean) => {
+    (exercise: Exercise, correct: boolean, why: Explanation | null) => {
       appStore.update((s) =>
-        correct ? resolveMistake(s, course.id, exercise.id) : recordMistake(s, course.id, exercise),
+        correct
+          ? resolveMistake(s, course.id, exercise.id)
+          : recordMistake(s, course.id, exercise, why?.category),
       );
     },
     [course.id],
   );
 
   const onComplete = useCallback((result: SessionSummary) => {
-    appStore.update((s) => gainHeart(awardXp(s, PRACTICE_XP, toDayKey(new Date())), Date.now()));
+    appStore.update((s) => awardXp(s, PRACTICE_XP, toDayKey(new Date())));
     setSummary(result);
   }, []);
 
@@ -90,11 +91,6 @@ export function PracticeSessionPage({
         title={kind === 'mistakes' ? 'Mistakes fixed!' : 'Practice complete!'}
         xp={PRACTICE_XP}
         summary={summary}
-        extra={
-          <p className="reward-chip">
-            <HeartIcon size={18} /> +1 heart earned
-          </p>
-        }
         onContinue={exit}
       />
     );
@@ -106,12 +102,10 @@ export function PracticeSessionPage({
       buddy={buddy}
       targetLang={course.targetLang}
       mode="practice"
-      hearts={0}
       soundOn={state.soundOn}
       onAnswer={onAnswer}
       onCantListen={() => appStore.update((s) => pauseListening(s, Date.now() + 3600_000))}
       onComplete={onComplete}
-      onOutOfHearts={exit}
       onQuit={exit}
     />
   );

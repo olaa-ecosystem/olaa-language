@@ -16,6 +16,7 @@ import { MASCOT_IDS } from '../../types';
 import { fromDayKey, lastNDays, toDayKey } from '../../utils/date';
 import { AccountCard } from '../account/AccountCard';
 import { COURSES, courseCompletion, type Course } from '../curriculum';
+import { ERROR_LABELS, type ErrorCategory } from '../exercises/explain';
 import { masteredCount } from '../flashcards-srs/srs';
 import { visibleStreak } from './streak';
 
@@ -25,6 +26,12 @@ export function ProfilePage({ course }: { course: Course }) {
   const today = toDayKey(new Date());
   const progress = courseProgress(state, course.id);
   const words = Object.keys(progress.cards).length;
+  const topMistakes = (
+    Object.entries(progress.mistakeCategories ?? {}) as [ErrorCategory, number][]
+  )
+    .filter(([cat]) => cat !== 'skipped')
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3);
   const week = lastNDays(today, 7);
   const weekMax = Math.max(state.dailyGoalXp, ...week.map((d) => state.xpByDay[d] ?? 0));
   const buddy = state.profile?.buddy ?? course.mascot;
@@ -73,6 +80,23 @@ export function ProfilePage({ course }: { course: Course }) {
           label="Words mastered"
         />
       </div>
+
+      {topMistakes.length > 0 && (
+        <>
+          <h2 className="section-title">Common mistakes</h2>
+          <div className="card">
+            <ul className="mistake-list">
+              {topMistakes.map(([cat, n]) => (
+                <li key={cat}>
+                  <span>{ERROR_LABELS[cat]}</span>
+                  <span className="muted">{n}×</span>
+                </li>
+              ))}
+            </ul>
+            <p className="muted small">Practice → Fix mistakes brings these back first.</p>
+          </div>
+        </>
+      )}
 
       <h2 className="section-title">This week</h2>
       <div className="card week-chart" role="img" aria-label="XP earned over the last 7 days">

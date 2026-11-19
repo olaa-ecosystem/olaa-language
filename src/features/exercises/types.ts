@@ -4,6 +4,10 @@ interface ExerciseBase {
   /** Stable id (lesson + kind + item) so mistakes can be tracked and resolved. */
   id: string;
   lessonId: string;
+  /** Brought back from earlier lessons to be retrieved again (PRD v1.0 §6.2 step 2, §6.4). */
+  review?: true;
+  /** For review items made from a flashcard: the card whose schedule this answer updates. */
+  cardId?: string;
 }
 
 /** Choose the translation of a word from a list. */

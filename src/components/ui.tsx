@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import { BoltIcon, FlameIcon, HeartIcon } from './Icons';
+import { BoltIcon, FlameIcon } from './Icons';
 
 export function ProgressBar({
   value,
@@ -44,16 +44,6 @@ export function XpStat({ xp }: { xp: number }) {
       <BoltIcon />
       {xp}
       <span className="visually-hidden"> XP</span>
-    </span>
-  );
-}
-
-export function HeartsStat({ hearts, unlimited }: { hearts: number; unlimited?: boolean }) {
-  return (
-    <span className="stat stat--hearts" title={unlimited ? 'Practice — no hearts lost' : 'Hearts'}>
-      <HeartIcon />
-      {unlimited ? '∞' : hearts}
-      <span className="visually-hidden"> hearts</span>
     </span>
   );
 }
