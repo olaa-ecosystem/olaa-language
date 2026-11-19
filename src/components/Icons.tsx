@@ -134,3 +134,27 @@ export const UserIcon = (p: IconProps) => (
     <path fill="currentColor" d="M4 20.5c0-4 3.6-6.5 8-6.5s8 2.5 8 6.5V21H4v-.5Z" />
   </svg>
 );
+
+export const LadderIcon = (p: IconProps) => (
+  <svg {...base(p)}>
+    <path
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.2"
+      strokeLinecap="round"
+      d="M5 21h4v-5h4v-5h4V6h3"
+    />
+  </svg>
+);
+
+export const BookIcon = (p: IconProps) => (
+  <svg {...base(p)}>
+    <path
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinejoin="round"
+      d="M4 5.5C6.5 4 9.5 4 12 6c2.5-2 5.5-2 8-.5V19c-2.5-1.5-5.5-1.5-8 .5-2.5-2-5.5-2-8-.5Z M12 6v13.5"
+    />
+  </svg>
+);

@@ -1,0 +1,3824 @@
+[
+ {
+  "id": "c1-1",
+  "t": [
+   "Đảo ngữ nhấn mạnh",
+   "Inversion for emphasis"
+  ],
+  "th": [
+   [
+    "Khi trạng từ phủ định/hạn chế đứng đầu câu, đảo **trợ động từ + chủ ngữ**: Never **have I** seen such a view. Rarely **does he** complain. Seldom **do we** meet.",
+    "When a negative or limiting adverbial starts the sentence, invert **auxiliary + subject**: Never **have I** seen such a view. Rarely **does he** complain. Seldom **do we** meet."
+   ],
+   [
+    "**Not only … but (also)**: Not only **did she** win, but she also broke the record.",
+    "**Not only … but (also)**: Not only **did she** win, but she also broke the record."
+   ],
+   [
+    "“Vừa … thì”: **No sooner had** + S + V3 **than** …; **Hardly / Scarcely had** + S + V3 **when** …\nNo sooner had we arrived than it started to rain.",
+    "“As soon as”: **No sooner had** + S + V3 **than** …; **Hardly / Scarcely had** + S + V3 **when** …\nNo sooner had we arrived than it started to rain."
+   ],
+   [
+    "**Only** + thời gian/điều kiện: Only then **did I** realise… Only after the meeting **did he** apologise. **Under no circumstances should** you open this door.",
+    "**Only** + time/condition: Only then **did I** realise… Only after the meeting **did he** apologise. **Under no circumstances should** you open this door."
+   ]
+  ],
+  "vo": [
+   [
+    "rarely",
+    "/ˈrerli/",
+    "hiếm khi",
+    "not often"
+   ],
+   [
+    "seldom",
+    "/ˈseldəm/",
+    "ít khi",
+    "rarely"
+   ],
+   [
+    "scarcely",
+    "/ˈskersli/",
+    "vừa mới, hầu như không",
+    "almost not"
+   ],
+   [
+    "no sooner",
+    "/noʊ ˈsuːnər/",
+    "vừa … thì",
+    "immediately after"
+   ],
+   [
+    "circumstances",
+    "/ˈsɜːrkəmstænsɪz/",
+    "hoàn cảnh",
+    "conditions"
+   ],
+   [
+    "realise",
+    "/ˈriːəlaɪz/",
+    "nhận ra",
+    "to become aware"
+   ],
+   [
+    "apologise",
+    "/əˈpɑːlədʒaɪz/",
+    "xin lỗi",
+    "to say sorry"
+   ],
+   [
+    "convincing",
+    "/kənˈvɪnsɪŋ/",
+    "thuyết phục",
+    "making you believe"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Never ___ such a beautiful sunset.",
+    [
+     "I have seen",
+     "have I seen",
+     "I saw"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "No sooner had we left ___ it began to snow.",
+    [
+     "when",
+     "than",
+     "then"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Hardly had she arrived ___ the meeting started.",
+    [
+     "when",
+     "than"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Not only ___ late, but he also forgot the documents.",
+    [
+     "he was",
+     "was he",
+     "he is"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Only after the test ___ how easy it was.",
+    [
+     "I realised",
+     "did I realise",
+     "I did realise"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "Under no circumstances you should touch this.",
+     "Under no circumstances should you touch this.",
+     "Under no circumstances should touch you this."
+    ],
+    1
+   ],
+   [
+    "order",
+    "Rarely does she make a mistake",
+    "Hiếm khi cô ấy mắc lỗi."
+   ],
+   [
+    "dict",
+    "Seldom have I heard such a convincing argument."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "No sooner had the speaker finished her presentation than the fire alarm went off and everyone had to leave the building in a hurry.",
+    "q": [
+     "Chuông báo cháy kêu khi nào?",
+     "When did the fire alarm go off?"
+    ],
+    "o": [
+     [
+      "Ngay sau khi bài thuyết trình kết thúc",
+      "Immediately after the presentation ended"
+     ],
+     [
+      "Trước khi bài thuyết trình bắt đầu",
+      "Before the presentation started"
+     ],
+     [
+      "Giữa bài thuyết trình",
+      "In the middle of the presentation"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "No sooner had … than = vừa … thì: hai việc nối tiếp gần như ngay lập tức. Việc thứ nhất (finished) ở quá khứ hoàn thành, việc thứ hai (went off) ở quá khứ đơn.",
+     "No sooner had … than = as soon as: one event followed the other immediately. The first (finished) is past perfect, the second (went off) past simple."
+    ],
+    "f": [
+     "No sooner had the speaker finished her presentation than",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Not only did the new manager reduce the team's workload, but she also persuaded the board to raise everyone's salary.",
+    "e": [
+     "Not only đứng đầu → đảo trợ động từ: did the new manager reduce. Vế sau giữ trật tự bình thường: but she also persuaded.",
+     "Not only at the start → inversion: did the new manager reduce. The second half keeps normal order: but she also persuaded."
+    ],
+    "f": [
+     "Not only did the new manager reduce",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Under no circumstances should passengers leave their luggage unattended in the terminal, as it may be removed and destroyed by security staff.",
+    "e": [
+     "Nhấn mạnh “no” và “should”; ngắt hơi sau “terminal”. circumstances đọc /ˈsɜː.kəm.stɑːn.sɪz/.",
+     "Stress “no” and “should”; pause after “terminal”. circumstances is pronounced /ˈsɜː.kəm.stɑːn.sɪz/."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Rarely have I stayed in a hotel that promised so much and delivered so little. The photographs on the website showed a spacious room with a sea view; what we actually found was a cramped space overlooking a car park. Not only was the air conditioning broken, but the staff also seemed surprised that anyone would complain about it. No sooner had we unpacked than the noise from a nearby karaoke bar began, and at no point before two in the morning did it stop. Only after I had threatened to post a review online did the manager offer us a different room. To be fair, the breakfast was excellent, and seldom have I tasted better fresh mango. Nevertheless, under no circumstances would I recommend this place to families with young children, nor would I return myself. Little did we know when we booked that the swimming pool had been closed for months.",
+   "tr": "Hiếm khi tôi ở một khách sạn hứa hẹn nhiều mà đáp ứng ít đến vậy. Ảnh trên trang web là một căn phòng rộng rãi nhìn ra biển; thực tế chúng tôi nhận được là một chỗ chật chội nhìn ra bãi đỗ xe. Không chỉ điều hòa bị hỏng mà nhân viên còn tỏ ra ngạc nhiên khi có người phàn nàn về chuyện đó. Chúng tôi vừa dỡ đồ ra thì tiếng ồn từ một quán karaoke gần đó bắt đầu, và mãi đến hai giờ sáng nó mới dừng. Chỉ sau khi tôi dọa đăng đánh giá lên mạng thì quản lý mới đổi cho chúng tôi phòng khác. Công bằng mà nói, bữa sáng rất ngon, và hiếm khi tôi được ăn xoài tươi ngon hơn thế. Dù vậy, tôi tuyệt đối không giới thiệu nơi này cho các gia đình có con nhỏ, và bản thân tôi cũng sẽ không quay lại. Lúc đặt phòng, chúng tôi đâu có ngờ bể bơi đã đóng cửa nhiều tháng rồi."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Quản lý đổi phòng cho tác giả khi nào?",
+     "When did the manager offer a different room?"
+    ],
+    "o": [
+     [
+      "Chỉ sau khi tác giả dọa đăng đánh giá lên mạng",
+      "Only after the writer threatened to post an online review"
+     ],
+     [
+      "Ngay khi khách vừa đến",
+      "As soon as the guests arrived"
+     ],
+     [
+      "Sau bữa sáng hôm sau",
+      "After breakfast the next day"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Only after I had threatened to post a review online did the manager offer us a different room” – Only after + mệnh đề, rồi đảo ngữ did the manager offer.",
+     "“Only after I had threatened to post a review online did the manager offer us a different room” – Only after + clause, then inversion did the manager offer."
+    ],
+    "f": [
+     "Only after I had threatened to post a review online did the manager offer us a different room",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tác giả khen điều gì?",
+     "What does the writer praise?"
+    ],
+    "o": [
+     [
+      "Bữa sáng, đặc biệt là xoài tươi",
+      "The breakfast, especially the fresh mango"
+     ],
+     [
+      "Phòng nhìn ra biển",
+      "The sea-view room"
+     ],
+     [
+      "Thái độ của nhân viên",
+      "The staff's attitude"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“the breakfast was excellent, and seldom have I tasted better fresh mango” – seldom đứng đầu nên đảo have I. Phòng nhìn ra biển chỉ có trong ảnh quảng cáo.",
+     "“the breakfast was excellent, and seldom have I tasted better fresh mango” – seldom first, so have I is inverted. The sea view existed only in the photos."
+    ],
+    "f": [
+     "seldom have I tasted better fresh mango",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Lúc đặt phòng, tác giả không biết điều gì?",
+     "What did the writer not know when booking?"
+    ],
+    "o": [
+     [
+      "Bể bơi đã đóng cửa nhiều tháng",
+      "The pool had been closed for months"
+     ],
+     [
+      "Khách sạn gần quán karaoke",
+      "The hotel was near a karaoke bar"
+     ],
+     [
+      "Bữa sáng không bao gồm",
+      "Breakfast was not included"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Little did we know…” = chúng tôi hoàn toàn không biết. Đảo ngữ với little nhấn mạnh sự bất ngờ.",
+     "“Little did we know…” = we had no idea. Inversion after little stresses the surprise."
+    ],
+    "f": [
+     "Little did we know when we booked that the swimming pool had been closed for months",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Seldom ___ such a well-organised conference, with every session starting exactly on time and every speaker staying within the limit.",
+    "o": [
+     "have I attended",
+     "I have attended",
+     "did I attended"
+    ],
+    "a": 0,
+    "e": [
+     "Seldom đứng đầu câu → đảo trợ động từ + chủ ngữ: have I attended. “did I attended” sai vì sau did phải là động từ nguyên mẫu.",
+     "Seldom at the start → auxiliary + subject inversion: have I attended. “did I attended” is wrong because did needs the base form."
+    ],
+    "f": [
+     "have I attended",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Hardly had the guests sat down at the table ___ the power went off and the whole restaurant was plunged into darkness.",
+    "a": [
+     "when",
+     "before"
+    ],
+    "e": [
+     "Cặp cố định: Hardly / Scarcely had … when (đôi khi before). Bẫy: “than” chỉ đi với No sooner, không đi với Hardly.",
+     "Fixed pair: Hardly / Scarcely had … when (sometimes before). Trap: “than” goes only with No sooner, not with Hardly."
+    ],
+    "f": [
+     "when",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Only when the results were published the researchers did realise how serious the mistake in their calculations had been.",
+    "a": [
+     "Only when the results were published did the researchers realise how serious the mistake in their calculations had been.",
+     "Only when the results were published did the researchers realize how serious the mistake in their calculations had been."
+    ],
+    "e": [
+     "Với Only when + mệnh đề, đảo ngữ xảy ra ở mệnh đề chính: did + chủ ngữ + V (did the researchers realise). Trợ động từ phải đứng trước chủ ngữ.",
+     "With Only when + clause, the inversion happens in the main clause: did + subject + verb (did the researchers realise). The auxiliary must come before the subject."
+    ],
+    "f": [
+     "did the researchers realise",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu bắt đầu bằng “Not until…”",
+     "Rewrite the sentence starting with “Not until…”"
+    ],
+    "s": "I didn't understand how much my parents had sacrificed for my education until I had children of my own.",
+    "a": [
+     "Not until I had children of my own did I understand how much my parents had sacrificed for my education.",
+     "Not until I had my own children did I understand how much my parents had sacrificed for my education."
+    ],
+    "e": [
+     "Not until + mệnh đề thời gian đưa lên đầu, rồi đảo ở mệnh đề chính: did I understand. Bỏ not trong didn't vì Not until đã mang nghĩa phủ định.",
+     "Put Not until + time clause first, then invert the main clause: did I understand. Drop the not of didn't because Not until already carries the negative."
+    ],
+    "f": [
+     "did I understand",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi vừa ra khỏi nhà thì trời bắt đầu mưa như trút nước, nên phải quay lại lấy ô.",
+    "a": [
+     "No sooner had we left the house than it started pouring with rain, so we had to go back for our umbrellas.",
+     "No sooner had we left the house than it began to pour, so we had to go back and get our umbrellas.",
+     "Hardly had we left the house when it started to pour with rain, so we had to go back for our umbrellas.",
+     "Scarcely had we left the house when it began pouring with rain, so we had to go back to get an umbrella."
+    ],
+    "e": [
+     "“vừa … thì” → No sooner had + S + V3 + than … hoặc Hardly/Scarcely had … when … Không trộn No sooner với when hay Hardly với than.",
+     "“as soon as” → No sooner had + S + past participle + than … or Hardly/Scarcely had … when … Don't mix No sooner with when or Hardly with than."
+    ],
+    "f": [
+     "No sooner had we left the house than",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Under no circumstances|should you|share your password|with anyone,|even if|they claim|to work for|the bank.",
+    "m": [
+     "Trong bất kỳ hoàn cảnh nào bạn cũng không được chia sẻ mật khẩu cho ai, kể cả khi họ tự nhận là làm cho ngân hàng.",
+     "Under no circumstances should you share your password with anyone, even if they claim to work for the bank."
+    ],
+    "e": [
+     "Under no circumstances đứng đầu → đảo should you. Cụm này rất hay gặp trong văn bản cảnh báo, hướng dẫn an toàn.",
+     "Under no circumstances first → inversion should you. The phrase is common in warnings and safety instructions."
+    ],
+    "f": [
+     "Under no circumstances should you",
+     "C1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-2",
+  "t": [
+   "Câu chẻ & danh hóa",
+   "Cleft sentences & nominalisation"
+  ],
+  "th": [
+   [
+    "**It-cleft** nhấn mạnh một thành phần: It was **Mai** who solved the problem. It is **the price** that worries me.",
+    "**It-clefts** highlight one element: It was **Mai** who solved the problem. It is **the price** that worries me."
+   ],
+   [
+    "**What-cleft**: What I need is a long holiday. What surprised me was his reaction. **All** I want is some sleep.",
+    "**What-clefts**: What I need is a long holiday. What surprised me was his reaction. **All** I want is some sleep."
+   ],
+   [
+    "**Danh hóa** trong văn học thuật: biến động từ/tính từ thành danh từ để câu trang trọng, cô đọng.\n• Prices increased rapidly → There was **a rapid increase** in prices.\n• We analysed the data → **Analysis** of the data showed…",
+    "**Nominalisation** in academic writing turns verbs/adjectives into nouns for a formal, dense style.\n• Prices increased rapidly → There was **a rapid increase** in prices.\n• We analysed the data → **Analysis** of the data showed…"
+   ]
+  ],
+  "vo": [
+   [
+    "increase",
+    "/ˈɪnkriːs/",
+    "sự gia tăng",
+    "a rise"
+   ],
+   [
+    "decline",
+    "/dɪˈklaɪn/",
+    "sự suy giảm",
+    "a fall"
+   ],
+   [
+    "analysis",
+    "/əˈnæləsɪs/",
+    "sự phân tích",
+    "detailed examination"
+   ],
+   [
+    "reaction",
+    "/riˈækʃn/",
+    "phản ứng",
+    "a response"
+   ],
+   [
+    "significant",
+    "/sɪɡˈnɪfɪkənt/",
+    "đáng kể",
+    "important, large"
+   ],
+   [
+    "investment",
+    "/ɪnˈvestmənt/",
+    "sự đầu tư",
+    "putting money in"
+   ],
+   [
+    "reduction",
+    "/rɪˈdʌkʃn/",
+    "sự giảm",
+    "making smaller"
+   ],
+   [
+    "emphasis",
+    "/ˈemfəsɪs/",
+    "sự nhấn mạnh",
+    "special importance"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "It was my grandmother ___ taught me to cook.",
+    [
+     "who",
+     "which",
+     "what"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "___ I like most about Hanoi is the food.",
+    [
+     "That",
+     "What",
+     "Which"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Danh hóa câu: “Unemployment fell sharply.”",
+     "Nominalise: “Unemployment fell sharply.”"
+    ],
+    [
+     "There was a sharp fall in unemployment.",
+     "Unemployment was falling sharp.",
+     "It fell unemployment sharply."
+    ],
+    0
+   ],
+   [
+    "type",
+    [
+     "Danh từ của: analyse",
+     "Noun form of: analyse"
+    ],
+    [
+     "analysis"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Danh từ của: reduce",
+     "Noun form of: reduce"
+    ],
+    [
+     "reduction"
+    ]
+   ],
+   [
+    "fill",
+    "All I want ___ a quiet place to study.",
+    [
+     "are",
+     "is",
+     "be"
+    ],
+    1
+   ],
+   [
+    "order",
+    "What surprised me was his calm reaction",
+    "Điều làm tôi ngạc nhiên là phản ứng bình tĩnh của anh ấy."
+   ],
+   [
+    "dict",
+    "There has been a significant increase in investment."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "What really worried the residents was not the noise from the construction site but the dust that covered their windows every single day.",
+    "q": [
+     "Điều gì làm cư dân lo lắng nhất?",
+     "What worried the residents most?"
+    ],
+    "o": [
+     [
+      "Bụi bám cửa sổ mỗi ngày",
+      "The dust on their windows every day"
+     ],
+     [
+      "Tiếng ồn công trường",
+      "The noise from the building site"
+     ],
+     [
+      "Công nhân xây dựng",
+      "The construction workers"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu chẻ What-cleft nhấn mạnh: “What really worried the residents was … the dust”. Cấu trúc “not X but Y” loại tiếng ồn ra.",
+     "The what-cleft highlights “the dust”: “What really worried the residents was … the dust”. “not X but Y” rules out the noise."
+    ],
+    "f": [
+     "What really worried the residents was",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "It was only after the third reminder from the bank that he finally decided to deal with his unpaid bills.",
+    "e": [
+     "Câu chẻ It was … that nhấn mạnh thời điểm “only after the third reminder”. Chú ý cụm deal with (giải quyết).",
+     "The it-cleft It was … that highlights the time “only after the third reminder”. Note the phrasal verb deal with."
+    ],
+    "f": [
+     "It was only after the third reminder from the bank that",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "There has been a significant decline in the number of young people who choose to study agriculture at university over the past decade.",
+    "e": [
+     "Danh hóa: “a significant decline in the number of…”. Nhấn sig-NIF-icant và de-CLINE; đọc nối “decline in”.",
+     "Nominalisation: “a significant decline in the number of…”. Stress sig-NIF-i-cant and de-CLINE; link “decline in”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "The past decade has seen a dramatic increase in the number of private vehicles in Vietnam's largest cities, and with it a steady deterioration in air quality. What concerns health experts most is not the occasional smog that makes headlines, but the long-term exposure of children to fine particles on their daily journey to school. It is this hidden, cumulative damage that is hardest to communicate to the public. A recent analysis of monitoring data showed a clear correlation between traffic density and pollution levels during rush hours. The introduction of low-emission zones, the expansion of metro networks and the electrification of motorbike fleets have all been proposed as solutions. However, the implementation of such measures requires significant investment, and their success depends on public acceptance. What is needed, according to most researchers, is not a single dramatic policy but a combination of gradual changes, supported by clear communication of the benefits.",
+   "tr": "Thập kỷ qua chứng kiến sự gia tăng mạnh số lượng phương tiện cá nhân ở các thành phố lớn nhất Việt Nam, kéo theo chất lượng không khí xấu đi đều đặn. Điều khiến các chuyên gia y tế lo ngại nhất không phải là những đợt khói mù thỉnh thoảng lên báo, mà là việc trẻ em phơi nhiễm lâu dài với bụi mịn trên đường đến trường mỗi ngày. Chính tác hại âm thầm, tích tụ này là điều khó truyền đạt tới công chúng nhất. Một phân tích gần đây về dữ liệu quan trắc cho thấy mối tương quan rõ rệt giữa mật độ giao thông và mức ô nhiễm trong giờ cao điểm. Việc lập vùng phát thải thấp, mở rộng mạng lưới tàu điện và điện hóa xe máy đều đã được đề xuất làm giải pháp. Tuy nhiên, việc triển khai những biện pháp này đòi hỏi đầu tư lớn, và thành công của chúng phụ thuộc vào sự đồng thuận của người dân. Theo phần lớn các nhà nghiên cứu, điều cần thiết không phải là một chính sách đột phá duy nhất, mà là sự kết hợp của nhiều thay đổi từ từ, đi kèm việc truyền thông rõ ràng về lợi ích."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Điều gì khiến chuyên gia y tế lo ngại nhất?",
+     "What concerns health experts most?"
+    ],
+    "o": [
+     [
+      "Trẻ em phơi nhiễm lâu dài với bụi mịn",
+      "Children's long-term exposure to fine particles"
+     ],
+     [
+      "Những đợt khói mù thỉnh thoảng lên báo",
+      "Occasional smog that makes headlines"
+     ],
+     [
+      "Giá xe máy điện",
+      "The price of electric motorbikes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "What-cleft: “What concerns health experts most is not the occasional smog…, but the long-term exposure of children…”. Cấu trúc not X but Y cho biết đáp án là Y.",
+     "The what-cleft: “What concerns health experts most is not the occasional smog…, but the long-term exposure of children…”. In not X but Y, the answer is Y."
+    ],
+    "f": [
+     "the long-term exposure of children to fine particles",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Phân tích dữ liệu quan trắc cho thấy gì?",
+     "What did the analysis of monitoring data show?"
+    ],
+    "o": [
+     [
+      "Mối tương quan giữa mật độ giao thông và mức ô nhiễm giờ cao điểm",
+      "A link between traffic density and rush-hour pollution"
+     ],
+     [
+      "Ô nhiễm giảm nhờ tàu điện",
+      "Pollution fell thanks to the metro"
+     ],
+     [
+      "Trẻ em ít đi học bằng xe máy",
+      "Fewer children ride to school"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“A recent analysis of monitoring data showed a clear correlation between traffic density and pollution levels during rush hours.” Chú ý các danh từ hóa: analysis, correlation, density.",
+     "“A recent analysis of monitoring data showed a clear correlation between traffic density and pollution levels during rush hours.” Note the nominalisations: analysis, correlation, density."
+    ],
+    "f": [
+     "a clear correlation between traffic density and pollution levels",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Theo các nhà nghiên cứu, điều cần thiết là gì?",
+     "According to researchers, what is needed?"
+    ],
+    "o": [
+     [
+      "Kết hợp nhiều thay đổi từ từ",
+      "A combination of gradual changes"
+     ],
+     [
+      "Một chính sách đột phá duy nhất",
+      "One single dramatic policy"
+     ],
+     [
+      "Cấm hoàn toàn xe máy",
+      "A total ban on motorbikes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“What is needed … is not a single dramatic policy but a combination of gradual changes” – lại là What-cleft với not X but Y.",
+     "“What is needed … is not a single dramatic policy but a combination of gradual changes” – another what-cleft with not X but Y."
+    ],
+    "f": [
+     "a combination of gradual changes",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "It was the lack of clear communication, rather than the policy itself, ___ caused so much anger among local residents last year.",
+    "o": [
+     "that",
+     "what",
+     "which"
+    ],
+    "a": 0,
+    "e": [
+     "Câu chẻ It was + phần nhấn mạnh + that + phần còn lại. what không dùng trong It-cleft; which nghe sai khi phần nhấn mạnh là cả một cụm danh từ trừu tượng như thế này.",
+     "An it-cleft is It was + focus + that + the rest. what never appears in an it-cleft, and which sounds wrong after an abstract focus phrase like this."
+    ],
+    "f": [
+     "that",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ surprised me most about living abroad was not the food or the weather but how lonely I felt during the first winter.",
+    "a": [
+     "What"
+    ],
+    "e": [
+     "What-cleft: What + mệnh đề + is/was + phần nhấn mạnh. Không dùng That hay Which ở đầu vì cần một từ mang nghĩa “điều mà”.",
+     "A what-cleft: What + clause + is/was + focus. That or Which won't work because you need a word meaning “the thing that”."
+    ],
+    "f": [
+     "What surprised me most",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "What the company needs it is a clear strategy for attracting young talent, not another expensive advertising campaign on television.",
+    "a": [
+     "What the company needs is a clear strategy for attracting young talent, not another expensive advertising campaign on television."
+    ],
+    "e": [
+     "Mệnh đề What the company needs đã là chủ ngữ, nên không thêm it nữa. Lỗi này xuất hiện do dịch sát cấu trúc “Điều công ty cần, đó là…”.",
+     "The clause What the company needs is already the subject, so don't add it. The mistake comes from translating “Điều công ty cần, đó là…” word for word."
+    ],
+    "f": [
+     "What the company needs is",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Danh hóa: viết lại câu bắt đầu bằng “There was a sharp…”",
+     "Nominalise: rewrite the sentence starting with “There was a sharp…”"
+    ],
+    "s": "The number of international students who applied to Vietnamese universities increased sharply after the new visa rules were introduced.",
+    "a": [
+     "There was a sharp increase in the number of international students applying to Vietnamese universities after the introduction of the new visa rules.",
+     "There was a sharp increase in the number of international students who applied to Vietnamese universities after the new visa rules were introduced.",
+     "There was a sharp increase in the number of international students applying to Vietnamese universities after the new visa rules were introduced.",
+     "There was a sharp rise in the number of international students applying to Vietnamese universities after the introduction of the new visa rules."
+    ],
+    "e": [
+     "increased sharply → a sharp increase in (trạng từ thành tính từ, động từ thành danh từ + in). Có thể danh hóa tiếp: were introduced → the introduction of.",
+     "increased sharply → a sharp increase in (adverb becomes adjective, verb becomes noun + in). You can go further: were introduced → the introduction of."
+    ],
+    "f": [
+     "a sharp increase in the number of",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Điều tôi cần nhất lúc này không phải là thêm lời khuyên, mà là một chút thời gian để suy nghĩ cho thấu đáo.",
+    "a": [
+     "What I need most right now is not more advice but a little time to think things through.",
+     "What I need most at the moment is not more advice but some time to think it through properly.",
+     "What I need most now isn't more advice, but a bit of time to think things over carefully.",
+     "What I need most right now is not more advice, but a little time to think things through carefully."
+    ],
+    "e": [
+     "“Điều tôi cần nhất” → What-cleft: What I need most is… advice không đếm được nên nói more advice, không nói “more advices”.",
+     "“The thing I need most” → a what-cleft: What I need most is… advice is uncountable, so say more advice, never “more advices”."
+    ],
+    "f": [
+     "What I need most",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "The rapid expansion|of the metro network|has led to|a significant reduction|in traffic congestion|in the city centre|during rush hour.",
+    "m": [
+     "Việc mở rộng nhanh mạng lưới tàu điện đã giúp giảm đáng kể tình trạng tắc đường ở trung tâm thành phố vào giờ cao điểm.",
+     "The rapid expansion of the metro network has led to a significant reduction in traffic congestion in the city centre during rush hour."
+    ],
+    "e": [
+     "Hai cụm danh hóa: The rapid expansion of… (thay cho “the metro network expanded rapidly”) và a significant reduction in… Nhớ giới từ: expansion of, reduction in.",
+     "Two nominalisations: The rapid expansion of… (instead of “the metro network expanded rapidly”) and a significant reduction in… Remember the prepositions: expansion of, reduction in."
+    ],
+    "f": [
+     "a significant reduction in",
+     "C1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d14",
+  "g": "work",
+  "t": [
+   "Kinh doanh, đàm phán & email",
+   "Business, negotiation & email"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – văn phong email trang trọng**\n• Mở đầu: Dear Mr Lee / Dear Ms Taylor, Thank you for your email of 3 May.\n• Gửi kèm: Please find attached our quotation. (không viết “I send you …”)\n• Đề nghị: Should you require any further information, please do not hesitate to contact me.\n• Kết thư: I look forward to hearing from you. / Yours sincerely (biết tên), Yours faithfully (không biết tên – Anh–Anh).",
+    "**Grammar 1 – formal email style**\n• Opening: Dear Mr Lee / Dear Ms Taylor, Thank you for your email of 3 May.\n• Attachments: Please find attached our quotation. (not “I send you …”)\n• Offers: Should you require any further information, please do not hesitate to contact me.\n• Closing: I look forward to hearing from you. / Yours sincerely (name known), Yours faithfully (name unknown – British)."
+   ],
+   [
+    "**Ngữ pháp 2 – câu điều kiện loại 2 khi đàm phán**\n• If + quá khứ đơn, would/could + V: If you doubled the order, we would offer free delivery.\n• Mềm hơn: If you were able to pay in advance, we could reduce the price by 3%.\n• Điều kiện chặt chẽ: provided that / as long as + hiện tại: We can extend the terms provided that the contract is signed this month.\n• Loại 2 nghe “giả định” nên lịch sự hơn loại 1 – đối tác thấy có chỗ thương lượng.",
+    "**Grammar 2 – second conditional in negotiation**\n• If + past simple, would/could + verb: If you doubled the order, we would offer free delivery.\n• Softer: If you were able to pay in advance, we could reduce the price by 3%.\n• Firm conditions: provided that / as long as + present: We can extend the terms provided that the contract is signed this month.\n• The second conditional sounds hypothetical, so it is more polite and leaves room to negotiate."
+   ],
+   [
+    "**Phát âm – trọng âm đổi theo từ loại**\n• **CON**tract (danh từ: hợp đồng) – con**TRACT** (động từ: co lại, ký hợp đồng).\n• **IN**crease (danh từ) – in**CREASE** (động từ); **RE**cord – re**CORD**; **PRO**duce – pro**DUCE**.\n• Ví dụ: We signed the **CON**tract. / Prices will in**CREASE** next year.",
+    "**Pronunciation – stress shifts with word class**\n• **CON**tract (noun) – con**TRACT** (verb).\n• **IN**crease (noun) – in**CREASE** (verb); **RE**cord – re**CORD**; **PRO**duce – pro**DUCE**.\n• Examples: We signed the **CON**tract. / Prices will in**CREASE** next year."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 đoạn đàm phán mẫu, ghi đề nghị ban đầu, điều kiện nhượng bộ và kết quả cuối.\n• Nói (30 phút): đóng vai người mua – người bán thương lượng giá, số lượng, thời hạn giao hàng (3 vòng đề nghị).\n• Đọc (30 phút): đọc 1 hợp đồng mẫu ngắn, tóm tắt 5 điều khoản chính bằng tiếng Việt.\n• Viết (50 phút): viết 3 email trang trọng 120–150 từ: gửi báo giá, đề nghị giảm giá, xác nhận đơn hàng.\n• Từ vựng (20 phút): lập bảng 10 cụm mở đầu và kết thúc email trang trọng.\n• Thử thách: quay video 60 giây giới thiệu (pitch) một sản phẩm: vấn đề, giải pháp, giá, lời kêu gọi hành động; xem lại và quay lần 2.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a sample negotiation; note the first offer, the concessions and the final result.\n• Speaking (30 min): role-play buyer and seller negotiating price, quantity and delivery time (3 rounds of offers).\n• Reading (30 min): read a short sample contract and summarise 5 key terms in Vietnamese.\n• Writing (50 min): write 3 formal emails of 120–150 words: sending a quotation, asking for a discount, confirming an order.\n• Vocabulary (20 min): make a table of 10 formal email openings and closings.\n• Challenge: film a 60-second product pitch (problem, solution, price, call to action), watch it and film it again."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Dear Mr / Ms …",
+    "Kính gửi ông / bà …"
+   ],
+   [
+    "Please find attached our quotation.",
+    "Chúng tôi xin gửi kèm báo giá."
+   ],
+   [
+    "If you order more than 1,000 units, we can offer a 5% discount.",
+    "Nếu đặt trên 1.000 sản phẩm, chúng tôi giảm 5%."
+   ],
+   [
+    "I look forward to hearing from you.",
+    "Mong sớm nhận được phản hồi của quý công ty."
+   ],
+   [
+    "We can deliver within two weeks.",
+    "Chúng tôi có thể giao hàng trong vòng 2 tuần."
+   ],
+   [
+    "Does this price include tax?",
+    "Giá này đã bao gồm thuế chưa?"
+   ],
+   [
+    "Should you have any questions, please do not hesitate to contact me.",
+    "Nếu có câu hỏi, xin đừng ngần ngại liên hệ với tôi."
+   ]
+  ],
+  "vo": [
+   [
+    "contract",
+    "/ˈkɑːn.trækt/",
+    "hợp đồng",
+    "a legal written agreement"
+   ],
+   [
+    "negotiate",
+    "/nəˈɡoʊ.ʃi.eɪt/",
+    "đàm phán",
+    "discuss to reach an agreement"
+   ],
+   [
+    "client",
+    "/ˈklaɪ.ənt/",
+    "khách hàng",
+    "a person or company that buys services"
+   ],
+   [
+    "partner",
+    "/ˈpɑːrt.nɚ/",
+    "đối tác",
+    "a company you do business with"
+   ],
+   [
+    "quotation",
+    "/kwoʊˈteɪ.ʃən/",
+    "báo giá",
+    "a written statement of a price"
+   ],
+   [
+    "discount",
+    "/ˈdɪs.kaʊnt/",
+    "chiết khấu",
+    "a reduction in price"
+   ],
+   [
+    "terms",
+    "/tɝːmz/",
+    "điều khoản",
+    "the conditions of an agreement"
+   ],
+   [
+    "delivery",
+    "/dɪˈlɪv.ɚ.i/",
+    "giao hàng",
+    "taking goods to the buyer"
+   ],
+   [
+    "profit",
+    "/ˈprɑː.fɪt/",
+    "lợi nhuận",
+    "money earned after costs"
+   ],
+   [
+    "agreement",
+    "/əˈɡriː.mənt/",
+    "thỏa thuận",
+    "a decision both sides accept"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "If you were able to double your order, we would be happy to offer free delivery, but we can't reduce the unit price any further.",
+    "q": [
+     "Người bán đề nghị gì nếu khách đặt gấp đôi?",
+     "What does the seller offer if the order is doubled?"
+    ],
+    "o": [
+     [
+      "Miễn phí giao hàng",
+      "Free delivery"
+     ],
+     [
+      "Giảm thêm giá mỗi sản phẩm",
+      "A lower unit price"
+     ],
+     [
+      "Kéo dài thời hạn thanh toán",
+      "Longer payment terms"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“we would be happy to offer free delivery, but we can't reduce the unit price” – chỉ miễn phí vận chuyển, giá không giảm thêm. Đây là câu điều kiện loại 2 lịch sự.",
+     "“we would be happy to offer free delivery, but we can't reduce the unit price” – only delivery is free. This is a polite second conditional."
+    ],
+    "f": [
+     "we would be happy to offer free delivery",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Please find attached our quotation.",
+    "e": [
+     "Cụm cố định trong email: “Please find attached …”. “attached” đứng trước tân ngữ; viết đúng “quotation”.",
+     "Fixed email phrase: “Please find attached …”. “attached” comes before the object; spell “quotation” correctly."
+    ],
+    "f": [
+     "Please find attached",
+     "B2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "If you order more than 1,000 units, we can offer a 5% discount.",
+    "e": [
+     "Câu điều kiện loại 1 (order … can offer) – đề nghị thật sự. “units” = sản phẩm/đơn vị hàng.",
+     "First conditional (order … can offer) – a real offer. “units” = individual items."
+    ],
+    "f": [
+     "offer a 5% discount",
+     "B2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I look forward to hearing from you.",
+    "e": [
+     "“look forward to” + V-ing (to là giới từ): hearing, không phải “hear”.",
+     "“look forward to” + -ing (to is a preposition): hearing, not “hear”."
+    ],
+    "f": [
+     "look forward to hearing",
+     "B2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "A good negotiator listens carefully, prepares a clear walk-away point before the meeting, and looks for a solution that both sides can accept.",
+    "e": [
+     "Câu hỏi: What makes a good negotiator? – Gợi ý trả lời mẫu. “walk-away point” = mức tối thiểu chấp nhận được.",
+     "Question: What makes a good negotiator? – Model answer. “walk-away point” = the minimum you will accept."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "I'd rather start my own business, because I would be able to make my own decisions, even though the risks would be much higher than in a big company.",
+    "e": [
+     "Câu hỏi: Is it better to work for a big company or start your own business? – Gợi ý trả lời mẫu. Nối âm “own_business”.",
+     "Question: Is it better to work for a big company or start your own business? – Model answer. Link “own_business”."
+    ]
+   }
+  ],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thật lòng mà nói, mức giá đó hơi vượt ngân sách của chúng tôi – anh có thể nhượng bộ một chút được không nếu chúng tôi ký hợp đồng hai năm?",
+    "a": [
+     "To be honest, that price is a bit over our budget – could you meet us halfway if we signed a two-year contract?",
+     "To be honest, that price is slightly beyond our budget; is there any flexibility if we were to sign a two-year contract?",
+     "Honestly, that price is a little over our budget – could you come down a bit if we signed a two-year contract?",
+     "To be honest, that price is a bit over our budget. Could you meet us halfway if we signed a two-year contract?"
+    ],
+    "e": [
+     "“meet somebody halfway” / “come down a bit” = nhượng bộ, giảm giá. Câu điều kiện loại 2 (if we signed) làm lời đề nghị mềm mỏng.",
+     "“meet somebody halfway” / “come down a bit” = compromise on price. The second conditional (if we signed) softens the request."
+    ],
+    "f": [
+     "meet us halfway",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho trang trọng và lịch sự hơn, bắt đầu bằng “We would appreciate it if …”.",
+     "Rewrite more formally and politely, starting with “We would appreciate it if …”."
+    ],
+    "s": "Send us the signed contract by Friday.",
+    "a": [
+     "We would appreciate it if you could send us the signed contract by Friday.",
+     "We would appreciate it if you sent us the signed contract by Friday.",
+     "We would appreciate it if you could send us the signed contract by Friday at the latest."
+    ],
+    "e": [
+     "“We would appreciate it if you could …” là lời yêu cầu trang trọng chuẩn trong email; đừng quên “it”.",
+     "“We would appreciate it if you could …” is the standard formal request; don't forget “it”."
+    ],
+    "f": [
+     "We would appreciate it if you could",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "The client said that they will consider our offer, but only if we could guarantee delivery before the end of the month.",
+    "a": [
+     "The client said that they would consider our offer, but only if we could guarantee delivery before the end of the month."
+    ],
+    "e": [
+     "Câu tường thuật lùi thì: will → would, khớp với “could” phía sau.",
+     "Reported speech backshifts: will → would, matching “could” later in the sentence."
+    ],
+    "f": [
+     "they would consider our offer",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "After three hours of negotiation, we finally managed to strike a ___ that kept both sides happy and protected our profit margin.",
+    "a": [
+     "deal",
+     "balance"
+    ],
+    "e": [
+     "“strike a deal” = đạt được thỏa thuận; “strike a balance” = cân bằng được. Không dùng “make a deal” trong cụm cố định với strike.",
+     "“strike a deal” = reach an agreement; “strike a balance” = find a fair middle point."
+    ],
+    "f": [
+     "strike a deal",
+     "C1"
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Dear Ms Taylor,\n\nThank you for your email of 3 May and for your interest in our bamboo furniture. Please find attached our updated quotation for the 800 chairs and 200 tables you requested.\n\nAs discussed during our call, the prices include delivery to your warehouse in Rotterdam but do not include import tax. We understand that your budget is tight this year. However, if you were able to increase your order to more than 1,000 units, we would be prepared to offer a 5% discount. We could also extend the payment terms from 30 to 60 days, provided that the contract is signed by the end of this month.\n\nRegarding delivery, we can ship the goods within six weeks of receiving your deposit. Should you require any changes to the terms, please do not hesitate to contact me. We value our partnership and are confident that this agreement would be profitable for both sides.\n\nI look forward to hearing from you.\n\nYours sincerely,\nTran Quoc Bao\nSales Director, Viet Bamboo Company",
+   "tr": "Kính gửi bà Taylor,\n\nCảm ơn bà về email ngày 3 tháng 5 và sự quan tâm đến đồ nội thất tre của chúng tôi. Chúng tôi xin gửi kèm báo giá cập nhật cho 800 chiếc ghế và 200 chiếc bàn mà bà yêu cầu.\n\nNhư đã trao đổi trong cuộc gọi, giá đã bao gồm giao hàng đến kho của bà ở Rotterdam nhưng chưa bao gồm thuế nhập khẩu. Chúng tôi hiểu rằng năm nay ngân sách của bà khá eo hẹp. Tuy nhiên, nếu bà có thể tăng đơn hàng lên hơn 1.000 sản phẩm, chúng tôi sẵn sàng chiết khấu 5%. Chúng tôi cũng có thể kéo dài thời hạn thanh toán từ 30 lên 60 ngày, với điều kiện hợp đồng được ký trước cuối tháng này.\n\nVề giao hàng, chúng tôi có thể gửi hàng trong vòng sáu tuần kể từ khi nhận tiền đặt cọc. Nếu bà cần thay đổi điều khoản nào, xin đừng ngần ngại liên hệ với tôi. Chúng tôi trân trọng mối quan hệ đối tác và tin rằng thỏa thuận này sẽ mang lại lợi nhuận cho cả hai bên.\n\nMong sớm nhận được phản hồi của bà.\n\nTrân trọng,\nTrần Quốc Bảo\nGiám đốc Kinh doanh, Công ty Viet Bamboo"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Giá trong báo giá đã bao gồm gì?",
+     "What do the quoted prices include?"
+    ],
+    "o": [
+     [
+      "Phí giao hàng đến kho ở Rotterdam",
+      "Delivery to the warehouse in Rotterdam"
+     ],
+     [
+      "Thuế nhập khẩu",
+      "Import tax"
+     ],
+     [
+      "Cả giao hàng và thuế nhập khẩu",
+      "Both delivery and import tax"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“the prices include delivery to your warehouse in Rotterdam but do not include import tax” – “but do not include” loại trừ thuế.",
+     "“the prices include delivery to your warehouse in Rotterdam but do not include import tax” – tax is excluded."
+    ],
+    "f": [
+     "include delivery to your warehouse",
+     "B2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khách hàng cần làm gì để được chiết khấu 5%?",
+     "What must the client do to get the 5% discount?"
+    ],
+    "o": [
+     [
+      "Đặt hơn 1.000 sản phẩm",
+      "Order more than 1,000 units"
+     ],
+     [
+      "Ký hợp đồng trong tuần này",
+      "Sign the contract this week"
+     ],
+     [
+      "Trả tiền đặt cọc trong sáu tuần",
+      "Pay the deposit within six weeks"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“if you were able to increase your order to more than 1,000 units, we would be prepared to offer a 5% discount”. Việc ký hợp đồng trước cuối tháng là điều kiện cho thời hạn thanh toán 60 ngày, không phải chiết khấu.",
+     "“if you were able to increase your order to more than 1,000 units, we would be prepared to offer a 5% discount”. Signing by the end of the month is the condition for 60-day payment terms, not the discount."
+    ],
+    "f": [
+     "increase your order to more than 1,000 units",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "“provided that the contract is signed by the end of this month” nghĩa là gì?",
+     "What does “provided that the contract is signed by the end of this month” mean?"
+    ],
+    "o": [
+     [
+      "Chỉ khi hợp đồng được ký trước cuối tháng",
+      "Only if the contract is signed before the month ends"
+     ],
+     [
+      "Hợp đồng đã được ký",
+      "The contract has already been signed"
+     ],
+     [
+      "Hợp đồng sẽ được gửi vào cuối tháng",
+      "The contract will be sent at the end of the month"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“provided that” = với điều kiện là, chỉ khi. Hợp đồng chưa được ký.",
+     "“provided that” = only if. The contract has not been signed yet."
+    ],
+    "f": [
+     "provided that",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "If you ___ the order, we would offer free delivery to any of your stores in the north of the country. (double)",
+    "a": [
+     "doubled"
+    ],
+    "e": [
+     "Câu điều kiện loại 2: If + quá khứ đơn (doubled), would + V. Không dùng “double” hay “will double”.",
+     "Second conditional: If + past simple (doubled), would + verb. Not “double” or “will double”."
+    ],
+    "f": [
+     "If you doubled the order",
+     "B2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Please find ___ the contract and the delivery schedule that we discussed during our video call yesterday.",
+    "a": [
+     "attached"
+    ],
+    "e": [
+     "Cụm cố định “Please find attached …”. Không viết “attach” hay “attachment”.",
+     "Fixed phrase “Please find attached …”. Not “attach” or “attachment”."
+    ],
+    "f": [
+     "Please find attached",
+     "B2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Thank you once again for your time, and I look forward to ___ from you about the revised terms. (hear)",
+    "a": [
+     "hearing"
+    ],
+    "e": [
+     "“to” trong “look forward to” là giới từ → V-ing: hearing. Lỗi phổ biến: “look forward to hear”.",
+     "The “to” in “look forward to” is a preposition → -ing: hearing. Common mistake: “look forward to hear”."
+    ],
+    "f": [
+     "look forward to hearing",
+     "B2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "We ___ be able to lower the unit price by three percent if you agreed to pay half of the total amount in advance.",
+    "o": [
+     "would",
+     "will",
+     "are"
+    ],
+    "a": 0,
+    "e": [
+     "Mệnh đề if dùng quá khứ (agreed) → câu điều kiện loại 2 → would. “will” chỉ đi với if + hiện tại.",
+     "The if-clause uses the past (agreed) → second conditional → would. “will” goes with if + present."
+    ],
+    "f": [
+     "would be able to lower the unit price",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "We are writing to confirm that the goods will be delivered within six weeks, providing that you will pay the deposit by Monday.",
+    "a": [
+     "We are writing to confirm that the goods will be delivered within six weeks, provided that you pay the deposit by Monday.",
+     "We are writing to confirm that the goods will be delivered within six weeks, providing that you pay the deposit by Monday."
+    ],
+    "e": [
+     "Sau provided/providing that dùng hiện tại đơn cho tương lai (you pay), không dùng “will pay” – giống mệnh đề if.",
+     "After provided/providing that, use the present simple for the future (you pay), not “will pay” – just like an if-clause."
+    ],
+    "f": [
+     "provided that you pay the deposit",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu cho trang trọng, bắt đầu bằng “Should …” (đảo ngữ thay cho If).",
+     "Rewrite formally, starting with “Should …” (inversion instead of If)."
+    ],
+    "s": "If you have any questions about the contract, please do not hesitate to contact me directly.",
+    "a": [
+     "Should you have any questions about the contract, please do not hesitate to contact me directly."
+    ],
+    "e": [
+     "Đảo ngữ trang trọng: Should + chủ ngữ + động từ nguyên mẫu = If … . Bỏ “If”, động từ “have” giữ nguyên.",
+     "Formal inversion: Should + subject + base verb = If … . Drop “If”; “have” stays in the base form."
+    ],
+    "f": [
+     "Should you have any questions",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi có thể giao hàng trong vòng 2 tuần.",
+    "a": [
+     "We can deliver within two weeks.",
+     "We can deliver within 2 weeks.",
+     "We can deliver the goods within two weeks.",
+     "We are able to deliver within two weeks."
+    ],
+    "e": [
+     "“within two weeks” = trong vòng 2 tuần (không quá). “in two weeks” lại có nghĩa là sau 2 tuần nữa.",
+     "“within two weeks” = no more than two weeks. “in two weeks” means two weeks from now."
+    ],
+    "f": [
+     "within two weeks",
+     "B2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Giá này đã bao gồm thuế chưa?",
+    "a": [
+     "Does this price include tax?",
+     "Does the price include tax?",
+     "Is tax included in this price?",
+     "Is this price inclusive of tax?"
+    ],
+    "e": [
+     "Dùng “Does … include …?”; hoặc bị động “Is tax included …?”. Không viết “Is this price include tax?”.",
+     "Use “Does … include …?” or the passive “Is tax included …?”. Not “Is this price include tax?”."
+    ],
+    "f": [
+     "include tax",
+     "B2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi rất tiếc phải thông báo rằng lô hàng sẽ bị chậm khoảng một tuần do thiếu nguyên liệu.",
+    "a": [
+     "We regret to inform you that the shipment will be delayed by about a week due to a shortage of materials.",
+     "We regret to inform you that the shipment will be delayed by around one week due to a shortage of raw materials.",
+     "We are sorry to inform you that the shipment will be delayed by about a week because of a shortage of materials.",
+     "We regret to inform you that the delivery will be delayed by approximately one week owing to a shortage of materials."
+    ],
+    "e": [
+     "“We regret to inform you that …” mở đầu tin xấu trang trọng; “be delayed by” + thời gian; “due to/owing to” + danh từ.",
+     "“We regret to inform you that …” formally introduces bad news; “be delayed by” + time; “due to/owing to” + noun."
+    ],
+    "f": [
+     "We regret to inform you that",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "We would be prepared|to extend the payment terms|to sixty days|as long as|the first order|is confirmed|before the end of the quarter",
+    "m": [
+     "Chúng tôi sẵn sàng kéo dài thời hạn thanh toán lên 60 ngày miễn là đơn hàng đầu tiên được xác nhận trước cuối quý.",
+     "We would be prepared to extend the payment terms to sixty days as long as the first order is confirmed before the end of the quarter."
+    ],
+    "e": [
+     "“would be prepared to” = sẵn sàng (lịch sự); “as long as” + hiện tại đơn bị động “is confirmed”.",
+     "“would be prepared to” = would be willing to (polite); “as long as” + present simple passive “is confirmed”."
+    ],
+    "f": [
+     "as long as the first order is confirmed",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 150 từ trả lời khách hàng phàn nàn giao hàng trễ: xin lỗi, giải thích, đề nghị bồi thường, giữ quan hệ.",
+     "Write an email (about 150 words) replying to a client who complains about late delivery: apologise, explain, offer compensation and keep the relationship."
+    ],
+    "m": "Dear Mr Lee,\n\nThank you for your email of 14 October regarding the late delivery of your order no. 2381. Please accept our sincere apologies for the inconvenience this has caused your business.\n\nThe delay was the result of a serious storm in central Vietnam, which closed the port in Da Nang for four days. Although this was beyond our control, we fully understand how important punctual delivery is to your customers.\n\nAs a gesture of goodwill, we would like to offer you a 10% discount on this order and free express shipping on your next two orders. In addition, we have arranged a second shipping route so that similar delays should not happen again.\n\nWe greatly value our partnership and hope that this solution is acceptable to you. Should you have any further questions, please do not hesitate to contact me directly.\n\nI look forward to hearing from you.\n\nYours sincerely,\nNguyen Minh Chau\nCustomer Relations Manager",
+    "e": [
+     "Cần có: lời xin lỗi trang trọng; lý do rõ ràng; đề nghị bồi thường cụ thể (giảm giá, miễn phí vận chuyển); cam kết cho tương lai + câu kết giữ quan hệ.",
+     "Include: a formal apology; a clear reason; concrete compensation (discount, free shipping); a promise for the future + a closing that protects the relationship."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d29",
+  "g": "society",
+  "t": [
+   "Luật pháp, quyền & trách nhiệm",
+   "Law, rights & responsibilities"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Ngôn ngữ nghĩa vụ & quyền (văn phong trang trọng)**\n• **be required / obliged to + V**: có nghĩa vụ: Landlords **are required to** return deposits within 14 days.\n• **be entitled to + danh từ / V**: có quyền (được hưởng): You **are entitled to** paid leave.\n• **be liable for + danh từ / V-ing**: chịu trách nhiệm pháp lý: Tenants **are liable for** any damage. (≠ **be liable to + V** = có khả năng: Prices are liable to change.)\n• **be prohibited from + V-ing**: bị cấm: Tenants **are prohibited from** subletting.\n• Sắc thái: **must** (mạnh, người nói áp đặt) – **have to** (quy định bên ngoài) – **be obliged to** (trang trọng, pháp lý).",
+    "**Grammar 1 – Language of obligation & rights (formal register)**\n• **be required / obliged to + verb**: have a duty: Landlords **are required to** return deposits within 14 days.\n• **be entitled to + noun / verb**: have a right: You **are entitled to** paid leave.\n• **be liable for + noun / -ing**: legally responsible: Tenants **are liable for** any damage. (≠ **be liable to + verb** = likely to: Prices are liable to change.)\n• **be prohibited from + -ing**: forbidden: Tenants **are prohibited from** subletting.\n• Nuance: **must** (strong, speaker's authority) – **have to** (external rule) – **be obliged to** (formal, legal)."
+   ],
+   [
+    "**Ngữ pháp 2 – Đảo ngữ & lịch sự mà cứng rắn**\n• Đảo ngữ phủ định: **Under no circumstances does** the agreement allow… / **Not only did** they refuse…, but…\n• Điều kiện trang trọng: **Should I not hear** from you by Friday, … (= If I don't hear…)\n• Giảm nhẹ trước khi phản đối: **I appreciate that** you may have been busy; **however, I must point out that**…\n• Leo thang lịch sự: **I would prefer to resolve this amicably** (ngụ ý: nếu không, tôi sẽ đi tiếp) → **I will have no choice but to**…\n• Bảng sắc thái: “sort it out” (thân mật) – “deal with it” (trung tính) – “resolve / address the matter” (trang trọng).",
+    "**Grammar 2 – Inversion & being polite but firm**\n• Negative inversion: **Under no circumstances does** the agreement allow… / **Not only did** they refuse…, but…\n• Formal conditional: **Should I not hear** from you by Friday, … (= If I don't hear…)\n• Soften before disagreeing: **I appreciate that** you may have been busy; **however, I must point out that**…\n• Polite escalation: **I would prefer to resolve this amicably** (implied: otherwise I will go further) → **I will have no choice but to**…\n• Register scale: “sort it out” (informal) – “deal with it” (neutral) – “resolve / address the matter” (formal)."
+   ],
+   [
+    "**Phát âm – Trọng âm danh từ / động từ**\n• Danh từ nhấn âm 1, động từ nhấn âm 2: **CON**tract – con**TRACT**, **RE**cord – re**CORD**, **OB**ject – ob**JECT**, **PER**mit – per**MIT**, **CON**duct – con**DUCT**.\n• Trong email đọc to/cuộc gọi chính thức: nói chậm, ngắt nhịp trước “however”, nhấn từ then chốt: I **MUST** point out…\n• liable /ˈlaɪ.ə.bəl/, entitled /ɪnˈtaɪ.t̬əld/, clause /klɑːz/.",
+    "**Pronunciation – Noun / verb stress**\n• Nouns stress the first syllable, verbs the second: **CON**tract – con**TRACT**, **RE**cord – re**CORD**, **OB**ject – ob**JECT**, **PER**mit – per**MIT**, **CON**duct – con**DUCT**.\n• On a formal call: speak slowly, pause before “however”, stress the key word: I **MUST** point out…\n• liable /ˈlaɪ.ə.bəl/, entitled /ɪnˈtaɪ.t̬əld/, clause /klɑːz/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 tập podcast/chương trình tư vấn pháp lý cho người tiêu dùng, ghi các cụm “you're entitled to / they're obliged to”.\n• Nói (25 phút): đóng vai gọi điện khiếu nại (đổi hàng lỗi, tiền cọc) – lần 1 thân mật, lần 2 trang trọng; so sánh.\n• Đọc (30 phút): đọc điều khoản của 1 hợp đồng thuê nhà/điều khoản dịch vụ, liệt kê 5 nghĩa vụ và 5 quyền.\n• Viết (40 phút): viết email khiếu nại 150–180 từ: lịch sự – nêu căn cứ – yêu cầu cụ thể – hạn chót.\n• Từ vựng (15 phút): học cặp gần nghĩa: right/entitlement, obliged/required, sue/take legal action, breach/violate.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a consumer-rights podcast or radio phone-in and note “you're entitled to / they're obliged to”.\n• Speaking (25 min): role-play a complaint call (faulty product, deposit) – first informal, then formal; compare.\n• Reading (30 min): read a tenancy agreement or terms of service and list 5 obligations and 5 rights.\n• Writing (40 min): write a 150–180-word complaint email: polite – give grounds – specific request – deadline.\n• Vocabulary (15 min): learn near-synonyms: right/entitlement, obliged/required, sue/take legal action, breach/violate."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "I'm writing regarding…",
+    "Tôi viết thư liên quan đến…"
+   ],
+   [
+    "According to clause 7 of the agreement, …",
+    "Theo điều 7 của hợp đồng, …"
+   ],
+   [
+    "You are required to…",
+    "Anh/chị có nghĩa vụ…"
+   ],
+   [
+    "I believe I am entitled to a full refund.",
+    "Tôi cho rằng tôi có quyền được hoàn tiền đầy đủ."
+   ],
+   [
+    "I would prefer to resolve this matter amicably.",
+    "Tôi muốn giải quyết việc này một cách êm thấm."
+   ],
+   [
+    "Should I not hear from you by Friday, …",
+    "Nếu đến thứ Sáu tôi không nhận được hồi âm, …"
+   ],
+   [
+    "I will have no choice but to take legal action.",
+    "Tôi sẽ buộc phải tiến hành thủ tục pháp lý."
+   ],
+   [
+    "Always read the small print.",
+    "Luôn đọc kỹ các điều khoản nhỏ."
+   ]
+  ],
+  "vo": [
+   [
+    "tenancy agreement",
+    "/ˈten.ən.si əˌɡriː.mənt/",
+    "hợp đồng thuê nhà",
+    "a contract between landlord and tenant"
+   ],
+   [
+    "clause",
+    "/klɑːz/",
+    "điều khoản",
+    "a section of a legal document"
+   ],
+   [
+    "be entitled to",
+    "/bi ɪnˈtaɪ.t̬əld tuː/",
+    "có quyền (được hưởng)",
+    "have the right to"
+   ],
+   [
+    "be liable for",
+    "/bi ˈlaɪ.ə.bəl fɔːr/",
+    "chịu trách nhiệm pháp lý về",
+    "be legally responsible for"
+   ],
+   [
+    "comply with",
+    "/kəmˈplaɪ wɪð/",
+    "tuân thủ",
+    "obey a rule or law"
+   ],
+   [
+    "breach",
+    "/briːtʃ/",
+    "sự vi phạm (hợp đồng)",
+    "breaking a rule or agreement"
+   ],
+   [
+    "deduct",
+    "/dɪˈdʌkt/",
+    "khấu trừ",
+    "take away an amount from a total"
+   ],
+   [
+    "the small print",
+    "/ðə ˈsmɔːl prɪnt/",
+    "điều khoản in nhỏ (dễ bị bỏ qua)",
+    "important details in a contract that are easy to miss"
+   ],
+   [
+    "take legal action",
+    "/teɪk ˈliː.ɡəl ˈæk.ʃən/",
+    "kiện, khởi kiện",
+    "start a legal process against someone"
+   ],
+   [
+    "amicably",
+    "/ˈæm.ɪ.kə.bli/",
+    "êm thấm, hòa nhã",
+    "in a friendly way, without arguing"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "I'm not saying the contract is unfair, but I'd want a lawyer to look at the small print before I put my name to anything.",
+    "q": [
+     "Người nói thực sự có ý gì?",
+     "What does the speaker really mean?"
+    ],
+    "o": [
+     [
+      "Họ còn nghi ngờ và muốn thận trọng trước khi ký",
+      "They have doubts and want to be careful before signing"
+     ],
+     [
+      "Họ cho rằng hợp đồng hoàn toàn công bằng",
+      "They think the contract is completely fair"
+     ],
+     [
+      "Họ đã ký hợp đồng rồi",
+      "They have already signed it"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“I'm not saying…, but…” là cách nói rào đón: bề ngoài không phản đối, thực chất bày tỏ nghi ngờ. “put my name to” = ký.",
+     "“I'm not saying…, but…” is a hedge: it avoids a direct accusation but signals doubt. “put my name to” = sign."
+    ],
+    "f": [
+     "I'm not saying… but",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Under no circumstances are tenants allowed to sublet the flat without the landlord's written permission.",
+    "e": [
+     "Đảo ngữ sau **Under no circumstances**: **are tenants** allowed. Chú ý “landlord's” có dấu sở hữu.",
+     "Inversion after **Under no circumstances**: **are tenants** allowed. Note the possessive “landlord's”."
+    ],
+    "f": [
+     "Under no circumstances are tenants allowed",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "With all due respect, I don't think the landlord is entitled to keep my deposit just because the walls need repainting after three years.",
+    "e": [
+     "“With all due respect” mở đầu lời phản đối lịch sự – đọc chậm, giọng bình tĩnh; nhấn “enTITled”.",
+     "“With all due respect” introduces polite disagreement – say it slowly and calmly; stress “enTITled”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Know your rights: if your employer refuses to pay you for overtime, you may be able to take the matter further.",
+    "e": [
+     "Ngắt nhịp sau “Know your rights”; “take the matter further” = đưa vụ việc lên cấp cao hơn (hàm ý khiếu nại chính thức).",
+     "Pause after “Know your rights”; “take the matter further” = escalate it (implies a formal complaint)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nói thẳng nhé, cái lý do chủ nhà đưa ra để giữ tiền cọc là hoàn toàn vô lý – mình sẽ không để yên chuyện này đâu.",
+    "a": [
+     "To be blunt, the landlord's excuse for keeping the deposit is completely unreasonable – I'm not going to let this slide.",
+     "To be blunt, the landlord's reason for keeping the deposit is totally unreasonable – I'm not going to let it slide.",
+     "To put it bluntly, the landlord's excuse for keeping the deposit is ridiculous – I'm not going to let him get away with it.",
+     "To be blunt, the landlord's excuse for keeping the deposit is completely unreasonable – I'm not just going to let it go."
+    ],
+    "e": [
+     "“Nói thẳng nhé” = **To be blunt / To put it bluntly** (báo trước sự thẳng thắn). “không để yên” = **not let it slide / not let sb get away with it** – thân mật, dứt khoát.",
+     "“Nói thẳng nhé” = **To be blunt / To put it bluntly** (a warning that you'll be direct). “không để yên” = **not let it slide / not let someone get away with it** – informal and firm."
+    ],
+    "f": [
+     "I'm not going to let this slide",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Biến lời từ chối thẳng thành lời từ chối khéo, bắt đầu bằng “I'd rather not…”.",
+     "Turn the blunt refusal into a diplomatic one, starting with “I'd rather not…”."
+    ],
+    "s": "No, I won't sign it now. I haven't read it.",
+    "a": [
+     "I'd rather not sign anything until I've had a chance to read it through properly.",
+     "I'd rather not sign anything until I've had the chance to read it properly.",
+     "I'd rather not sign it until I've had a chance to read it through properly.",
+     "I'd rather not sign anything until I've had a chance to go through it properly."
+    ],
+    "e": [
+     "**I'd rather not + V** từ chối nhẹ nhàng; **until I've had a chance to** cho thấy lý do hợp lý thay vì nghi ngờ đối phương.",
+     "**I'd rather not + verb** refuses softly; **until I've had a chance to** gives a reasonable motive instead of suggesting distrust."
+    ],
+    "f": [
+     "I'd rather not sign anything until",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Strictly speaking, he's within his ___ to keep part of the deposit, but morally it's a bit of a grey area, if you ask me.",
+    "a": [
+     "rights"
+    ],
+    "e": [
+     "**be within one's rights (to do sth)** = có quyền làm vậy (về mặt luật), dù có thể không hay. Luôn dùng số nhiều **rights**.",
+     "**be within your rights (to do something)** = legally allowed, though maybe not nice. Always plural **rights**."
+    ],
+    "f": [
+     "within his rights",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I wouldn't have minded so much if he'd at least apologised, but he acted as though it was me who were in the wrong all along.",
+    "a": [
+     "I wouldn't have minded so much if he'd at least apologised, but he acted as though it was me who was in the wrong all along.",
+     "I wouldn't have minded so much if he'd at least apologised, but he acted as though it was I who was in the wrong all along.",
+     "I wouldn't have minded so much if he'd at least apologised, but he acted as if it was me who was in the wrong all along."
+    ],
+    "e": [
+     "Câu chẻ **it was me who…**: động từ sau “who” chia theo ngôi thứ ba số ít trong văn nói → **who was**, không phải “who were”.",
+     "In the cleft **it was me who…**, the verb after “who” is singular in everyday English → **who was**, not “who were”."
+    ],
+    "f": [
+     "it was me who was in the wrong",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Dear Mr Hall,\nI am writing regarding the return of my deposit for the flat at 12 River Street, which I vacated on 30 June. According to clause 7 of our tenancy agreement, you are required to return the deposit within fourteen days unless there is damage beyond normal wear and tear. Six weeks have now passed, and I have yet to receive either the money or an explanation.\nI appreciate that you may have been busy, and I would prefer to resolve this matter amicably. However, I must point out that under no circumstances does the agreement entitle you to deduct cleaning costs, as the flat was professionally cleaned before I left; I have attached the receipt and photographs taken on the day.\nI would therefore be grateful if you could transfer the full amount by 15 August. Should I not hear from you by then, I will have no choice but to refer the matter to the deposit protection scheme.\nI look forward to your prompt reply.\nYours sincerely,\nLan Nguyen",
+   "tr": "Kính gửi ông Hall,\nTôi viết thư này liên quan đến việc hoàn trả tiền đặt cọc cho căn hộ ở số 12 phố River mà tôi đã trả lại vào ngày 30 tháng 6. Theo điều 7 của hợp đồng thuê nhà giữa chúng ta, ông có nghĩa vụ hoàn trả tiền cọc trong vòng mười bốn ngày, trừ khi có hư hại vượt quá mức hao mòn thông thường. Đến nay đã sáu tuần trôi qua, và tôi vẫn chưa nhận được tiền hay lời giải thích nào.\nTôi hiểu rằng có thể ông đã bận, và tôi muốn giải quyết việc này một cách êm thấm. Tuy nhiên, tôi buộc phải lưu ý rằng hợp đồng tuyệt đối không cho phép ông khấu trừ chi phí dọn dẹp, vì căn hộ đã được dọn dẹp chuyên nghiệp trước khi tôi rời đi; tôi đã đính kèm hóa đơn và ảnh chụp vào ngày hôm đó.\nVì vậy, tôi rất mong ông chuyển toàn bộ số tiền trước ngày 15 tháng 8. Nếu đến lúc đó tôi không nhận được hồi âm, tôi sẽ buộc phải chuyển vụ việc lên cơ quan bảo vệ tiền đặt cọc.\nTôi mong sớm nhận được phản hồi của ông.\nTrân trọng,\nNguyễn Lan"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Theo hợp đồng, lẽ ra tiền cọc phải được trả trong bao lâu?",
+     "According to the agreement, when should the deposit have been returned?"
+    ],
+    "o": [
+     [
+      "Trong vòng 14 ngày",
+      "Within fourteen days"
+     ],
+     [
+      "Trong vòng 6 tuần",
+      "Within six weeks"
+     ],
+     [
+      "Trước ngày 15 tháng 8",
+      "By 15 August"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Điều 7 quy định “within fourteen days”. “Six weeks” là thời gian đã trôi qua; “15 August” là hạn chót Lan tự đặt ra.",
+     "Clause 7 says “within fourteen days”. “Six weeks” is how long has passed; “15 August” is Lan's own deadline."
+    ],
+    "f": [
+     "you are required to return the deposit within fourteen days",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “I would prefer to resolve this matter amicably” ngụ ý điều gì?",
+     "What does “I would prefer to resolve this matter amicably” imply?"
+    ],
+    "o": [
+     [
+      "Lan muốn tránh tranh chấp nhưng sẵn sàng làm căng nếu cần",
+      "Lan wants to avoid a dispute but is ready to escalate if necessary"
+     ],
+     [
+      "Lan chấp nhận mất tiền cọc",
+      "Lan accepts losing the deposit"
+     ],
+     [
+      "Lan và ông Hall là bạn thân",
+      "Lan and Mr Hall are close friends"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“prefer” hàm ý còn phương án khác (kém êm thấm hơn) – được nói rõ ở cuối thư: “I will have no choice but to refer the matter…”. Đây là lời cảnh báo lịch sự.",
+     "“prefer” implies another, less friendly option – made explicit later: “I will have no choice but to refer the matter…”. It is a polite warning."
+    ],
+    "f": [
+     "I would prefer to resolve this matter amicably",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Lan sẽ làm gì nếu không nhận được hồi âm trước 15/8?",
+     "What will Lan do if she gets no reply by 15 August?"
+    ],
+    "o": [
+     [
+      "Chuyển vụ việc lên cơ quan bảo vệ tiền đặt cọc",
+      "Refer the matter to the deposit protection scheme"
+     ],
+     [
+      "Tự trừ tiền thuê tháng sau",
+      "Deduct it from next month's rent"
+     ],
+     [
+      "Đăng ảnh căn hộ lên mạng",
+      "Post photos of the flat online"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Should I not hear from you by then” (= If I don't hear…) → “refer the matter to the deposit protection scheme”.",
+     "“Should I not hear from you by then” (= If I don't hear…) → “refer the matter to the deposit protection scheme”."
+    ],
+    "f": [
+     "refer the matter to the deposit protection scheme",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "As a full-time employee, you are ___ to twenty days of paid leave a year in addition to public holidays, so don't let your manager persuade you otherwise.",
+    "o": [
+     "entitled",
+     "allowed",
+     "permitted"
+    ],
+    "a": 0,
+    "e": [
+     "**entitled to + danh từ** = có QUYỀN hưởng (theo luật/hợp đồng). “allowed/permitted” = được phép, thường đi với **to + V** và không mang nghĩa quyền lợi.",
+     "**entitled to + noun** = have a RIGHT to it. “allowed/permitted” mean given permission, usually **to + verb**, and don't express a legal right."
+    ],
+    "f": [
+     "entitled to twenty days of paid leave",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "In a formal letter of complaint, you would write: “I would be grateful if you could ___ this matter at your earliest convenience, as the delay is causing considerable inconvenience.”",
+    "o": [
+     "address",
+     "sort out",
+     "get round to"
+    ],
+    "a": 0,
+    "e": [
+     "Văn phong trang trọng cần **address** (= giải quyết). “sort out” và “get round to” là cụm động từ thân mật, lệch giọng với “at your earliest convenience”.",
+     "Formal register needs **address**. “sort out” and “get round to” are informal phrasal verbs that clash with “at your earliest convenience”."
+    ],
+    "f": [
+     "address this matter",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Not only ___ the company fail to pay the workers on time, but it also refused to give them written contracts or any proof of employment.",
+    "a": [
+     "did"
+    ],
+    "e": [
+     "Đảo ngữ sau **Not only** ở quá khứ đơn: **Not only did + S + V** (fail, không phải failed).",
+     "Inversion after **Not only** in the past simple: **Not only did + subject + base verb** (fail, not failed)."
+    ],
+    "f": [
+     "Not only did the company fail",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Under the tenancy agreement, the landlord is liable to repairing the boiler, so you shouldn't have to pay for it yourself, whatever he claims in his emails.",
+    "a": [
+     "Under the tenancy agreement, the landlord is liable for repairing the boiler, so you shouldn't have to pay for it yourself, whatever he claims in his emails.",
+     "Under the tenancy agreement, the landlord is responsible for repairing the boiler, so you shouldn't have to pay for it yourself, whatever he claims in his emails."
+    ],
+    "e": [
+     "**liable for + V-ing/danh từ** = chịu trách nhiệm pháp lý. **liable to + V** lại nghĩa là “có khả năng xảy ra” (The roof is liable to leak).",
+     "**liable for + -ing/noun** = legally responsible. **liable to + verb** means “likely to” (The roof is liable to leak)."
+    ],
+    "f": [
+     "liable for repairing",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be a complete rip-off, as the sign was hidden behind a tree.",
+    "a": [
+     "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be entirely unjustified, as the sign was hidden behind a tree.",
+     "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be completely unjustified, as the sign was hidden behind a tree.",
+     "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be unjustified, as the sign was hidden behind a tree.",
+     "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be unfair, as the sign was hidden behind a tree.",
+     "Dear Sir or Madam, I am writing to complain about the parking fine I received last week, which I consider to be entirely unfair, as the sign was hidden behind a tree."
+    ],
+    "e": [
+     "Lỗi văn phong: **rip-off** (lừa đảo, “chặt chém”) là tiếng lóng, không hợp thư trang trọng. Dùng **unjustified / unfair**.",
+     "A register error: **rip-off** is slang and wrong in a formal letter. Use **unjustified / unfair**."
+    ],
+    "f": [
+     "entirely unjustified",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi hiểu rằng anh rất bận, nhưng tôi buộc phải lưu ý rằng theo hợp đồng, anh có nghĩa vụ sửa chữa trong vòng bảy ngày.",
+    "a": [
+     "I appreciate that you are very busy, but I must point out that, under the contract, you are obliged to carry out repairs within seven days.",
+     "I appreciate that you are very busy, but I must point out that under the contract you are required to carry out repairs within seven days.",
+     "I understand that you are very busy, but I must point out that, according to the contract, you are obliged to make repairs within seven days.",
+     "I appreciate that you're very busy, but I must point out that, under the contract, you are required to do the repairs within seven days."
+    ],
+    "e": [
+     "“Tôi hiểu rằng” trong lời phản đối lịch sự = **I appreciate that** (không phải “I appreciate you”). “có nghĩa vụ” = **be obliged / required to**.",
+     "In polite disagreement, “Tôi hiểu rằng” = **I appreciate that**. “có nghĩa vụ” = **be obliged / required to**."
+    ],
+    "f": [
+     "I must point out that",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Người thuê nhà có quyền được biết lý do vì sao tiền đặt cọc của họ bị khấu trừ, và có thể khiếu nại nếu họ thấy điều đó không công bằng.",
+    "a": [
+     "Tenants are entitled to know why money has been deducted from their deposit, and they can complain if they feel it is unfair.",
+     "Tenants are entitled to know why their deposit has been reduced, and they can make a complaint if they feel it is unfair.",
+     "Tenants are entitled to know why money has been deducted from their deposit and may complain if they think it is unfair.",
+     "Tenants have the right to know why money has been deducted from their deposit, and they can complain if they feel this is unfair."
+    ],
+    "e": [
+     "“có quyền” = **be entitled to / have the right to**. “bị khấu trừ” = **be deducted from** (bị động, khấu trừ TỪ tiền cọc).",
+     "“có quyền” = **be entitled to / have the right to**. “bị khấu trừ” = **be deducted from** (passive, deducted FROM the deposit)."
+    ],
+    "f": [
+     "are entitled to know",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu đe dọa thân mật thành văn phong trang trọng, bắt đầu bằng “Should you…”.",
+     "Rewrite the informal threat in formal register, starting with “Should you…”."
+    ],
+    "s": "If you don't pay me back by Friday, I'll take you to court.",
+    "a": [
+     "Should you fail to repay the amount by Friday, I will have no choice but to take legal action.",
+     "Should you not repay the amount by Friday, I will have no choice but to take legal action.",
+     "Should you fail to repay the money by Friday, I will have no choice but to take legal action.",
+     "Should you fail to repay me by Friday, I will have no choice but to take legal action."
+    ],
+    "e": [
+     "**Should you fail to + V** = If you don't (trang trọng). “take you to court” → **take legal action**; thêm **I will have no choice but to** để nghe bắt buộc chứ không hung hăng.",
+     "**Should you fail to + verb** = If you don't (formal). “take you to court” → **take legal action**; **I will have no choice but to** sounds necessary rather than aggressive."
+    ],
+    "f": [
+     "Should you fail to repay",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Under no circumstances|should you sign|a contract|that you have not|read carefully,|including|the small print|at the bottom.",
+    "m": [
+     "Tuyệt đối không bao giờ ký một hợp đồng mà bạn chưa đọc kỹ, kể cả những điều khoản in nhỏ ở cuối.",
+     "Under no circumstances should you sign a contract that you have not read carefully, including the small print at the bottom."
+    ],
+    "e": [
+     "**Under no circumstances** + đảo ngữ (**should you** sign). “the small print” = điều khoản in nhỏ, thường chứa điều bất lợi.",
+     "**Under no circumstances** + inversion (**should you** sign). “the small print” = easy-to-miss conditions."
+    ],
+    "f": [
+     "Under no circumstances should you sign",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email trang trọng (130–160 từ) gửi công ty/chủ nhà để đòi một quyền lợi (hoàn tiền, sửa chữa, lương làm thêm): lịch sự – có căn cứ – cứng rắn – có hạn chót.",
+     "Write a formal email (130–160 words) to a company or landlord claiming a right (refund, repair, overtime pay): polite – with grounds – firm – with a deadline."
+    ],
+    "m": "Dear Customer Services,\nI am writing regarding order no. 4471, a washing machine delivered on 3 March, which stopped working after only two weeks. According to your terms and conditions, customers are entitled to a full refund or a replacement if a product develops a fault within thirty days of delivery.\nI appreciate that faults can occasionally occur, and I would prefer to resolve this matter amicably. However, I must point out that I have already contacted your helpline twice and have yet to receive a response. I have attached photographs of the error message and a copy of the receipt.\nI would therefore be grateful if you could arrange for the machine to be collected and refund the full amount by 30 March. Should I not hear from you by then, I will have no choice but to refer the matter to the relevant consumer protection authority.\nYours faithfully,\nPham Minh",
+    "e": [
+     "Cần có: mở đầu nêu lý do (I am writing regarding…); căn cứ (According to… / be entitled to); câu giảm nhẹ + however; yêu cầu cụ thể có hạn chót; câu đảo ngữ “Should I not…” và kết thư trang trọng.",
+     "Include: an opening stating the reason (I am writing regarding…); grounds (According to… / be entitled to); a softener + however; a specific request with a deadline; an inverted “Should I not…” and a formal closing."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d30",
+  "g": "work",
+  "t": [
+   "Toàn cầu hoá & kinh tế",
+   "Globalisation & the economy"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Từ nối nguyên nhân/kết quả & đối lập theo văn phong**\n• Nguyên nhân + danh từ: **owing to / due to / as a result of** (trang trọng) – **because of** (trung tính) – **thanks to** (thường mang nghĩa tích cực, hoặc mỉa mai).\n• Kết quả: **consequently / as a consequence** (trang trọng); **thereby + V-ing**: The firm cut prices, **thereby attracting** new customers.\n• Đối lập: **whereas** (so sánh hai vế), **despite / in spite of + danh từ/V-ing**, **although + mệnh đề**.\n• Danh từ hoá (văn phong học thuật): *The company expanded rapidly* → **The company's rapid expansion** resulted in…",
+    "**Grammar 1 – Cause/effect & contrast linkers by register**\n• Cause + noun: **owing to / due to / as a result of** (formal) – **because of** (neutral) – **thanks to** (usually positive, or ironic).\n• Result: **consequently / as a consequence** (formal); **thereby + -ing**: The firm cut prices, **thereby attracting** new customers.\n• Contrast: **whereas** (comparing two sides), **despite / in spite of + noun/-ing**, **although + clause**.\n• Nominalisation (formal style): *The company expanded rapidly* → **The company's rapid expansion** resulted in…"
+   ],
+   [
+    "**Tranh luận & thuyết phục (ngữ dụng)**\n• Nhượng bộ rồi phản bác: **I take your point, but surely…** / **Agreed – in principle. In practice, however, …**\n• Phản đối lịch sự: **With respect, that's only half the picture.** (ngụ ý: anh nói đúng một phần nhưng thiếu)\n• Câu hỏi tu từ: **Isn't that worth defending?** (không cần trả lời – để thuyết phục).\n• Thành ngữ: **a double-edged sword** (con dao hai lưỡi), **a level playing field** (sân chơi bình đẳng), **the bottom line** (điều cốt lõi), **turn your back on** (quay lưng với).\n• Gần nghĩa: **economic** (thuộc kinh tế) / **economical** (tiết kiệm) / **economics** (môn kinh tế học); **rise** (tự tăng) / **raise** (làm tăng); **affect** (động từ) / **effect** (danh từ).",
+    "**Debating & persuading (pragmatics)**\n• Concede, then counter: **I take your point, but surely…** / **Agreed – in principle. In practice, however, …**\n• Polite disagreement: **With respect, that's only half the picture.** (implied: you're partly right but incomplete)\n• Rhetorical question: **Isn't that worth defending?** (no answer expected – it persuades).\n• Idioms: **a double-edged sword**, **a level playing field**, **the bottom line**, **turn your back on**.\n• Near-synonyms: **economic** (about the economy) / **economical** (saving money) / **economics** (the subject); **rise** (go up) / **raise** (make go up); **affect** (verb) / **effect** (noun)."
+   ],
+   [
+    "**Phát âm – Trọng âm & ngữ điệu tranh luận**\n• e**CON**omy – eco**NOM**ic – e**CON**omist; **GLO**bal – globali**SA**tion; multi**NA**tional.\n• Liệt kê: lên giọng ở các mục trước, xuống giọng ở mục cuối: jobs ↗, investment ↗ and cheaper goods ↘.\n• Nhấn tương phản: In **PRIN**ciple, yes. In **PRAC**tice, no.\n• Câu hỏi tu từ xuống giọng ở cuối (khác câu hỏi thật).",
+    "**Pronunciation – Stress & debating intonation**\n• e**CON**omy – eco**NOM**ic – e**CON**omist; **GLO**bal – globali**SA**tion; multi**NA**tional.\n• Lists: rise on the earlier items, fall on the last: jobs ↗, investment ↗ and cheaper goods ↘.\n• Contrastive stress: In **PRIN**ciple, yes. In **PRAC**tice, no.\n• Rhetorical questions fall at the end (unlike real questions)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (30 phút): nghe 1 đoạn tranh luận/podcast kinh tế, ghi lại các câu nhượng bộ – phản bác (I take your point, but…).\n• Nói (30 phút): tự tranh luận 2 phút ủng hộ rồi 2 phút phản đối “Mua hàng nội tốt hơn hàng ngoại”.\n• Đọc (30 phút): đọc 1 bài báo kinh tế, gạch chân từ nối nguyên nhân – kết quả và cụm danh từ hoá.\n• Viết (40 phút): viết bài phát biểu mở đầu 150–180 từ cho một cuộc tranh luận, dùng 1 câu hỏi tu từ và 2 thành ngữ.\n• Từ vựng (15 phút): học cặp dễ nhầm: economic/economical, rise/raise, affect/effect, cheap/affordable.",
+    "**Practice outside the app**\n• Listening (30 min): listen to a debate or economics podcast and note concede-and-counter phrases (I take your point, but…).\n• Speaking (30 min): argue for 2 minutes for, then 2 minutes against “Buying local is better than buying imported goods”.\n• Reading (30 min): read an economics article and underline cause/effect linkers and nominalisations.\n• Writing (40 min): write a 150–180-word opening statement for a debate using one rhetorical question and two idioms.\n• Vocabulary (15 min): learn confusing pairs: economic/economical, rise/raise, affect/effect, cheap/affordable."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "I take your point, but surely…",
+    "Tôi hiểu ý anh, nhưng chẳng lẽ…"
+   ],
+   [
+    "With respect, that's only half the picture.",
+    "Xin phép nói thẳng, đó mới chỉ là một nửa bức tranh."
+   ],
+   [
+    "Agreed – in principle. In practice, however, …",
+    "Đồng ý – về lý thuyết. Còn trên thực tế thì…"
+   ],
+   [
+    "Globalisation is a double-edged sword.",
+    "Toàn cầu hoá là con dao hai lưỡi."
+   ],
+   [
+    "We need a level playing field.",
+    "Chúng ta cần một sân chơi bình đẳng."
+   ],
+   [
+    "The bottom line is that…",
+    "Điều cốt lõi là…"
+   ],
+   [
+    "Owing to rising costs, …",
+    "Do chi phí tăng, …"
+   ]
+  ],
+  "vo": [
+   [
+    "globalisation",
+    "/ˌɡloʊ.bəl.əˈzeɪ.ʃən/",
+    "toàn cầu hoá",
+    "the growing connection of world economies"
+   ],
+   [
+    "multinational",
+    "/ˌmʌl.t̬iˈnæʃ.ən.əl/",
+    "(công ty) đa quốc gia",
+    "a company operating in many countries"
+   ],
+   [
+    "export",
+    "/ˈek.spɔːrt/",
+    "xuất khẩu",
+    "sell goods to another country"
+   ],
+   [
+    "outsource",
+    "/ˈaʊt.sɔːrs/",
+    "thuê ngoài",
+    "pay another company to do part of your work"
+   ],
+   [
+    "supply chain",
+    "/səˈplaɪ tʃeɪn/",
+    "chuỗi cung ứng",
+    "the steps of producing and delivering goods"
+   ],
+   [
+    "tariff",
+    "/ˈter.ɪf/",
+    "thuế quan",
+    "a tax on imported goods"
+   ],
+   [
+    "competition",
+    "/ˌkɑːm.pəˈtɪʃ.ən/",
+    "sự cạnh tranh",
+    "rivalry between businesses"
+   ],
+   [
+    "a double-edged sword",
+    "/ə ˌdʌb.əl edʒd ˈsɔːrd/",
+    "con dao hai lưỡi",
+    "something with both good and bad effects"
+   ],
+   [
+    "a level playing field",
+    "/ə ˌlev.əl ˈpleɪ.ɪŋ fiːld/",
+    "sân chơi bình đẳng",
+    "a situation fair to everyone"
+   ],
+   [
+    "the bottom line",
+    "/ðə ˌbɑː.t̬əm ˈlaɪn/",
+    "điều cốt lõi; lợi nhuận ròng",
+    "the most important fact; final profit"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "I take your point about cheaper products, but surely we also need to ask who is paying the real price for them.",
+    "q": [
+     "Người nói đang làm gì?",
+     "What is the speaker doing?"
+    ],
+    "o": [
+     [
+      "Thừa nhận một phần rồi phản bác",
+      "Partly accepting a point, then challenging it"
+     ],
+     [
+      "Hoàn toàn đồng ý",
+      "Agreeing completely"
+     ],
+     [
+      "Đổi sang chủ đề khác",
+      "Changing the subject"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "**I take your point** = thừa nhận; **but surely** mở ra lời phản bác. “who is paying the real price” ngụ ý người lao động chịu thiệt.",
+     "**I take your point** concedes; **but surely** introduces the challenge. “who is paying the real price” implies workers suffer."
+    ],
+    "f": [
+     "I take your point… but surely",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Owing to rising labour costs, the company has decided to move part of its production overseas.",
+    "e": [
+     "**Owing to** + danh từ (trang trọng). Chú ý chính tả “labour” (Anh-Anh) và “overseas”.",
+     "**Owing to** + noun (formal). Note the spelling “labour” (British) and “overseas”."
+    ],
+    "f": [
+     "Owing to rising labour costs",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Globalisation is a double-edged sword: it has created millions of jobs, yet it has also widened the gap between rich and poor.",
+    "e": [
+     "Ngắt nhịp sau “sword”; nhấn tương phản “CREated” – “WIDened”. globali**SA**tion.",
+     "Pause after “sword”; contrastive stress on “CREated” – “WIDened”. globali**SA**tion."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Can we really call it progress if the people who make our clothes can't afford to feed their own families?",
+    "e": [
+     "Câu hỏi tu từ: xuống giọng ở cuối, nhấn “REALly” và “PROgress” để thuyết phục.",
+     "A rhetorical question: fall at the end, stress “REALly” and “PROgress” to persuade."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Dạo này giá cả tăng chóng mặt mà lương thì vẫn giậm chân tại chỗ – sống ở thành phố ngày càng chật vật.",
+    "a": [
+     "Prices have been going through the roof lately, but wages haven't moved – it's getting harder and harder to make ends meet in the city.",
+     "Prices have gone through the roof recently, but wages have stayed the same – it's getting harder and harder to make ends meet in the city.",
+     "Prices have been going through the roof lately while wages have stood still – it's getting harder and harder to make ends meet in the city.",
+     "Prices have been skyrocketing lately, but wages haven't budged – it's becoming harder and harder to make ends meet in the city."
+    ],
+    "e": [
+     "“tăng chóng mặt” = **go through the roof / skyrocket**; “chật vật xoay xở” = **make ends meet** – hai thành ngữ rất hay dùng khi than chuyện tiền bạc.",
+     "“tăng chóng mặt” = **go through the roof / skyrocket**; “struggle financially” = **(hard to) make ends meet** – common idioms when chatting about money."
+    ],
+    "f": [
+     "make ends meet",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho thận trọng, bớt khẳng định: dùng “It could be argued that” và “to some extent”.",
+     "Rewrite more cautiously: use “It could be argued that” and “to some extent”."
+    ],
+    "s": "Online shopping is killing local shops.",
+    "a": [
+     "It could be argued that online shopping is, to some extent, killing local shops.",
+     "It could be argued that, to some extent, online shopping is killing local shops.",
+     "It could be argued that online shopping is killing local shops to some extent.",
+     "It could be argued that online shopping is, to some extent, putting local shops out of business."
+    ],
+    "e": [
+     "Rào đón (hedging): **It could be argued that** + **to some extent** làm ý kiến mềm, khó bị bắt bẻ – rất cần khi tranh luận với người lạ hoặc sếp.",
+     "Hedging with **It could be argued that** + **to some extent** makes a claim softer and harder to attack – useful with strangers or your boss."
+    ],
+    "f": [
+     "It could be argued that… to some extent",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Honestly, buying the cheapest phone I could find was a false ___ – it broke after three months and I had to buy another one anyway.",
+    "a": [
+     "economy"
+    ],
+    "e": [
+     "**a false economy** = tưởng tiết kiệm mà hóa ra tốn hơn. Thành ngữ cố định với **economy** (không phải economic).",
+     "**a false economy** = something that seems to save money but costs more in the end. Fixed with **economy**."
+    ],
+    "f": [
+     "a false economy",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "It's not that I'm against globalisation as such; it's more than I think the benefits should be shared a lot more fairly.",
+    "a": [
+     "It's not that I'm against globalisation as such; it's more that I think the benefits should be shared a lot more fairly.",
+     "It's not that I'm against globalization as such; it's more that I think the benefits should be shared a lot more fairly."
+    ],
+    "e": [
+     "Cặp cố định **It's not that…; it's (more) that…** dùng để chỉnh lại cách người khác hiểu ý mình. Phải là **that**, không phải “than”.",
+     "The pair **It's not that…; it's (more) that…** corrects how someone has understood you. It must be **that**, not “than”."
+    ],
+    "f": [
+     "it's more that",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Moderator: Tonight's motion is that globalisation has done more harm than good to local businesses. Mai, you're opposing it.\nMai: Thank you. Let's be honest: without global trade, the coffee farmers in my home province would still be selling only to local traders at whatever price they were offered. Today, thanks to export contracts, many of them earn a far more stable income. Isn't that worth defending?\nTom: With respect, that's only half the picture. Globalisation is a double-edged sword. Owing to fierce competition from multinational chains, countless family-run shops have been forced to close, and the jobs that replace them are often insecure and poorly paid.\nMai: I take your point, but surely the answer is to create a level playing field, not to turn our backs on trade altogether.\nTom: Agreed – in principle. In practice, however, small firms rarely have the resources to compete, whereas large corporations can cut costs by moving production wherever labour is cheapest. The bottom line is that the benefits have not been shared fairly.",
+   "tr": "Người điều phối: Kiến nghị tối nay là toàn cầu hoá gây hại nhiều hơn lợi cho doanh nghiệp địa phương. Mai, bạn ở phe phản đối.\nMai: Cảm ơn. Thẳng thắn mà nói: nếu không có thương mại toàn cầu, nông dân trồng cà phê ở tỉnh tôi vẫn chỉ bán cho thương lái địa phương với bất cứ giá nào họ được trả. Ngày nay, nhờ các hợp đồng xuất khẩu, nhiều người có thu nhập ổn định hơn hẳn. Chẳng phải điều đó đáng để bảo vệ sao?\nTom: Xin phép nói thẳng, đó mới là một nửa bức tranh. Toàn cầu hoá là con dao hai lưỡi. Do sự cạnh tranh khốc liệt từ các chuỗi đa quốc gia, vô số cửa hàng gia đình đã buộc phải đóng cửa, và những công việc thay thế thường bấp bênh và lương thấp.\nMai: Tôi hiểu ý anh, nhưng chẳng lẽ giải pháp không phải là tạo ra một sân chơi bình đẳng, thay vì quay lưng hoàn toàn với thương mại?\nTom: Đồng ý – về nguyên tắc. Tuy nhiên trên thực tế, các công ty nhỏ hiếm khi có đủ nguồn lực để cạnh tranh, trong khi các tập đoàn lớn có thể cắt giảm chi phí bằng cách chuyển sản xuất đến bất cứ nơi nào nhân công rẻ nhất. Điều cốt lõi là lợi ích chưa được chia sẻ công bằng."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Theo Mai, thương mại toàn cầu đã giúp nông dân trồng cà phê thế nào?",
+     "According to Mai, how has global trade helped coffee farmers?"
+    ],
+    "o": [
+     [
+      "Nhờ hợp đồng xuất khẩu, thu nhập ổn định hơn",
+      "Export contracts give them a more stable income"
+     ],
+     [
+      "Họ được bán giá cao cho thương lái địa phương",
+      "They sell at high prices to local traders"
+     ],
+     [
+      "Họ chuyển sang mở cửa hàng gia đình",
+      "They opened family-run shops instead"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“thanks to export contracts, many of them earn a far more stable income”. Bán cho thương lái là tình trạng NẾU KHÔNG có thương mại toàn cầu.",
+     "“thanks to export contracts, many of them earn a far more stable income”. Selling to local traders is what would happen WITHOUT global trade."
+    ],
+    "f": [
+     "thanks to export contracts",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tom có ý gì khi nói “that's only half the picture”?",
+     "What does Tom mean by “that's only half the picture”?"
+    ],
+    "o": [
+     [
+      "Lập luận của Mai đúng nhưng chưa đầy đủ",
+      "Mai's argument is true but incomplete"
+     ],
+     [
+      "Mai hoàn toàn sai",
+      "Mai is completely wrong"
+     ],
+     [
+      "Anh muốn xem ảnh của trang trại",
+      "He wants to see photos of the farms"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“only half the picture” = mới thấy một mặt của vấn đề. Mở đầu bằng “With respect” để phản đối lịch sự, không phủ nhận hoàn toàn.",
+     "“only half the picture” = only one side of the issue. “With respect” makes the disagreement polite rather than a total rejection."
+    ],
+    "f": [
+     "that's only half the picture",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu “Agreed – in principle” của Tom cho thấy điều gì?",
+     "What does Tom's “Agreed – in principle” show?"
+    ],
+    "o": [
+     [
+      "Đồng ý về lý thuyết nhưng nghi ngờ tính khả thi trên thực tế",
+      "He accepts the idea in theory but doubts it works in practice"
+     ],
+     [
+      "Anh đã đổi phe",
+      "He has changed sides"
+     ],
+     [
+      "Anh hoàn toàn ủng hộ thương mại tự do",
+      "He fully supports free trade"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“in principle” luôn báo hiệu một chữ “nhưng” sắp tới: “In practice, however, small firms rarely have the resources…”.",
+     "“in principle” signals a coming “but”: “In practice, however, small firms rarely have the resources…”."
+    ],
+    "f": [
+     "Agreed – in principle. In practice, however",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Switching the whole office to solar power turned out to be far more ___ than we had expected, and our electricity bills fell by almost forty percent in the first year.",
+    "o": [
+     "economical",
+     "economic",
+     "economics"
+    ],
+    "a": 0,
+    "e": [
+     "**economical** = tiết kiệm (chi phí). **economic** = thuộc về kinh tế (economic growth); **economics** = môn kinh tế học.",
+     "**economical** = saving money. **economic** = relating to the economy (economic growth); **economics** = the academic subject."
+    ],
+    "f": [
+     "far more economical",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "In its annual report, the board explained that profits had fallen sharply ___ the steep rise in shipping costs and the weakness of the local currency.",
+    "o": [
+     "owing to",
+     "because",
+     "thanks to"
+    ],
+    "a": 0,
+    "e": [
+     "**owing to + cụm danh từ**, văn phong trang trọng hợp báo cáo. “because” cần mệnh đề (because of mới đi với danh từ); “thanks to” mang sắc thái tích cực, nghe mỉa mai ở đây.",
+     "**owing to + noun phrase** suits a formal report. “because” needs a clause (because of + noun); “thanks to” is positive and would sound ironic here."
+    ],
+    "f": [
+     "owing to the steep rise",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "The ___ (relocate) of the factory to central Vietnam created around two thousand jobs, although many of them turned out to be seasonal and poorly paid.",
+    "a": [
+     "relocation"
+    ],
+    "e": [
+     "Danh từ hoá: relocate → **relocation**. Cụm “The relocation of the factory” là kiểu văn phong báo chí/kinh tế điển hình.",
+     "Nominalisation: relocate → **relocation**. “The relocation of the factory” is typical of business and news writing."
+    ],
+    "f": [
+     "The relocation of the factory",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Rising fuel prices have had a huge affect on small transport companies, many of which are now struggling to survive the winter.",
+    "a": [
+     "Rising fuel prices have had a huge effect on small transport companies, many of which are now struggling to survive the winter.",
+     "Rising fuel prices have had a huge impact on small transport companies, many of which are now struggling to survive the winter."
+    ],
+    "e": [
+     "Sau “a huge” cần danh từ → **effect** (have an effect on). **affect** là động từ: Prices affect companies.",
+     "After “a huge” you need a noun → **effect** (have an effect on). **affect** is the verb: Prices affect companies."
+    ],
+    "f": [
+     "a huge effect on",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "The government has decided to rise import tariffs on steel, which will inevitably push up prices for local manufacturers and, eventually, consumers.",
+    "a": [
+     "The government has decided to raise import tariffs on steel, which will inevitably push up prices for local manufacturers and, eventually, consumers."
+    ],
+    "e": [
+     "Cần ngoại động từ có tân ngữ (tariffs) → **raise** (làm tăng). **rise** là nội động từ: Tariffs rise.",
+     "You need a transitive verb with an object (tariffs) → **raise**. **rise** is intransitive: Tariffs rise."
+    ],
+    "f": [
+     "raise import tariffs",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Toàn cầu hóa là con dao hai lưỡi: nó tạo ra nhiều việc làm nhưng cũng khiến các doanh nghiệp nhỏ khó cạnh tranh hơn với các tập đoàn lớn.",
+    "a": [
+     "Globalisation is a double-edged sword: it creates many jobs, but it also makes it harder for small businesses to compete with large corporations.",
+     "Globalization is a double-edged sword: it creates a lot of jobs, but it also makes it harder for small businesses to compete with big corporations.",
+     "Globalisation is a double-edged sword: it has created many jobs, but it has also made it harder for small businesses to compete with large corporations.",
+     "Globalisation is a double-edged sword: while it creates many jobs, it also makes it more difficult for small businesses to compete with large corporations."
+    ],
+    "e": [
+     "“con dao hai lưỡi” = **a double-edged sword**. “khiến … khó … hơn” = **make it harder for sb to + V** (cần “it” giả).",
+     "“con dao hai lưỡi” = **a double-edged sword**. “make … harder” = **make it harder for someone to + verb** (dummy “it” needed)."
+    ],
+    "f": [
+     "a double-edged sword",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi hiểu ý anh, nhưng chẳng lẽ giải pháp lại là đóng cửa hoàn toàn với thương mại quốc tế hay sao?",
+    "a": [
+     "I take your point, but surely the solution isn't to close ourselves off from international trade completely?",
+     "I take your point, but surely the answer isn't to turn our backs on international trade altogether?",
+     "I see your point, but surely the solution isn't to cut ourselves off from international trade completely?",
+     "I take your point, but surely the answer can't be to close ourselves off completely from international trade?"
+    ],
+    "e": [
+     "**I take/see your point, but surely…?** – nhượng bộ rồi phản bác bằng câu hỏi tu từ. “chẳng lẽ… hay sao” = **surely… isn't…?**",
+     "**I take/see your point, but surely…?** – concede, then counter with a rhetorical question. “chẳng lẽ… hay sao” = **surely… isn't…?**"
+    ],
+    "f": [
+     "I take your point, but surely",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu theo văn phong trang trọng: bắt đầu bằng “The company's rapid expansion…” và dùng “resulted in”.",
+     "Rewrite in a formal style: start with “The company's rapid expansion…” and use “resulted in”."
+    ],
+    "s": "Because the company expanded rapidly into Asia, its profits doubled in just three years.",
+    "a": [
+     "The company's rapid expansion into Asia resulted in its profits doubling in just three years.",
+     "The company's rapid expansion into Asia resulted in a doubling of its profits in just three years.",
+     "The company's rapid expansion into Asia resulted in its profits doubling within just three years."
+    ],
+    "e": [
+     "Danh từ hoá: expanded rapidly → **rapid expansion**; **result in + danh từ / V-ing** (its profits doubling).",
+     "Nominalisation: expanded rapidly → **rapid expansion**; **result in + noun / -ing** (its profits doubling)."
+    ],
+    "f": [
+     "The company's rapid expansion into Asia resulted in",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Whereas|large corporations|can afford|to move production|wherever labour is cheapest,|small firms|rarely have|the resources|to compete.",
+    "m": [
+     "Trong khi các tập đoàn lớn đủ khả năng chuyển sản xuất đến bất cứ nơi nào nhân công rẻ nhất, các công ty nhỏ hiếm khi có đủ nguồn lực để cạnh tranh.",
+     "Whereas large corporations can afford to move production wherever labour is cheapest, small firms rarely have the resources to compete."
+    ],
+    "e": [
+     "**Whereas** so sánh hai vế đối lập; “wherever” = bất cứ nơi nào; **afford to + V**.",
+     "**Whereas** contrasts two sides; “wherever” = to any place where; **afford to + verb**."
+    ],
+    "f": [
+     "Whereas large corporations can afford",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết bài phát biểu mở đầu (130–160 từ) ủng hộ HOẶC phản đối: “Mua hàng nội địa tốt hơn mua hàng nhập khẩu.” Dùng 1 câu hỏi tu từ, 2 thành ngữ và 1 câu nhượng bộ – phản bác.",
+     "Write an opening statement (130–160 words) for OR against: “Buying local is better than buying imported goods.” Use one rhetorical question, two idioms and one concede-and-counter sentence."
+    ],
+    "m": "Ladies and gentlemen, tonight I will argue that buying local is not just a nice idea but an economic necessity. Every time we choose a local product, the money stays in our community, supporting jobs, families and the small businesses that give our towns their character. Of course, imported goods are often cheaper. I take that point, but surely we have to ask what the real cost is. When local workshops close because they cannot compete with multinational giants, we lose skills that took generations to build. Globalisation may be a double-edged sword, yet at the moment one edge is clearly sharper than the other. Is a slightly cheaper T-shirt really worth an empty high street? The bottom line is simple: if we want a level playing field, we must start by valuing what is made on our own doorstep.",
+    "e": [
+     "Cần có: lập trường rõ ở câu đầu; ≥ 2 lý lẽ có từ nối nguyên nhân – kết quả; 1 câu nhượng bộ – phản bác (I take that point, but surely…); 1 câu hỏi tu từ; 2 thành ngữ; câu kết mạnh.",
+     "Include: a clear position in the first sentence; ≥ 2 arguments with cause/effect linkers; one concede-and-counter (I take that point, but surely…); one rhetorical question; two idioms; a strong conclusion."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d33",
+  "g": "society",
+  "t": [
+   "Thành ngữ & cách nói tự nhiên",
+   "Idioms & natural expressions"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Thành ngữ là “khối cố định”**\n• Không thay từ, không đổi số ít/nhiều, không thêm/bớt mạo từ: **a piece of cake** (KHÔNG “a slice of cake”), **jump to conclusions** (luôn số nhiều), **cut corners** (KHÔNG “cut the corners”).\n• Nhưng **động từ vẫn chia thì** và **đại từ thay đổi**: We **bit off** more than **we could** chew. / She's **gone the extra mile**. / Stop **beating around the bush**.\n• Nghĩa đen ≠ nghĩa thật: **under the weather** không phải “dưới thời tiết” mà = hơi ốm; **a blessing in disguise** = trong cái rủi có cái may.",
+    "**Grammar 1 – Idioms are “fixed blocks”**\n• Don't change the words, the singular/plural or the articles: **a piece of cake** (NOT “a slice of cake”), **jump to conclusions** (always plural), **cut corners** (NOT “cut the corners”).\n• But **verbs still change tense** and **pronouns change**: We **bit off** more than **we could** chew. / She's **gone the extra mile**. / Stop **beating around the bush**.\n• Literal ≠ real meaning: **under the weather** has nothing to do with the sky – it means slightly ill; **a blessing in disguise** = something bad that turns out to be good."
+   ],
+   [
+    "**Ngữ pháp 2 – Nghĩa đen vs hàm ý trong hội thoại thật**\n• “Can I **address the elephant in the room**?” = Tôi xin nói thẳng vấn đề ai cũng biết mà né tránh.\n• “It's **not really my cup of tea**.” = Tôi không thích lắm (cách từ chối mềm, không chê).\n• “Let's **call it a day**.” = Hôm nay dừng ở đây nhé.\n• So sánh 3 cách nói cùng một ý: “We tried to do too much.” (trung tính) → “We **bit off more than we could chew**.” (tự nhiên, thân mật) → “The project was **overly ambitious** in scope.” (trang trọng, văn bản).\n• Thành ngữ chủ yếu dùng khi **nói và viết thân mật/trung tính**; trong báo cáo, thư trang trọng nên hạn chế. Dùng 1–2 cái “đắt” hay hơn nhồi 6 cái vào một đoạn.",
+    "**Grammar 2 – Literal meaning vs implication in real conversation**\n• “Can I **address the elephant in the room**?” = Let me mention the obvious problem everyone is avoiding.\n• “It's **not really my cup of tea**.” = I don't like it much (a soft way to say no without criticising).\n• “Let's **call it a day**.” = Let's stop here for today.\n• The same idea in 3 styles: “We tried to do too much.” (neutral) → “We **bit off more than we could chew**.” (natural, informal) → “The project was **overly ambitious** in scope.” (formal, written).\n• Idioms belong mainly to **speech and informal/neutral writing**; use them sparingly in reports and formal letters. One or two well-chosen idioms beat six crammed into one paragraph."
+   ],
+   [
+    "**Thành ngữ tiếng Việt ↔ tiếng Anh (gần nghĩa, không dịch từng chữ)**\n• Một công đôi việc ↔ **kill two birds with one stone**\n• Nước đến chân mới nhảy ↔ **leave things to the last minute**\n• Trong cái rủi có cái may ↔ **a blessing in disguise**\n• Vẽ đường cho hươu chạy ↔ **give someone ideas**\n• Nói vòng vo tam quốc ↔ **beat around the bush**\n• Năm thì mười họa ↔ **once in a blue moon**\n• Chuyện cũ bỏ qua ↔ **let bygones be bygones**",
+    "**Vietnamese ↔ English idioms (close meaning, not word-for-word)**\n• Một công đôi việc ↔ **kill two birds with one stone**\n• Nước đến chân mới nhảy ↔ **leave things to the last minute**\n• Trong cái rủi có cái may ↔ **a blessing in disguise**\n• Vẽ đường cho hươu chạy ↔ **give someone ideas**\n• Nói vòng vo tam quốc ↔ **beat around the bush**\n• Năm thì mười họa ↔ **once in a blue moon**\n• Chuyện cũ bỏ qua ↔ **let bygones be bygones**"
+   ],
+   [
+    "**Phát âm – Đọc thành ngữ như MỘT cụm**\n• Nối âm, không ngắt giữa chừng: piece‿of cake /ˌpiːs‿əv ˈkeɪk/, cut‿corners, call‿it‿a day /ˌkɑːl‿ɪɾ‿ə ˈdeɪ/.\n• Trọng âm rơi vào **từ nội dung cuối**: under the **WEA**ther, once in a blue **MOON**, hit the nail on the **HEAD**.\n• Từ chức năng đọc yếu: of /əv/, the /ðə/, a /ə/ – nếu đọc rõ từng từ, thành ngữ nghe như đang “đọc sách”.",
+    "**Pronunciation – Say an idiom as ONE chunk**\n• Link the words, no pauses inside: piece‿of cake /ˌpiːs‿əv ˈkeɪk/, cut‿corners, call‿it‿a day /ˌkɑːl‿ɪɾ‿ə ˈdeɪ/.\n• The main stress falls on the **last content word**: under the **WEA**ther, once in a blue **MOON**, hit the nail on the **HEAD**.\n• Function words are weak: of /əv/, the /ðə/, a /ə/ – pronouncing every word fully makes an idiom sound “read from a book”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (25 phút): xem 1 tập sitcom/podcast đời thường, ghi lại 5 thành ngữ và đoán nghĩa từ ngữ cảnh trước khi tra.\n• Nói (20 phút): kể 2 phút về một sự kiện bạn từng tổ chức, dùng tự nhiên 3 thành ngữ (bit off more than…, a blessing in disguise, call it a day).\n• Đọc (20 phút): đọc 1 bài báo phong cách đời sống (lifestyle), gạch chân thành ngữ và phân loại: thân mật / trung tính.\n• Viết (30 phút): viết tin nhắn nhóm 120–150 từ rủ hàng xóm làm tình nguyện, dùng tối đa 4 thành ngữ.\n• Từ vựng (15 phút): làm thẻ “nghĩa đen ↔ nghĩa thật ↔ thành ngữ Việt tương đương” cho 10 thành ngữ của bài.",
+    "**Practice outside the app**\n• Listening (25 min): watch a sitcom episode or everyday podcast, note 5 idioms and guess their meaning from context before checking.\n• Speaking (20 min): talk for 2 minutes about an event you once organised, naturally using 3 idioms (bit off more than…, a blessing in disguise, call it a day).\n• Reading (20 min): read a lifestyle article, underline the idioms and label them informal / neutral.\n• Writing (30 min): write a 120–150-word group message inviting neighbours to volunteer, using no more than 4 idioms.\n• Vocabulary (15 min): make “literal ↔ real meaning ↔ Vietnamese equivalent” cards for the 10 idioms in this unit."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "Let's get the ball rolling.",
+    "Mình bắt đầu thôi."
+   ],
+   [
+    "Are we all on the same page?",
+    "Mọi người đã thống nhất/hiểu giống nhau chưa?"
+   ],
+   [
+    "Can I address the elephant in the room?",
+    "Cho tôi nói thẳng vấn đề mà ai cũng đang né nhé?"
+   ],
+   [
+    "You've hit the nail on the head.",
+    "Bạn nói trúng phóc rồi."
+   ],
+   [
+    "It turned out to be a blessing in disguise.",
+    "Hóa ra trong cái rủi có cái may."
+   ],
+   [
+    "It's not really my cup of tea.",
+    "Cái đó không hợp gu tôi lắm."
+   ],
+   [
+    "I'm a bit under the weather today.",
+    "Hôm nay tôi hơi mệt/ốm."
+   ],
+   [
+    "Shall we call it a day?",
+    "Hôm nay mình dừng ở đây nhé?"
+   ]
+  ],
+  "vo": [
+   [
+    "get the ball rolling",
+    "/ɡet ðə ˈbɑːl ˌroʊ.lɪŋ/",
+    "bắt đầu (một việc chung)",
+    "start an activity or process"
+   ],
+   [
+    "on the same page",
+    "/ɑːn ðə ˌseɪm ˈpeɪdʒ/",
+    "cùng quan điểm, hiểu giống nhau",
+    "agreeing or understanding things the same way"
+   ],
+   [
+    "the elephant in the room",
+    "/ðiː ˈel.ə.fənt ɪn ðə ˈruːm/",
+    "vấn đề hiển nhiên mà ai cũng né",
+    "an obvious problem nobody wants to mention"
+   ],
+   [
+    "bite off more than you can chew",
+    "/baɪt ˈɑːf mɔːr ðən juː kən ˈtʃuː/",
+    "ôm đồm quá sức",
+    "try to do more than you are able to"
+   ],
+   [
+    "hit the nail on the head",
+    "/hɪt ðə ˈneɪl ɑːn ðə ˈhed/",
+    "nói trúng vấn đề",
+    "describe a situation exactly right"
+   ],
+   [
+    "cut corners",
+    "/kʌt ˈkɔːr.nɚz/",
+    "làm ẩu, đi tắt để tiết kiệm",
+    "do something badly to save time or money"
+   ],
+   [
+    "a blessing in disguise",
+    "/ə ˈbles.ɪŋ ɪn dɪsˈɡaɪz/",
+    "trong cái rủi có cái may",
+    "something bad that turns out to be good"
+   ],
+   [
+    "go the extra mile",
+    "/ɡoʊ ðiː ˌek.strə ˈmaɪl/",
+    "cố gắng hơn mức cần thiết",
+    "make more effort than is expected"
+   ],
+   [
+    "under the weather",
+    "/ˌʌn.dɚ ðə ˈweð.ɚ/",
+    "hơi mệt, hơi ốm",
+    "slightly ill"
+   ],
+   [
+    "beat around the bush",
+    "/biːt əˌraʊnd ðə ˈbʊʃ/",
+    "nói vòng vo",
+    "avoid saying something directly"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Karaoke isn't really my cup of tea, but I went to the party anyway because my neighbours had gone the extra mile to organise it.",
+    "q": [
+     "Vì sao người nói vẫn đi dự tiệc?",
+     "Why did the speaker go to the party?"
+    ],
+    "o": [
+     [
+      "Vì hàng xóm đã rất cất công tổ chức",
+      "Because the neighbours had made a big effort to organise it"
+     ],
+     [
+      "Vì người nói rất thích hát karaoke",
+      "Because the speaker loves karaoke"
+     ],
+     [
+      "Vì bữa tiệc được tổ chức ngay gần nhà",
+      "Because the party was very close to home"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“not really my cup of tea” = không thích lắm, nên phương án 2 sai; lý do thật nằm ở “had gone the extra mile” = đã cố gắng hơn mức bình thường.",
+     "“not really my cup of tea” = I don't like it much, so option 2 is wrong; the real reason is “had gone the extra mile” = made a special effort."
+    ],
+    "f": [
+     "had gone the extra mile",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Let's not beat around the bush: we bit off more than we could chew last year, and we can't afford to make the same mistake again.",
+    "e": [
+     "Chú ý: **beat around the bush** (bush số ít), **bit off** (quá khứ của bite off), **could chew** (lùi thì theo bit).",
+     "Note: **beat around the bush** (singular bush), **bit off** (past of bite off), **could chew** (backshifted to match bit)."
+    ],
+    "f": [
+     "bit off more than we could chew",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Losing the sponsor turned out to be a blessing in disguise, because it forced us to keep the festival small, local and friendly.",
+    "e": [
+     "Đọc “a blessing in disguise” liền một hơi, nhấn **BLESS**ing và dis**GUISE**; liệt kê “small, local and friendly” lên giọng ở 2 từ đầu, xuống ở từ cuối.",
+     "Say “a blessing in disguise” as one chunk, stressing **BLESS**ing and dis**GUISE**; in the list, rise on the first two items and fall on the last."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Before we get the ball rolling, I just want to make sure that everyone is on the same page about the budget and the deadline.",
+    "e": [
+     "Nối âm get‿the ball, on‿the same page; nhấn **ROLL**ing và **PAGE**. “just” đọc nhẹ để câu nghe lịch sự.",
+     "Link get‿the ball and on‿the same page; stress **ROLL**ing and **PAGE**. Keep “just” light to sound polite."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Thôi, chuyện cũ bỏ qua đi – hai đứa mình chơi với nhau mười năm rồi, không đáng để giận nhau vì mấy chuyện vặt vãnh như vậy đâu.",
+    "a": [
+     "Let's just let bygones be bygones – we've been friends for ten years, and it's not worth falling out over something so trivial.",
+     "Come on, let's let bygones be bygones – we've been friends for ten years, so it's really not worth falling out over such a small thing.",
+     "Let's put it behind us – we've been friends for ten years, and it's not worth falling out over something so petty.",
+     "Let's just let bygones be bygones – we've been mates for ten years, and it isn't worth falling out over something so trivial."
+    ],
+    "e": [
+     "“chuyện cũ bỏ qua” = **let bygones be bygones**; “giận nhau vì” = **fall out over**. Sau “worth” dùng V-ing.",
+     "“let the past go” = **let bygones be bygones**; “argue and stop being friends over” = **fall out over**. Use -ing after “worth”."
+    ],
+    "f": [
+     "let bygones be bygones",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "I'd love to come to your barbecue on Sunday, but I'm completely snowed ___ with work until the end of the month, so let's do something in July.",
+    "a": [
+     "under"
+    ],
+    "e": [
+     "**be snowed under (with sth)** = ngập đầu (công việc). Thành ngữ thân mật rất hay dùng để từ chối lời mời một cách nhẹ nhàng.",
+     "**be snowed under (with something)** = have too much to deal with. A very common informal way to decline an invitation gently."
+    ],
+    "f": [
+     "snowed under",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I was planning to keep Mum's surprise party a secret until Sunday, but my little sister let the cat out of the box at breakfast this morning.",
+    "a": [
+     "I was planning to keep Mum's surprise party a secret until Sunday, but my little sister let the cat out of the bag at breakfast this morning."
+    ],
+    "e": [
+     "Thành ngữ đúng: **let the cat out of the bag** = lỡ miệng tiết lộ bí mật. Không thay “bag” bằng từ khác.",
+     "The idiom is **let the cat out of the bag** = accidentally reveal a secret. “bag” can't be replaced."
+    ],
+    "f": [
+     "let the cat out of the bag",
+     "C2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại cho tự nhiên, dùng thành ngữ “up in the air”.",
+     "Rewrite naturally using the idiom “up in the air”."
+    ],
+    "s": "We haven't decided anything about our summer holiday yet because my husband's work schedule might change.",
+    "a": [
+     "Our summer holiday plans are still up in the air because my husband's work schedule might change.",
+     "Everything about our summer holiday is still up in the air because my husband's work schedule might change.",
+     "Our plans for the summer holiday are still up in the air because my husband's work schedule might change."
+    ],
+    "e": [
+     "**up in the air** = chưa chắc chắn, chưa quyết. Chủ ngữ thường là “plans / everything / it”, không phải người.",
+     "**up in the air** = undecided, uncertain. The subject is usually “plans / everything / it”, not a person."
+    ],
+    "f": [
+     "still up in the air",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Mai: Right, let's get the ball rolling. The street party is only three weeks away, so we need to be on the same page about the budget.\nTom: Can I address the elephant in the room? Last year we bit off more than we could chew – forty stalls and only six volunteers.\nMai: You've hit the nail on the head. I don't want to cut corners on safety, though.\nTom: Agreed. And honestly, losing our big sponsor was a blessing in disguise: now we can keep it small and local.\nMai: Fair enough. Karaoke isn't really my cup of tea, but the kids love it, so it stays.\nTom: Ha! Mrs Hoa said she'd go the extra mile and bake for everyone, but she's a bit under the weather this week.\nMai: Then let's not beat around the bush – we need two more volunteers by Friday. I'll ask at the school gate.\nTom: Great. Street parties only happen once in a blue moon round here, so let's make it count. Shall we call it a day?",
+   "tr": "Mai: Được rồi, mình bắt đầu thôi. Tiệc đường phố chỉ còn ba tuần nữa, nên chúng ta cần thống nhất về ngân sách.\nTom: Cho tôi nói thẳng vấn đề mà ai cũng né nhé? Năm ngoái chúng ta ôm đồm quá sức – bốn mươi gian hàng mà chỉ có sáu tình nguyện viên.\nMai: Anh nói trúng phóc rồi. Nhưng tôi không muốn làm ẩu chuyện an toàn đâu.\nTom: Đồng ý. Mà thật lòng, mất nhà tài trợ lớn lại là trong cái rủi có cái may: giờ mình có thể làm nhỏ gọn và đậm chất khu phố.\nMai: Cũng hợp lý. Karaoke thì không hợp gu tôi lắm, nhưng bọn trẻ thích nên vẫn giữ.\nTom: Ha! Bà Hoa bảo sẽ cất công nướng bánh cho mọi người, nhưng tuần này bà hơi mệt.\nMai: Vậy thì nói thẳng luôn – đến thứ Sáu mình cần thêm hai tình nguyện viên. Tôi sẽ hỏi ở cổng trường.\nTom: Tuyệt. Ở khu này năm thì mười họa mới có tiệc đường phố, nên phải làm cho ra trò. Hôm nay dừng ở đây nhé?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Năm ngoái đã xảy ra vấn đề gì?",
+     "What went wrong last year?"
+    ],
+    "o": [
+     [
+      "Quá nhiều gian hàng mà quá ít tình nguyện viên",
+      "Too many stalls and too few volunteers"
+     ],
+     [
+      "Trời mưa nên phải hủy tiệc",
+      "It rained, so the party was cancelled"
+     ],
+     [
+      "Nhà tài trợ rút lui vào phút chót",
+      "The sponsor pulled out at the last minute"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“we bit off more than we could chew – forty stalls and only six volunteers” = ôm đồm quá sức. Nhà tài trợ là chuyện năm nay, không phải năm ngoái.",
+     "“we bit off more than we could chew – forty stalls and only six volunteers” = they took on too much. Losing the sponsor happened this year, not last year."
+    ],
+    "f": [
+     "forty stalls and only six volunteers",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Tom gọi việc mất nhà tài trợ là “a blessing in disguise”?",
+     "Why does Tom call losing the sponsor “a blessing in disguise”?"
+    ],
+    "o": [
+     [
+      "Vì giờ họ có thể làm tiệc nhỏ và mang chất địa phương",
+      "Because now they can keep the party small and local"
+     ],
+     [
+      "Vì họ đã tìm được nhà tài trợ lớn hơn",
+      "Because they have found a bigger sponsor"
+     ],
+     [
+      "Vì nhà tài trợ đòi quá nhiều gian hàng",
+      "Because the sponsor wanted too many stalls"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Một việc tưởng xấu (mất tài trợ) lại có kết quả tốt: “now we can keep it small and local”. Đoạn văn không nhắc nhà tài trợ mới.",
+     "Something bad (losing the sponsor) leads to something good: “now we can keep it small and local”. No new sponsor is mentioned."
+    ],
+    "f": [
+     "now we can keep it small and local",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khi Mai nói “let's not beat around the bush”, chị muốn làm gì?",
+     "When Mai says “let's not beat around the bush”, what does she want to do?"
+    ],
+    "o": [
+     [
+      "Nói thẳng vấn đề: cần thêm hai tình nguyện viên trước thứ Sáu",
+      "State the problem directly: they need two more volunteers by Friday"
+     ],
+     [
+      "Dọn dẹp bụi cây quanh cổng trường",
+      "Clear the bushes near the school gate"
+     ],
+     [
+      "Hoãn cuộc họp sang tuần sau",
+      "Postpone the meeting until next week"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "**beat around the bush** = nói vòng vo; “let's not…” = hãy nói thẳng. Ngay sau đó chị nêu vấn đề chính. Phương án 2 là bẫy nghĩa đen.",
+     "**beat around the bush** = avoid the point; “let's not…” = let's be direct. She then states the key problem. Option 2 is the literal-meaning trap."
+    ],
+    "f": [
+     "let's not beat around the bush – we need two more volunteers by Friday",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Nobody at the residents' meeting wanted to mention that the treasurer had quit, but eventually Hoa decided to address ___ and asked who would take over the accounts.",
+    "o": [
+     "the elephant in the room",
+     "the tip of the iceberg",
+     "the last straw"
+    ],
+    "a": 0,
+    "e": [
+     "**the elephant in the room** = vấn đề hiển nhiên mà mọi người né tránh – khớp với “nobody wanted to mention”. **the tip of the iceberg** = phần nổi của tảng băng; **the last straw** = giọt nước tràn ly.",
+     "**the elephant in the room** = an obvious problem everyone avoids – matching “nobody wanted to mention”. **the tip of the iceberg** = a small visible part of a big problem; **the last straw** = the final annoyance."
+    ],
+    "f": [
+     "address the elephant in the room",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "My grandmother is feeling a bit ___ today, so she won't be joining us for the morning walk, but she'd love to see everyone at dinner.",
+    "o": [
+     "under the weather",
+     "over the moon",
+     "in hot water"
+    ],
+    "a": 0,
+    "e": [
+     "**under the weather** = hơi mệt/ốm, nên bà không đi dạo được. **over the moon** = rất vui; **in hot water** = gặp rắc rối.",
+     "**under the weather** = slightly ill, so she can't go for the walk. **over the moon** = very happy; **in hot water** = in trouble."
+    ],
+    "f": [
+     "a bit under the weather",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "We've only got two weeks until the community library opens, so if we want to finish on time we really need to get the ball ___ this afternoon.",
+    "a": [
+     "rolling"
+    ],
+    "e": [
+     "Thành ngữ cố định **get the ball rolling** = bắt đầu một việc chung. Không dùng “running” hay “moving”.",
+     "The fixed idiom is **get the ball rolling** = start a shared activity. Not “running” or “moving”."
+    ],
+    "f": [
+     "get the ball rolling",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "You've hit the nail on the ___: the real reason nobody volunteers is that the meetings are always held at nine o'clock on a weekday morning.",
+    "a": [
+     "head"
+    ],
+    "e": [
+     "**hit the nail on the head** = nói trúng vấn đề, mô tả chính xác. Luôn là “the head”.",
+     "**hit the nail on the head** = describe the problem exactly. It is always “the head”."
+    ],
+    "f": [
+     "hit the nail on the head",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "I know you're busy, but please stop beating around the bushes and tell me honestly whether you can help with the street party on Saturday.",
+    "a": [
+     "I know you're busy, but please stop beating around the bush and tell me honestly whether you can help with the street party on Saturday."
+    ],
+    "e": [
+     "Thành ngữ cố định dùng **bush** số ít: **beat around the bush** (Anh-Anh cũng nói “beat about the bush”). Đổi sang số nhiều làm câu nghe sai ngay với người bản xứ.",
+     "The fixed idiom uses singular **bush**: **beat around the bush** (British also “beat about the bush”). A plural sounds wrong to native speakers."
+    ],
+    "f": [
+     "beating around the bush",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "The builders clearly cut the corners to finish the community garden before the rainy season, and now half of the fences are already falling down.",
+    "a": [
+     "The builders clearly cut corners to finish the community garden before the rainy season, and now half of the fences are already falling down."
+    ],
+    "e": [
+     "**cut corners** = làm ẩu để tiết kiệm thời gian/tiền – không có mạo từ “the”. “cut the corner” theo nghĩa đen là đi tắt qua góc đường.",
+     "**cut corners** = do something badly to save time or money – no article. “cut the corner” literally means taking a shortcut round a bend."
+    ],
+    "f": [
+     "cut corners",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Running five neighbourhood projects at the same time was clearly biting more than she could chew, so in the end she asked the committee for help.",
+    "a": [
+     "Running five neighbourhood projects at the same time was clearly biting off more than she could chew, so in the end she asked the committee for help.",
+     "Running five neighborhood projects at the same time was clearly biting off more than she could chew, so in the end she asked the committee for help."
+    ],
+    "e": [
+     "Thiếu tiểu từ: **bite OFF more than you can chew**. Cụm động từ trong thành ngữ không được bỏ tiểu từ.",
+     "The particle is missing: **bite OFF more than you can chew**. You can't drop the particle from an idiom's phrasal verb."
+    ],
+    "f": [
+     "biting off more than she could chew",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mình biết karaoke không hợp gu bạn lắm, nhưng tối nay bạn ghé qua một lát được không, vì cả xóm đã cất công chuẩn bị rồi.",
+    "a": [
+     "I know karaoke isn't really your cup of tea, but could you drop by for a bit tonight, because the whole neighbourhood has gone the extra mile to prepare?",
+     "I know karaoke isn't really your cup of tea, but could you come along for a while tonight? The whole neighbourhood has gone the extra mile to get ready.",
+     "I know karaoke's not really your cup of tea, but could you pop in for a bit tonight, since the whole street has gone to a lot of trouble to prepare?",
+     "I know karaoke isn't really your cup of tea, but could you stop by for a bit tonight, because the whole neighborhood has gone the extra mile to prepare?"
+    ],
+    "e": [
+     "“không hợp gu” = **not (really) my/your cup of tea** – nói mềm, không chê. “ghé qua một lát” = **drop by / pop in for a bit**; “cất công” = **go the extra mile / go to a lot of trouble**.",
+     "“not to your taste” = **not (really) your cup of tea** – soft, not critical. “come briefly” = **drop by / pop in for a bit**; “made a big effort” = **go the extra mile / go to a lot of trouble**."
+    ],
+    "f": [
+     "isn't really your cup of tea",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hóa ra việc mất nhà tài trợ lại là trong cái rủi có cái may, vì bây giờ chúng ta có thể tổ chức lễ hội theo cách mình muốn.",
+    "a": [
+     "Losing the sponsor turned out to be a blessing in disguise, because now we can organise the festival the way we want.",
+     "Losing the sponsor turned out to be a blessing in disguise, since we can now run the festival the way we want to.",
+     "It turned out that losing the sponsor was a blessing in disguise, because now we can organize the festival however we like."
+    ],
+    "e": [
+     "“hóa ra” = **turned out to be / it turned out that**; “trong cái rủi có cái may” = **a blessing in disguise** (luôn có “a”). Không dịch từng chữ kiểu “luck in bad luck”.",
+     "“hóa ra” = **turned out to be / it turned out that**; “trong cái rủi có cái may” = **a blessing in disguise** (always with “a”). Don't translate word for word."
+    ],
+    "f": [
+     "turned out to be a blessing in disguise",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu cho tự nhiên hơn, thay “very rarely” bằng thành ngữ có “blue moon”.",
+     "Rewrite the sentence more naturally, replacing “very rarely” with an idiom containing “blue moon”."
+    ],
+    "s": "My brother lives abroad, so we only see each other very rarely, usually at Tết.",
+    "a": [
+     "My brother lives abroad, so we only see each other once in a blue moon, usually at Tết.",
+     "My brother lives abroad, so we see each other only once in a blue moon, usually at Tết."
+    ],
+    "e": [
+     "**once in a blue moon** = rất hiếm khi (≈ năm thì mười họa). Cụm cố định: “once in a blue moon”, không nói “in the blue moon”.",
+     "**once in a blue moon** = very rarely. It's a fixed phrase: “once in a blue moon”, not “in the blue moon”."
+    ],
+    "f": [
+     "once in a blue moon",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Let's call it a day|and pick up|where we left off|on Monday morning,|when everyone|has had|a chance|to rest.",
+    "m": [
+     "Hôm nay mình dừng ở đây và sáng thứ Hai làm tiếp từ chỗ đang dở, khi mọi người đã được nghỉ ngơi.",
+     "Let's call it a day and pick up where we left off on Monday morning, when everyone has had a chance to rest."
+    ],
+    "e": [
+     "**call it a day** = dừng việc hôm nay; **pick up where we left off** = tiếp tục từ chỗ đang dở – hai cụm tự nhiên hay đi cùng nhau cuối buổi họp.",
+     "**call it a day** = stop working for today; **pick up where we left off** = continue from the same point – a natural pair at the end of a meeting."
+    ],
+    "f": [
+     "call it a day",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn nhóm (120–150 từ) gửi nhóm chat khu phố, rủ mọi người tham gia ngày dọn dẹp công viên. Dùng tự nhiên 3–4 thành ngữ trong bài (không nhồi nhét), nêu thời gian, việc cần làm và cách đăng ký.",
+     "Write a group message (120–150 words) to your neighbourhood chat inviting people to a park clean-up day. Naturally use 3–4 idioms from this unit (don't overdo it) and give the time, the jobs and how to sign up."
+    ],
+    "m": "Hi everyone! I'd like to get the ball rolling on our park clean-up, which will take place next Saturday from 7 to 10 a.m. Let's address the elephant in the room first: last time only a handful of us turned up, and we bit off more than we could chew trying to clear the whole park in two hours. So this year we're keeping it simple. We need people to pick up litter, paint the old benches and help the kids plant a few trees. Gloves, bags and cold drinks will be provided. If heavy work isn't your cup of tea, you're very welcome to help with registration or snacks instead. Please reply with your name and preferred job by Thursday evening so we're all on the same page. Thanks a million – see you there!",
+    "e": [
+     "Cần có: • 3–4 thành ngữ dùng đúng dạng và đúng chỗ • thời gian, địa điểm, các việc cụ thể • cách đăng ký và hạn chót • giọng thân thiện, thân mật vừa phải.",
+     "Checklist: • 3–4 idioms in the correct form and context • time, place and specific jobs • how and when to sign up • a friendly, moderately informal tone."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d34",
+  "g": "work",
+  "t": [
+   "Văn phong: trang trọng – trung tính – thân mật",
+   "Register: formal, neutral, informal"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp 1 – Cùng một ý, ba văn phong**\n• Trang trọng: **I would be grateful if you could** send me the report by Friday.\n• Trung tính: **Could you** send me the report by Friday, please?\n• Thân mật: **Can you send** the report **over** by Friday?\nXin lỗi: **We sincerely apologise for any inconvenience.** → **Sorry for the delay.** → **Sorry – my bad!**\nHoãn họp: **The meeting has been postponed.** → **The meeting has been moved to Thursday.** → **Meeting's been put off till Thursday.**",
+    "**Grammar 1 – One message, three registers**\n• Formal: **I would be grateful if you could** send me the report by Friday.\n• Neutral: **Could you** send me the report by Friday, please?\n• Informal: **Can you send** the report **over** by Friday?\nApologising: **We sincerely apologise for any inconvenience.** → **Sorry for the delay.** → **Sorry – my bad!**\nMoving a meeting: **The meeting has been postponed.** → **The meeting has been moved to Thursday.** → **Meeting's been put off till Thursday.**"
+   ],
+   [
+    "**Ngữ pháp 2 – Dấu hiệu của từng văn phong**\n• **Trang trọng**: động từ gốc Latin (inform, require, assist, obtain, commence, enquire, purchase), bị động (The order **has been dispatched**), danh từ hóa (**the delivery of** your order), đảo ngữ **Should you require…** (= If you need…), không viết tắt.\n• **Trung tính**: động từ thường ngày (tell, need, help, get, start, ask, buy), câu hỏi lịch sự **Could we…?**, có thể viết tắt.\n• **Thân mật**: cụm động từ (**let sb know, sort out, held up, put off**), viết tắt, lược từ (**Client's been told.** / **Fancy a coffee?**), thán từ (Ugh, Hey).\n• Lỗi hay gặp: trộn văn phong – “Hey Mr Smith, I would be grateful…” hay “Dear Professor, can you give me a hand?”.",
+    "**Grammar 2 – Markers of each register**\n• **Formal**: Latin-based verbs (inform, require, assist, obtain, commence, enquire, purchase), passives (The order **has been dispatched**), nominalisation (**the delivery of** your order), inversion **Should you require…** (= If you need…), no contractions.\n• **Neutral**: everyday verbs (tell, need, help, get, start, ask, buy), polite questions **Could we…?**, contractions are fine.\n• **Informal**: phrasal verbs (**let sb know, sort out, held up, put off**), contractions, ellipsis (**Client's been told.** / **Fancy a coffee?**), interjections (Ugh, Hey).\n• Common mistake: mixing registers – “Hey Mr Smith, I would be grateful…” or “Dear Professor, can you give me a hand?”."
+   ],
+   [
+    "**Mở đầu & kết thư theo văn phong (Anh-Anh)**\n• Không biết tên: **Dear Sir or Madam,** … **Yours faithfully,**\n• Biết tên, trang trọng: **Dear Ms Grant,** … **Yours sincerely, / Kind regards,** (dùng họ, KHÔNG “Dear Ms Linda”).\n• Trung tính, đồng nghiệp: **Hi David,** … **Best, / Best wishes,**\n• Thân mật: **Hey Sam!** … **Cheers, / See you soon,**\n• Câu chuyển tiếp: **I am writing to enquire about…** (trang trọng) – **Just a quick note about…** (trung tính) – **Quick question:** (thân mật).",
+    "**Openings & closings by register (British usage)**\n• Name unknown: **Dear Sir or Madam,** … **Yours faithfully,**\n• Name known, formal: **Dear Ms Grant,** … **Yours sincerely, / Kind regards,** (use the surname, NOT “Dear Ms Linda”).\n• Neutral, colleagues: **Hi David,** … **Best, / Best wishes,**\n• Informal: **Hey Sam!** … **Cheers, / See you soon,**\n• Opening lines: **I am writing to enquire about…** (formal) – **Just a quick note about…** (neutral) – **Quick question:** (informal)."
+   ],
+   [
+    "**Phát âm – Văn phong cũng nghe thấy được**\n• Trang trọng (thuyết trình, gọi khách hàng): nói dạng đầy đủ **I would / we have**, tốc độ vừa phải, xuống giọng rõ cuối câu.\n• Thân mật: dạng rút gọn và âm yếu: **I'd, we've, gonna /ˈɡʌn.ə/, wanna /ˈwɑː.nə/** – chỉ dùng khi NÓI, không viết trong email công việc.\n• **Fancy a coffee?** lên giọng ở cuối ↗; **We regret to inform you…** đều đều, nghiêm túc.\n• Từ khó: enquire /ɪnˈkwaɪr/, inconvenience /ˌɪn.kənˈviː.ni.əns/, faithfully /ˈfeɪθ.fəl.i/, regards /rɪˈɡɑːrdz/.",
+    "**Pronunciation – You can hear register too**\n• Formal (presentations, client calls): full forms **I would / we have**, a moderate pace, clear falling tones at the end.\n• Informal: contractions and weak forms: **I'd, we've, gonna /ˈɡʌn.ə/, wanna /ˈwɑː.nə/** – only in SPEECH, never in work emails.\n• **Fancy a coffee?** rises at the end ↗; **We regret to inform you…** is even and serious.\n• Tricky words: enquire /ɪnˈkwaɪr/, inconvenience /ˌɪn.kənˈviː.ni.əns/, faithfully /ˈfeɪθ.fəl.i/, regards /rɪˈɡɑːrdz/."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 cuộc gọi chăm sóc khách hàng và 1 vlog, ghi 5 cụm trang trọng & 5 cụm thân mật.\n• Nói (20 phút): đóng vai báo một tin xấu (hủy chuyến, trễ hàng) 3 lần: cho khách hàng, cho sếp, cho bạn thân.\n• Đọc (20 phút): đọc 2 email thật (thư thông báo của ngân hàng & tin nhắn nhóm bạn), gạch chân dấu hiệu văn phong.\n• Viết (30 phút): viết lại một email của bạn theo 2 văn phong khác nhau.\n• Từ vựng (15 phút): lập bảng cặp từ trang trọng ↔ thường ngày: inform/tell, require/need, assist/help, obtain/get, commence/start, purchase/buy, postpone/put off.",
+    "**Practice outside the app**\n• Listening (20 min): listen to a customer-service call and a vlog; note 5 formal and 5 informal phrases.\n• Speaking (20 min): role-play giving bad news (a cancelled trip, a late delivery) three times: to a client, a boss and a close friend.\n• Reading (20 min): read 2 real messages (a bank notice and a friends' group chat) and underline the register markers.\n• Writing (30 min): rewrite one of your own emails in 2 different registers.\n• Vocabulary (15 min): build a table of formal ↔ everyday pairs: inform/tell, require/need, assist/help, obtain/get, commence/start, purchase/buy, postpone/put off."
+   ]
+  ],
+  "tb": [
+   [
+    "English",
+    "Tiếng Việt"
+   ],
+   [
+    "We regret to inform you that… (formal)",
+    "Chúng tôi rất tiếc phải thông báo rằng… (trang trọng)"
+   ],
+   [
+    "Should you require any further information, please do not hesitate to contact me.",
+    "Nếu quý vị cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi."
+   ],
+   [
+    "I would be grateful if you could…",
+    "Tôi sẽ rất biết ơn nếu anh/chị có thể…"
+   ],
+   [
+    "We sincerely apologise for any inconvenience.",
+    "Chúng tôi thành thật xin lỗi vì mọi sự bất tiện."
+   ],
+   [
+    "Just a quick update: … (neutral)",
+    "Cập nhật nhanh: … (trung tính)"
+   ],
+   [
+    "Could we discuss this at Monday's meeting?",
+    "Mình bàn việc này trong cuộc họp thứ Hai được không?"
+   ],
+   [
+    "Fancy grabbing a coffee? (informal)",
+    "Đi cà phê không? (thân mật)"
+   ],
+   [
+    "The order's been held up again.",
+    "Đơn hàng lại bị kẹt/chậm nữa rồi."
+   ]
+  ],
+  "vo": [
+   [
+    "register",
+    "/ˈredʒ.ɪ.stɚ/",
+    "văn phong (mức trang trọng)",
+    "the level of formality of language"
+   ],
+   [
+    "inform",
+    "/ɪnˈfɔːrm/",
+    "thông báo (trang trọng)",
+    "tell someone officially"
+   ],
+   [
+    "regret",
+    "/rɪˈɡret/",
+    "lấy làm tiếc",
+    "feel sorry about (formal)"
+   ],
+   [
+    "postpone",
+    "/poʊstˈpoʊn/",
+    "hoãn lại",
+    "move to a later time"
+   ],
+   [
+    "inconvenience",
+    "/ˌɪn.kənˈviː.ni.əns/",
+    "sự bất tiện",
+    "trouble or difficulty caused to someone"
+   ],
+   [
+    "require",
+    "/rɪˈkwaɪr/",
+    "cần, yêu cầu (trang trọng)",
+    "need (formal)"
+   ],
+   [
+    "enquire",
+    "/ɪnˈkwaɪr/",
+    "hỏi thông tin (trang trọng)",
+    "ask for information (formal)"
+   ],
+   [
+    "assistance",
+    "/əˈsɪs.təns/",
+    "sự hỗ trợ",
+    "help (formal)"
+   ],
+   [
+    "held up",
+    "/ˌheld ˈʌp/",
+    "bị chậm trễ, bị kẹt (thân mật)",
+    "delayed (informal)"
+   ],
+   [
+    "sort out",
+    "/ˌsɔːrt ˈaʊt/",
+    "giải quyết, thu xếp (thân mật)",
+    "solve or organise (informal)"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Should you require any further assistance with your booking, please do not hesitate to contact our customer service team at any time.",
+    "q": [
+     "Câu này thuộc văn phong nào và thực chất muốn nói gì?",
+     "What register is this and what does it actually mean?"
+    ],
+    "o": [
+     [
+      "Trang trọng – “Nếu cần giúp thêm thì cứ liên hệ chúng tôi”",
+      "Formal – “If you need more help, just contact us”"
+     ],
+     [
+      "Thân mật – “Đừng gọi cho chúng tôi nữa”",
+      "Informal – “Don't call us again”"
+     ],
+     [
+      "Trung tính – “Bạn bắt buộc phải liên hệ chúng tôi”",
+      "Neutral – “You must contact us”"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Đảo ngữ **Should you require…** (= If you need…) và **do not hesitate to** là dấu hiệu thư trang trọng. “do not hesitate” = cứ tự nhiên, không phải lệnh cấm hay bắt buộc.",
+     "The inversion **Should you require…** (= If you need…) and **do not hesitate to** mark formal writing. “do not hesitate” = feel free, not a ban or an obligation."
+    ],
+    "f": [
+     "Should you require any further assistance",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "I would be grateful if you could send me the updated figures by Friday, as I need them for the board meeting.",
+    "e": [
+     "Khung trang trọng **I would be grateful if you could + V**; “as” = because (trang trọng hơn). Không viết tắt “I'd” trong thư trang trọng.",
+     "The formal frame **I would be grateful if you could + verb**; “as” = because (more formal). Don't contract to “I'd” in formal writing."
+    ],
+    "f": [
+     "I would be grateful if you could",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Hi Sam, just a quick update: the delivery's been held up, so could we push the meeting back to Thursday afternoon?",
+    "e": [
+     "Văn phong trung tính-thân mật: đọc nhanh, nối âm “delivery's been”, “push the meeting back”; lên giọng nhẹ ở câu hỏi cuối.",
+     "Neutral-to-informal: keep it quick, link “delivery's been” and “push the meeting back”; let the final question rise slightly."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "We sincerely apologise for any inconvenience this may cause and will keep you informed of any further developments.",
+    "e": [
+     "Văn phong trang trọng: đọc chậm, đầy đủ, nhấn in-con-**VEN**-ience và de-**VEL**-opments, xuống giọng dứt khoát cuối câu.",
+     "Formal register: speak slowly and fully, stress in-con-**VEN**-ience and de-**VEL**-opments, and end with a firm fall."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "rewrite",
+    "q": [
+     "Câu ra lệnh này nghe cộc lốc với hàng xóm. Viết lại thành lời nhờ lịch sự bắt đầu bằng “Would you mind…”.",
+     "This order sounds rude to a neighbour. Rewrite it as a polite request beginning “Would you mind…”."
+    ],
+    "s": "Move your car, it's blocking my gate and I need to take my son to school.",
+    "a": [
+     "Would you mind moving your car? It's blocking my gate and I need to take my son to school.",
+     "Would you mind moving your car, please? It's blocking my gate and I need to take my son to school.",
+     "Would you mind moving your car? It's blocking my gate, and I need to take my son to school."
+    ],
+    "e": [
+     "**Would you mind + V-ing?** là lời nhờ lịch sự, vừa phải – hợp với hàng xóm. Sau “mind” dùng V-ing (moving), không dùng “to move”.",
+     "**Would you mind + -ing?** is a polite, neutral request – right for a neighbour. Use -ing after “mind” (moving), not “to move”."
+    ],
+    "f": [
+     "Would you mind moving your car",
+     "C2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chị ơi, hôm nay em xin phép về sớm một chút được không ạ – con em bị sốt, em hứa tối mai sẽ làm bù.",
+    "a": [
+     "Would it be all right if I left a bit early today? My son's running a temperature, and I promise I'll make up the time tomorrow evening.",
+     "Would it be OK if I left a little early today? My son has a fever, and I promise I'll make up the hours tomorrow evening.",
+     "Do you think I could leave a bit early today? My daughter's got a temperature, and I promise to make up the time tomorrow evening."
+    ],
+    "e": [
+     "“xin phép” với sếp → **Would it be all right if I + quá khứ (left)…?** (quá khứ giả định cho lịch sự). “làm bù” = **make up the time**; “bị sốt” = **be running a temperature / have a fever**.",
+     "Asking a boss's permission → **Would it be all right if I + past (left)…?** (the past adds politeness). “work the hours later” = **make up the time**; “have a fever” = **be running a temperature**."
+    ],
+    "f": [
+     "Would it be all right if I left a bit early",
+     "C2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Sorry to be a pain, but would you mind ___ the music down a little? My little one has only just gone to sleep and the walls here are really thin.",
+    "a": [
+     "turning"
+    ],
+    "e": [
+     "**turn the music down** = vặn nhỏ nhạc; sau **would you mind** dùng V-ing → **turning**. “Sorry to be a pain” = xin lỗi vì làm phiền (thân mật, mềm mỏng).",
+     "**turn the music down** = make it quieter; after **would you mind** use -ing → **turning**. “Sorry to be a pain” is a soft, informal apology for bothering someone."
+    ],
+    "f": [
+     "would you mind turning the music down",
+     "C2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Hey mate, I regret to inform you that I can't make it to football tonight – I've got loads of work on, but I'll definitely be there next week.",
+    "a": [
+     "Hey mate, sorry, I can't make it to football tonight – I've got loads of work on, but I'll definitely be there next week.",
+     "Hey mate, I'm afraid I can't make it to football tonight – I've got loads of work on, but I'll definitely be there next week.",
+     "Hey mate, sorry but I can't make it to football tonight – I've got loads of work on, but I'll definitely be there next week."
+    ],
+    "e": [
+     "**I regret to inform you** quá trang trọng cho tin nhắn bạn bè – nghe như đùa hoặc lạnh lùng. Dùng **sorry** hoặc **I'm afraid**.",
+     "**I regret to inform you** is far too formal for a text to a friend – it sounds sarcastic or cold. Use **sorry** or **I'm afraid**."
+    ],
+    "f": [
+     "I'm afraid I can't make it",
+     "C2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Message 1 – to a client (formal)\nDear Ms Grant,\nWe regret to inform you that, owing to unforeseen circumstances at our supplier, the delivery of your order has been postponed until 14 May. We sincerely apologise for any inconvenience this may cause. Should you require any further information, please do not hesitate to contact me.\nYours sincerely,\nLinh Tran, Account Manager\n\nMessage 2 – to her manager (neutral)\nHi David,\nJust a quick update: our supplier has had some problems, so the Grant order is going to be about a week late. I've already let the client know and apologised. Could we discuss offering them a small discount at Monday's meeting?\nBest,\nLinh\n\nMessage 3 – to a colleague (informal)\nUgh, the Grant order's been held up again – the supplier messed up. Client's been told, though. Fancy grabbing a coffee later and sorting out a plan B?",
+   "tr": "Tin 1 – gửi khách hàng (trang trọng)\nKính gửi bà Grant,\nChúng tôi rất tiếc phải thông báo rằng, do những tình huống bất khả kháng tại nhà cung cấp, việc giao đơn hàng của bà đã được hoãn đến ngày 14 tháng 5. Chúng tôi thành thật xin lỗi vì mọi sự bất tiện có thể gây ra. Nếu bà cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi.\nTrân trọng,\nTrần Linh, Quản lý khách hàng\n\nTin 2 – gửi quản lý (trung tính)\nChào anh David,\nEm cập nhật nhanh: nhà cung cấp gặp chút trục trặc nên đơn hàng của bà Grant sẽ trễ khoảng một tuần. Em đã báo và xin lỗi khách rồi. Mình có thể bàn việc giảm giá nhẹ cho họ trong cuộc họp thứ Hai không ạ?\nThân,\nLinh\n\nTin 3 – gửi đồng nghiệp (thân mật)\nTrời ơi, đơn của bà Grant lại bị kẹt nữa rồi – bên cung cấp làm hỏng việc. Nhưng đã báo khách rồi. Lát đi cà phê rồi tính phương án B không?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Vì sao đơn hàng bị trễ?",
+     "Why is the order late?"
+    ],
+    "o": [
+     [
+      "Nhà cung cấp gặp sự cố ngoài dự kiến",
+      "The supplier had unexpected problems"
+     ],
+     [
+      "Khách hàng đổi địa chỉ giao hàng",
+      "The client changed the delivery address"
+     ],
+     [
+      "Linh quên gửi đơn hàng",
+      "Linh forgot to send the order"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Cùng một lý do được nói theo 3 cách: “owing to unforeseen circumstances at our supplier” (trang trọng) – “our supplier has had some problems” (trung tính) – “the supplier messed up” (thân mật).",
+     "The same reason in three registers: “owing to unforeseen circumstances at our supplier” (formal) – “our supplier has had some problems” (neutral) – “the supplier messed up” (informal)."
+    ],
+    "f": [
+     "owing to unforeseen circumstances at our supplier",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Linh đề nghị gì với quản lý?",
+     "What does Linh suggest to her manager?"
+    ],
+    "o": [
+     [
+      "Bàn việc giảm giá nhỏ cho khách trong cuộc họp thứ Hai",
+      "Discussing a small discount for the client at Monday's meeting"
+     ],
+     [
+      "Đổi sang nhà cung cấp khác ngay lập tức",
+      "Changing suppliers immediately"
+     ],
+     [
+      "Gọi điện xin lỗi khách thêm lần nữa",
+      "Calling the client to apologise again"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Could we discuss offering them a small discount at Monday's meeting?” – câu hỏi lịch sự trung tính với Could we. Linh đã xin lỗi khách rồi (“I've already… apologised”).",
+     "“Could we discuss offering them a small discount at Monday's meeting?” – a neutral polite question with Could we. She has already apologised to the client."
+    ],
+    "f": [
+     "Could we discuss offering them a small discount",
+     "C1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Đặc điểm nào cho thấy Tin 3 là văn phong thân mật?",
+     "Which features show that Message 3 is informal?"
+    ],
+    "o": [
+     [
+      "Thán từ, cụm động từ và câu lược chủ ngữ/trợ từ",
+      "An interjection, phrasal verbs and missing words"
+     ],
+     [
+      "Câu bị động dài và đảo ngữ",
+      "Long passive sentences and inversion"
+     ],
+     [
+      "Lời chào và lời kết đầy đủ",
+      "A full greeting and closing"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Ugh” (thán từ), “held up / messed up / sorting out” (cụm động từ), “Client's been told” và “Fancy grabbing…?” (lược “The”, “Do you”). Tin 3 không có lời chào/kết.",
+     "“Ugh” (interjection), “held up / messed up / sorting out” (phrasal verbs), “Client's been told” and “Fancy grabbing…?” (missing “The”, “Do you”). It has no greeting or closing."
+    ],
+    "f": [
+     "Client's been told, though. Fancy grabbing a coffee later",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Dear Mr Patel, I am writing to ___ about the availability of your conference rooms for a two-day training event that our company is planning in early June.",
+    "o": [
+     "enquire",
+     "ask around",
+     "check out"
+    ],
+    "a": 0,
+    "e": [
+     "Thư trang trọng mở bằng **I am writing to enquire about…** (Mỹ: inquire). **ask around** = hỏi quanh mọi người, **check out** = xem thử – đều thân mật, không hợp với “Dear Mr Patel”.",
+     "Formal letters open with **I am writing to enquire about…** (US: inquire). **ask around** and **check out** are informal and clash with “Dear Mr Patel”."
+    ],
+    "f": [
+     "I am writing to enquire about",
+     "C1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Sorry I can't make it tonight – something's come up at work – but shall we just ___ till Friday and grab dinner after the gym instead?",
+    "o": [
+     "put it off",
+     "postpone it",
+     "defer it"
+    ],
+    "a": 0,
+    "e": [
+     "Tin nhắn cho bạn bè dùng cụm động từ thân mật **put it off**. **postpone** (trung tính-trang trọng) và **defer** (rất trang trọng, hành chính) nghe cứng nhắc trong tin nhắn này.",
+     "A text to a friend calls for the informal phrasal verb **put it off**. **postpone** (neutral-formal) and **defer** (very formal, official) sound stiff here."
+    ],
+    "f": [
+     "put it off till Friday",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "We regret to ___ you that, due to essential maintenance work, the office car park will be closed to all staff from Monday to Friday next week.",
+    "a": [
+     "inform"
+    ],
+    "e": [
+     "Công thức thông báo tin xấu trang trọng: **We regret to inform you that…** Không dùng “tell” trong khung này.",
+     "The formal formula for bad news: **We regret to inform you that…** “tell” doesn't fit this frame."
+    ],
+    "f": [
+     "We regret to inform you that",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___ you have any questions about your new contract, please do not hesitate to contact the Human Resources department, which is open from nine until five.",
+    "a": [
+     "Should"
+    ],
+    "e": [
+     "Đảo ngữ trang trọng **Should you + V** = If you + V. Động từ sau “you” ở dạng nguyên thể (have, require), không chia.",
+     "Formal inversion **Should you + verb** = If you + verb. The verb after “you” stays in the base form (have, require)."
+    ],
+    "f": [
+     "Should you have any questions",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Dear Professor Nguyen, I am writing to ask whether you could give me a hand with my thesis proposal, which I need to submit to the faculty before the end of this month.",
+    "a": [
+     "Dear Professor Nguyen, I am writing to ask whether you could help me with my thesis proposal, which I need to submit to the faculty before the end of this month.",
+     "Dear Professor Nguyen, I am writing to ask whether you could assist me with my thesis proposal, which I need to submit to the faculty before the end of this month."
+    ],
+    "e": [
+     "Lỗi trộn văn phong: **give me a hand** là thân mật, lạc lõng trong thư gửi giáo sư. Dùng **help me** (trung tính) hoặc **assist me** (trang trọng).",
+     "A register clash: **give me a hand** is informal and out of place in a letter to a professor. Use **help me** (neutral) or **assist me** (formal)."
+    ],
+    "f": [
+     "could help me with",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Because I didn't know the manager's name, I opened my complaint letter with “Dear Sir or Madam” and closed it with “Yours sincerely” before posting it.",
+    "a": [
+     "Because I didn't know the manager's name, I opened my complaint letter with “Dear Sir or Madam” and closed it with “Yours faithfully” before posting it."
+    ],
+    "e": [
+     "Theo quy ước Anh-Anh: **Dear Sir or Madam** (không biết tên) → **Yours faithfully**; **Dear Ms/Mr + họ** → **Yours sincerely**. (Tiếng Anh-Mỹ thường dùng “Sincerely” cho cả hai.)",
+     "British convention: **Dear Sir or Madam** (name unknown) → **Yours faithfully**; **Dear Ms/Mr + surname** → **Yours sincerely**. (American English usually uses “Sincerely” for both.)"
+    ],
+    "f": [
+     "Yours faithfully",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Should you requiring any further information about the course, please contact the admissions office directly rather than replying to this automated email.",
+    "a": [
+     "Should you require any further information about the course, please contact the admissions office directly rather than replying to this automated email."
+    ],
+    "e": [
+     "Sau đảo ngữ **Should you** dùng động từ nguyên thể: **Should you require**, không phải “requiring”.",
+     "After the inversion **Should you** use the base verb: **Should you require**, not “requiring”."
+    ],
+    "f": [
+     "Should you require",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chúng tôi thành thật xin lỗi vì mọi sự bất tiện mà việc chậm trễ này có thể gây ra và sẽ thông báo cho quý khách ngay khi đơn hàng được gửi đi.",
+    "a": [
+     "We sincerely apologise for any inconvenience this delay may cause and will inform you as soon as your order has been dispatched.",
+     "We sincerely apologise for any inconvenience that this delay may cause, and we will inform you as soon as your order has been dispatched.",
+     "We sincerely apologize for any inconvenience this delay may cause and will notify you as soon as your order has been shipped.",
+     "We sincerely apologise for any inconvenience caused by this delay and will inform you as soon as your order has been dispatched."
+    ],
+    "e": [
+     "Văn phong trang trọng: **sincerely apologise for any inconvenience**, **inform/notify** (không “let you know”), bị động **has been dispatched**. “quý khách” chỉ cần “you”.",
+     "Formal register: **sincerely apologise for any inconvenience**, **inform/notify** (not “let you know”), the passive **has been dispatched**. “quý khách” is simply “you”."
+    ],
+    "f": [
+     "We sincerely apologise for any inconvenience",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Ê, cuộc họp chiều nay bị lùi sang thứ Năm rồi, nên tối nay đi ăn gì đó rồi tính nốt kế hoạch cho chuyến đi không?",
+    "a": [
+     "Hey, this afternoon's meeting has been pushed back to Thursday, so fancy grabbing something to eat tonight and sorting out the rest of the plan for the trip?",
+     "Hey, this afternoon's meeting's been put off till Thursday, so do you fancy grabbing a bite tonight and sorting out the rest of the trip plan?",
+     "Hey, the meeting this afternoon has been moved to Thursday, so want to grab something to eat tonight and finish sorting out the plan for the trip?"
+    ],
+    "e": [
+     "Tin nhắn bạn bè → thân mật: **pushed back / put off** (không “postponed”), **fancy + V-ing?**, **grab something to eat / a bite**, **sort out**.",
+     "A text to a friend → informal: **pushed back / put off** (not “postponed”), **fancy + -ing?**, **grab something to eat / a bite**, **sort out**."
+    ],
+    "f": [
+     "fancy grabbing something to eat",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu hỏi thân mật thành câu yêu cầu trang trọng bắt đầu bằng “I would be grateful if…”.",
+     "Rewrite the informal question as a formal request beginning “I would be grateful if…”."
+    ],
+    "s": "Can you send over the signed contract by Friday?",
+    "a": [
+     "I would be grateful if you could send me the signed contract by Friday.",
+     "I would be grateful if you could send the signed contract by Friday.",
+     "I would be grateful if you would send me the signed contract by Friday."
+    ],
+    "e": [
+     "**I would be grateful if you could/would + V** là lời yêu cầu trang trọng chuẩn. Bỏ cụm động từ thân mật “send over” → **send (me)**.",
+     "**I would be grateful if you could/would + verb** is the standard formal request. Replace the informal phrasal verb “send over” with **send (me)**."
+    ],
+    "f": [
+     "I would be grateful if you could send",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thông báo trang trọng thành tin nhắn thân mật cho đồng nghiệp thân, dùng “put off” và “something's come up”.",
+     "Rewrite the formal notice as an informal text to a close colleague, using “put off” and “something's come up”."
+    ],
+    "s": "The meeting has been postponed owing to unforeseen circumstances.",
+    "a": [
+     "The meeting's been put off – something's come up.",
+     "Meeting's been put off – something's come up.",
+     "The meeting has been put off because something's come up."
+    ],
+    "e": [
+     "**postponed** → **put off**; **owing to unforeseen circumstances** → **something's come up** (có việc đột xuất). Văn phong thân mật thích viết tắt và lược từ.",
+     "**postponed** → **put off**; **owing to unforeseen circumstances** → **something's come up**. Informal style likes contractions and ellipsis."
+    ],
+    "f": [
+     "The meeting's been put off – something's come up",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "I would be grateful|if you could|let me know|whether the dates|we discussed|are still convenient|for your team.",
+    "m": [
+     "Tôi sẽ rất biết ơn nếu anh/chị có thể cho tôi biết liệu những ngày chúng ta đã bàn có còn thuận tiện cho nhóm của anh/chị không.",
+     "I would be grateful if you could let me know whether the dates we discussed are still convenient for your team."
+    ],
+    "e": [
+     "Khung trang trọng **I would be grateful if you could…** + câu hỏi gián tiếp **whether…** (trật tự chủ ngữ – động từ như câu kể).",
+     "The formal frame **I would be grateful if you could…** + an indirect question **whether…** (statement word order)."
+    ],
+    "f": [
+     "I would be grateful if you could let me know whether",
+     "C1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết CÙNG một tin theo 2 văn phong: (1) email trang trọng (70–90 từ) gửi khách sạn xin đổi ngày đặt phòng vì lịch công tác thay đổi; (2) tin nhắn thân mật (30–40 từ) báo bạn thân rằng chuyến đi bị dời.",
+     "Write the SAME news in 2 registers: (1) a formal email (70–90 words) to a hotel asking to change your booking dates because your business trip has changed; (2) an informal text (30–40 words) telling a close friend the trip has moved."
+    ],
+    "m": "(1) Dear Sir or Madam,\nI am writing with regard to my reservation (booking reference HN2048) for a double room from 10 to 13 June. Owing to a change in my business schedule, I would be grateful if you could amend the booking to 17–20 June. Should the room not be available on these dates, please let me know what alternatives you can offer. I apologise for any inconvenience and look forward to hearing from you.\nYours faithfully,\nLinh Tran\n\n(2) Hey Mai! Bad news – work's messed up my plans again, so the Hanoi trip's been pushed back a week, to the 17th. Still up for that street-food tour? Let me know and I'll sort out the tickets!",
+    "e": [
+     "Cần có: • Bản 1: lời chào/kết đúng cặp, lý do bằng danh từ (owing to…), yêu cầu với “I would be grateful if…”, không viết tắt • Bản 2: cụm động từ, viết tắt, câu ngắn, giọng thân thiện • Thông tin hai bản khớp nhau.",
+     "Checklist: • Version 1: matching greeting/closing, a noun-based reason (owing to…), a request with “I would be grateful if…”, no contractions • Version 2: phrasal verbs, contractions, short sentences, a friendly tone • The facts match in both versions."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-r",
+  "t": [
+   "Bài đọc: Nghịch lý của sự lựa chọn",
+   "Reading: The paradox of choice"
+  ],
+  "rd": {
+   "tx": "In the supermarket aisle, faced with forty varieties of jam, most of us assume that more options can only be a good thing. Yet a number of psychologists have argued that an abundance of choice may actually undermine our satisfaction. When options multiply, so does the effort required to compare them, and so does the nagging suspicion that a better alternative was left on the shelf. Some studies found that shoppers offered a smaller selection were more likely to buy anything at all. That said, later attempts to replicate these findings have produced mixed results, suggesting that the effect depends heavily on context: how much people already know, how similar the options are, and how much the decision matters to them. What seems clear is that choice is not an unqualified good; beyond a certain point, it can become a burden rather than a freedom.",
+   "tr": "Đứng giữa lối đi trong siêu thị trước bốn mươi loại mứt, phần lớn chúng ta cho rằng nhiều lựa chọn hơn chỉ có thể là điều tốt. Thế nhưng một số nhà tâm lý học cho rằng quá nhiều lựa chọn có thể làm giảm sự hài lòng. Khi lựa chọn tăng lên, công sức so sánh cũng tăng, và cả cảm giác day dứt rằng một lựa chọn tốt hơn đã bị bỏ lại trên kệ. Một số nghiên cứu thấy người mua được đưa ít lựa chọn hơn lại dễ mua hàng hơn. Tuy vậy, những lần làm lại các nghiên cứu này cho kết quả không thống nhất, cho thấy hiệu ứng phụ thuộc nhiều vào bối cảnh: người ta đã hiểu biết đến đâu, các lựa chọn giống nhau đến mức nào, và quyết định quan trọng với họ ra sao. Điều có vẻ rõ ràng là lựa chọn không phải lúc nào cũng tốt; vượt quá một ngưỡng, nó có thể thành gánh nặng thay vì tự do."
+  },
+  "vo": [
+   [
+    "aisle",
+    "/aɪl/",
+    "lối đi (giữa các kệ)",
+    "passage between shelves"
+   ],
+   [
+    "abundance",
+    "/əˈbʌndəns/",
+    "sự dồi dào",
+    "a large amount"
+   ],
+   [
+    "undermine",
+    "/ˌʌndərˈmaɪn/",
+    "làm suy yếu",
+    "to weaken gradually"
+   ],
+   [
+    "nagging",
+    "/ˈnæɡɪŋ/",
+    "day dứt, dai dẳng",
+    "persistent and annoying"
+   ],
+   [
+    "replicate",
+    "/ˈreplɪkeɪt/",
+    "lặp lại (nghiên cứu)",
+    "to repeat a study"
+   ],
+   [
+    "unqualified",
+    "/ʌnˈkwɑːlɪfaɪd/",
+    "tuyệt đối, không giới hạn",
+    "without limits"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "“Nghịch lý” trong bài là gì?",
+     "What is the “paradox”?"
+    ],
+    [
+     [
+      "Nhiều lựa chọn có thể làm giảm sự hài lòng",
+      "More choice can reduce satisfaction"
+     ],
+     [
+      "Mứt rất đắt",
+      "Jam is expensive"
+     ],
+     [
+      "Người ta luôn mua nhiều hơn",
+      "People always buy more"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    "What happened when researchers tried to replicate the findings?",
+    [
+     "They confirmed them exactly",
+     "They got mixed results",
+     "They gave up"
+    ],
+    1
+   ],
+   [
+    "mc",
+    "“nagging suspicion” is closest in meaning to…",
+    [
+     "a persistent doubt",
+     "a strong belief",
+     "a happy feeling"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "According to the text, the effect depends on…",
+    [
+     "price only",
+     "context, such as knowledge and how much the decision matters",
+     "the shop's location"
+    ],
+    1
+   ],
+   [
+    "mc",
+    "The writer concludes that choice is…",
+    [
+     "always bad",
+     "always good",
+     "not always good; too much can be a burden"
+    ],
+    2
+   ],
+   [
+    "fill",
+    "Choice is not an ___ good.",
+    [
+     "unqualified",
+     "unlimited",
+     "unknown"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "When options multiply, so does the effort required to compare them, and so does the nagging suspicion that we have chosen badly.",
+    "q": [
+     "Điều gì tăng lên cùng với số lựa chọn?",
+     "What increases along with the number of options?"
+    ],
+    "o": [
+     [
+      "Công sức so sánh và nỗi nghi ngờ đã chọn sai",
+      "The effort to compare and the doubt about our choice"
+     ],
+     [
+      "Giá của sản phẩm",
+      "The price of the products"
+     ],
+     [
+      "Sự hài lòng với lựa chọn cuối cùng",
+      "Our satisfaction with the final choice"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Cấu trúc đảo “so does + chủ ngữ” = cái đó cũng tăng theo. Hai thứ tăng theo là effort và nagging suspicion; sự hài lòng thì ngược lại, giảm đi.",
+     "The inversion “so does + subject” = that increases too. The two things that grow are the effort and the nagging suspicion; satisfaction actually falls."
+    ],
+    "f": [
+     "so does the effort required to compare them",
+     "C1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Later attempts to replicate these findings have produced mixed results, suggesting that the effect depends heavily on context.",
+    "e": [
+     "Chú ý chính tả replicate và cụm phân từ “suggesting that…” nối tiếp ý của mệnh đề chính.",
+     "Note the spelling of replicate and the participle clause “suggesting that…”, which continues the main clause."
+    ],
+    "f": [
+     "have produced mixed results",
+     "C1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Beyond a certain point, an abundance of choice can become a burden rather than a freedom, especially when the decision really matters.",
+    "e": [
+     "Đọc nối “an abundance of”; nhấn a-BUN-dance và BUR-den. Đối lập “a burden rather than a freedom” cần nhấn cả hai danh từ.",
+     "Link “an abundance of”; stress a-BUN-dance and BUR-den. In the contrast “a burden rather than a freedom”, stress both nouns."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "As the number of streaming services grows, so ___ the time viewers spend scrolling through menus before they finally pick something to watch.",
+    "o": [
+     "does",
+     "do",
+     "is"
+    ],
+    "a": 0,
+    "e": [
+     "“so + trợ động từ + chủ ngữ” = cũng vậy. Chủ ngữ the time là số ít và động từ gốc grows ở hiện tại đơn → so does. Đây chính là mẫu “so does the effort” trong bài đọc.",
+     "“so + auxiliary + subject” = likewise. The subject the time is singular and the verb grows is present simple → so does. It mirrors “so does the effort” in the passage."
+    ],
+    "f": [
+     "so does the time",
+     "C1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Psychologists have argued that an abundance of choice may actually ___ our satisfaction, because we keep wondering what we have missed.",
+    "a": [
+     "undermine",
+     "reduce",
+     "decrease",
+     "lower",
+     "diminish"
+    ],
+    "e": [
+     "undermine = làm suy yếu dần (từ trong bài). Cũng chấp nhận reduce, lower, diminish. Sau may dùng động từ nguyên mẫu, không thêm -s.",
+     "undermine = gradually weaken (the word in the text); reduce, lower and diminish are also accepted. After may use the base form, with no -s."
+    ],
+    "f": [
+     "undermine",
+     "C1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Some studies found that shoppers which were offered a smaller selection were more likely to buy anything at all than those facing forty options.",
+    "a": [
+     "Some studies found that shoppers who were offered a smaller selection were more likely to buy anything at all than those facing forty options.",
+     "Some studies found that shoppers offered a smaller selection were more likely to buy anything at all than those facing forty options.",
+     "Some studies found that shoppers that were offered a smaller selection were more likely to buy anything at all than those facing forty options."
+    ],
+    "e": [
+     "shoppers là người → who (hoặc that), không dùng which. Bài đọc dùng dạng rút gọn “shoppers offered a smaller selection”, cũng hoàn toàn đúng.",
+     "shoppers are people → who (or that), not which. The passage uses the reduced form “shoppers offered a smaller selection”, which is also correct."
+    ],
+    "f": [
+     "shoppers who were offered",
+     "C1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu bằng câu chẻ “What seems clear is…”",
+     "Rewrite the sentence using the cleft “What seems clear is…”"
+    ],
+    "s": "Clearly, choice is not an unqualified good, and beyond a certain point it can become a burden rather than a freedom.",
+    "a": [
+     "What seems clear is that choice is not an unqualified good, and beyond a certain point it can become a burden rather than a freedom.",
+     "What seems clear is that choice is not an unqualified good; beyond a certain point, it can become a burden rather than a freedom.",
+     "What seems clear is that choice is not an unqualified good, and that beyond a certain point it can become a burden rather than a freedom."
+    ],
+    "e": [
+     "Trạng từ Clearly chuyển thành What-cleft: What seems clear is that + mệnh đề. Đừng quên that sau is.",
+     "The adverb Clearly becomes a what-cleft: What seems clear is that + clause. Don't forget that after is."
+    ],
+    "f": [
+     "What seems clear is that",
+     "C1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hiệu ứng này dường như phụ thuộc rất nhiều vào bối cảnh, chẳng hạn người mua đã hiểu biết đến đâu và quyết định đó quan trọng với họ ra sao.",
+    "a": [
+     "This effect seems to depend heavily on context, such as how much shoppers already know and how much the decision matters to them.",
+     "This effect appears to depend heavily on context, for example how much buyers already know and how important the decision is to them.",
+     "The effect seems to depend largely on context, such as how much consumers already know and how much the decision matters to them."
+    ],
+    "e": [
+     "“dường như” → seems / appears to + V. Hai câu hỏi gián tiếp (how much shoppers already know, how much the decision matters) giữ trật tự câu khẳng định, như trong bài đọc.",
+     "“dường như” → seems / appears to + V. The two embedded questions (how much shoppers already know, how much the decision matters) keep statement word order, as in the passage."
+    ],
+    "f": [
+     "seems to depend heavily on context",
+     "C1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Faced with|forty varieties|of jam,|most of us|assume that|more options|can only be|a good thing.",
+    "m": [
+     "Đứng trước bốn mươi loại mứt, phần lớn chúng ta cho rằng nhiều lựa chọn hơn chỉ có thể là điều tốt.",
+     "Faced with forty varieties of jam, most of us assume that more options can only be a good thing."
+    ],
+    "e": [
+     "Cụm phân từ quá khứ “Faced with…” đứng đầu câu, có chủ ngữ ngầm là most of us. Không viết “Facing with”.",
+     "The past participle clause “Faced with…” opens the sentence; its implied subject is most of us. Don't write “Facing with”."
+    ],
+    "f": [
+     "Faced with",
+     "C1"
+    ]
+   }
+  ]
+ }
+]

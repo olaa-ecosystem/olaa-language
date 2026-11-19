@@ -1,0 +1,518 @@
+{
+ "chart": [
+  [
+   [
+    "Nguyên âm (chỉ 5 âm, luôn đọc rõ)",
+    "Vowels (only 5, always clear)"
+   ],
+   [
+    [
+     "a",
+     "casa, mapa, hablar",
+     "“a” rõ, không đổi thành “ơ”",
+     "clear “a”"
+    ],
+    [
+     "e",
+     "mesa, verde, leche",
+     "“ê” ngắn",
+     "short “e”"
+    ],
+    [
+     "i",
+     "sí, vida, libro",
+     "“i”",
+     "“ee”"
+    ],
+    [
+     "o",
+     "todo, ocho, como",
+     "“ô” ngắn, không thành “âu”",
+     "pure “o”, no glide"
+    ],
+    [
+     "u",
+     "uno, luna, mucho",
+     "“u”",
+     "“oo”"
+    ]
+   ]
+  ],
+  [
+   [
+    "Phụ âm cần chú ý",
+    "Key consonants"
+   ],
+   [
+    [
+     "ɾ",
+     "pero, caro, hablar",
+     "“r” đơn: lưỡi chạm lợi một lần thật nhanh",
+     "single tap"
+    ],
+    [
+     "r",
+     "perro, rojo, carro",
+     "“rr” và r đầu từ: rung lưỡi nhiều lần",
+     "trilled r"
+    ],
+    [
+     "x",
+     "jamón, gente, mujer",
+     "j và g (trước e, i): như “kh” tiếng Việt",
+     "like Vietnamese “kh”"
+    ],
+    [
+     "ɲ",
+     "año, niño, España",
+     "ñ: như “nh” tiếng Việt",
+     "like Vietnamese “nh”"
+    ],
+    [
+     "ʝ",
+     "llamar, yo, calle",
+     "ll và y: gần “gi” (miền Bắc VN)",
+     "like “y/gi”"
+    ],
+    [
+     "tʃ",
+     "chico, mucho, noche",
+     "ch: như “ch” bật nhẹ",
+     "“ch”"
+    ],
+    [
+     "θ / s",
+     "cena, zapato, cinco",
+     "c (trước e, i) và z: Tây Ban Nha đọc /θ/ (lưỡi giữa răng), Mỹ Latinh đọc /s/",
+     "Spain /θ/, Latin America /s/"
+    ],
+    [
+     "b · β",
+     "vaca, bebé, uva",
+     "b và v đọc như nhau: /b/ ở đầu, giữa hai nguyên âm thành /β/ mềm (môi gần chạm)",
+     "b = v; soft between vowels"
+    ],
+    [
+     "d · ð",
+     "dedo, cada, ciudad",
+     "/d/ ở đầu; giữa hai nguyên âm thành /ð/ nhẹ như “th” trong “this”",
+     "soft d between vowels"
+    ],
+    [
+     "ɡ · ɣ",
+     "gato, agua, amigo",
+     "/ɡ/ ở đầu; giữa hai nguyên âm thành /ɣ/ mềm",
+     "soft g between vowels"
+    ],
+    [
+     "(h câm)",
+     "hola, hacer, ahora",
+     "chữ h không đọc",
+     "h is silent"
+    ],
+    [
+     "k",
+     "queso, casa, kilo",
+     "qu (trước e, i), c (trước a, o, u) đọc /k/",
+     "qu / c = k"
+    ]
+   ]
+  ],
+  [
+   [
+    "Trọng âm",
+    "Stress"
+   ],
+   [
+    [
+     "´",
+     "café, canción, árbol",
+     "có dấu sắc: nhấn vào âm tiết đó",
+     "written accent = stress"
+    ],
+    [
+     "-n -s nguyên âm",
+     "casa, hablan, joven",
+     "từ tận cùng bằng nguyên âm, n, s: nhấn âm tiết áp chót",
+     "stress the second-to-last"
+    ],
+    [
+     "phụ âm khác",
+     "ciudad, hablar, español",
+     "tận cùng bằng phụ âm khác: nhấn âm tiết cuối",
+     "stress the last syllable"
+    ]
+   ]
+  ]
+ ],
+ "pairs": [
+  [
+   "pero",
+   "perro",
+   "ɾ – r"
+  ],
+  [
+   "caro",
+   "carro",
+   "ɾ – r"
+  ],
+  [
+   "cero",
+   "cerro",
+   "ɾ – r"
+  ],
+  [
+   "para",
+   "parra",
+   "ɾ – r"
+  ],
+  [
+   "coro",
+   "corro",
+   "ɾ – r"
+  ],
+  [
+   "pena",
+   "peña",
+   "n – ɲ"
+  ],
+  [
+   "cana",
+   "caña",
+   "n – ɲ"
+  ],
+  [
+   "una",
+   "uña",
+   "n – ɲ"
+  ],
+  [
+   "mono",
+   "moño",
+   "n – ɲ"
+  ],
+  [
+   "papa",
+   "papá",
+   "trọng âm"
+  ],
+  [
+   "hablo",
+   "habló",
+   "trọng âm"
+  ],
+  [
+   "esta",
+   "está",
+   "trọng âm"
+  ],
+  [
+   "termino",
+   "terminó",
+   "trọng âm"
+  ],
+  [
+   "llama",
+   "lama",
+   "ʝ – l"
+  ],
+  [
+   "callo",
+   "calo",
+   "ʝ – l"
+  ],
+  [
+   "jota",
+   "gota",
+   "x – ɡ"
+  ],
+  [
+   "cara",
+   "jara",
+   "k – x"
+  ],
+  [
+   "pollo",
+   "polo",
+   "ʝ – l"
+  ],
+  [
+   "mesa",
+   "misa",
+   "e – i"
+  ],
+  [
+   "peso",
+   "piso",
+   "e – i"
+  ],
+  [
+   "como",
+   "cumo",
+   "o – u"
+  ],
+  [
+   "base",
+   "pase",
+   "b – p"
+  ],
+  [
+   "tomo",
+   "domo",
+   "t – d"
+  ],
+  [
+   "casa",
+   "cosa",
+   "a – o"
+  ]
+ ],
+ "stress": [
+  [
+   "teléfono",
+   [
+    "te",
+    "le",
+    "fo",
+    "no"
+   ],
+   1
+  ],
+  [
+   "árbol",
+   [
+    "ar",
+    "bol"
+   ],
+   0
+  ],
+  [
+   "canción",
+   [
+    "can",
+    "cion"
+   ],
+   1
+  ],
+  [
+   "ciudad",
+   [
+    "ciu",
+    "dad"
+   ],
+   1
+  ],
+  [
+   "examen",
+   [
+    "e",
+    "xa",
+    "men"
+   ],
+   1
+  ],
+  [
+   "difícil",
+   [
+    "di",
+    "fi",
+    "cil"
+   ],
+   1
+  ],
+  [
+   "música",
+   [
+    "mu",
+    "si",
+    "ca"
+   ],
+   0
+  ],
+  [
+   "trabajar",
+   [
+    "tra",
+    "ba",
+    "jar"
+   ],
+   2
+  ],
+  [
+   "ventana",
+   [
+    "ven",
+    "ta",
+    "na"
+   ],
+   1
+  ],
+  [
+   "lápiz",
+   [
+    "la",
+    "piz"
+   ],
+   0
+  ],
+  [
+   "sábado",
+   [
+    "sa",
+    "ba",
+    "do"
+   ],
+   0
+  ],
+  [
+   "estación",
+   [
+    "es",
+    "ta",
+    "cion"
+   ],
+   2
+  ],
+  [
+   "hablan",
+   [
+    "ha",
+    "blan"
+   ],
+   0
+  ],
+  [
+   "universidad",
+   [
+    "u",
+    "ni",
+    "ver",
+    "si",
+    "dad"
+   ],
+   4
+  ],
+  [
+   "computadora",
+   [
+    "com",
+    "pu",
+    "ta",
+    "do",
+    "ra"
+   ],
+   3
+  ],
+  [
+   "fácil",
+   [
+    "fa",
+    "cil"
+   ],
+   0
+  ],
+  [
+   "pájaro",
+   [
+    "pa",
+    "ja",
+    "ro"
+   ],
+   0
+  ],
+  [
+   "corazón",
+   [
+    "co",
+    "ra",
+    "zon"
+   ],
+   2
+  ],
+  [
+   "hospital",
+   [
+    "hos",
+    "pi",
+    "tal"
+   ],
+   2
+  ],
+  [
+   "película",
+   [
+    "pe",
+    "li",
+    "cu",
+    "la"
+   ],
+   1
+  ],
+  [
+   "médico",
+   [
+    "me",
+    "di",
+    "co"
+   ],
+   0
+  ],
+  [
+   "inglés",
+   [
+    "in",
+    "gles"
+   ],
+   1
+  ],
+  [
+   "joven",
+   [
+    "jo",
+    "ven"
+   ],
+   0
+  ],
+  [
+   "español",
+   [
+    "es",
+    "pa",
+    "ñol"
+   ],
+   2
+  ]
+ ],
+ "src": [
+  [
+   "SpanishDict – Pronunciation",
+   "Phiên âm theo âm tiết + IPA, giọng Tây Ban Nha và Mỹ Latinh",
+   "Syllables + IPA, Spain and Latin American audio",
+   "https://www.spanishdict.com/pronunciation/{w}"
+  ],
+  [
+   "RAE – Diccionario",
+   "Từ điển chuẩn của Viện Hàn lâm Tây Ban Nha",
+   "The Royal Spanish Academy dictionary",
+   "https://dle.rae.es/{w}"
+  ],
+  [
+   "YouGlish (tiếng Tây Ban Nha)",
+   "Nghe từ trong video thật của người bản xứ",
+   "Hear the word in real native videos",
+   "https://youglish.com/pronounce/{w}/spanish"
+  ],
+  [
+   "Forvo",
+   "Người bản xứ nhiều nước thu âm từng từ",
+   "Native speakers from many countries",
+   "https://forvo.com/word/{w}/#es"
+  ],
+  [
+   "Bảng IPA tương tác",
+   "Bấm từng ký hiệu IPA để nghe",
+   "Click each IPA symbol to hear it",
+   "https://www.ipachart.com/"
+  ]
+ ]
+}

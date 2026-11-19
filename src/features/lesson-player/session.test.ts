@@ -53,3 +53,18 @@ describe('lesson session', () => {
     expect(summarize(s, 0).perfect).toBe(true);
   });
 });
+
+describe('answerCurrent without retry', () => {
+  it('moves on after a wrong answer and does not ask again', () => {
+    const exercises = [
+      { id: 'a', lessonId: 'l', kind: 'say', text: 'hola', lang: 'es' },
+      { id: 'b', lessonId: 'l', kind: 'say', text: 'adiós', lang: 'es' },
+    ] as Parameters<typeof startSession>[0];
+    let s = startSession(exercises, 0);
+    s = answerCurrent(s, false, false);
+    s = answerCurrent(s, true, false);
+    expect(isComplete(s)).toBe(true);
+    expect(s.queue).toHaveLength(2);
+    expect(summarize(s, 1000).accuracy).toBe(0.5);
+  });
+});

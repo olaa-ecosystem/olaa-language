@@ -1,0 +1,65 @@
+{
+ "name": [
+  "Tiếng Tây Ban Nha",
+  "Spanish"
+ ],
+ "short": "ES",
+ "tts": "es-ES",
+ "native": "Español",
+ "levels": [
+  {
+   "c": "A1",
+   "n": [
+    "Khởi động",
+    "Beginner"
+   ],
+   "x": "DELE A1",
+   "w": "~600"
+  },
+  {
+   "c": "A2",
+   "n": [
+    "Sơ cấp",
+    "Elementary"
+   ],
+   "x": "DELE A2",
+   "w": "~1,500"
+  },
+  {
+   "c": "B1",
+   "n": [
+    "Trung cấp",
+    "Intermediate"
+   ],
+   "x": "DELE B1",
+   "w": "~3,000"
+  },
+  {
+   "c": "B2",
+   "n": [
+    "Trung–cao cấp",
+    "Upper-intermediate"
+   ],
+   "x": "DELE B2",
+   "w": "~5,000"
+  },
+  {
+   "c": "C1",
+   "n": [
+    "Cao cấp",
+    "Advanced"
+   ],
+   "x": "DELE C1",
+   "w": "~8,000"
+  },
+  {
+   "c": "C2",
+   "n": [
+    "Thành thạo",
+    "Mastery"
+   ],
+   "x": "DELE C2",
+   "w": "10,000+"
+  }
+ ]
+}

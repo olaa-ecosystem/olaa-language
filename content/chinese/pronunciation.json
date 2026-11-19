@@ -1,0 +1,526 @@
+{
+ "chart": [
+  [
+   [
+    "Thanh điệu",
+    "Tones"
+   ],
+   [
+    [
+     "ˉ  thanh 1",
+     "mā 妈, tāng 汤, shū 书",
+     "cao và ngang, giữ đều (55)",
+     "high and level (55)"
+    ],
+    [
+     "ˊ  thanh 2",
+     "má 麻, táng 糖, xué 学",
+     "đi lên như hỏi “hả?” (35)",
+     "rising, like asking “huh?” (35)"
+    ],
+    [
+     "ˇ  thanh 3",
+     "mǎ 马, hǎo 好, wǒ 我",
+     "xuống thấp rồi lên; trong câu thường chỉ xuống thấp (214)",
+     "dip low (214); in speech mostly low"
+    ],
+    [
+     "ˋ  thanh 4",
+     "mà 骂, shì 是, qù 去",
+     "rơi mạnh từ cao xuống (51) – như ra lệnh",
+     "sharp fall (51)"
+    ],
+    [
+     "thanh nhẹ",
+     "ma 吗, de 的, māma 妈妈",
+     "ngắn và nhẹ, không dấu",
+     "short and light"
+    ],
+    [
+     "3 + 3 → 2 + 3",
+     "nǐ hǎo → ní hǎo",
+     "hai thanh 3 liền nhau: chữ đầu đọc thành thanh 2",
+     "two 3rd tones: the first becomes 2nd"
+    ]
+   ]
+  ],
+  [
+   [
+    "Thanh mẫu (phụ âm đầu)",
+    "Initials"
+   ],
+   [
+    [
+     "b [p]",
+     "bà 爸",
+     "như “p” không bật hơi – gần “b” nhẹ",
+     "unaspirated p"
+    ],
+    [
+     "p [pʰ]",
+     "pà 怕",
+     "“p” bật hơi mạnh",
+     "aspirated p"
+    ],
+    [
+     "d [t]",
+     "dà 大",
+     "như “t” tiếng Việt",
+     "like Vietnamese “t”"
+    ],
+    [
+     "t [tʰ]",
+     "tā 他",
+     "như “th” tiếng Việt",
+     "like Vietnamese “th”"
+    ],
+    [
+     "g [k]",
+     "gē 哥",
+     "như “c/k” tiếng Việt",
+     "like Vietnamese “c”"
+    ],
+    [
+     "k [kʰ]",
+     "kàn 看",
+     "“k” bật hơi – không phải “kh”",
+     "aspirated k"
+    ],
+    [
+     "h [x]",
+     "hǎo 好",
+     "gần “kh” tiếng Việt",
+     "like Vietnamese “kh”"
+    ],
+    [
+     "j [tɕ]",
+     "jiā 家",
+     "đầu lưỡi chạm răng dưới, môi dẹt – gần “ch” mềm",
+     "soft “j”, tongue down"
+    ],
+    [
+     "q [tɕʰ]",
+     "qù 去",
+     "như j nhưng bật hơi",
+     "aspirated j"
+    ],
+    [
+     "x [ɕ]",
+     "xiǎng 想",
+     "gần “x” tiếng Việt, môi dẹt",
+     "like Vietnamese “x”"
+    ],
+    [
+     "zh [ʈʂ]",
+     "zhōng 中",
+     "uốn lưỡi – gần “tr” tiếng Việt",
+     "retroflex, like “tr”"
+    ],
+    [
+     "ch [ʈʂʰ]",
+     "chī 吃",
+     "như zh nhưng bật hơi",
+     "aspirated zh"
+    ],
+    [
+     "sh [ʂ]",
+     "shì 是",
+     "uốn lưỡi – gần “s” uốn lưỡi",
+     "retroflex s"
+    ],
+    [
+     "r [ʐ]",
+     "rén 人",
+     "uốn lưỡi, rung – gần “r” nhẹ",
+     "retroflex r"
+    ],
+    [
+     "z [ts]",
+     "zài 再",
+     "“ts” không bật hơi",
+     "unaspirated ts"
+    ],
+    [
+     "c [tsʰ]",
+     "cài 菜",
+     "“ts” bật hơi mạnh",
+     "aspirated ts"
+    ],
+    [
+     "s [s]",
+     "sān 三",
+     "như “x” tiếng Việt",
+     "like Vietnamese “x”"
+    ]
+   ]
+  ],
+  [
+   [
+    "Vận mẫu khó",
+    "Tricky finals"
+   ],
+   [
+    [
+     "ü [y]",
+     "nǚ 女, lǜ 绿, qù 去",
+     "môi tròn như “u”, lưỡi như “i”; sau j q x viết u nhưng đọc ü",
+     "rounded “ee”"
+    ],
+    [
+     "e [ɤ]",
+     "è 饿, hē 喝",
+     "gần “ưa / ơ”, không phải “e”",
+     "like “ơ”, not “e”"
+    ],
+    [
+     "-i (sau zh ch sh r)",
+     "shì 是, chī 吃",
+     "không đọc “i”: giữ lưỡi uốn, kéo dài âm",
+     "not “i”: hold the retroflex"
+    ],
+    [
+     "-i (sau z c s)",
+     "sì 四, zì 字",
+     "không đọc “i”: giữ âm “ư” hẹp",
+     "not “i”: a buzzing “ư”"
+    ],
+    [
+     "an – ang",
+     "sān 三 – sāng 桑",
+     "-n đầu lưỡi; -ng cuống lưỡi (như “ang”)",
+     "-n vs -ng"
+    ],
+    [
+     "en – eng",
+     "gēn 根 – gēng 更",
+     "-n vs -ng",
+     "-n vs -ng"
+    ],
+    [
+     "in – ing",
+     "xīn 心 – xīng 星",
+     "-n vs -ng",
+     "-n vs -ng"
+    ],
+    [
+     "ian [jɛn]",
+     "tiān 天, qián 钱",
+     "đọc “iên”, không phải “ian”",
+     "like “iên”"
+    ],
+    [
+     "er [ɚ]",
+     "èr 二, ér 儿",
+     "“ơ” cuốn lưỡi",
+     "r-coloured vowel"
+    ]
+   ]
+  ]
+ ],
+ "pairs": [
+  [
+   "山",
+   "三",
+   "sh – s · shān / sān"
+  ],
+  [
+   "是",
+   "四",
+   "sh – s · shì / sì"
+  ],
+  [
+   "吃",
+   "七",
+   "ch – q · chī / qī"
+  ],
+  [
+   "怕",
+   "爸",
+   "p – b · pà / bà"
+  ],
+  [
+   "看",
+   "干",
+   "k – g · kàn / gàn"
+  ],
+  [
+   "去",
+   "句",
+   "q – j · qù / jù"
+  ],
+  [
+   "草",
+   "早",
+   "c – z · cǎo / zǎo"
+  ],
+  [
+   "他",
+   "搭",
+   "t – d · tā / dā"
+  ],
+  [
+   "心",
+   "星",
+   "in – ing · xīn / xīng"
+  ],
+  [
+   "金",
+   "京",
+   "in – ing · jīn / jīng"
+  ],
+  [
+   "根",
+   "更",
+   "en – eng · gēn / gēng"
+  ],
+  [
+   "三",
+   "桑",
+   "an – ang · sān / sāng"
+  ],
+  [
+   "女",
+   "努",
+   "ü – u · nǚ / nǔ"
+  ],
+  [
+   "绿",
+   "路",
+   "ü – u · lǜ / lù"
+  ],
+  [
+   "买",
+   "卖",
+   "thanh 3 – 4 · mǎi / mài"
+  ],
+  [
+   "汤",
+   "糖",
+   "thanh 1 – 2 · tāng / táng"
+  ],
+  [
+   "书",
+   "树",
+   "thanh 1 – 4 · shū / shù"
+  ],
+  [
+   "问",
+   "文",
+   "thanh 4 – 2 · wèn / wén"
+  ]
+ ],
+ "tones": [
+  [
+   "ma",
+   [
+    "妈",
+    "麻",
+    "马",
+    "骂"
+   ],
+   [
+    "mā",
+    "má",
+    "mǎ",
+    "mà"
+   ]
+  ],
+  [
+   "shi",
+   [
+    "诗",
+    "时",
+    "使",
+    "是"
+   ],
+   [
+    "shī",
+    "shí",
+    "shǐ",
+    "shì"
+   ]
+  ],
+  [
+   "tang",
+   [
+    "汤",
+    "糖",
+    "躺",
+    "烫"
+   ],
+   [
+    "tāng",
+    "táng",
+    "tǎng",
+    "tàng"
+   ]
+  ],
+  [
+   "yi",
+   [
+    "衣",
+    "姨",
+    "椅",
+    "意"
+   ],
+   [
+    "yī",
+    "yí",
+    "yǐ",
+    "yì"
+   ]
+  ],
+  [
+   "wu",
+   [
+    "屋",
+    "无",
+    "五",
+    "雾"
+   ],
+   [
+    "wū",
+    "wú",
+    "wǔ",
+    "wù"
+   ]
+  ],
+  [
+   "ba",
+   [
+    "八",
+    "拔",
+    "把",
+    "爸"
+   ],
+   [
+    "bā",
+    "bá",
+    "bǎ",
+    "bà"
+   ]
+  ],
+  [
+   "tong",
+   [
+    "通",
+    "同",
+    "统",
+    "痛"
+   ],
+   [
+    "tōng",
+    "tóng",
+    "tǒng",
+    "tòng"
+   ]
+  ],
+  [
+   "guo",
+   [
+    "锅",
+    "国",
+    "果",
+    "过"
+   ],
+   [
+    "guō",
+    "guó",
+    "guǒ",
+    "guò"
+   ]
+  ],
+  [
+   "shu",
+   [
+    "书",
+    "熟",
+    "鼠",
+    "树"
+   ],
+   [
+    "shū",
+    "shú",
+    "shǔ",
+    "shù"
+   ]
+  ],
+  [
+   "tian",
+   [
+    "天",
+    "田",
+    "舔",
+    "掭"
+   ],
+   [
+    "tiān",
+    "tián",
+    "tiǎn",
+    "tiàn"
+   ]
+  ],
+  [
+   "mai",
+   [
+    "",
+    "埋",
+    "买",
+    "卖"
+   ],
+   [
+    "",
+    "mái",
+    "mǎi",
+    "mài"
+   ]
+  ],
+  [
+   "wen",
+   [
+    "温",
+    "文",
+    "吻",
+    "问"
+   ],
+   [
+    "wēn",
+    "wén",
+    "wěn",
+    "wèn"
+   ]
+  ]
+ ],
+ "src": [
+  [
+   "Bảng pinyin Yoyo Chinese",
+   "Bảng pinyin có video và audio cho từng âm",
+   "Pinyin chart with video and audio for every sound",
+   "https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table"
+  ],
+  [
+   "MDBG Dictionary",
+   "Từ điển Trung – Anh, pinyin, thanh điệu, cách viết",
+   "Chinese–English dictionary with pinyin and tones",
+   "https://www.mdbg.net/chinese/dictionary?wdqb={w}"
+  ],
+  [
+   "YouGlish (tiếng Trung)",
+   "Nghe từ trong video thật của người bản xứ",
+   "Hear the word in real native videos",
+   "https://youglish.com/pronounce/{w}/chinese"
+  ],
+  [
+   "Forvo",
+   "Người bản xứ thu âm từng từ",
+   "Native speakers record each word",
+   "https://forvo.com/word/{w}/#zh"
+  ],
+  [
+   "Bảng IPA tương tác",
+   "Bấm từng ký hiệu IPA để nghe",
+   "Click each IPA symbol to hear it",
+   "https://www.ipachart.com/"
+  ]
+ ]
+}

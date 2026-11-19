@@ -1,16 +1,21 @@
 import { useEffect, type ReactNode } from 'react';
 import { Mascot } from '../../../components/mascots';
 import { SpeakerIcon, TurtleIcon } from '../../../components/Icons';
-import type { LanguageCode, MascotId } from '../../../types';
-import { speak } from '../../../utils/speech';
+import type { MascotId } from '../../../types';
+import { speak, type SpeechLang } from '../../../utils/speech';
 import type { Exercise, GradeResult } from '../../exercises';
 
-export const LANGUAGE_NAMES: Record<LanguageCode, string> = { en: 'English', vi: 'Vietnamese' };
+export const LANGUAGE_NAMES: Record<SpeechLang, string> = {
+  en: 'English',
+  vi: 'Vietnamese',
+  es: 'Spanish',
+  zh: 'Chinese',
+};
 
 export interface ViewProps<E extends Exercise> {
   exercise: E;
   buddy: MascotId;
-  targetLang: LanguageCode;
+  targetLang: SpeechLang;
   /** True once the answer has been checked. */
   locked: boolean;
   result: GradeResult | null;
@@ -26,7 +31,7 @@ export function SpeakButton({
   label,
 }: {
   text: string;
-  lang: LanguageCode;
+  lang: SpeechLang;
   slow?: boolean;
   big?: boolean;
   label?: string;
@@ -52,7 +57,7 @@ export function BuddyPrompt({
 }: {
   buddy: MascotId;
   text: string;
-  lang: LanguageCode;
+  lang: SpeechLang;
   speakable: boolean;
 }) {
   useEffect(() => {

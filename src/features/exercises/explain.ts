@@ -6,6 +6,11 @@ import { levenshtein, normalize, stripDiacritics } from '../../utils/text';
 import type { Exercise, GradeResult } from './types';
 
 export type ErrorCategory =
+  | 'grammar'
+  | 'reading'
+  | 'speaking'
+  | 'writing'
+  | 'vocabulary'
   | 'meaning'
   | 'word-order'
   | 'missing-words'
@@ -15,6 +20,11 @@ export type ErrorCategory =
   | 'skipped';
 
 export const ERROR_LABELS: Record<ErrorCategory, string> = {
+  grammar: 'Grammar',
+  reading: 'Reading',
+  speaking: 'Speaking',
+  writing: 'Writing',
+  vocabulary: 'Vocabulary',
   meaning: 'Word meaning',
   'word-order': 'Word order',
   'missing-words': 'Missing or extra words',
@@ -84,6 +94,16 @@ export function explainMistake(
   result: GradeResult,
 ): Explanation | null {
   if (result.correct) return null;
+  if (exercise.explain || exercise.skill) {
+    // Level curriculum: the teacher wrote the explanation; the skill is the category.
+    const category = (exercise.skill === 'translation' ? 'translation' : exercise.skill) as
+      | ErrorCategory
+      | undefined;
+    return {
+      category: !response.trim() ? 'skipped' : (category ?? 'grammar'),
+      why: exercise.explain ?? `The answer is “${result.correctAnswer}”.`,
+    };
+  }
   if (!response.trim() && exercise.kind !== 'match') {
     return {
       category: 'skipped',
@@ -118,6 +138,11 @@ export function explainMistake(
       return { category: 'translation', why: `A correct translation is “${target}”.` };
     }
     case 'match':
+    case 'choice':
+    case 'text':
+    case 'dictation':
+    case 'say':
+    case 'free':
       return null;
   }
 }

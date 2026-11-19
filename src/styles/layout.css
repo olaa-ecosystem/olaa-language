@@ -180,15 +180,25 @@
   }
   .sidebar ul {
     margin: 0;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 2px;
   }
   .nav-link {
     flex-direction: column;
     justify-content: center;
     gap: 2px;
     min-height: 56px;
-    padding: 4px;
-    font-size: 11px;
+    padding: 4px 0;
+    font-size: 10px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .nav-link span {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: 0;
+    text-transform: none;
   }
   .topbar {
     display: block;
@@ -1437,4 +1447,206 @@ fieldset.field {
   justify-content: space-between;
   gap: 8px;
   font-weight: 700;
+}
+
+/* ================= level curriculum ================= */
+.level-list,
+.unit-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+.level-card {
+  display: grid;
+  gap: 10px;
+}
+.level-card.is-locked {
+  opacity: 0.7;
+}
+.level-card__head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.level-card__head h2 {
+  font-size: 20px;
+}
+.level-badge {
+  flex: none;
+  display: grid;
+  place-items: center;
+  min-width: 58px;
+  height: 58px;
+  padding: 0 8px;
+  border-radius: var(--radius-sm);
+  background: var(--primary-soft);
+  color: var(--primary-dark);
+  font-weight: 900;
+}
+.level-card.is-done .level-badge {
+  background: var(--success-soft);
+  color: var(--success-dark);
+}
+.level-card.is-locked .level-badge {
+  background: var(--locked);
+  color: var(--ink-soft);
+}
+.level-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+.level-due {
+  display: grid;
+  gap: 2px;
+  color: inherit;
+  text-decoration: none;
+  border-color: var(--accent);
+}
+.unit-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: inherit;
+  text-decoration: none;
+}
+.unit-row > span:last-child {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+.unit-row.is-locked {
+  opacity: 0.6;
+}
+.unit-row__n {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--primary-soft);
+  color: var(--primary-dark);
+  font-weight: 900;
+}
+.unit-row.is-done .unit-row__n {
+  background: var(--success);
+  color: #fff;
+}
+.unit-row.is-locked .unit-row__n {
+  background: var(--locked);
+  color: var(--ink-soft);
+}
+.unit-intro h2 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+.rich p {
+  margin: 0 0 6px;
+}
+.rich ul {
+  margin: 0 0 6px;
+  padding-left: 20px;
+}
+.table-wrap {
+  overflow-x: auto;
+}
+.unit-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+.unit-table th,
+.unit-table td {
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.unit-table th {
+  font-weight: 800;
+}
+.hanzi-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.hanzi-list li {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+}
+.hanzi {
+  width: 56px;
+  height: 56px;
+  border: 2px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 30px;
+  cursor: pointer;
+}
+.hanzi-list small,
+.vocab-hanviet {
+  color: var(--accent-dark);
+  font-weight: 700;
+  font-size: 13px;
+}
+.vocab-sound {
+  font-style: italic;
+}
+.task-list {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 6px;
+}
+
+/* authored exercises */
+.authored-prompt {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.blank {
+  display: inline-block;
+  width: 64px;
+  margin: 0 4px;
+  border-bottom: 3px solid var(--ink-soft);
+  vertical-align: baseline;
+}
+.audio-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.passage {
+  padding: 12px 14px;
+  border: 2px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  max-height: 40vh;
+  overflow-y: auto;
+}
+.passage summary {
+  font-weight: 800;
+  cursor: pointer;
+}
+.passage p {
+  margin: 8px 0;
+  line-height: 1.55;
+}
+.passage__translation {
+  color: var(--ink-soft);
+}
+.type-input--area {
+  min-height: 140px;
+  resize: vertical;
+  font: inherit;
 }

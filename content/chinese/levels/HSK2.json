@@ -1,0 +1,6058 @@
+[
+ {
+  "id": "h2-1",
+  "t": [
+   "了 hoàn thành & phủ định 没",
+   "了 completion & 没 negation"
+  ],
+  "hz": "买东西",
+  "th": [
+   [
+    "**Động từ + 了**: hành động đã hoàn thành: 我买**了**一本书。我吃**了**早饭。",
+    "**Verb + 了**: completed action: 我买**了**一本书。我吃**了**早饭。"
+   ],
+   [
+    "Phủ định quá khứ: **没(有) + động từ**, và **bỏ 了**: 我没买书。(Sai: 我没买了书)",
+    "Past negative: **没(有) + verb**, and **drop 了**: 我没买书。(Wrong: 我没买了书)"
+   ],
+   [
+    "Câu hỏi: …了**吗**？hoặc …了**没有**？你吃饭了吗？",
+    "Questions: …了**吗**？or …了**没有**？你吃饭了吗？"
+   ],
+   [
+    "**了 cuối câu** báo hiệu tình huống mới, thay đổi trạng thái: 下雨**了** (trời mưa rồi), 我二十岁**了**. **已经** + V + 了: đã … rồi.",
+    "**Sentence-final 了** marks a new situation / change: 下雨**了** (it's started raining), 我二十岁**了**. **已经** + V + 了: already."
+   ]
+  ],
+  "vo": [
+   [
+    "买",
+    "mǎi",
+    "mua",
+    "to buy"
+   ],
+   [
+    "东西",
+    "dōngxi",
+    "đồ vật",
+    "thing, stuff"
+   ],
+   [
+    "已经",
+    "yǐjīng",
+    "đã",
+    "already"
+   ],
+   [
+    "下雨",
+    "xià yǔ",
+    "mưa",
+    "to rain"
+   ],
+   [
+    "昨天",
+    "zuótiān",
+    "hôm qua",
+    "yesterday"
+   ],
+   [
+    "早饭",
+    "zǎofàn",
+    "bữa sáng",
+    "breakfast"
+   ],
+   [
+    "完",
+    "wán",
+    "xong",
+    "to finish"
+   ],
+   [
+    "手机",
+    "shǒujī",
+    "điện thoại di động",
+    "mobile phone"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我昨天___了一个手机。",
+    [
+     "买",
+     "吃",
+     "喝"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "我没买了书。",
+     "我没买书。",
+     "我不买了书。"
+    ],
+    1,
+    [
+     "Phủ định quá khứ: 没 + V, không có 了.",
+     "Past negative: 没 + V, no 了."
+    ]
+   ],
+   [
+    "fill",
+    "你吃饭了___？",
+    [
+     "吗",
+     "呢",
+     "什么"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我___吃了。(đã … rồi)",
+    [
+     "已经",
+     "没有",
+     "正在"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "下雨了。",
+    [
+     [
+      "Trời sắp mưa.",
+      "It's going to rain."
+     ],
+     [
+      "Trời mưa rồi.",
+      "It has started raining."
+     ],
+     [
+      "Trời không mưa.",
+      "It isn't raining."
+     ]
+    ],
+    1
+   ],
+   [
+    "order",
+    "我|已经|做|完|了",
+    [
+     "Tôi đã làm xong rồi.",
+     "I've already finished."
+    ]
+   ],
+   [
+    "listen",
+    "你昨天买了什么？",
+    [
+     "Nǐ zuótiān mǎi le shénme?",
+     "Nǐ míngtiān mǎi shénme?",
+     "Nǐ zuótiān chī le shénme?"
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Hôm qua tôi không đi.",
+     "I didn't go yesterday."
+    ],
+    [
+     "我昨天没去。",
+     "我昨天不去了。",
+     "我昨天没去了。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "昨天下午我去商店买了一个新手机，但是没买衣服。",
+    "q": [
+     "Chiều qua người nói đã mua gì?",
+     "What did the speaker buy yesterday afternoon?"
+    ],
+    "o": [
+     [
+      "một chiếc điện thoại mới",
+      "a new phone"
+     ],
+     [
+      "quần áo",
+      "clothes"
+     ],
+     [
+      "cả điện thoại và quần áo",
+      "both a phone and clothes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "买了一个新手机 = đã mua; 没买衣服 = không mua quần áo (phủ định quá khứ dùng 没, bỏ 了).",
+     "买了一个新手机 = bought; 没买衣服 = didn't buy clothes (past negative uses 没 and drops 了)."
+    ],
+    "f": [
+     "买了一个新手机",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我已经吃了早饭，可是我妹妹还没吃，因为她今天起床很晚。",
+    "q": [
+     "Ai chưa ăn sáng?",
+     "Who hasn't had breakfast?"
+    ],
+    "o": [
+     [
+      "em gái",
+      "the younger sister"
+     ],
+     [
+      "người nói",
+      "the speaker"
+     ],
+     [
+      "cả hai người",
+      "both of them"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "已经吃了 = đã ăn rồi; 还没吃 = vẫn chưa ăn. 还没 + V là cách nói “chưa” rất thường gặp.",
+     "已经吃了 = already ate; 还没吃 = still hasn't eaten. 还没 + V is the usual “not yet”."
+    ],
+    "f": [
+     "还没吃",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "外面下雨了，我们今天不去公园了。",
+    "e": [
+     "Cả hai chữ 了 đều ở cuối câu, báo tình huống mới: trời bắt đầu mưa, kế hoạch đã thay đổi (不去了 = thôi không đi nữa).",
+     "Both 了 are sentence-final, marking a new situation: it has started raining, and the plan has changed (不去了 = not going any more)."
+    ],
+    "f": [
+     "下雨了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "我昨天没去学校，因为我身体不舒服，今天已经好了。",
+    "e": [
+     "没去 méi qù; 不舒服 bù shūfu; 已经 yǐjīng. 了 cuối câu đọc nhẹ le.",
+     "没去 méi qù; 不舒服 bù shūfu; 已经 yǐjīng. Final 了 is a light le."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "上个星期天，我和妈妈去商店买东西。妈妈买了两件衣服和一些水果，我买了一个新手机。我们没买电脑，因为太贵了。中午我们在饭馆吃了饭。下午下雨了，我们没去公园，就回家了。晚上我已经很累了，所以九点就睡觉了。这是很开心的一天。",
+   "tr": "Chủ nhật tuần trước, tôi và mẹ đi cửa hàng mua đồ. Mẹ mua hai bộ quần áo và một ít hoa quả, tôi mua một chiếc điện thoại mới. Chúng tôi không mua máy tính vì đắt quá. Buổi trưa chúng tôi ăn cơm ở nhà hàng. Buổi chiều trời mưa, chúng tôi không đi công viên mà về nhà luôn. Buổi tối tôi đã rất mệt nên 9 giờ đã đi ngủ. Đó là một ngày rất vui."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết đã mua gì?",
+     "What did the writer buy?"
+    ],
+    "o": [
+     [
+      "một chiếc điện thoại mới",
+      "a new phone"
+     ],
+     [
+      "hai bộ quần áo",
+      "two pieces of clothing"
+     ],
+     [
+      "một chiếc máy tính",
+      "a computer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我买了一个新手机. Hai bộ quần áo là của mẹ (妈妈买了两件衣服), còn máy tính thì 没买.",
+     "我买了一个新手机. The clothes were the mother's purchase, and the computer was 没买 (not bought)."
+    ],
+    "f": [
+     "我买了一个新手机",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao họ không mua máy tính?",
+     "Why didn't they buy a computer?"
+    ],
+    "o": [
+     [
+      "vì quá đắt",
+      "it was too expensive"
+     ],
+     [
+      "vì cửa hàng đóng cửa",
+      "the shop was closed"
+     ],
+     [
+      "vì đã có máy tính",
+      "they already had one"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我们没买电脑，因为太贵了 – 太…了 = quá…; 没买 là phủ định của hành động đã không xảy ra.",
+     "我们没买电脑，因为太贵了 – 太…了 = too…; 没买 negates an action that didn't happen."
+    ],
+    "f": [
+     "因为太贵了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao buổi chiều họ không đi công viên?",
+     "Why didn't they go to the park in the afternoon?"
+    ],
+    "o": [
+     [
+      "vì trời mưa",
+      "because it rained"
+     ],
+     [
+      "vì quá mệt",
+      "they were too tired"
+     ],
+     [
+      "vì phải đi làm",
+      "they had to work"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "下午下雨了，我们没去公园 – 了 cuối câu báo thay đổi: trời bắt đầu mưa nên kế hoạch thay đổi.",
+     "下午下雨了，我们没去公园 – final 了 signals a change: it began to rain, so plans changed."
+    ],
+    "f": [
+     "下午下雨了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我昨天去了商店，可是那儿的东西太贵了，所以我什么都___买。",
+    "o": [
+     "没",
+     "不",
+     "别"
+    ],
+    "a": 0,
+    "e": [
+     "Kể việc đã không xảy ra trong quá khứ (昨天) dùng 没. 不买 là “không định mua / không muốn mua”, 别 là lời khuyên “đừng”.",
+     "A past action that didn't happen (昨天) takes 没. 不买 means “won't / don't want to buy”; 别 means “don't!”."
+    ],
+    "f": [
+     "什么都没买",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你吃早饭了___？——还没有，我今天起床太晚了。",
+    "a": [
+     "吗",
+     "没有"
+    ],
+    "e": [
+     "Hỏi việc đã làm chưa: …了吗？ hoặc …了没有？. Câu trả lời “chưa” là 还没有 (không nói 不吃了).",
+     "Ask “have you…yet?” with …了吗？ or …了没有？. “Not yet” is 还没有 (not 不吃了)."
+    ],
+    "f": [
+     "吃早饭了吗",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我昨天没去了学校，因为我生病了，在家休息了一天。",
+    "a": [
+     "我昨天没去学校，因为我生病了，在家休息了一天。",
+     "我昨天没有去学校，因为我生病了，在家休息了一天。"
+    ],
+    "e": [
+     "Phủ định quá khứ: 没(有) + động từ và BỎ 了 → 没去学校. 没去了 là lỗi rất phổ biến vì người học nghĩ “quá khứ thì phải có 了”.",
+     "Past negative: 没(有) + verb and DROP 了 → 没去学校. 没去了 is a classic error from thinking “past always needs 了”."
+    ],
+    "f": [
+     "没去学校",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi đã làm xong bài tập rồi, nhưng em trai tôi vẫn chưa làm.",
+    "a": [
+     "我已经做完作业了，但是我弟弟还没做。",
+     "我已经做完作业了，可是我弟弟还没做。",
+     "我已经做完了作业，但是我弟弟还没做。",
+     "我已经做完作业了，但是我弟弟还没有做。",
+     "我已经做完作业了，但是弟弟还没做。",
+     "我已经做完作业了，但是我弟弟还没做完。"
+    ],
+    "e": [
+     "“Đã … rồi” = 已经 + V + 了; “vẫn chưa” = 还没(有) + V, không có 了. 做完 = làm xong.",
+     "“Already” = 已经 + V + 了; “not yet” = 还没(有) + V without 了. 做完 = finish doing."
+    ],
+    "f": [
+     "还没做",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu phủ định (việc đã không xảy ra)",
+     "Rewrite as a negative (it didn't happen)"
+    ],
+    "s": "我妹妹昨天晚上看了电视，也做了作业。",
+    "a": [
+     "我妹妹昨天晚上没看电视，也没做作业。",
+     "我妹妹昨天晚上没有看电视，也没有做作业。",
+     "我妹妹昨天晚上没看电视，也没有做作业。",
+     "我妹妹昨天晚上没有看电视，也没做作业。"
+    ],
+    "e": [
+     "Mỗi động từ đều thành 没 + V và bỏ 了; 也 đứng trước 没: 也没做作业. Không dùng 不 cho việc trong quá khứ.",
+     "Each verb becomes 没 + V without 了; 也 goes before 没: 也没做作业. Don't use 不 for past events."
+    ],
+    "f": [
+     "也没做作业",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我昨天|在|商店|买|了|两本|汉语|书",
+    "m": [
+     "Hôm qua tôi đã mua hai quyển sách tiếng Hán ở cửa hàng.",
+     "Yesterday I bought two Chinese books at the shop."
+    ],
+    "e": [
+     "Nơi chốn 在商店 đứng trước động từ; 了 đứng ngay sau động từ 买 khi tân ngữ có số lượng (两本).",
+     "The place 在商店 precedes the verb; 了 follows 买 directly when the object has a number (两本)."
+    ],
+    "f": [
+     "买了两本汉语书",
+     "HSK2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h2-2",
+  "t": [
+   "过 trải nghiệm & 在 đang làm",
+   "过 experience & 在 progressive"
+  ],
+  "hz": "过看在",
+  "th": [
+   [
+    "**V + 过**: đã từng (trải nghiệm): 我去**过**北京。Phủ định: **没 + V + 过**: 我没吃过北京烤鸭。Hỏi: 你…过吗？",
+    "**V + 过**: have done before (experience): 我去**过**北京。Negative: **没 + V + 过**: 我没吃过北京烤鸭。Question: 你…过吗？"
+   ],
+   [
+    "**在 / 正在 + V (+ 呢)**: đang làm: 我**在**看书呢。他**正在**上课。Phủ định: 没在 + V.",
+    "**在 / 正在 + V (+ 呢)**: ongoing action: 我**在**看书呢。他**正在**上课。Negative: 没在 + V."
+   ],
+   [
+    "Phân biệt: **了** = hoàn thành một việc cụ thể; **过** = từng có trải nghiệm (thường không nói rõ lúc nào).",
+    "Contrast: **了** = a specific completed action; **过** = a past experience (time usually unspecified)."
+   ]
+  ],
+  "vo": [
+   [
+    "过",
+    "guo",
+    "đã từng",
+    "experiential particle"
+   ],
+   [
+    "正在",
+    "zhèngzài",
+    "đang",
+    "in the middle of"
+   ],
+   [
+    "北京",
+    "Běijīng",
+    "Bắc Kinh",
+    "Beijing"
+   ],
+   [
+    "看",
+    "kàn",
+    "xem, nhìn",
+    "to look, watch"
+   ],
+   [
+    "电影",
+    "diànyǐng",
+    "phim",
+    "film"
+   ],
+   [
+    "上课",
+    "shàngkè",
+    "lên lớp",
+    "to attend class"
+   ],
+   [
+    "睡觉",
+    "shuìjiào",
+    "ngủ",
+    "to sleep"
+   ],
+   [
+    "唱歌",
+    "chànggē",
+    "hát",
+    "to sing"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "我去___中国。(đã từng)",
+    [
+     "过",
+     "在",
+     "着"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "他___睡觉呢。",
+    [
+     "在",
+     "过",
+     "了"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "我没去过上海。",
+     "我不去过上海。",
+     "我没去了上海。"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "你看___这个电影吗？",
+    [
+     "过",
+     "在",
+     "正"
+    ],
+    0
+   ],
+   [
+    "mc",
+    "我正在上课呢。",
+    [
+     [
+      "Tôi đang học trên lớp.",
+      "I'm in class right now."
+     ],
+     [
+      "Tôi đã học xong.",
+      "I've finished class."
+     ],
+     [
+      "Tôi từng đi học.",
+      "I've been to class before."
+     ]
+    ],
+    0
+   ],
+   [
+    "order",
+    "你|吃|过|越南|菜|吗",
+    [
+     "Bạn đã từng ăn món Việt chưa?",
+     "Have you ever had Vietnamese food?"
+    ]
+   ],
+   [
+    "listen",
+    "他在唱歌。",
+    [
+     "Tā zài chànggē.",
+     "Tā zài shuìjiào.",
+     "Tā chàng guo gē."
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Tôi chưa từng xem phim này.",
+     "I've never seen this film."
+    ],
+    [
+     "我没看过这个电影。",
+     "我不看过这个电影。",
+     "我没看这个电影过。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我去过北京两次，但是还没去过上海，我很想去看看。",
+    "q": [
+     "Người nói đã đến Bắc Kinh mấy lần?",
+     "How many times has the speaker been to Beijing?"
+    ],
+    "o": [
+     [
+      "hai lần",
+      "twice"
+     ],
+     [
+      "một lần",
+      "once"
+     ],
+     [
+      "chưa từng",
+      "never"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "去过北京两次 = đã từng đến Bắc Kinh hai lần; số lần (两次) đứng sau 过. Thượng Hải thì 还没去过 – chưa từng.",
+     "去过北京两次 = has been to Beijing twice; the count (两次) follows 过. Shanghai is 还没去过 – never yet."
+    ],
+    "f": [
+     "去过北京两次",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "你给我打电话的时候，我正在上课呢，所以没听见。",
+    "q": [
+     "Vì sao người nói không nghe máy?",
+     "Why didn't the speaker answer the phone?"
+    ],
+    "o": [
+     [
+      "đang học trên lớp",
+      "was in class"
+     ],
+     [
+      "đang ngủ",
+      "was asleep"
+     ],
+     [
+      "đang hát",
+      "was singing"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "正在上课呢 = lúc đó đang trong giờ học. 正在 … 呢 diễn tả hành động đang diễn ra tại một thời điểm.",
+     "正在上课呢 = was in the middle of class. 正在 … 呢 shows an action in progress at that moment."
+    ],
+    "f": [
+     "正在上课呢",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我没吃过北京烤鸭，你吃过吗？",
+    "e": [
+     "Phủ định trải nghiệm: 没 + V + 过 (giữ 过, khác với 了 bị bỏ). Hỏi: V + 过 + 吗？",
+     "Negative experience: 没 + V + 过 (过 stays, unlike 了). Question: V + 过 + 吗？"
+    ],
+    "f": [
+     "没吃过",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "妈妈在做饭，爸爸在看电视，我在房间里学习汉语呢。",
+    "e": [
+     "在 zài đọc rõ thanh 4; 呢 cuối câu đọc nhẹ ne, tăng cảm giác “đang”.",
+     "在 zài has a clear 4th tone; final 呢 is a light ne, reinforcing “in progress”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我叫阮明，是越南人。我学过两年英语，但是没学过汉语。去年我去过一次中国，那时候我一句汉语也不会说。现在我正在学汉语，每天晚上都上网课。今天老师问我们：“你们吃过北京烤鸭吗？”我说我吃过，很好吃。我的同学小林没吃过，他说下个月想去北京试一试。",
+   "tr": "Tôi tên Nguyễn Minh, là người Việt Nam. Tôi đã từng học tiếng Anh hai năm nhưng chưa từng học tiếng Hán. Năm ngoái tôi đã đến Trung Quốc một lần, lúc đó tôi không nói được câu tiếng Hán nào. Bây giờ tôi đang học tiếng Hán, tối nào cũng học trực tuyến. Hôm nay cô giáo hỏi chúng tôi: “Các em đã ăn vịt quay Bắc Kinh bao giờ chưa?” Tôi nói tôi ăn rồi, rất ngon. Bạn cùng lớp của tôi là Tiểu Lâm chưa ăn bao giờ, cậu ấy nói tháng sau muốn đi Bắc Kinh ăn thử."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Minh đã học tiếng Anh bao lâu?",
+     "How long did Minh study English?"
+    ],
+    "o": [
+     [
+      "hai năm",
+      "two years"
+     ],
+     [
+      "một năm",
+      "one year"
+     ],
+     [
+      "chưa từng học",
+      "never"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我学过两年英语 – thời lượng 两年 đứng sau 过. Câu 没学过 là nói về tiếng Hán, không phải tiếng Anh.",
+     "我学过两年英语 – the duration 两年 follows 过. 没学过 refers to Chinese, not English."
+    ],
+    "f": [
+     "我学过两年英语",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hiện nay buổi tối Minh làm gì?",
+     "What does Minh do in the evenings now?"
+    ],
+    "o": [
+     [
+      "học tiếng Hán trực tuyến",
+      "takes online Chinese classes"
+     ],
+     [
+      "đi làm thêm",
+      "works part-time"
+     ],
+     [
+      "xem phim Trung Quốc",
+      "watches Chinese films"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "现在我正在学汉语，每天晚上都上网课 – 正在 nhấn mạnh giai đoạn hiện tại; 上网课 = học online.",
+     "现在我正在学汉语，每天晚上都上网课 – 正在 stresses the current phase; 上网课 = take online classes."
+    ],
+    "f": [
+     "每天晚上都上网课",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ai chưa từng ăn vịt quay Bắc Kinh?",
+     "Who has never eaten Peking duck?"
+    ],
+    "o": [
+     [
+      "Tiểu Lâm",
+      "Xiao Lin"
+     ],
+     [
+      "Minh",
+      "Minh"
+     ],
+     [
+      "cô giáo",
+      "the teacher"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我的同学小林没吃过 – 没 + V + 过 = chưa từng. Minh thì nói 我吃过.",
+     "我的同学小林没吃过 – 没 + V + 过 = never. Minh says 我吃过."
+    ],
+    "f": [
+     "小林没吃过",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我小时候在北京住___两年，所以我会说一点儿汉语。",
+    "o": [
+     "过",
+     "在",
+     "着"
+    ],
+    "a": 0,
+    "e": [
+     "Kể một trải nghiệm trong quá khứ dẫn đến kết quả hiện tại → V + 过: 住过两年. 在 là “đang”, 着 là trạng thái kéo dài, không hợp ở đây.",
+     "A past experience explaining the present → V + 过: 住过两年. 在 means “in progress” and 着 a lasting state – neither fits."
+    ],
+    "f": [
+     "住过两年",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你来的时候，我们正___吃晚饭呢，你要不要一起吃？",
+    "a": [
+     "在"
+    ],
+    "e": [
+     "正在 + V + 呢 = đang làm (vào lúc đó). Chỉ 正 đứng một mình trước động từ ít dùng ở trình độ này; cần đủ 正在.",
+     "正在 + V + 呢 = in the middle of doing. 正 alone before the verb is rare at this level; use 正在."
+    ],
+    "f": [
+     "正在吃晚饭呢",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我不去过上海，但是我的朋友去过很多次，他很喜欢那儿。",
+    "a": [
+     "我没去过上海，但是我的朋友去过很多次，他很喜欢那儿。",
+     "我没有去过上海，但是我的朋友去过很多次，他很喜欢那儿。"
+    ],
+    "e": [
+     "Phủ định của 过 luôn là 没(有) + V + 过. 不 không đi với 过 vì 不 dùng cho hiện tại, tương lai hoặc thói quen.",
+     "过 is always negated with 没(有) + V + 过. 不 can't combine with 过; it's for present, future or habits."
+    ],
+    "f": [
+     "没去过上海",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Lúc mẹ gọi điện, tôi đang ngủ, nên không nghe thấy.",
+    "a": [
+     "妈妈打电话的时候，我在睡觉，所以没听见。",
+     "妈妈打电话的时候，我正在睡觉，所以没听见。",
+     "妈妈打电话的时候，我在睡觉呢，所以没听见。",
+     "妈妈打电话的时候，我正在睡觉呢，所以没听见。",
+     "妈妈打电话的时候，我在睡觉，所以没听到。",
+     "妈妈打电话的时候，我正在睡觉，所以没听到。",
+     "妈妈给我打电话的时候，我在睡觉，所以没听见。",
+     "妈妈给我打电话的时候，我正在睡觉，所以没听见。"
+    ],
+    "e": [
+     "“Lúc …” = …的时候 đặt ở đầu câu; “đang ngủ” = (正)在睡觉(呢); “không nghe thấy” (việc đã qua) = 没听见, không dùng 不.",
+     "“When …” = …的时候 at the start; “was sleeping” = (正)在睡觉(呢); “didn't hear” (past) = 没听见, not 不."
+    ],
+    "f": [
+     "正在睡觉",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu phủ định (chưa từng)",
+     "Rewrite in the negative (never)"
+    ],
+    "s": "我哥哥学过日语，也去过日本。",
+    "a": [
+     "我哥哥没学过日语，也没去过日本。",
+     "我哥哥没有学过日语，也没有去过日本。",
+     "我哥哥没学过日语，也没有去过日本。",
+     "我哥哥没有学过日语，也没去过日本。"
+    ],
+    "e": [
+     "Giữ 过, thêm 没(有) trước động từ; 也 luôn đứng trước 没: 也没去过. Không viết 不学过 hay 没学了.",
+     "Keep 过 and put 没(有) before the verb; 也 comes before 没: 也没去过. Never 不学过 or 没学了."
+    ],
+    "f": [
+     "也没去过日本",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "你以前|看|过|这个|中国|电影|吗",
+    "m": [
+     "Trước đây bạn đã từng xem bộ phim Trung Quốc này chưa?",
+     "Have you ever seen this Chinese film before?"
+    ],
+    "e": [
+     "过 đứng ngay sau động từ 看, trước tân ngữ: 看过这个电影. 以前 nhấn mạnh “trước đây”; 吗 ở cuối biến câu thành câu hỏi.",
+     "过 follows the verb 看 directly, before the object: 看过这个电影. 以前 stresses “before”; final 吗 makes it a question."
+    ],
+    "f": [
+     "看过这个中国电影",
+     "HSK2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h2-3",
+  "t": [
+   "So sánh với 比 · 没有 · 一样",
+   "Comparisons: 比 · 没有 · 一样"
+  ],
+  "hz": "比高冷",
+  "th": [
+   [
+    "**A 比 B + tính từ**: 他**比**我高。Không đặt 很 / 非常 trước tính từ trong câu 比 (✗ 他比我很高).",
+    "**A 比 B + adjective**: 他**比**我高。No 很 / 非常 before the adjective in 比 sentences (✗ 他比我很高)."
+   ],
+   [
+    "Thêm mức độ **sau** tính từ: 一点儿 (một chút), 多了 / 得多 (nhiều): 今天比昨天冷**一点儿**。他比我高**多了**。Số cụ thể: 他比我大**两岁**。",
+    "Add degree **after** the adjective: 一点儿 (a bit), 多了 / 得多 (much): 今天比昨天冷**一点儿**。他比我高**多了**。Exact amount: 他比我大**两岁**。"
+   ],
+   [
+    "Phủ định: **A 没有 B + tính từ** (A không bằng B): 我**没有**他高。",
+    "Negative: **A 没有 B + adjective** (A is not as … as B): 我**没有**他高。"
+   ],
+   [
+    "Bằng nhau: **A 跟 B 一样 (+ tính từ)**: 我**跟**你**一样**高。",
+    "Equality: **A 跟 B 一样 (+ adjective)**: 我**跟**你**一样**高。"
+   ]
+  ],
+  "vo": [
+   [
+    "比",
+    "bǐ",
+    "so với",
+    "than"
+   ],
+   [
+    "高",
+    "gāo",
+    "cao",
+    "tall"
+   ],
+   [
+    "冷",
+    "lěng",
+    "lạnh",
+    "cold"
+   ],
+   [
+    "热",
+    "rè",
+    "nóng",
+    "hot"
+   ],
+   [
+    "便宜",
+    "piányi",
+    "rẻ",
+    "cheap"
+   ],
+   [
+    "贵",
+    "guì",
+    "đắt",
+    "expensive"
+   ],
+   [
+    "一样",
+    "yíyàng",
+    "giống nhau",
+    "the same"
+   ],
+   [
+    "一点儿",
+    "yìdiǎnr",
+    "một chút",
+    "a little"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "哥哥___我高。",
+    [
+     "比",
+     "跟",
+     "没"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "他比我很高。",
+     "他比我高多了。",
+     "他比我多高了。"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "今天没有昨天___。",
+    [
+     "冷",
+     "冷一点儿",
+     "很冷"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "我___你一样大。",
+    [
+     "跟",
+     "比",
+     "没有"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "这件比那件贵___。(một chút)",
+    [
+     "一点儿",
+     "有点儿",
+     "很"
+    ],
+    0
+   ],
+   [
+    "order",
+    "苹果|比|香蕉|贵",
+    [
+     "Táo đắt hơn chuối.",
+     "Apples are more expensive than bananas."
+    ]
+   ],
+   [
+    "listen",
+    "他比我大两岁。",
+    [
+     "Tā bǐ wǒ dà liǎng suì.",
+     "Tā méiyǒu wǒ dà.",
+     "Tā gēn wǒ yíyàng dà."
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Hà Nội không nóng bằng Sài Gòn.",
+     "Hanoi isn't as hot as Saigon."
+    ],
+    [
+     "河内没有西贡热。",
+     "河内比西贡不热。",
+     "河内没有西贡很热。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "今天比昨天冷一点儿，你多穿一件衣服吧。",
+    "q": [
+     "Hôm nay so với hôm qua thế nào?",
+     "How is today compared with yesterday?"
+    ],
+    "o": [
+     [
+      "lạnh hơn một chút",
+      "a bit colder"
+     ],
+     [
+      "nóng hơn",
+      "hotter"
+     ],
+     [
+      "như nhau",
+      "the same"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "比昨天冷一点儿 = lạnh hơn hôm qua một chút; 一点儿 đứng SAU tính từ trong câu so sánh.",
+     "比昨天冷一点儿 = a bit colder than yesterday; 一点儿 comes AFTER the adjective in comparisons."
+    ],
+    "f": [
+     "冷一点儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我姐姐比我大三岁，可是她没有我高。",
+    "q": [
+     "Câu nào đúng với nội dung vừa nghe?",
+     "Which statement is true?"
+    ],
+    "o": [
+     [
+      "Chị lớn hơn 3 tuổi nhưng thấp hơn người nói",
+      "She's 3 years older but shorter than the speaker"
+     ],
+     [
+      "Chị cao hơn người nói",
+      "She's taller than the speaker"
+     ],
+     [
+      "Chị nhỏ hơn người nói 3 tuổi",
+      "She's 3 years younger"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "比我大三岁 = lớn hơn ba tuổi; 没有我高 = không cao bằng tôi, tức là thấp hơn.",
+     "比我大三岁 = three years older; 没有我高 = not as tall as me, i.e. shorter."
+    ],
+    "f": [
+     "没有我高",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "这件衣服跟那件一样漂亮，但是比那件便宜。",
+    "e": [
+     "A 跟 B 一样 + tính từ = bằng nhau; A 比 B + tính từ = hơn. Lượng từ 件 dùng cho áo, quần áo.",
+     "A 跟 B 一样 + adjective = equally…; A 比 B + adjective = more…. 件 is the measure word for clothes."
+    ],
+    "f": [
+     "跟那件一样漂亮",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "河内的冬天没有北京冷，可是比西贡冷多了。",
+    "e": [
+     "没有 méiyǒu, 冷 lěng (thanh 3), 多了 duō le. Nội dung đúng thực tế: mùa đông Hà Nội ấm hơn Bắc Kinh nhưng lạnh hơn Sài Gòn nhiều.",
+     "没有 méiyǒu, 冷 lěng (tone 3), 多了 duō le. Factually true: Hanoi's winter is milder than Beijing's but much colder than Saigon's."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我和姐姐都在北京学习汉语。姐姐比我大两岁，但是她没有我高。我们住的地方离学校很近，坐公共汽车只要十分钟。北京的冬天比河内冷得多，十二月的晚上有时候到零下十度。我觉得北京的饭菜跟越南的一样好吃，可是比越南的贵一点儿。",
+   "tr": "Tôi và chị gái đều học tiếng Hán ở Bắc Kinh. Chị hơn tôi hai tuổi nhưng không cao bằng tôi. Chỗ chúng tôi ở rất gần trường, đi xe buýt chỉ mất mười phút. Mùa đông Bắc Kinh lạnh hơn Hà Nội nhiều, buổi tối tháng Mười Hai có khi xuống tới âm mười độ. Tôi thấy đồ ăn Bắc Kinh ngon như đồ ăn Việt Nam, nhưng đắt hơn một chút."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Ai cao hơn?",
+     "Who is taller?"
+    ],
+    "o": [
+     [
+      "người viết",
+      "the writer"
+     ],
+     [
+      "chị gái",
+      "the older sister"
+     ],
+     [
+      "hai người cao bằng nhau",
+      "they are the same height"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "她没有我高 = chị không cao bằng tôi → người viết cao hơn. Bẫy: chị lớn tuổi hơn (比我大两岁) nhưng không cao hơn.",
+     "她没有我高 = she isn't as tall as me → the writer is taller. Trap: she's older (比我大两岁), not taller."
+    ],
+    "f": [
+     "她没有我高",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mùa đông Bắc Kinh so với Hà Nội thế nào?",
+     "How does Beijing's winter compare with Hanoi's?"
+    ],
+    "o": [
+     [
+      "lạnh hơn nhiều",
+      "much colder"
+     ],
+     [
+      "lạnh hơn một chút",
+      "a little colder"
+     ],
+     [
+      "như nhau",
+      "the same"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "比河内冷得多 – 得多 (cũng như 多了) đứng sau tính từ, nghĩa là “hơn nhiều”.",
+     "比河内冷得多 – 得多 (like 多了) after the adjective means “much more”."
+    ],
+    "f": [
+     "比河内冷得多",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết nghĩ gì về đồ ăn ở Bắc Kinh?",
+     "What does the writer think of the food in Beijing?"
+    ],
+    "o": [
+     [
+      "ngon như đồ Việt nhưng đắt hơn một chút",
+      "as tasty as Vietnamese food but a bit pricier"
+     ],
+     [
+      "rẻ hơn đồ ăn Việt Nam",
+      "cheaper than Vietnamese food"
+     ],
+     [
+      "không ngon bằng đồ ăn Việt Nam",
+      "not as good as Vietnamese food"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "跟越南的一样好吃 = ngon như nhau; 比越南的贵一点儿 = đắt hơn một chút.",
+     "跟越南的一样好吃 = just as tasty; 比越南的贵一点儿 = a little more expensive."
+    ],
+    "f": [
+     "比越南的贵一点儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这个手机比那个贵___，但是我觉得它更好用，所以我想买这个。",
+    "o": [
+     "多了",
+     "很",
+     "非常"
+    ],
+    "a": 0,
+    "e": [
+     "Trong câu 比 không dùng 很 / 非常 trước hay sau tính từ; muốn nói “hơn nhiều” thì thêm 多了 hoặc 得多 sau tính từ.",
+     "In 比 sentences 很 / 非常 aren't used; to say “much more” add 多了 or 得多 after the adjective."
+    ],
+    "f": [
+     "贵多了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我弟弟今年十八岁，我今年二十岁，所以我___他大两岁。",
+    "a": [
+     "比"
+    ],
+    "e": [
+     "A 比 B + tính từ + số lượng: 我比他大两岁. Số tuổi chênh lệch đứng cuối, sau tính từ 大.",
+     "A 比 B + adjective + amount: 我比他大两岁. The difference comes last, after 大."
+    ],
+    "f": [
+     "我比他大两岁",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "坐飞机比坐火车很快，可是坐火车比坐飞机便宜多了。",
+    "a": [
+     "坐飞机比坐火车快，可是坐火车比坐飞机便宜多了。",
+     "坐飞机比坐火车快多了，可是坐火车比坐飞机便宜多了。",
+     "坐飞机比坐火车快得多，可是坐火车比坐飞机便宜多了。"
+    ],
+    "e": [
+     "Câu có 比 không được đặt 很 trước tính từ: bỏ 很 (比坐火车快) hoặc thay bằng 快多了 / 快得多 ở sau. Đây là lỗi kinh điển của người Việt (“nhanh hơn rất nhiều”).",
+     "A 比 sentence can't have 很 before the adjective: drop it (比坐火车快) or use 快多了 / 快得多 after. A classic learner error."
+    ],
+    "f": [
+     "比坐火车快",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hà Nội không lạnh bằng Bắc Kinh, nhưng mùa hè Hà Nội nóng hơn Bắc Kinh nhiều.",
+    "a": [
+     "河内没有北京冷，但是河内的夏天比北京热多了。",
+     "河内没有北京冷，但是河内的夏天比北京热得多。",
+     "河内没有北京冷，可是河内的夏天比北京热多了。",
+     "河内没有北京冷，可是河内的夏天比北京热得多。",
+     "河内没有北京那么冷，但是河内的夏天比北京热多了。",
+     "河内没有北京那么冷，但是河内的夏天比北京热得多。",
+     "河内没有北京冷，但是夏天河内比北京热多了。"
+    ],
+    "e": [
+     "“Không … bằng” = A 没有 B + tính từ (không dùng 比…不…). “Hơn nhiều” = 比 … 热多了 / 热得多.",
+     "“Not as … as” = A 没有 B + adjective (not 比…不…). “Much more” = 比 … 热多了 / 热得多."
+    ],
+    "f": [
+     "河内没有北京冷",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại bằng A 没有 B + tính từ, giữ nguyên nghĩa",
+     "Rewrite with A 没有 B + adjective, same meaning"
+    ],
+    "s": "这家饭馆的菜比那家饭馆的菜贵。",
+    "a": [
+     "那家饭馆的菜没有这家饭馆的菜贵。",
+     "那家饭馆的菜没有这家饭馆的贵。",
+     "那家饭馆的菜没有这家的贵。",
+     "那家饭馆的菜没有这家饭馆的菜那么贵。",
+     "那家饭馆的菜没有这家饭馆的那么贵。"
+    ],
+    "e": [
+     "Đổi chủ ngữ: A đắt hơn B = B không đắt bằng A → 那家…没有这家…贵. Không thêm 很 trước 贵; có thể thêm 那么.",
+     "Swap the subjects: A is pricier than B = B isn't as pricey as A → 那家…没有这家…贵. No 很; 那么 is optional."
+    ],
+    "f": [
+     "没有这家饭馆的菜贵",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "这件|红色的|衣服|比|那件|贵|一百|块",
+    "m": [
+     "Chiếc áo màu đỏ này đắt hơn chiếc kia 100 tệ.",
+     "This red top is 100 yuan more expensive than that one."
+    ],
+    "e": [
+     "A 比 B + tính từ + mức chênh lệch: 比那件贵一百块. Số tiền chênh lệch đứng sau tính từ, không đứng trước (✗ 比那件一百块贵).",
+     "A 比 B + adjective + difference: 比那件贵一百块. The amount follows the adjective (✗ 比那件一百块贵)."
+    ],
+    "f": [
+     "贵一百块",
+     "HSK2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h2-4",
+  "t": [
+   "Bổ ngữ trình độ 得",
+   "Degree complement 得"
+  ],
+  "hz": "快慢说",
+  "th": [
+   [
+    "**V + 得 + (phó từ) + tính từ** đánh giá cách làm một việc: 他跑**得**很快。你说**得**很好。",
+    "**V + 得 + (adverb) + adjective** evaluates how something is done: 他跑**得**很快。你说**得**很好。"
+   ],
+   [
+    "Có tân ngữ: **lặp lại động từ** hoặc đưa tân ngữ lên trước: 他说汉语说得很好 = 他汉语说得很好. (Sai: 他说汉语得很好)",
+    "With an object: **repeat the verb** or front the object: 他说汉语说得很好 = 他汉语说得很好. (Wrong: 他说汉语得很好)"
+   ],
+   [
+    "Phủ định: V + 得 + **不** + tính từ: 我唱得不好。Hỏi: V + 得 + **怎么样**？",
+    "Negative: V + 得 + **不** + adjective: 我唱得不好。Question: V + 得 + **怎么样**？"
+   ],
+   [
+    "Phân biệt ba chữ “de”: **的** trước danh từ (我的书) · **得** sau động từ (说得好) · **地** trước động từ (认真**地**学习).",
+    "Three “de”s: **的** before nouns (我的书) · **得** after verbs (说得好) · **地** before verbs (认真**地**学习)."
+   ]
+  ],
+  "vo": [
+   [
+    "得",
+    "de",
+    "(trợ từ bổ ngữ)",
+    "complement particle"
+   ],
+   [
+    "快",
+    "kuài",
+    "nhanh",
+    "fast"
+   ],
+   [
+    "慢",
+    "màn",
+    "chậm",
+    "slow"
+   ],
+   [
+    "跑步",
+    "pǎobù",
+    "chạy bộ",
+    "to run, jog"
+   ],
+   [
+    "说",
+    "shuō",
+    "nói",
+    "to speak"
+   ],
+   [
+    "汉语",
+    "Hànyǔ",
+    "tiếng Hán",
+    "Chinese language"
+   ],
+   [
+    "怎么样",
+    "zěnmeyàng",
+    "thế nào",
+    "how"
+   ],
+   [
+    "认真",
+    "rènzhēn",
+    "nghiêm túc, chăm chỉ",
+    "conscientious"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "他跑___很快。",
+    [
+     "的",
+     "得",
+     "地"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Câu nào đúng?",
+     "Which is correct?"
+    ],
+    [
+     "他说汉语得很好。",
+     "他汉语说得很好。",
+     "他说得汉语很好。"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "我唱得___好。",
+    [
+     "没",
+     "不",
+     "别"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "你考___怎么样？",
+    [
+     "得",
+     "的",
+     "了"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "她认真___学习。",
+    [
+     "的",
+     "得",
+     "地"
+    ],
+    2
+   ],
+   [
+    "order",
+    "你|说|得|太|快|了",
+    [
+     "Bạn nói nhanh quá.",
+     "You speak too fast."
+    ]
+   ],
+   [
+    "listen",
+    "他写得很漂亮。",
+    [
+     "Tā xiě de hěn piàoliang.",
+     "Tā xiě de bù hǎo.",
+     "Tā shuō de hěn kuài."
+    ],
+    0
+   ],
+   [
+    "tr",
+    [
+     "Bạn nói tiếng Hán rất tốt.",
+     "You speak Chinese very well."
+    ],
+    [
+     "你汉语说得很好。",
+     "你说汉语得很好。",
+     "你汉语说很好得。"
+    ],
+    0
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "我朋友汉语说得很好，可是汉字写得不太好。",
+    "q": [
+     "Bạn của người nói còn yếu ở mặt nào?",
+     "What is the friend weak at?"
+    ],
+    "o": [
+     [
+      "viết chữ Hán",
+      "writing characters"
+     ],
+     [
+      "nói tiếng Hán",
+      "speaking Chinese"
+     ],
+     [
+      "nghe tiếng Hán",
+      "listening"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "汉字写得不太好 = viết chữ Hán chưa tốt lắm; 说得很好 = nói rất tốt. Phủ định nằm sau 得: 写得不好.",
+     "汉字写得不太好 = not very good at writing; 说得很好 = speaks very well. Negation goes after 得: 写得不好."
+    ],
+    "f": [
+     "汉字写得不太好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "昨天的考试你考得怎么样？我考得还不错，谢谢。",
+    "q": [
+     "Người trả lời làm bài thi thế nào?",
+     "How did the second speaker do in the exam?"
+    ],
+    "o": [
+     [
+      "khá tốt",
+      "quite well"
+     ],
+     [
+      "rất tệ",
+      "very badly"
+     ],
+     [
+      "chưa thi",
+      "hasn't taken it yet"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "考得怎么样 hỏi kết quả; 还不错 = khá tốt, tạm ổn. 得 nối động từ 考 với lời đánh giá.",
+     "考得怎么样 asks how it went; 还不错 = pretty good. 得 links the verb 考 to the evaluation."
+    ],
+    "f": [
+     "考得还不错",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "他每天早上跑步，跑得比我快多了。",
+    "e": [
+     "跑得比我快多了: bổ ngữ trình độ kết hợp với so sánh – 比 đặt sau 得. Phân biệt 得 (sau động từ) với 的 (trước danh từ).",
+     "跑得比我快多了 combines the degree complement with a comparison – 比 comes after 得. Don't confuse 得 with 的."
+    ],
+    "f": [
+     "跑得比我快多了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "老师，您说得太快了，请您说得慢一点儿。",
+    "e": [
+     "说得 shuō de (得 đọc nhẹ); 太快了 tài kuài le; 慢一点儿 màn yìdiǎnr.",
+     "说得 shuō de (light 得); 太快了 tài kuài le; 慢一点儿 màn yìdiǎnr."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我的同学大卫是美国人，他学汉语已经一年了。他说汉语说得很好，中国朋友都说他说得跟中国人一样。可是他写汉字写得很慢，也常常写错。我跟他不一样，我写得很快，但是说得不太好。所以我们每天一起学习：他教我说，我教他写。",
+   "tr": "Bạn cùng lớp của tôi là David, người Mỹ, đã học tiếng Hán được một năm. Cậu ấy nói tiếng Hán rất giỏi, bạn bè người Trung Quốc đều bảo cậu ấy nói giống hệt người Trung Quốc. Nhưng cậu ấy viết chữ Hán rất chậm và cũng hay viết sai. Tôi thì khác, tôi viết rất nhanh nhưng nói chưa tốt lắm. Vì vậy ngày nào chúng tôi cũng học cùng nhau: cậu ấy dạy tôi nói, tôi dạy cậu ấy viết."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "David nói tiếng Hán thế nào?",
+     "How well does David speak Chinese?"
+    ],
+    "o": [
+     [
+      "rất giỏi, giống người Trung Quốc",
+      "very well, like a native"
+     ],
+     [
+      "chưa tốt lắm",
+      "not very well"
+     ],
+     [
+      "rất chậm",
+      "very slowly"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他说汉语说得很好 và 说得跟中国人一样 – nói giỏi như người Trung Quốc. “Chậm” là nói về việc viết chữ.",
+     "他说汉语说得很好 and 说得跟中国人一样 – he speaks like a native. “Slow” refers to his writing."
+    ],
+    "f": [
+     "说汉语说得很好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Điểm yếu của David là gì?",
+     "What is David's weakness?"
+    ],
+    "o": [
+     [
+      "viết chữ Hán chậm và hay sai",
+      "writes characters slowly and makes mistakes"
+     ],
+     [
+      "nói chậm",
+      "speaks slowly"
+     ],
+     [
+      "phát âm sai",
+      "bad pronunciation"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他写汉字写得很慢，也常常写错 – lặp động từ 写 vì có tân ngữ 汉字.",
+     "他写汉字写得很慢，也常常写错 – the verb 写 is repeated because of the object 汉字."
+    ],
+    "f": [
+     "写汉字写得很慢",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hai người học cùng nhau như thế nào?",
+     "How do they study together?"
+    ],
+    "o": [
+     [
+      "David dạy nói, người viết dạy viết",
+      "David teaches speaking, the writer teaches writing"
+     ],
+     [
+      "cùng luyện viết chữ",
+      "both practise writing"
+     ],
+     [
+      "cùng đến lớp học thêm",
+      "both take extra classes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "他教我说，我教他写 – mỗi người dạy điều mình giỏi.",
+     "他教我说，我教他写 – each teaches what they're good at."
+    ],
+    "f": [
+     "他教我说，我教他写",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我妹妹每天都认真练习，所以她现在汉字写___非常漂亮。",
+    "o": [
+     "得",
+     "的",
+     "地"
+    ],
+    "a": 0,
+    "e": [
+     "Sau động từ (写) và trước lời đánh giá (非常漂亮) dùng 得. 的 đứng trước danh từ, 地 đứng trước động từ (认真地练习).",
+     "After a verb (写) and before an evaluation (非常漂亮) use 得. 的 goes before nouns, 地 before verbs (认真地练习)."
+    ],
+    "f": [
+     "写得非常漂亮",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你昨天晚上睡___怎么样？——不太好，因为我喝了很多咖啡。",
+    "a": [
+     "得"
+    ],
+    "e": [
+     "Hỏi về chất lượng của hành động: V + 得 + 怎么样？ → 睡得怎么样 (ngủ có ngon không).",
+     "To ask how well something was done: V + 得 + 怎么样？ → 睡得怎么样 (how did you sleep)."
+    ],
+    "f": [
+     "睡得怎么样",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我哥哥说英语得很好，因为他在美国工作过三年。",
+    "a": [
+     "我哥哥说英语说得很好，因为他在美国工作过三年。",
+     "我哥哥英语说得很好，因为他在美国工作过三年。"
+    ],
+    "e": [
+     "Khi động từ có tân ngữ, 得 không đứng sau tân ngữ: phải lặp động từ (说英语说得很好) hoặc đưa tân ngữ lên trước (英语说得很好).",
+     "With an object, 得 can't follow the object: repeat the verb (说英语说得很好) or front the object (英语说得很好)."
+    ],
+    "f": [
+     "说英语说得很好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn nói nhanh quá, tôi nghe không hiểu, bạn nói chậm một chút được không?",
+    "a": [
+     "你说得太快了，我听不懂，你能说得慢一点儿吗？",
+     "你说得太快了，我听不懂，你可以说得慢一点儿吗？",
+     "你说得太快了，我听不懂，你能说慢一点儿吗？",
+     "你说得太快了，我听不懂，你可以说慢一点儿吗？",
+     "你说得太快了，我听不懂，你能说得慢一点吗？",
+     "你说得太快了，我听不懂，你能不能说得慢一点儿？",
+     "你说得太快了，我听不懂，你能不能说慢一点儿？"
+    ],
+    "e": [
+     "Nhận xét cách nói → 说得太快了. Đề nghị “chậm một chút” → 说得慢一点儿 hoặc 说慢一点儿; 一点儿 đứng sau tính từ, không nói 一点儿慢.",
+     "Judging how someone speaks → 说得太快了. “A bit slower” → 说得慢一点儿 or 说慢一点儿; 一点儿 follows the adjective."
+    ],
+    "f": [
+     "说得太快了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại ở dạng phủ định của bổ ngữ trình độ",
+     "Rewrite with a negative degree complement"
+    ],
+    "s": "我的同学大卫写汉字写得很快。",
+    "a": [
+     "我的同学大卫写汉字写得不快。",
+     "我的同学大卫汉字写得不快。",
+     "我的同学大卫写汉字写得不太快。"
+    ],
+    "e": [
+     "Phủ định đặt SAU 得: 写得不快. Không viết 不写得快 (nghĩa sẽ thành “không viết”). Bỏ 很 khi đã dùng 不.",
+     "Negation goes AFTER 得: 写得不快. Not 不写得快 (that negates writing itself). Drop 很 when using 不."
+    ],
+    "f": [
+     "写得不快",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我的中国朋友|跳舞|跳|得|比|我|好|多了",
+    "m": [
+     "Bạn Trung Quốc của tôi nhảy giỏi hơn tôi nhiều.",
+     "My Chinese friend dances much better than I do."
+    ],
+    "e": [
+     "Động từ + tân ngữ (跳舞) rồi lặp động từ 跳 + 得; phần so sánh 比我好多了 đặt sau 得.",
+     "Verb-object (跳舞), then repeat 跳 + 得; the comparison 比我好多了 follows 得."
+    ],
+    "f": [
+     "跳得比我好多了",
+     "HSK2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-h2-shop",
+  "g": "life",
+  "t": [
+   "Mua sắm & mặc cả",
+   "Shopping & bargaining"
+  ],
+  "th": [
+   [
+    "**Hỏi giá và trả giá**: 这个**多少钱**？ – Cái này bao nhiêu tiền? Trong khẩu ngữ dùng **块 kuài** thay cho 元 (một trăm hai = 一百二, tức 120 tệ). Mặc cả:\n• 太贵了！**便宜一点儿**吧。\n• 八十块**行吗**？\n• **一共**多少钱？ – Tổng cộng bao nhiêu?\nChỉ nên mặc cả ở chợ, quầy hàng nhỏ; siêu thị và cửa hàng lớn có giá cố định.",
+    "**Asking and haggling**: 这个**多少钱**？ – How much is this? In speech **块 kuài** replaces 元 (一百二 = 120 yuan). Haggling:\n• 太贵了！**便宜一点儿**吧。\n• 八十块**行吗**？\n• **一共**多少钱？ – How much altogether?\nBargain only at markets and stalls; supermarkets and big shops have fixed prices."
+   ],
+   [
+    "**Cỡ, màu và thử đồ**: 我可以**试试**吗？ / 我**试一下**。Cỡ: **大号 · 中号 · 小号**. Hỏi cỡ khác: 有没有**大一点儿的**？ Màu sắc: 红色、白色、黑色、蓝色 + 的 → 红色的 (cái màu đỏ).\nChú ý: **一点儿** đứng SAU tính từ khi so sánh / đề nghị (便宜一点儿), còn **有点儿** đứng TRƯỚC tính từ để phàn nàn (有点儿贵 – hơi đắt).",
+    "**Size, colour, trying on**: 我可以**试试**吗？ / 我**试一下**。Sizes: **大号 · 中号 · 小号**. Another size: 有没有**大一点儿的**？ Colours: 红色、白色、黑色、蓝色 + 的 → 红色的 (the red one).\nNote: **一点儿** goes AFTER the adjective when comparing / requesting (便宜一点儿), while **有点儿** goes BEFORE it to complain (有点儿贵 – a bit pricey)."
+   ],
+   [
+    "**Thanh toán bằng điện thoại**: Ở Trung Quốc hầu hết cửa hàng, kể cả quầy nhỏ, nhận **扫码 sǎo mǎ** (quét mã QR). Câu cần biết:\n• 可以**扫码**吗？ – Quét mã được không?\n• 我**扫**你还是你扫我？ – Tôi quét của anh hay anh quét của tôi?\n• **打折** – giảm giá: 打八折 = giảm 20% (trả 80%).",
+    "**Paying by phone**: In China almost every shop, even small stalls, accepts **扫码 sǎo mǎ** (scanning a QR code). Useful lines:\n• 可以**扫码**吗？ – Can I scan to pay?\n• 我**扫**你还是你扫我？ – Do I scan yours or you scan mine?\n• **打折** – discount: 打八折 = 20% off (you pay 80%)."
+   ]
+  ],
+  "vo": [
+   [
+    "多少钱",
+    "duōshao qián",
+    "bao nhiêu tiền",
+    "how much (money)"
+   ],
+   [
+    "便宜",
+    "piányi",
+    "rẻ",
+    "cheap"
+   ],
+   [
+    "一共",
+    "yígòng",
+    "tổng cộng",
+    "altogether"
+   ],
+   [
+    "颜色",
+    "yánsè",
+    "màu sắc",
+    "colour"
+   ],
+   [
+    "试",
+    "shì",
+    "thử",
+    "to try (on)"
+   ],
+   [
+    "大号",
+    "dàhào",
+    "cỡ lớn",
+    "large size"
+   ],
+   [
+    "打折",
+    "dǎzhé",
+    "giảm giá",
+    "to give a discount"
+   ],
+   [
+    "扫码",
+    "sǎo mǎ",
+    "quét mã",
+    "to scan a QR code"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "这件白色的衣服一百二十块，那件红色的便宜一点儿，九十块。",
+    "q": [
+     "Chiếc áo màu đỏ giá bao nhiêu?",
+     "How much is the red one?"
+    ],
+    "o": [
+     [
+      "90 tệ",
+      "90 yuan"
+     ],
+     [
+      "120 tệ",
+      "120 yuan"
+     ],
+     [
+      "100 tệ",
+      "100 yuan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "白色的 120 tệ; 红色的便宜一点儿，九十块 – chiếc đỏ rẻ hơn một chút, 90 tệ. 块 là đơn vị tiền trong khẩu ngữ.",
+     "The white one is 120; 红色的便宜一点儿，九十块 – the red one is a bit cheaper at 90. 块 is the spoken word for yuan."
+    ],
+    "f": [
+     "九十块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "老板，这个太贵了，八十块可以吗？不行，最少一百块。",
+    "q": [
+     "Người bán chấp nhận bán thấp nhất bao nhiêu?",
+     "What's the lowest price the seller accepts?"
+    ],
+    "o": [
+     [
+      "100 tệ",
+      "100 yuan"
+     ],
+     [
+      "80 tệ",
+      "80 yuan"
+     ],
+     [
+      "90 tệ",
+      "90 yuan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Khách trả 八十块, người bán đáp 不行，最少一百块 – không được, ít nhất 100 tệ. 老板 là cách gọi chủ quán / người bán.",
+     "The buyer offers 80; the seller says 不行，最少一百块 – no, at least 100. 老板 is how you address a shop owner."
+    ],
+    "f": [
+     "最少一百块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我没带钱，可以用手机扫码付钱吗？",
+    "e": [
+     "没带钱 = không mang tiền (việc đã xảy ra → 没). 用手机扫码付钱 = dùng điện thoại quét mã trả tiền; 用 + công cụ đứng trước động từ chính.",
+     "没带钱 = didn't bring cash (→ 没). 用手机扫码付钱 = pay by scanning with the phone; 用 + tool precedes the main verb."
+    ],
+    "f": [
+     "扫码付钱",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "这双鞋有没有大一点儿的？我想试一下，可以吗？",
+    "e": [
+     "这双鞋 zhè shuāng xié; 有没有 yǒu méiyǒu; 试一下 shì yíxià (一 trước thanh 4 đọc yí).",
+     "这双鞋 zhè shuāng xié; 有没有 yǒu méiyǒu; 试一下 shì yíxià (一 before tone 4 becomes yí)."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "上个周末我去市场买衣服。我看到一件蓝色的毛衣，很漂亮。我问老板：“这件多少钱？”老板说：“一百五。”我觉得太贵了，就说：“便宜一点儿吧，一百行吗？”老板说：“一百二，不能再便宜了。”我试了一下，中号有点儿小，老板给我拿了一件大号的。最后我用手机扫码付了钱。",
+   "tr": "Cuối tuần trước tôi đi chợ mua quần áo. Tôi thấy một chiếc áo len màu xanh lam rất đẹp. Tôi hỏi chủ quầy: “Chiếc này bao nhiêu tiền?” Chủ quầy nói: “Một trăm năm mươi.” Tôi thấy đắt quá nên nói: “Bớt chút đi, một trăm được không?” Chủ quầy nói: “Một trăm hai, không bớt được nữa đâu.” Tôi mặc thử, cỡ vừa hơi chật, chủ quầy lấy cho tôi một chiếc cỡ lớn. Cuối cùng tôi dùng điện thoại quét mã trả tiền."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Lúc đầu người bán ra giá bao nhiêu?",
+     "What was the seller's first price?"
+    ],
+    "o": [
+     [
+      "150 tệ",
+      "150 yuan"
+     ],
+     [
+      "120 tệ",
+      "120 yuan"
+     ],
+     [
+      "100 tệ",
+      "100 yuan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "一百五 là cách nói tắt của 一百五十 = 150. 一百 là giá người mua trả, 一百二 (120) là giá cuối cùng.",
+     "一百五 is short for 一百五十 = 150. 一百 is the buyer's offer and 一百二 (120) the final price."
+    ],
+    "f": [
+     "一百五",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết đổi sang cỡ lớn?",
+     "Why did the writer switch to a large size?"
+    ],
+    "o": [
+     [
+      "cỡ vừa hơi chật",
+      "the medium was a bit small"
+     ],
+     [
+      "muốn đổi màu khác",
+      "wanted another colour"
+     ],
+     [
+      "cỡ lớn rẻ hơn",
+      "the large one was cheaper"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "中号有点儿小 – 有点儿 + tính từ diễn tả điều không như ý (hơi chật), nên người bán lấy 大号.",
+     "中号有点儿小 – 有点儿 + adjective expresses something unsatisfactory (a bit small), so the seller brought a 大号."
+    ],
+    "f": [
+     "中号有点儿小",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết trả tiền bằng cách nào?",
+     "How did the writer pay?"
+    ],
+    "o": [
+     [
+      "quét mã bằng điện thoại",
+      "by scanning a code with the phone"
+     ],
+     [
+      "tiền mặt",
+      "in cash"
+     ],
+     [
+      "thẻ ngân hàng",
+      "by bank card"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "最后我用手机扫码付了钱 – dùng điện thoại quét mã. 付了钱 là động từ + 了 + tân ngữ.",
+     "最后我用手机扫码付了钱 – paid by scanning with the phone. 付了钱 is verb + 了 + object."
+    ],
+    "f": [
+     "用手机扫码付了钱",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这件衣服太贵了，老板，能不能便宜___？一百块我就买。",
+    "o": [
+     "一点儿",
+     "有点儿",
+     "一下"
+    ],
+    "a": 0,
+    "e": [
+     "Đề nghị giảm giá: tính từ + 一点儿 → 便宜一点儿. 有点儿 phải đứng TRƯỚC tính từ (有点儿贵); 一下 đi sau động từ (试一下), không đi sau tính từ.",
+     "Asking for a lower price: adjective + 一点儿 → 便宜一点儿. 有点儿 goes BEFORE adjectives (有点儿贵); 一下 follows verbs (试一下)."
+    ],
+    "f": [
+     "便宜一点儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这双鞋我穿有点儿小，请问有没有大___的？我想再试一下。",
+    "a": [
+     "一点儿",
+     "一点"
+    ],
+    "e": [
+     "“Cái lớn hơn một chút” = 大一点儿的; 的 ở cuối thay cho danh từ 鞋. Không dùng 有点儿 vì đây là so sánh, không phải phàn nàn.",
+     "“A slightly bigger one” = 大一点儿的; final 的 stands for 鞋. Not 有点儿, since this compares rather than complains."
+    ],
+    "f": [
+     "大一点儿的",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这件衣服有点儿便宜，我们去别的商店看看吧，那儿可能便宜一点儿。",
+    "a": [
+     "这件衣服有点儿贵，我们去别的商店看看吧，那儿可能便宜一点儿。",
+     "这件衣服有点贵，我们去别的商店看看吧，那儿可能便宜一点儿。",
+     "这件衣服太贵了，我们去别的商店看看吧，那儿可能便宜一点儿。"
+    ],
+    "e": [
+     "Câu sau muốn tìm chỗ rẻ hơn nên vế đầu phải là phàn nàn “hơi đắt” – 有点儿贵. 有点儿 thường đi với tính từ mang nghĩa không hài lòng.",
+     "The second clause looks for something cheaper, so the first must complain “a bit expensive” – 有点儿贵. 有点儿 usually pairs with negative adjectives."
+    ],
+    "f": [
+     "有点儿贵",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hai chiếc áo này tổng cộng bao nhiêu tiền? Tôi có thể trả bằng điện thoại không?",
+    "a": [
+     "这两件衣服一共多少钱？我可以用手机付钱吗？",
+     "这两件衣服一共多少钱？可以用手机付钱吗？",
+     "这两件衣服一共多少钱？我可以用手机付款吗？",
+     "这两件衣服一共多少钱？我能用手机付钱吗？",
+     "这两件衣服一共多少钱？我可以用手机扫码付钱吗？",
+     "这两件衣服一共多少钱？可以用手机扫码吗？"
+    ],
+    "e": [
+     "“Tổng cộng” = 一共, đứng trước 多少钱. “Hai chiếc áo” = 两件衣服 (lượng từ 件). “Trả bằng điện thoại” = 用手机付钱 – 用 + công cụ đứng trước động từ.",
+     "“Altogether” = 一共 before 多少钱. “Two tops” = 两件衣服 (measure word 件). “Pay by phone” = 用手机付钱 – 用 + tool precedes the verb."
+    ],
+    "f": [
+     "一共多少钱",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành một câu so sánh với 比",
+     "Rewrite as one comparison using 比"
+    ],
+    "s": "红色的那件一百块，白色的这件八十块。",
+    "a": [
+     "红色的那件比白色的这件贵二十块。",
+     "白色的这件比红色的那件便宜二十块。",
+     "红色的那件比白色的这件贵二十块钱。",
+     "白色的这件比红色的那件便宜二十块钱。"
+    ],
+    "e": [
+     "A 比 B + tính từ + mức chênh lệch: 贵二十块 hoặc 便宜二十块. Số tiền chênh lệch đứng SAU tính từ, không có 很.",
+     "A 比 B + adjective + difference: 贵二十块 or 便宜二十块. The amount follows the adjective, with no 很."
+    ],
+    "f": [
+     "贵二十块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "你们|这儿|可以|用|手机|扫码|付钱|吗",
+    "m": [
+     "Ở chỗ các bạn có thể dùng điện thoại quét mã trả tiền không?",
+     "Can I pay by scanning with my phone here?"
+    ],
+    "e": [
+     "可以 (có thể) đứng trước cụm động từ; 用手机 (công cụ) đứng trước 扫码付钱; 吗 ở cuối để hỏi.",
+     "可以 precedes the verb phrase; 用手机 (the tool) comes before 扫码付钱; 吗 ends the question."
+    ],
+    "f": [
+     "用手机扫码付钱",
+     "HSK2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d03",
+  "g": "daily",
+  "t": [
+   "Ăn uống & nhà hàng",
+   "Food & restaurants"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 要 / 想, câu hỏi chính phản và lượng từ**\n• **要 / 想 + danh từ/động từ** để gọi món: 我要一碗河粉。Tôi muốn một bát phở. / 我想吃米饭。Tôi muốn ăn cơm. (要 dứt khoát hơn, 想 nhẹ nhàng hơn.)\n• **Câu hỏi chính phản V不V / A不A**: 这个菜辣不辣？Món này có cay không? / 好吃不好吃？– đã dùng V不V thì **không thêm 吗**.\n• **Lượng từ** đứng giữa số và danh từ: 一**碗**米饭 (bát), 两**杯**咖啡 (cốc), 一**盘**饺子 (đĩa), 一**瓶**水 (chai). Chú ý 两 (không dùng 二) trước lượng từ.",
+    "**Grammar: 要 / 想, affirmative-negative questions and measure words**\n• **要 / 想 + noun/verb** to order: 我要一碗河粉。I'd like a bowl of pho. / 我想吃米饭。I'd like to have rice. (要 is firmer, 想 softer.)\n• **A-not-A questions V不V / Adj不Adj**: 这个菜辣不辣？Is this dish spicy? / 好吃不好吃？– with V不V **don't add 吗**.\n• **Measure words** go between number and noun: 一**碗**米饭 (bowl), 两**杯**咖啡 (cup), 一**盘**饺子 (plate), 一**瓶**水 (bottle). Use 两 (not 二) before a measure word."
+   ],
+   [
+    "**Phát âm: biến điệu của 不**\n• 不 vốn đọc **bù** (thanh 4). Trước một **thanh 4** nó đổi thành **bú**: 不辣 bú là, 不要 bú yào, 不贵 bú guì.\n• Trước thanh 1, 2, 3 vẫn đọc bù: 不甜 bù tián, 不好 bù hǎo.\n• Trong câu hỏi V不V, 不 đọc nhẹ: 辣不辣 là bu là, 好吃不好吃 hǎochī bu hǎochī.",
+    "**Pronunciation: tone change of 不**\n• 不 is normally **bù** (tone 4). Before another **tone 4** it becomes **bú**: 不辣 bú là, 不要 bú yào, 不贵 bú guì.\n• Before tones 1, 2, 3 it stays bù: 不甜 bù tián, 不好 bù hǎo.\n• In V不V questions 不 is light: 辣不辣 là bu là, 好吃不好吃 hǎochī bu hǎochī."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **水** (4 nét), **吃** (6), **茶** (9), **菜** (11), **喝** (12).\n• Bộ **口** (miệng) trong 吃, 喝 – hành động bằng miệng: ăn, uống.\n• Bộ **艹** (cỏ) trên đầu 茶, 菜 – lá trà và rau đều là cây cỏ.\n• Thanh điệu: shuǐ (3) · chī (1) · chá (2) · cài (4) · hē (1).",
+    "**Characters & tones**\nWrite: **水** (4 strokes), **吃** (6), **茶** (9), **菜** (11), **喝** (12).\n• The **口** (mouth) radical in 吃, 喝 – actions done with the mouth: eat, drink.\n• The **艹** (grass) radical on top of 茶, 菜 – tea leaves and vegetables are plants.\n• Tones: shuǐ (3) · chī (1) · chá (2) · cài (4) · hē (1)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 hội thoại gọi món, ghi lại món, số lượng và giá.\n• Nói (25 phút): đóng vai khách và phục vụ: đặt bàn, gọi 3 món, hỏi độ cay, tính tiền; ghi âm cả hai vai.\n• Đọc (20 phút): đọc một thực đơn tiếng Trung thật, chọn bữa ăn dưới một mức giá cho trước.\n• Viết (30 phút): viết đánh giá nhà hàng 80 chữ: món, giá, phục vụ, có quay lại không.\n• Từ vựng (15 phút): phân loại 20 món ăn quen thuộc: thịt, rau, đồ uống, tráng miệng.\n• Thử thách (20 phút): xem một video nấu ăn tiếng Trung, ghi 10 nguyên liệu và 5 động từ nấu nướng (切, 炒, 煮…).",
+    "**Practice outside the app**\n• Listening (20 min): listen to an ordering dialogue and note dishes, quantities and prices.\n• Speaking (25 min): role-play customer and waiter: book a table, order 3 dishes, ask about spiciness, pay; record both roles.\n• Reading (20 min): read a real Chinese menu and choose a meal under a set budget.\n• Writing (30 min): write an 80-character restaurant review: food, price, service, would you go back.\n• Vocabulary (15 min): sort 20 familiar foods into meat, vegetables, drinks, desserts.\n• Challenge (20 min): watch a Chinese cooking video and note 10 ingredients and 5 cooking verbs (切, 炒, 煮…)."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "请给我看一下菜单。Qǐng gěi wǒ kàn yíxià càidān.",
+    "Cho tôi xem thực đơn."
+   ],
+   [
+    "我要一碗河粉。Wǒ yào yì wǎn héfěn.",
+    "Tôi muốn một bát phở."
+   ],
+   [
+    "这个菜辣不辣？Zhège cài là bu là?",
+    "Món này có cay không?"
+   ],
+   [
+    "服务员，买单！Fúwùyuán, mǎidān!",
+    "Cho tôi tính tiền."
+   ],
+   [
+    "我想订一个四个人的位子。Wǒ xiǎng dìng yí ge sì ge rén de wèizi.",
+    "Tôi muốn đặt bàn cho bốn người."
+   ],
+   [
+    "再来一瓶水。Zài lái yì píng shuǐ.",
+    "Cho tôi thêm một chai nước."
+   ],
+   [
+    "我不能吃辣的。Wǒ bù néng chī là de.",
+    "Tôi không ăn được đồ cay."
+   ]
+  ],
+  "vo": [
+   [
+    "菜单",
+    "càidān",
+    "thực đơn",
+    "menu"
+   ],
+   [
+    "点菜",
+    "diǎn cài",
+    "gọi món",
+    "order"
+   ],
+   [
+    "米饭",
+    "mǐfàn",
+    "cơm",
+    "rice"
+   ],
+   [
+    "饮料",
+    "yǐnliào",
+    "đồ uống",
+    "drink"
+   ],
+   [
+    "辣",
+    "là",
+    "cay",
+    "spicy"
+   ],
+   [
+    "甜",
+    "tián",
+    "ngọt",
+    "sweet"
+   ],
+   [
+    "好吃",
+    "hǎochī",
+    "ngon",
+    "delicious"
+   ],
+   [
+    "买单",
+    "mǎidān",
+    "hóa đơn, tính tiền",
+    "the bill"
+   ],
+   [
+    "订位",
+    "dìngwèi",
+    "đặt bàn",
+    "book a table"
+   ],
+   [
+    "服务员",
+    "fúwùyuán",
+    "người phục vụ",
+    "waiter"
+   ]
+  ],
+  "hz": "水吃茶菜喝",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "请给我看一下菜单。",
+    "e": [
+     "一下 đọc yíxià (一 trước thanh 4). 菜单 = 菜 (món) + 单 (tờ, danh sách). 请 làm câu lịch sự.",
+     "一下 is yíxià (一 before tone 4). 菜单 = 菜 (dish) + 单 (list). 请 makes it polite."
+    ],
+    "f": [
+     "看一下菜单",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我要一碗河粉。",
+    "e": [
+     "碗 (bát) là lượng từ cho phở, cơm. 河粉 là phở/bánh phở. 一碗 đọc yì wǎn.",
+     "碗 (bowl) is the measure word for noodle soup, rice. 河粉 = rice noodles/pho. 一碗 is yì wǎn."
+    ],
+    "f": [
+     "一碗河粉",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "服务员，这个菜辣不辣？我不能吃辣的，再来一瓶水吧。",
+    "q": [
+     "Khách hỏi gì về món ăn?",
+     "What does the customer ask about the dish?"
+    ],
+    "o": [
+     [
+      "Món đó có cay không",
+      "Whether it is spicy"
+     ],
+     [
+      "Món đó có ngọt không",
+      "Whether it is sweet"
+     ],
+     [
+      "Món đó bao nhiêu tiền",
+      "How much it costs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "辣不辣 = có cay không (câu hỏi chính phản). Khách nói thêm 我不能吃辣的 (không ăn được cay). 甜 mới là ngọt.",
+     "辣不辣 = is it spicy (A-not-A question). The customer adds 我不能吃辣的 (can't eat spicy food). 甜 means sweet."
+    ],
+    "f": [
+     "辣不辣",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "这个菜辣不辣？服务员，买单！",
+    "e": [
+     "辣不辣 đọc là bu là (不 nhẹ). 服务员 fúwùyuán: ba thanh 2-4-2. 买单 mǎidān (3-1).",
+     "辣不辣 is là bu là (light 不). 服务员 fúwùyuán: tones 2-4-2. 买单 mǎidān (3-1)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你最喜欢吃什么菜？我最喜欢吃越南河粉，因为河粉不辣，很好吃，也不贵。",
+    "e": [
+     "Câu hỏi: 你最喜欢吃什么菜？– Gợi ý trả lời mẫu. 不辣 đọc bú là, 不贵 đọc bú guì (trước thanh 4).",
+     "Question: 你最喜欢吃什么菜？– A model answer. 不辣 is bú là and 不贵 bú guì (before tone 4)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢在家做饭还是出去吃？我喜欢在家做饭，因为在家吃饭比较便宜，也很干净。",
+    "e": [
+     "Câu hỏi: 你喜欢在家做饭还是出去吃？– Gợi ý trả lời mẫu. 还是 dùng trong câu hỏi lựa chọn; trả lời chọn một vế và nêu lý do với 因为.",
+     "Question: 你喜欢在家做饭还是出去吃？– A model answer. 还是 marks an either-or question; pick one and give a reason with 因为."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "上个星期六，我和朋友去一家越南饭馆吃饭。我们先打电话订位，到了以后，服务员给我们看菜单。我要了一碗河粉，朋友想吃米饭和鱼。我问服务员：“这个菜辣不辣？”她说有一点儿辣。我们还点了两杯冰咖啡，咖啡很甜。菜都很好吃，也不贵。吃完饭，朋友说：“服务员，买单！”下次我还想去。",
+   "tr": "Thứ bảy tuần trước, tôi và bạn đi ăn ở một quán ăn Việt Nam. Chúng tôi gọi điện đặt bàn trước, đến nơi, người phục vụ đưa thực đơn cho chúng tôi xem. Tôi gọi một bát phở, bạn tôi muốn ăn cơm và cá. Tôi hỏi người phục vụ: “Món này có cay không?” Cô ấy nói hơi cay. Chúng tôi còn gọi hai cốc cà phê đá, cà phê rất ngọt. Các món đều rất ngon, cũng không đắt. Ăn xong, bạn tôi nói: “Em ơi, tính tiền!” Lần sau tôi vẫn muốn đi nữa."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Trước khi đến quán, họ đã làm gì?",
+     "What did they do before going to the restaurant?"
+    ],
+    "o": [
+     [
+      "Gọi điện đặt bàn",
+      "They phoned to book a table"
+     ],
+     [
+      "Xem thực đơn trên mạng",
+      "They looked at the menu online"
+     ],
+     [
+      "Mua cà phê",
+      "They bought coffee"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "我们先打电话订位 – 先 (trước) cho biết việc gọi điện đặt bàn xảy ra trước khi đến. Thực đơn là phục vụ đưa khi đã đến.",
+     "我们先打电话订位 – 先 (first) shows they phoned to book before arriving. The menu came after they arrived."
+    ],
+    "f": [
+     "先打电话订位",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Món người viết hỏi có cay không?",
+     "Was the dish the writer asked about spicy?"
+    ],
+    "o": [
+     [
+      "Hơi cay",
+      "A little spicy"
+     ],
+     [
+      "Rất cay",
+      "Very spicy"
+     ],
+     [
+      "Không cay chút nào",
+      "Not spicy at all"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "她说有一点儿辣 – 有一点儿 = hơi, một chút (thường mang ý hơi không như mong muốn).",
+     "她说有一点儿辣 – 有一点儿 = a little (often slightly undesirable)."
+    ],
+    "f": [
+     "有一点儿辣",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết nhận xét gì về bữa ăn?",
+     "What does the writer think of the meal?"
+    ],
+    "o": [
+     [
+      "Ngon và không đắt, muốn quay lại",
+      "Tasty and cheap; wants to go back"
+     ],
+     [
+      "Ngon nhưng rất đắt",
+      "Tasty but very expensive"
+     ],
+     [
+      "Cà phê không ngọt",
+      "The coffee wasn't sweet"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "菜都很好吃，也不贵 + 下次我还想去 – ngon, không đắt, muốn quay lại. Cà phê thì 很甜 (rất ngọt).",
+     "菜都很好吃，也不贵 + 下次我还想去 – tasty, not expensive, wants to return. The coffee was 很甜 (very sweet)."
+    ],
+    "f": [
+     "下次我还想去",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "服务员，这个菜辣___辣？我不太能吃辣的。",
+    "a": [
+     "不"
+    ],
+    "e": [
+     "Câu hỏi chính phản: 辣不辣 (cay hay không cay). Đã dùng dạng này thì không thêm 吗.",
+     "A-not-A question: 辣不辣 (spicy or not). Don't add 吗 to this form."
+    ],
+    "f": [
+     "辣不辣",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我要一___咖啡，不要冰的，也不要太甜。(cốc)",
+    "a": [
+     "杯"
+    ],
+    "e": [
+     "杯 = cốc, lượng từ cho đồ uống. 碗 (bát) dùng cho phở, cơm; 瓶 (chai) cho nước đóng chai.",
+     "杯 = cup, the measure word for drinks. 碗 (bowl) is for soup/rice; 瓶 (bottle) for bottled drinks."
+    ],
+    "f": [
+     "一杯咖啡",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "吃完饭以后，我们叫服务员：“服务员，___单！”",
+    "a": [
+     "买"
+    ],
+    "e": [
+     "买单 mǎidān = tính tiền (cách nói phổ biến ở nhà hàng). Cũng có thể nói 结账, nhưng ô trống chỉ có một chữ trước 单.",
+     "买单 mǎidān = the bill, please (common restaurant phrase). 结账 also works, but the blank is one character before 单."
+    ],
+    "f": [
+     "买单",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi không ăn được đồ cay.",
+    "a": [
+     "我不能吃辣的。",
+     "我不能吃辣。",
+     "我吃不了辣的。"
+    ],
+    "e": [
+     "不能吃 = không thể ăn; 辣的 = đồ cay (的 biến tính từ thành danh từ). 不能 đọc bù néng.",
+     "不能吃 = cannot eat; 辣的 = spicy things (的 nominalises the adjective). 不能 is bù néng."
+    ],
+    "f": [
+     "不能吃辣的",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cho tôi thêm một chai nước.",
+    "a": [
+     "再来一瓶水。",
+     "再给我一瓶水。",
+     "请再来一瓶水。"
+    ],
+    "e": [
+     "再来 = cho thêm (gọi thêm món). 瓶 là lượng từ cho chai. Không nói 再来一个水.",
+     "再来 = another one (ordering more). 瓶 is the measure word for bottles; not 再来一个水."
+    ],
+    "f": [
+     "再来一瓶水",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这个菜好吃不好吃吗？我朋友说这家饭馆的菜都很辣。",
+    "a": [
+     "这个菜好吃不好吃？我朋友说这家饭馆的菜都很辣。",
+     "这个菜好吃吗？我朋友说这家饭馆的菜都很辣。"
+    ],
+    "e": [
+     "Câu hỏi chính phản (好吃不好吃) đã là câu hỏi, không thêm 吗. Chọn một: 好吃不好吃？ hoặc 好吃吗？",
+     "An A-not-A question (好吃不好吃) is already a question, so no 吗. Use either 好吃不好吃？ or 好吃吗？"
+    ],
+    "f": [
+     "好吃不好吃",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们要了二碗河粉和一盘鱼，还要了两杯冰咖啡。",
+    "a": [
+     "我们要了两碗河粉和一盘鱼，还要了两杯冰咖啡。"
+    ],
+    "e": [
+     "Trước lượng từ dùng 两 chứ không dùng 二: 两碗, 两杯, 两个. 二 dùng khi đếm số (一、二、三) hoặc trong số lớn (十二).",
+     "Before a measure word use 两, not 二: 两碗, 两杯, 两个. 二 is for counting (一、二、三) or in numbers like 十二."
+    ],
+    "f": [
+     "两碗",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "我今天不太饿，所以只想要一 ___ 米饭和一个菜，不要汤了。",
+    "o": [
+     "碗",
+     "杯",
+     "瓶"
+    ],
+    "a": 0,
+    "e": [
+     "Cơm tính bằng bát: 一碗米饭. 杯 dùng cho đồ uống, 瓶 cho chai – đều không hợp với cơm.",
+     "Rice comes in bowls: 一碗米饭. 杯 is for drinks and 瓶 for bottles – neither fits rice."
+    ],
+    "f": [
+     "一碗米饭",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu hỏi chính phản (không dùng 吗)",
+     "Rewrite as an A-not-A question (no 吗)"
+    ],
+    "s": "这家饭馆的河粉好吃吗？",
+    "a": [
+     "这家饭馆的河粉好吃不好吃？",
+     "这家饭馆的河粉好不好吃？"
+    ],
+    "e": [
+     "Bỏ 吗, lặp tính từ với 不 ở giữa: 好吃不好吃, hoặc dạng rút gọn 好不好吃 (chỉ lặp chữ đầu).",
+     "Drop 吗 and repeat the adjective with 不: 好吃不好吃, or the short form 好不好吃 (repeat only the first syllable)."
+    ],
+    "f": [
+     "好吃不好吃",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我们|先|打电话|订位|，然后|跟朋友|一起|去|那家饭馆|吃饭",
+    "m": [
+     "Chúng tôi gọi điện đặt bàn trước, sau đó cùng bạn đi ăn ở quán đó.",
+     "We first phone to book a table, then go and eat at that restaurant with our friends."
+    ],
+    "e": [
+     "先…然后… = trước… sau đó…. Cụm 跟朋友一起 đứng trước động từ 去; mục đích 吃饭 đứng sau địa điểm.",
+     "先…然后… = first… then…. 跟朋友一起 comes before the verb 去; the purpose 吃饭 follows the place."
+    ],
+    "f": [
+     "先打电话订位",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết công thức một món Việt Nam bạn thích trong khoảng 100 chữ: danh sách nguyên liệu và 5 bước nấu, dùng câu mệnh lệnh.",
+     "Write a recipe for a Vietnamese dish you like in about 100 characters: an ingredient list and 5 steps, using imperatives."
+    ],
+    "m": "越南春卷。材料：米纸十张、猪肉、虾、米粉、生菜、鱼露。做法：第一，先把猪肉和虾切小。第二，把米粉放在热水里五分钟。第三，把米纸放在水里一下。第四，把肉、虾、米粉和生菜放在米纸上，卷好。第五，蘸鱼露吃。很好吃，也不难做！",
+    "e": [
+     "Cần có: • danh sách nguyên liệu với lượng từ • 5 bước có thứ tự (第一…/先…然后…) • câu mệnh lệnh (có thể dùng 把) • 1 câu nhận xét.",
+     "Must include: • ingredient list with measure words • 5 ordered steps (第一…/先…然后…) • imperatives (把 is fine) • 1 closing comment."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d04",
+  "g": "daily",
+  "t": [
+   "Mua sắm & tiền bạc",
+   "Shopping & money"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: tính từ + 一点, câu so sánh 比, nói giá tiền**\n• **Tính từ + 一点(儿)** = “hơn một chút” khi đề nghị: 能便宜一点吗？Rẻ hơn chút được không? / 有大一点的吗？Có cái to hơn chút không?\n• Phân biệt: **有一点儿 + tính từ** = “hơi…” (than phiền): 有一点儿贵 hơi đắt.\n• **A 比 B + tính từ**: 这个比那个贵。Cái này đắt hơn cái kia. Không thêm 很 sau 比 (không nói 比那个很贵); muốn nhấn mạnh dùng 多了 / 一点: 这个比那个贵多了。\n• **Giá tiền**: nói 块 (khẩu ngữ), viết 元 (văn viết): 三百块 = 300元. 打八折 = giảm 20% (trả 80%).",
+    "**Grammar: adjective + 一点, comparisons with 比, saying prices**\n• **Adjective + 一点(儿)** = “a bit more …” in requests: 能便宜一点吗？Could it be a bit cheaper? / 有大一点的吗？Is there a slightly bigger one?\n• Contrast: **有一点儿 + adjective** = “a bit too …” (complaint): 有一点儿贵 a bit pricey.\n• **A 比 B + adjective**: 这个比那个贵。This one is more expensive than that one. No 很 after 比 (not 比那个很贵); to stress, use 多了 / 一点: 这个比那个贵多了。\n• **Prices**: say 块 (spoken), write 元 (written): 三百块 = 300元. 打八折 = 20% off (pay 80%)."
+   ],
+   [
+    "**Phát âm: biến điệu của 一**\n• 一 đứng một mình hoặc cuối từ đọc **yī**: 第一 dì yī.\n• Trước **thanh 4** đọc **yí**: 一下 yíxià, 一件 yí jiàn, 一块 yí kuài.\n• Trước **thanh 1, 2, 3** đọc **yì**: 一点 yìdiǎn, 一张 yì zhāng, 一瓶 yì píng.\n• 便宜 đọc piányi (không phải biànyí – 便 trong 方便 mới đọc biàn).",
+    "**Pronunciation: tone change of 一**\n• 一 alone or at the end of a word is **yī**: 第一 dì yī.\n• Before a **tone 4** it is **yí**: 一下 yíxià, 一件 yí jiàn, 一块 yí kuài.\n• Before **tones 1, 2, 3** it is **yì**: 一点 yìdiǎn, 一张 yì zhāng, 一瓶 yì píng.\n• 便宜 is piányi (not biànyí – 便 is biàn only in words like 方便)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **少** (4 nét), **买** (6), **多** (6), **卖** (8), **钱** (10).\n• **买 mǎi** (mua, thanh 3) và **卖 mài** (bán, thanh 4): 卖 có thêm 十 trên đầu – “thêm vào thì bán ra”.\n• 钱 có bộ 钅(kim loại) – tiền xưa làm bằng kim loại.\n• 多 = hai chữ 夕 chồng lên nhau; 少 khác 小 ở nét phẩy dưới cùng.",
+    "**Characters & tones**\nWrite: **少** (4 strokes), **买** (6), **多** (6), **卖** (8), **钱** (10).\n• **买 mǎi** (buy, tone 3) vs **卖 mài** (sell, tone 4): 卖 has an extra 十 on top – “add something and you sell it”.\n• 钱 has the 钅(metal) radical – old money was metal.\n• 多 is two 夕 stacked; 少 differs from 小 by the extra bottom stroke."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 5 đoạn mua bán ngắn, ghi lại đúng con số giá tiền.\n• Nói (20 phút): đóng vai mua 1 món quần áo: hỏi giá, hỏi cỡ, mặc cả, trả tiền.\n• Đọc (20 phút): đọc 1 trang sản phẩm trên Taobao/JD, tìm giá, chính sách đổi trả (退货), phí giao hàng.\n• Viết (30 phút): viết email 80 chữ yêu cầu đổi hàng vì sai cỡ.\n• Từ vựng (15 phút): đọc to 20 giá tiền ngẫu nhiên (15.99元, 230块, 1450块).\n• Thử thách (20 phút): chọn 5 món trên một trang mua sắm tiếng Trung trong ngân sách cố định, đọc to tổng tiền.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 5 short shopping exchanges and note the exact prices.\n• Speaking (20 min): role-play buying clothes: ask the price and size, bargain, pay.\n• Reading (20 min): read a Taobao/JD product page and find the price, return policy (退货) and delivery fee.\n• Writing (30 min): write an 80-character email asking to exchange an item in the wrong size.\n• Vocabulary (15 min): read 20 random prices aloud (15.99元, 230块, 1450块).\n• Challenge (20 min): pick 5 items on a Chinese shopping site within a fixed budget and say the total aloud."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "这个多少钱？Zhège duōshao qián?",
+    "Cái này bao nhiêu tiền?"
+   ],
+   [
+    "有大一点的吗？Yǒu dà yìdiǎn de ma?",
+    "Có cỡ lớn hơn không?"
+   ],
+   [
+    "能便宜一点吗？Néng piányi yìdiǎn ma?",
+    "Bớt cho tôi được không?"
+   ],
+   [
+    "可以刷卡吗？Kěyǐ shuākǎ ma?",
+    "Tôi trả bằng thẻ được không?"
+   ],
+   [
+    "我可以试穿一下吗？Wǒ kěyǐ shìchuān yíxià ma?",
+    "Tôi mặc thử được không?"
+   ],
+   [
+    "我只是看看，谢谢。Wǒ zhǐshì kànkan, xièxie.",
+    "Tôi chỉ xem thôi, cảm ơn."
+   ],
+   [
+    "可以退货吗？Kěyǐ tuìhuò ma?",
+    "Có đổi trả được không?"
+   ]
+  ],
+  "vo": [
+   [
+    "价格",
+    "jiàgé",
+    "giá",
+    "price"
+   ],
+   [
+    "贵",
+    "guì",
+    "đắt",
+    "expensive"
+   ],
+   [
+    "便宜",
+    "piányi",
+    "rẻ",
+    "cheap"
+   ],
+   [
+    "打折",
+    "dǎzhé",
+    "giảm giá",
+    "discount"
+   ],
+   [
+    "尺码",
+    "chǐmǎ",
+    "cỡ",
+    "size"
+   ],
+   [
+    "试穿",
+    "shìchuān",
+    "mặc thử",
+    "try on"
+   ],
+   [
+    "现金",
+    "xiànjīn",
+    "tiền mặt",
+    "cash"
+   ],
+   [
+    "刷卡",
+    "shuākǎ",
+    "quẹt thẻ",
+    "pay by card"
+   ],
+   [
+    "付钱",
+    "fù qián",
+    "trả tiền",
+    "pay"
+   ],
+   [
+    "退货",
+    "tuìhuò",
+    "đổi trả hàng",
+    "return an item"
+   ]
+  ],
+  "hz": "少买多卖钱",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "这个多少钱？",
+    "e": [
+     "多少钱 = bao nhiêu tiền; 少 trong 多少 đọc nhẹ (duōshao). Đừng viết 小 thay cho 少.",
+     "多少钱 = how much; 少 in 多少 is light (duōshao). Don't write 小 for 少."
+    ],
+    "f": [
+     "多少钱",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "能便宜一点吗？",
+    "e": [
+     "Tính từ + 一点 = hơn một chút. 便宜 đọc piányi; 一点 đọc yìdiǎn.",
+     "Adjective + 一点 = a bit more. 便宜 is piányi; 一点 is yìdiǎn."
+    ],
+    "f": [
+     "便宜一点",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这件衣服三百块，今天打八折，所以只要二百四十块，可以刷卡。",
+    "q": [
+     "Hôm nay chiếc áo giá bao nhiêu?",
+     "How much is the item today?"
+    ],
+    "o": [
+     [
+      "240 tệ",
+      "240 yuan"
+     ],
+     [
+      "300 tệ",
+      "300 yuan"
+     ],
+     [
+      "80 tệ",
+      "80 yuan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Giá gốc 三百块, 打八折 = trả 80% → 二百四十块. Bẫy: hiểu 八折 là giảm 80% hoặc còn 80 tệ.",
+     "Original price 三百块; 打八折 = pay 80% → 二百四十块. Trap: reading 八折 as 80% off or 80 yuan."
+    ],
+    "f": [
+     "打八折",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "有大一点的吗？可以刷卡吗？",
+    "e": [
+     "大一点 dà yìdiǎn; 可以 kěyǐ (hai thanh 3 → ké yǐ); 刷卡 shuākǎ.",
+     "大一点 dà yìdiǎn; 可以 kěyǐ (two third tones → ké yǐ); 刷卡 shuākǎ."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢网购还是去商店买东西？我喜欢网购，因为网上的东西比商店便宜，也很方便。",
+    "e": [
+     "Câu hỏi: 你喜欢网购还是去商店买东西？– Gợi ý trả lời mẫu. Dùng 比 để so sánh: 网上的东西比商店便宜.",
+     "Question: 你喜欢网购还是去商店买东西？– A model answer. Use 比 to compare: 网上的东西比商店便宜."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你怎么省钱？我每个月先存一点钱，买东西以前比一比价格，打折的时候再买。",
+    "e": [
+     "Câu hỏi: 你怎么省钱？– Gợi ý trả lời mẫu. 比一比 = so sánh thử; 打折的时候 = khi giảm giá.",
+     "Question: 你怎么省钱？– A model answer. 比一比 = compare a bit; 打折的时候 = when there's a sale."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "昨天下午我去商店买衣服。我看到一件白色的衣服，就问：“这件衣服多少钱？”服务员说三百块。我觉得有点儿贵，问她：“能便宜一点吗？”她说今天打八折，只要二百四十块。我试穿了一下，有点儿小，她给我拿了一件大一点的，很合适。我问：“可以刷卡吗？”她说可以。这件比我上次买的那件便宜。",
+   "tr": "Chiều hôm qua tôi đến cửa hàng mua quần áo. Tôi thấy một chiếc áo màu trắng, liền hỏi: “Chiếc áo này bao nhiêu tiền?” Nhân viên nói ba trăm tệ. Tôi thấy hơi đắt, hỏi cô ấy: “Có thể rẻ hơn một chút không?” Cô ấy nói hôm nay giảm 20%, chỉ còn hai trăm bốn mươi tệ. Tôi mặc thử, hơi chật, cô ấy lấy cho tôi một chiếc to hơn một chút, rất vừa. Tôi hỏi: “Có thể quẹt thẻ không?” Cô ấy nói được. Chiếc này rẻ hơn chiếc tôi mua lần trước."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Cuối cùng người viết trả bao nhiêu?",
+     "How much did the writer finally pay?"
+    ],
+    "o": [
+     [
+      "240 tệ",
+      "240 yuan"
+     ],
+     [
+      "300 tệ",
+      "300 yuan"
+     ],
+     [
+      "80 tệ",
+      "80 yuan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "今天打八折，只要二百四十块 – giảm còn 240 tệ. 三百块 là giá gốc.",
+     "今天打八折，只要二百四十块 – down to 240 yuan. 三百块 was the original price."
+    ],
+    "f": [
+     "只要二百四十块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao người viết đổi sang chiếc khác?",
+     "Why did the writer change to another one?"
+    ],
+    "o": [
+     [
+      "Chiếc đầu hơi chật",
+      "The first one was a bit small"
+     ],
+     [
+      "Chiếc đầu quá đắt",
+      "The first one was too expensive"
+     ],
+     [
+      "Không thích màu trắng",
+      "They didn't like white"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "试穿了一下，有点儿小 – mặc thử thấy hơi nhỏ, nên lấy 大一点的 (to hơn một chút).",
+     "试穿了一下，有点儿小 – it was a bit small, so she brought 大一点的 (a slightly bigger one)."
+    ],
+    "f": [
+     "有点儿小",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết trả tiền bằng cách nào?",
+     "How did the writer pay?"
+    ],
+    "o": [
+     [
+      "Quẹt thẻ",
+      "By card"
+     ],
+     [
+      "Tiền mặt",
+      "In cash"
+     ],
+     [
+      "Chuyển khoản điện thoại",
+      "By phone transfer"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "可以刷卡吗？– 她说可以: được quẹt thẻ. Bài không nhắc đến 现金 (tiền mặt).",
+     "可以刷卡吗？– 她说可以: card was accepted. 现金 (cash) isn't mentioned."
+    ],
+    "f": [
+     "可以刷卡吗",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这件衣服___那件贵，可是质量也好一点。",
+    "a": [
+     "比"
+    ],
+    "e": [
+     "A 比 B + tính từ: 这件比那件贵 = cái này đắt hơn cái kia. Không dùng 很 sau 比.",
+     "A 比 B + adjective: 这件比那件贵 = this one is dearer than that one. No 很 after 比."
+    ],
+    "f": [
+     "比",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "老板，这个太贵了，能便宜一___吗？",
+    "a": [
+     "点",
+     "点儿"
+    ],
+    "e": [
+     "便宜一点 = rẻ hơn một chút. Một chữ cần điền là 点 (có thể thêm 儿 theo giọng Bắc).",
+     "便宜一点 = a bit cheaper. The missing character is 点 (northern speakers add 儿)."
+    ],
+    "f": [
+     "便宜一点",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "你好，这件白色的衣服多少___？",
+    "a": [
+     "钱"
+    ],
+    "e": [
+     "多少钱 = bao nhiêu tiền. Nhớ 钱 có bộ 钅(kim loại).",
+     "多少钱 = how much money. 钱 has the 钅(metal) radical."
+    ],
+    "f": [
+     "多少钱",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Cái áo này có màu khác không?",
+    "a": [
+     "这件衣服有别的颜色吗？",
+     "这件衣服有没有别的颜色？"
+    ],
+    "e": [
+     "Lượng từ cho quần áo là 件: 这件衣服. 别的颜色 = màu khác. Hỏi có/không: 吗 hoặc 有没有.",
+     "The measure word for clothes is 件: 这件衣服. 别的颜色 = another colour. Yes/no: 吗 or 有没有."
+    ],
+    "f": [
+     "别的颜色",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi chỉ xem thôi, cảm ơn.",
+    "a": [
+     "我只是看看，谢谢。",
+     "我只是看一看，谢谢。",
+     "我就看看，谢谢。"
+    ],
+    "e": [
+     "只是 = chỉ là; 看看 (lặp động từ) = xem qua, xem thử – nhẹ nhàng, lịch sự.",
+     "只是 = just; 看看 (reduplicated verb) = have a look – soft and polite."
+    ],
+    "f": [
+     "只是看看",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这双鞋比那双鞋很便宜，所以我买了这双。",
+    "a": [
+     "这双鞋比那双鞋便宜，所以我买了这双。",
+     "这双鞋比那双鞋便宜多了，所以我买了这双。",
+     "这双鞋比那双鞋便宜一点，所以我买了这双。"
+    ],
+    "e": [
+     "Câu 比 không dùng 很/非常 trước tính từ. Muốn nói “rẻ hơn nhiều” thì thêm 多了 sau tính từ: 便宜多了.",
+     "比 sentences take no 很/非常 before the adjective. For “much cheaper” add 多了 after it: 便宜多了."
+    ],
+    "f": [
+     "比那双鞋便宜",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这件衣服一点儿贵，你们有没有便宜一点的？",
+    "a": [
+     "这件衣服有一点儿贵，你们有没有便宜一点的？",
+     "这件衣服有点儿贵，你们有没有便宜一点的？"
+    ],
+    "e": [
+     "“Hơi đắt” = 有一点儿贵 (có 有 đứng trước tính từ). 一点 đứng SAU tính từ khi so sánh (便宜一点), không đứng trước.",
+     "“A bit expensive” = 有一点儿贵 (with 有 before the adjective). 一点 goes AFTER an adjective when comparing (便宜一点)."
+    ],
+    "f": [
+     "有一点儿贵",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这件衣服有一点儿小，我可以 ___ 一下大一点的吗？",
+    "o": [
+     "试穿",
+     "退货",
+     "打折"
+    ],
+    "a": 0,
+    "e": [
+     "试穿 = mặc thử, hợp với “cái to hơn”. 退货 là trả hàng sau khi đã mua; 打折 là giảm giá.",
+     "试穿 = try on, which fits “a bigger one”. 退货 is returning after buying; 打折 is a discount."
+    ],
+    "f": [
+     "试穿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我|上个星期|在网上|买的|鞋子|比|商店里的|便宜|五十块",
+    "m": [
+     "Đôi giày tôi mua trên mạng tuần trước rẻ hơn ở cửa hàng 50 tệ.",
+     "The shoes I bought online last week were 50 yuan cheaper than in the shop."
+    ],
+    "e": [
+     "Cụm 我上个星期在网上买的 bổ nghĩa cho 鞋子. Chênh lệch (五十块) đứng SAU tính từ trong câu 比.",
+     "我上个星期在网上买的 modifies 鞋子. The difference (五十块) goes AFTER the adjective in a 比 sentence."
+    ],
+    "f": [
+     "便宜五十块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết đánh giá khoảng 100 chữ về một món đồ bạn mới mua: giá, chất lượng, so với sản phẩm khác, có nên mua không.",
+     "Write a review of about 100 characters of something you bought recently: price, quality, comparison with other products, would you recommend it."
+    ],
+    "m": "上个星期我在网上买了一个小电饭锅，三百五十块。它比商店里的便宜五十块，送货也很快。电饭锅很好用，做的米饭很好吃，洗起来也很方便。可是它有一点儿小，只能做两三个人的饭。如果你一个人住，我觉得可以买。",
+    "e": [
+     "Cần có: • giá với 块/元 • ít nhất 1 câu 比 • 有一点儿 + tính từ (nhược điểm) • lời khuyên có nên mua.",
+     "Must include: • price with 块/元 • at least 1 比 sentence • 有一点儿 + adjective (a drawback) • a recommendation."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d05",
+  "g": "travel",
+  "t": [
+   "Du lịch, phương tiện & chỉ đường",
+   "Travel, transport & directions"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 在, 从…到… và 离**\n• **A 在 + địa điểm** = A ở đâu: 地铁站在哪儿？Ga tàu điện ngầm ở đâu? / 酒店在机场旁边。\n• **从 A 到 B** = từ A đến B (nơi chốn hoặc thời gian): 从河内到北京要三个小时。/ 我从九点到五点上班。\n• **A 离 B + 远/近** = A cách B xa/gần: 我家离机场很远。Nhà tôi cách sân bay rất xa. – Không dùng 从 trong câu khoảng cách (không nói 我家从机场很远).\n• Phương tiện đứng trước động từ: 坐飞机去北京, 骑自行车上班.\n• Chỉ đường: 一直走 (đi thẳng), 往左拐 / 往右拐 (rẽ trái / phải), 然后 (sau đó).",
+    "**Grammar: 在, 从…到… and 离**\n• **A 在 + place** = where A is: 地铁站在哪儿？Where is the subway station? / 酒店在机场旁边。\n• **从 A 到 B** = from A to B (place or time): 从河内到北京要三个小时。/ 我从九点到五点上班。\n• **A 离 B + 远/近** = A is far from/near B: 我家离机场很远。My home is far from the airport. – Don't use 从 for distance (not 我家从机场很远).\n• Transport comes before the main verb: 坐飞机去北京, 骑自行车上班.\n• Directions: 一直走 (go straight), 往左拐 / 往右拐 (turn left / right), 然后 (then)."
+   ],
+   [
+    "**Phát âm: âm cuốn lưỡi 儿 (giọng Bắc Kinh)**\n• 儿 gắn vào âm tiết trước, không đọc thành một âm riêng: 哪儿 **nǎr**, 这儿 **zhèr**, 那儿 nàr, 一点儿 yìdiǎnr.\n• Khi cuốn lưỡi, phụ âm cuối -n/-i rơi mất: 一点儿 nghe như “yìdiǎr”.\n• Miền Nam Trung Quốc và Đài Loan ít dùng 儿: 哪里 nǎlǐ, 这里 zhèlǐ – cả hai cách đều đúng.",
+    "**Pronunciation: the Beijing -r (儿化)**\n• 儿 merges into the previous syllable, not a separate sound: 哪儿 **nǎr**, 这儿 **zhèr**, 那儿 nàr, 一点儿 yìdiǎnr.\n• With the curl, final -n/-i drops: 一点儿 sounds like “yìdiǎr”.\n• Southern China and Taiwan rarely use 儿: 哪里 nǎlǐ, 这里 zhèlǐ – both are correct."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **车** (4 nét), **走** (7), **站** (10), **票** (11), **路** (13).\n• 站 = 立 (đứng) + 占: nơi đứng chờ – nhà ga, bến.\n• 路 có bộ 足 (chân) bên trái – con đường để đi bộ; 走 cũng có hình chân ở dưới.\n• 车 phồn thể là 車 – hình chiếc xe nhìn từ trên xuống.\n• Cặp thanh: jīchǎng (1-3) · hùzhào (4-4) · dìtiě (4-3) · yìzhí (4-2).",
+    "**Characters & tones**\nWrite: **车** (4 strokes), **走** (7), **站** (10), **票** (11), **路** (13).\n• 站 = 立 (stand) + 占: a place where you stand and wait – a station or stop.\n• 路 has the 足 (foot) radical – a road to walk on; 走 also has a foot at the bottom.\n• 车 is 車 in traditional script – a cart seen from above.\n• Tone pairs: jīchǎng (1-3) · hùzhào (4-4) · dìtiě (4-3) · yìzhí (4-2)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 3 thông báo ở sân bay/nhà ga, ghi lại số chuyến, cổng, giờ đi.\n• Nói (25 phút): mở bản đồ, chỉ đường từ khách sạn đến 3 địa điểm, ghi âm.\n• Đọc (20 phút): đọc 1 lịch trình du lịch 3 ngày, lập bảng ngày – địa điểm – phương tiện.\n• Viết (30 phút): viết 100 chữ kể về chuyến đi đáng nhớ nhất.\n• Từ vựng (15 phút): vẽ sơ đồ khu phố nhà bạn, ghi tên địa điểm bằng tiếng Trung.\n• Thử thách (25 phút): đổi Google Maps sang tiếng Trung, lên lộ trình 1 ngày ở Bắc Kinh và đọc to các chỉ dẫn.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 3 airport/station announcements and note the flight/train number, gate and time.\n• Speaking (25 min): open a map and give directions from a hotel to 3 places; record yourself.\n• Reading (20 min): read a 3-day itinerary and make a table of day – place – transport.\n• Writing (30 min): write 100 characters about your most memorable trip.\n• Vocabulary (15 min): draw a map of your neighbourhood and label places in Chinese.\n• Challenge (25 min): switch Google Maps to Chinese, plan a day in Beijing and read the directions aloud."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "地铁站在哪儿？Dìtiězhàn zài nǎr?",
+    "Ga tàu điện ngầm ở đâu?"
+   ],
+   [
+    "一直走，然后往左拐。Yìzhí zǒu, ránhòu wǎng zuǒ guǎi.",
+    "Đi thẳng rồi rẽ trái."
+   ],
+   [
+    "走路要多长时间？Zǒulù yào duō cháng shíjiān?",
+    "Đi bộ mất bao lâu?"
+   ],
+   [
+    "我想买一张往返票。Wǒ xiǎng mǎi yì zhāng wǎngfǎn piào.",
+    "Tôi muốn mua một vé khứ hồi."
+   ],
+   [
+    "这儿离机场远吗？Zhèr lí jīchǎng yuǎn ma?",
+    "Ở đây cách sân bay có xa không?"
+   ],
+   [
+    "请送我到这个地址。Qǐng sòng wǒ dào zhège dìzhǐ.",
+    "Làm ơn đưa tôi đến địa chỉ này."
+   ]
+  ],
+  "vo": [
+   [
+    "票",
+    "piào",
+    "vé",
+    "ticket"
+   ],
+   [
+    "机场",
+    "jīchǎng",
+    "sân bay",
+    "airport"
+   ],
+   [
+    "火车站",
+    "huǒchēzhàn",
+    "ga tàu",
+    "train station"
+   ],
+   [
+    "酒店",
+    "jiǔdiàn",
+    "khách sạn",
+    "hotel"
+   ],
+   [
+    "护照",
+    "hùzhào",
+    "hộ chiếu",
+    "passport"
+   ],
+   [
+    "行李",
+    "xíngli",
+    "hành lý",
+    "luggage"
+   ],
+   [
+    "往左拐",
+    "wǎng zuǒ guǎi",
+    "rẽ trái",
+    "turn left"
+   ],
+   [
+    "一直走",
+    "yìzhí zǒu",
+    "đi thẳng",
+    "go straight on"
+   ],
+   [
+    "近",
+    "jìn",
+    "gần",
+    "near"
+   ],
+   [
+    "远",
+    "yuǎn",
+    "xa",
+    "far"
+   ]
+  ],
+  "hz": "车走站票路",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "地铁站在哪儿？",
+    "e": [
+     "在 + 哪儿 = ở đâu. 哪儿 đọc nǎr (cuốn lưỡi), có thể viết 哪里. 地铁站 = ga tàu điện ngầm.",
+     "在 + 哪儿 = where. 哪儿 is nǎr (r-colouring), also written 哪里. 地铁站 = subway station."
+    ],
+    "f": [
+     "在哪儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "一直走，然后往左拐。",
+    "e": [
+     "一直 đọc yìzhí. 往 + hướng + 拐 = rẽ về phía…. 然后 = sau đó.",
+     "一直 is yìzhí. 往 + direction + 拐 = turn towards…. 然后 = then."
+    ],
+    "f": [
+     "往左拐",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我想买一张往返票。",
+    "e": [
+     "张 là lượng từ cho vé, giấy (vật mỏng phẳng). 往返票 = vé khứ hồi; 单程票 = vé một chiều.",
+     "张 is the measure word for tickets and paper (flat things). 往返票 = return ticket; 单程票 = one-way."
+    ],
+    "f": [
+     "一张往返票",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "从这儿到火车站不太远，一直走，到第二个路口往右拐，走路要十分钟。",
+    "q": [
+     "Đi bộ đến ga tàu mất bao lâu?",
+     "How long does it take to walk to the station?"
+    ],
+    "o": [
+     [
+      "10 phút",
+      "10 minutes"
+     ],
+     [
+      "2 phút",
+      "2 minutes"
+     ],
+     [
+      "30 phút",
+      "30 minutes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "走路要十分钟 – đi bộ mất 10 phút. 第二个路口 (ngã tư thứ hai) là chỗ rẽ phải (往右拐), không phải thời gian.",
+     "走路要十分钟 – a 10-minute walk. 第二个路口 (the second crossing) is where to turn right (往右拐), not a time."
+    ],
+    "f": [
+     "走路要十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "走路要多长时间？这儿离机场远吗？",
+    "e": [
+     "多长时间 duō cháng shíjiān; 离 lí (thanh 2); 远 yuǎn (thanh 3). Không nhầm 离 với 里 (lǐ).",
+     "多长时间 duō cháng shíjiān; 离 lí (tone 2); 远 yuǎn (tone 3). Don't confuse 离 with 里 (lǐ)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你在城市里一般怎么出行？我一般骑摩托车上班，周末有时候坐公共汽车去朋友家。",
+    "e": [
+     "Câu hỏi: 你在城市里一般怎么出行？– Gợi ý trả lời mẫu. Phương tiện (骑摩托车, 坐公共汽车) đứng trước động từ chính (上班, 去).",
+     "Question: 你在城市里一般怎么出行？– A model answer. The transport (骑摩托车, 坐公共汽车) comes before the main verb (上班, 去)."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "上个月我和妈妈去北京旅行。我们从河内坐飞机到北京，三个小时就到了。机场离酒店很远，我们坐地铁去。第二天我们想去天安门，我问一个人：“地铁站在哪儿？”他说：“一直走，然后往左拐，不远，走路要十分钟。”后来我们从北京坐火车去上海。这次旅行很累，可是我们都很高兴。",
+   "tr": "Tháng trước tôi và mẹ đi du lịch Bắc Kinh. Chúng tôi đi máy bay từ Hà Nội đến Bắc Kinh, chỉ ba tiếng là tới. Sân bay cách khách sạn rất xa, chúng tôi đi tàu điện ngầm. Ngày thứ hai chúng tôi muốn đi Thiên An Môn, tôi hỏi một người: “Ga tàu điện ngầm ở đâu?” Anh ấy nói: “Đi thẳng, sau đó rẽ trái, không xa, đi bộ mất mười phút.” Sau đó chúng tôi đi tàu hỏa từ Bắc Kinh đến Thượng Hải. Chuyến đi này rất mệt, nhưng chúng tôi đều rất vui."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Họ đi từ Hà Nội đến Bắc Kinh bằng gì?",
+     "How did they get from Hanoi to Beijing?"
+    ],
+    "o": [
+     [
+      "Máy bay",
+      "By plane"
+     ],
+     [
+      "Tàu hỏa",
+      "By train"
+     ],
+     [
+      "Tàu điện ngầm",
+      "By subway"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "从河内坐飞机到北京 – đi máy bay. Tàu hỏa (火车) là chặng Bắc Kinh – Thượng Hải; tàu điện ngầm là từ sân bay về khách sạn.",
+     "从河内坐飞机到北京 – by plane. The train (火车) was Beijing – Shanghai; the subway was airport to hotel."
+    ],
+    "f": [
+     "坐飞机",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Từ chỗ hỏi đường đến ga tàu điện ngầm thế nào?",
+     "How far was the subway station from where they asked?"
+    ],
+    "o": [
+     [
+      "Không xa, đi bộ 10 phút",
+      "Not far, a 10-minute walk"
+     ],
+     [
+      "Rất xa, phải đi taxi",
+      "Very far, they needed a taxi"
+     ],
+     [
+      "Ba tiếng",
+      "Three hours"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "不远，走路要十分钟. Người viết dùng 很远 để nói về sân bay – khách sạn, không phải ga tàu điện ngầm.",
+     "不远，走路要十分钟. 很远 describes airport – hotel, not the subway station."
+    ],
+    "f": [
+     "走路要十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Người viết cảm thấy thế nào về chuyến đi?",
+     "How did the writer feel about the trip?"
+    ],
+    "o": [
+     [
+      "Mệt nhưng vui",
+      "Tired but happy"
+     ],
+     [
+      "Mệt và không vui",
+      "Tired and unhappy"
+     ],
+     [
+      "Không mệt chút nào",
+      "Not tired at all"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "很累，可是我们都很高兴 – 可是 (nhưng) nối hai cảm xúc trái ngược.",
+     "很累，可是我们都很高兴 – 可是 (but) links the two contrasting feelings."
+    ],
+    "f": [
+     "很累，可是我们都很高兴",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "请问，地铁站___哪儿？我想去火车站。",
+    "a": [
+     "在"
+    ],
+    "e": [
+     "Hỏi vị trí: A 在哪儿. Không cần thêm 是 (không nói 地铁站是在哪儿 trong câu thường).",
+     "Asking location: A 在哪儿. No 是 needed."
+    ],
+    "f": [
+     "在哪儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我家___机场很远，坐出租车要一个多小时。",
+    "a": [
+     "离"
+    ],
+    "e": [
+     "Khoảng cách: A 离 B 很远/很近. 从 chỉ điểm xuất phát (从…到…), không dùng để nói xa/gần.",
+     "Distance: A 离 B 很远/很近. 从 marks a starting point (从…到…), not distance."
+    ],
+    "f": [
+     "离机场很远",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "___这儿到机场要多长时间？坐地铁快不快？",
+    "a": [
+     "从"
+    ],
+    "e": [
+     "从 A 到 B = từ A đến B. Ở đây hỏi thời gian đi đường, không phải khoảng cách nên dùng 从…到….",
+     "从 A 到 B = from A to B. This asks about travel time, so 从…到… fits."
+    ],
+    "f": [
+     "从这儿到机场",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Chuyến bay bị hoãn hai tiếng.",
+    "a": [
+     "航班晚点两个小时。",
+     "航班晚点了两个小时。",
+     "飞机晚点两个小时。"
+    ],
+    "e": [
+     "晚点 = trễ giờ (tàu, máy bay). Thời lượng 两个小时 đứng sau động từ. Dùng 两, không dùng 二 trước 个.",
+     "晚点 = to be delayed. The duration 两个小时 follows the verb. Use 两, not 二, before 个."
+    ],
+    "f": [
+     "晚点两个小时",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Làm ơn đưa tôi đến địa chỉ này.",
+    "a": [
+     "请送我到这个地址。",
+     "请送我去这个地址。",
+     "请把我送到这个地址。"
+    ],
+    "e": [
+     "送 = đưa (ai đó đi). 到 + nơi chốn = đến. Câu lịch sự bắt đầu bằng 请.",
+     "送 = to take (someone somewhere). 到 + place = to. Start politely with 请."
+    ],
+    "f": [
+     "送我到这个地址",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们的酒店从火车站很近，走路只要五分钟就到了。",
+    "a": [
+     "我们的酒店离火车站很近，走路只要五分钟就到了。"
+    ],
+    "e": [
+     "Xa/gần dùng 离: 酒店离火车站很近. Người Việt hay dùng 从 vì tiếng Việt nói “từ… đến… gần”.",
+     "Near/far takes 离: 酒店离火车站很近. Learners often use 从 by analogy with “from”."
+    ],
+    "f": [
+     "离火车站很近",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们去了上海坐火车，因为火车比飞机便宜一点。",
+    "a": [
+     "我们坐火车去了上海，因为火车比飞机便宜一点。",
+     "我们坐火车去上海，因为火车比飞机便宜一点。"
+    ],
+    "e": [
+     "Phương tiện đứng trước động từ chính: 坐火车去上海 (đi tàu hỏa đến Thượng Hải). Không đặt 坐火车 ở cuối như tiếng Việt “đi Thượng Hải bằng tàu”.",
+     "Transport goes before the main verb: 坐火车去上海. Don't put 坐火车 last as in Vietnamese."
+    ],
+    "f": [
+     "坐火车去",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你一直走，到第一个路口 ___ 左拐，银行就在你的右边。",
+    "o": [
+     "往",
+     "从",
+     "离"
+    ],
+    "a": 0,
+    "e": [
+     "往 + hướng = về phía: 往左拐. 从 = từ, 离 = cách – không chỉ hướng rẽ.",
+     "往 + direction = towards: 往左拐. 从 = from, 离 = distance from – neither gives a turning direction."
+    ],
+    "f": [
+     "往左拐",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "从|河内|到|北京|坐飞机|要|三个小时|，坐火车|要|一天",
+    "m": [
+     "Từ Hà Nội đến Bắc Kinh đi máy bay mất 3 tiếng, đi tàu mất một ngày.",
+     "From Hanoi to Beijing it takes three hours by plane and a day by train."
+    ],
+    "e": [
+     "从…到… mở đầu câu; phương tiện (坐飞机) + 要 + thời gian. Hai vế song song, vế sau lược bỏ 从…到….",
+     "从…到… opens the sentence; transport (坐飞机) + 要 + time. The two clauses are parallel and the second drops 从…到…."
+    ],
+    "f": [
+     "从河内到北京",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 100 chữ đặt phòng khách sạn: ngày đến, ngày đi, loại phòng, 1 yêu cầu đặc biệt, hỏi về đưa đón sân bay.",
+     "Write an email of about 100 characters booking a hotel room: arrival and departure dates, room type, one special request, and ask about an airport pick-up."
+    ],
+    "m": "您好！我叫阮兰，我想订一个双人间，从八月十号到八月十四号，一共住四个晚上。我们是两个人，从河内坐飞机去，晚上九点到北京。请给我们一个安静一点的房间，不要在一楼。请问酒店离机场远吗？你们可以来机场接我们吗？谢谢！",
+    "e": [
+     "Cần có: • 从…到… cho ngày • loại phòng (单人间/双人间) • 1 yêu cầu (安静一点…) • câu hỏi với 离 và đưa đón (接).",
+     "Must include: • 从…到… for dates • room type (单人间/双人间) • 1 request (安静一点…) • a 离 question and the pick-up (接)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d18",
+  "g": "daily",
+  "t": [
+   "Nhà cửa & thuê nhà",
+   "Home & renting"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 离 · 有/在 chỉ vị trí · 比**\n• **A 离 B + 近/远** = A cách B gần/xa: 房子**离**公司很近。Nhà gần công ty. (Không nói 从公司很近.)\n• **Nơi chốn + 有 + vật** = ở đâu có gì: 客厅旁边**有**一个阳台。 **Vật + 在 + nơi chốn** = vật ở đâu: 洗手间**在**厨房旁边。\n• **A 比 B + tính từ (+ 一点儿 / 多了)**: 新房子**比**以前的贵**一点儿**。Không thêm 很 trong câu 比.\n• Hỏi giá thuê: 房租一个月多少钱？",
+    "**Grammar: 离 · 有/在 for location · 比**\n• **A 离 B + 近/远** = A is near/far from B: 房子**离**公司很近。(Not 从公司很近.)\n• **Place + 有 + thing** = there is a thing somewhere: 客厅旁边**有**一个阳台。 **Thing + 在 + place** = the thing is somewhere: 洗手间**在**厨房旁边。\n• **A 比 B + adjective (+ 一点儿 / 多了)**: 新房子**比**以前的贵**一点儿**。No 很 in 比 sentences.\n• Asking the rent: 房租一个月多少钱？"
+   ],
+   [
+    "**Phát âm: f – h và thanh 2**\n• **房 fáng** (f môi-răng) khác **黄 huáng**. Người Việt hay đọc 房租 thành “hoáng”.\n• **租 zū**: z phẳng, không uốn lưỡi; khác **住 zhù** (ở) – cặp dễ nhầm: 租房子 zū fángzi / 住房子 zhù fángzi.\n• Thanh 2 đi lên rõ: **房 fáng · 离 lí · 厨 chú · 搬家 bānjiā (1-1)**.\n• **一点儿 yìdiǎnr**: âm cuối -r (儿化) cuộn lưỡi nhẹ.",
+    "**Pronunciation: f – h and tone 2**\n• **房 fáng** (lip-teeth f) differs from **黄 huáng**.\n• **租 zū**: flat z; vs **住 zhù** (live): 租房子 zū fángzi / 住房子 zhù fángzi.\n• Rising tone 2: **房 fáng · 离 lí · 厨 chú**; 搬家 bānjiā (1-1).\n• **一点儿 yìdiǎnr**: final -r with a light curl."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **门** (3 nét), **近** (7), **房** (8), **离** (10), **租** (10).\n• 近 có bộ **辶** (bước đi) – liên quan đến di chuyển, khoảng cách; viết 斤 trước rồi mới đến 辶.\n• 房 = 户 (cửa) + 方; 租 = 禾 (lúa) + 且: ngày xưa tiền thuê trả bằng lúa.\n• Đọc to: 房租 fángzū (2-1) · 客厅 kètīng (4-1) · 洗手间 xǐshǒujiān (3-3-1 → xíshǒujiān).",
+    "**Characters & tones**\nWrite: **门** (3 strokes), **近** (7), **房** (8), **离** (10), **租** (10).\n• 近 has **辶** (walking) – movement and distance; write 斤 first, 辶 last.\n• 房 = 户 (door) + 方; 租 = 禾 (grain) + 且: rent was once paid in grain.\n• Read: 房租 fángzū (2-1) · 客厅 kètīng (4-1) · 洗手间 xǐshǒujiān (3-3-1 → xíshǒujiān)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 cuộc gọi hỏi thuê nhà, ghi: số phòng, tầng, giá, khoảng cách.\n• Nói (20 phút): mô tả nhà bạn trong 1 phút (phòng nào ở đâu, gần cái gì).\n• Đọc (20 phút): đọc 3 tin cho thuê nhà bằng tiếng Trung (租房广告), so sánh giá và vị trí.\n• Viết (25 phút): viết tin nhắn 100 chữ hỏi chủ nhà về một căn hộ.\n• Từ vựng (15 phút): vẽ sơ đồ nhà, ghi tên tiếng Trung 15 đồ vật và phòng.",
+    "**Practice outside the app**\n• Listening (20 min): listen to a call about renting a flat; note rooms, floor, price, distance.\n• Speaking (20 min): describe your home in 1 minute (which room is where, what it is near).\n• Reading (20 min): read 3 Chinese rental ads (租房广告) and compare price and location.\n• Writing (25 min): write a 100-character message to a landlord asking about a flat.\n• Vocabulary (15 min): draw a floor plan and label 15 rooms and objects in Chinese."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "房租一个月多少钱？Fángzū yí ge yuè duōshao qián?",
+    "Tiền thuê một tháng bao nhiêu?"
+   ],
+   [
+    "房子离公司很近。Fángzi lí gōngsī hěn jìn.",
+    "Nhà gần công ty."
+   ],
+   [
+    "这个房子有两个卧室。Zhège fángzi yǒu liǎng ge wòshì.",
+    "Căn nhà này có hai phòng ngủ."
+   ],
+   [
+    "洗手间在哪儿？Xǐshǒujiān zài nǎr?",
+    "Nhà vệ sinh ở đâu?"
+   ],
+   [
+    "下个星期我要搬家。Xià ge xīngqī wǒ yào bānjiā.",
+    "Tuần sau tôi chuyển nhà."
+   ],
+   [
+    "可以先看看房子吗？Kěyǐ xiān kànkan fángzi ma?",
+    "Tôi có thể xem nhà trước không?"
+   ]
+  ],
+  "vo": [
+   [
+    "房子",
+    "fángzi",
+    "nhà, căn hộ",
+    "house, flat"
+   ],
+   [
+    "房间",
+    "fángjiān",
+    "phòng",
+    "room"
+   ],
+   [
+    "房租",
+    "fángzū",
+    "tiền thuê nhà",
+    "rent"
+   ],
+   [
+    "租",
+    "zū",
+    "thuê",
+    "to rent"
+   ],
+   [
+    "客厅",
+    "kètīng",
+    "phòng khách",
+    "living room"
+   ],
+   [
+    "厨房",
+    "chúfáng",
+    "bếp",
+    "kitchen"
+   ],
+   [
+    "卧室",
+    "wòshì",
+    "phòng ngủ",
+    "bedroom"
+   ],
+   [
+    "洗手间",
+    "xǐshǒujiān",
+    "nhà vệ sinh",
+    "bathroom, toilet"
+   ],
+   [
+    "离",
+    "lí",
+    "cách (khoảng cách)",
+    "from (distance)"
+   ],
+   [
+    "搬家",
+    "bānjiā",
+    "chuyển nhà",
+    "to move house"
+   ]
+  ],
+  "hz": "门近房离租",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "我的房子离公司很近。",
+    "e": [
+     "A 离 B 很近 = A gần B. 离 lí (thanh 2) – đừng viết thành 里 (lǐ, bên trong).",
+     "A 离 B 很近 = A is close to B. 离 lí – don't write 里 (lǐ, inside)."
+    ],
+    "f": [
+     "离公司很近",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "房租一个月多少钱？",
+    "e": [
+     "房租 fángzū = tiền thuê; 一个月 = một tháng đứng trước 多少钱. 多少 = bao nhiêu.",
+     "房租 fángzū = rent; 一个月 comes before 多少钱. 多少 = how much."
+    ],
+    "f": [
+     "房租",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这个房子有三个卧室，可是没有阳台，房租一个月五千块，比那个贵一点儿。",
+    "q": [
+     "Căn nhà này không có gì?",
+     "What does this flat not have?"
+    ],
+    "o": [
+     [
+      "ban công",
+      "a balcony"
+     ],
+     [
+      "phòng ngủ",
+      "a bedroom"
+     ],
+     [
+      "bếp",
+      "a kitchen"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "可是没有阳台 – không có ban công. Nhà có 三个卧室; bếp không được nhắc tới.",
+     "可是没有阳台 – no balcony. It has 三个卧室; the kitchen isn't mentioned."
+    ],
+    "f": [
+     "没有阳台",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你家有几个房间？我家有三个房间：两个卧室和一个客厅，厨房很小。",
+    "e": [
+     "Câu hỏi: 你家有几个房间？– Gợi ý trả lời mẫu. 卧室 wòshì (4-4); 客厅 kètīng; 厨房 chúfáng (2-2).",
+     "Question: 你家有几个房间？– A model answer. 卧室 wòshì (4-4); 客厅 kètīng; 厨房 chúfáng (2-2)."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢住在城市还是农村？我喜欢住在城市，因为离公司近，买东西也很方便。",
+    "e": [
+     "Câu hỏi: 你喜欢住在城市还是农村？– Gợi ý trả lời mẫu. 还是 = hay là (câu hỏi lựa chọn); 方便 fāngbiàn.",
+     "Question: 你喜欢住在城市还是农村？– A model answer. 还是 = or (choice question); 方便 fāngbiàn."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Chủ nhà nói nếu tôi ký hợp đồng một năm thì mỗi tháng có thể bớt cho tôi hai trăm tệ.",
+    "a": [
+     "房东说如果我签一年的合同，每个月可以便宜两百块。",
+     "房东说如果我签一年合同的话，每个月可以给我便宜两百块。",
+     "房东说要是我签一年的合同，每个月就可以便宜两百块。"
+    ],
+    "e": [
+     "房东 = chủ nhà; 签合同 = ký hợp đồng; 如果…(的话) = nếu…; 便宜 + số tiền = bớt bao nhiêu. 两百 (không phải 二百 trong khẩu ngữ).",
+     "房东 = landlord; 签合同 = sign a contract; 便宜 + amount = knock off. Spoken 两百."
+    ],
+    "f": [
+     "每个月可以便宜两百块",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang lời kể gián tiếp",
+     "Change to reported speech"
+    ],
+    "s": "房东说：“你可以下个月一号搬进来。”",
+    "a": [
+     "房东说我可以下个月一号搬进来。"
+    ],
+    "e": [
+     "Bỏ ngoặc kép, đổi 你 → 我 (người kể). 搬进来 = dọn vào (bổ ngữ xu hướng).",
+     "Drop the quotes, change 你 → 我. 搬进来 = move in (directional complement)."
+    ],
+    "f": [
+     "房东说我可以",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "厨房的水龙头坏了好几天，我已经给房东打了电话，可是他还没来修了。",
+    "a": [
+     "厨房的水龙头坏了好几天，我已经给房东打了电话，可是他还没来修。",
+     "厨房的水龙头坏了好几天了，我已经给房东打了电话，可是他还没来修呢。"
+    ],
+    "e": [
+     "还没 + động từ không đi với 了 (了 chỉ việc đã xảy ra). Có thể thêm 呢: 还没来修呢.",
+     "还没 + verb can't take 了. You may add 呢: 还没来修呢."
+    ],
+    "f": [
+     "还没来修",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "楼上的邻居每天半夜还很吵，我想找个时间跟他们好好___一下。",
+    "a": [
+     "谈",
+     "说",
+     "聊",
+     "沟通"
+    ],
+    "e": [
+     "好好 + động từ + 一下 = nói chuyện cho đàng hoàng – phàn nàn lịch sự. 邻居 = hàng xóm; 半夜 = nửa đêm.",
+     "好好 + verb + 一下 = have a proper talk – a polite complaint. 邻居 = neighbours; 半夜 = midnight."
+    ],
+    "f": [
+     "跟他们好好谈一下",
+     "HSK3"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "我在上海找到了一个新房子，下个星期就要搬家了。房子在五楼，有两个卧室、一个客厅、一个厨房和一个洗手间。客厅很大，旁边有一个小阳台。房子离公司很近，走路只要十分钟，比我现在住的地方方便多了。房租一个月四千块，比以前贵一点儿，但是我觉得很值得。你什么时候有空？来我家玩儿吧！",
+   "tr": "Mình đã tìm được một căn nhà mới ở Thượng Hải, tuần sau là chuyển nhà rồi. Nhà ở tầng năm, có hai phòng ngủ, một phòng khách, một bếp và một nhà vệ sinh. Phòng khách rất rộng, bên cạnh có một ban công nhỏ. Nhà rất gần công ty, đi bộ chỉ mất mười phút, tiện hơn chỗ mình đang ở nhiều. Tiền thuê một tháng bốn nghìn tệ, đắt hơn trước một chút, nhưng mình thấy rất đáng. Khi nào bạn rảnh? Đến nhà mình chơi nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Căn nhà mới có mấy phòng ngủ?",
+     "How many bedrooms does the new flat have?"
+    ],
+    "o": [
+     [
+      "hai",
+      "two"
+     ],
+     [
+      "một",
+      "one"
+     ],
+     [
+      "năm",
+      "five"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "有两个卧室 – hai phòng ngủ. 五 là tầng năm (五楼), không phải số phòng.",
+     "有两个卧室 – two bedrooms. 五 is the floor (五楼)."
+    ],
+    "f": [
+     "有两个卧室",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Từ nhà đến công ty mất bao lâu?",
+     "How long from the flat to the office?"
+    ],
+    "o": [
+     [
+      "đi bộ 10 phút",
+      "a 10-minute walk"
+     ],
+     [
+      "đi xe buýt 10 phút",
+      "10 minutes by bus"
+     ],
+     [
+      "đi bộ 40 phút",
+      "a 40-minute walk"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "走路只要十分钟 – đi bộ chỉ mất 10 phút. 只要 = chỉ cần.",
+     "走路只要十分钟 – only a 10-minute walk. 只要 = only takes."
+    ],
+    "f": [
+     "走路只要十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Câu nào đúng về tiền thuê nhà?",
+     "Which is true about the rent?"
+    ],
+    "o": [
+     [
+      "4.000 tệ/tháng, đắt hơn trước một chút.",
+      "4,000 yuan a month, a bit more than before."
+     ],
+     [
+      "4.000 tệ/tháng, rẻ hơn trước.",
+      "4,000 yuan a month, cheaper than before."
+     ],
+     [
+      "10.000 tệ/tháng.",
+      "10,000 yuan a month."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "房租一个月四千块，比以前贵一点儿 – 贵 = đắt. 方便多了 nói về vị trí, không nói về giá.",
+     "房租一个月四千块，比以前贵一点儿 – 贵 = expensive. 方便多了 is about location, not price."
+    ],
+    "f": [
+     "比以前贵一点儿",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我的新房子___公司很近，走路只要十分钟就到了。",
+    "a": [
+     "离"
+    ],
+    "e": [
+     "Khoảng cách: A 离 B 很近/很远. Không dùng 从 (từ) hay 在 ở đây.",
+     "Distance: A 离 B 很近/很远. Not 从 or 在."
+    ],
+    "f": [
+     "离公司很近",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "客厅旁边___一个小阳台，早上我可以在那儿喝咖啡。",
+    "a": [
+     "有"
+    ],
+    "e": [
+     "Nơi chốn (客厅旁边) + 有 + vật = ở đó có…. Nếu vật đứng trước thì dùng 在: 阳台在客厅旁边.",
+     "Place (客厅旁边) + 有 + thing. With the thing first, use 在: 阳台在客厅旁边."
+    ],
+    "f": [
+     "旁边有一个小阳台",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这个房子___以前那个大，可是房租也贵了一点儿。",
+    "a": [
+     "比"
+    ],
+    "e": [
+     "A 比 B + tính từ: 这个房子比以前那个大. Không thêm 很 trước 大.",
+     "A 比 B + adjective. No 很 before 大."
+    ],
+    "f": [
+     "比以前那个大",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "请问，洗手间___哪儿？——在厨房旁边，你往前走就看见了。",
+    "o": [
+     "在",
+     "有",
+     "是"
+    ],
+    "a": 0,
+    "e": [
+     "Vật (洗手间) + 在 + 哪儿 = ở đâu. 有 dùng khi nơi chốn đứng trước; 是 không dùng để hỏi vị trí.",
+     "Thing (洗手间) + 在 + 哪儿 = where is. 有 needs the place first; 是 doesn't ask location."
+    ],
+    "f": [
+     "在哪儿",
+     "HSK1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我家从学校很远，所以每天早上六点我就要起床坐公共汽车。",
+    "a": [
+     "我家离学校很远，所以每天早上六点我就要起床坐公共汽车。"
+    ],
+    "e": [
+     "Nói khoảng cách gần/xa dùng 离, không dùng 从. 从 dùng với điểm xuất phát: 从家到学校.",
+     "Near/far uses 离, not 从. 从 marks a starting point: 从家到学校."
+    ],
+    "f": [
+     "离学校很远",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这个房子比那个房子很大，可是房租也贵多了。",
+    "a": [
+     "这个房子比那个房子大，可是房租也贵多了。",
+     "这个房子比那个房子大多了，可是房租也贵多了。",
+     "这个房子比那个房子大得多，可是房租也贵多了。"
+    ],
+    "e": [
+     "Câu 比 không dùng 很. Muốn nói “lớn hơn nhiều” → 大多了 / 大得多.",
+     "No 很 in 比 sentences. For “much bigger” → 大多了 / 大得多."
+    ],
+    "f": [
+     "比那个房子大",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Căn nhà này có hai phòng ngủ và một phòng khách, tiền thuê một tháng ba nghìn tệ.",
+    "a": [
+     "这个房子有两个卧室和一个客厅，房租一个月三千块。",
+     "这个房子有两个卧室和一个客厅，房租一个月三千元。",
+     "这套房子有两个卧室、一个客厅，房租每个月三千块。"
+    ],
+    "e": [
+     "Đếm phòng dùng 两个 (không nói 二个). Giá: 房租 + 一个月 + số tiền. 块 (khẩu ngữ) = 元 (viết).",
+     "Count rooms with 两个 (not 二个). Price: 房租 + 一个月 + amount. 块 (spoken) = 元 (written)."
+    ],
+    "f": [
+     "有两个卧室和一个客厅",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tuần sau tôi chuyển nhà, bạn có thể giúp tôi không?",
+    "a": [
+     "下个星期我要搬家，你能帮我吗？",
+     "下个星期我搬家，你可以帮我吗？",
+     "下周我要搬家，你能不能帮我？"
+    ],
+    "e": [
+     "搬家 = chuyển nhà; 要 + động từ chỉ việc sắp làm. Nhờ giúp: 你能帮我吗？ hoặc 你能不能帮我？",
+     "搬家 = move house; 要 marks a plan. Asking for help: 你能帮我吗？ or 你能不能帮我？"
+    ],
+    "f": [
+     "我要搬家",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại với 没有 (giữ nguyên nghĩa)",
+     "Rewrite with 没有 (same meaning)"
+    ],
+    "s": "我现在住的地方比新房子远。",
+    "a": [
+     "新房子没有我现在住的地方远。"
+    ],
+    "e": [
+     "A 比 B 远 = B 没有 A 远. Đổi chỗ A và B; câu 没有 cũng không dùng 很.",
+     "A 比 B 远 = B 没有 A 远. Swap A and B; no 很 either."
+    ],
+    "f": [
+     "没有我现在住的地方远",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "房子|离|地铁站|很近，|走路|五分钟|就到了",
+    "m": [
+     "Nhà gần ga tàu điện ngầm, đi bộ năm phút là đến.",
+     "The flat is near the metro station; it's a five-minute walk."
+    ],
+    "e": [
+     "A 离 B 很近; thời lượng (五分钟) + 就到了 = chỉ… là đến (nhấn mạnh nhanh).",
+     "A 离 B 很近; duration + 就到了 = get there in just…."
+    ],
+    "f": [
+     "离地铁站很近",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn khoảng 100 chữ cho một người bạn kể về nhà mới: ở đâu, có mấy phòng, gần gì, giá thuê, mời bạn đến chơi.",
+     "Write a message (about 100 characters) to a friend about your new flat: where, how many rooms, what it's near, the rent, and invite them over."
+    ],
+    "m": "小王，告诉你一个好消息：我搬家了！新房子在三楼，有一个卧室、一个客厅和一个小厨房。房子离地铁站很近，走路五分钟就到了，比以前方便多了。旁边还有一个超市和一个公园。房租一个月三千五百块，比以前贵一点儿，但是房间很干净。这个周末你有空吗？来我家吃饭吧！",
+    "e": [
+     "Cần có: • 在…楼 / 有…个… • 离…很近 • một câu 比 • 房租一个月… • lời mời (…吧).",
+     "Must include: • 在…楼 / 有…个… • 离…很近 • a 比 sentence • 房租一个月… • an invitation (…吧)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d19",
+  "g": "health",
+  "t": [
+   "Thể thao & tập luyện",
+   "Sports & exercise"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: bổ ngữ thời lượng & bổ ngữ trạng thái 得**\n• **Động từ + 了 + thời lượng** = đã làm trong bao lâu: 我昨天跑**了一个小时**。Không nói 我跑一个小时了昨天.\n• Hỏi thời lượng: 你每天锻炼**多长时间**？\n• **Động từ + 得 + đánh giá** = làm (như thế nào): 他跑**得**很快。Có tân ngữ thì lặp động từ hoặc đưa tân ngữ lên trước: 他**踢**足球**踢得**很好 / 他足球**踢得**很好。\n• Hỏi mức độ: 他踢得**怎么样**？",
+    "**Grammar: duration complements & the 得 complement**\n• **Verb + 了 + duration** = did something for how long: 我昨天跑**了一个小时**。\n• Asking duration: 你每天锻炼**多长时间**？\n• **Verb + 得 + comment** = how well someone does something: 他跑**得**很快。With an object, repeat the verb or front the object: 他**踢**足球**踢得**很好 / 他足球**踢得**很好。\n• Asking: 他踢得**怎么样**？"
+   ],
+   [
+    "**Phát âm: p / t bật hơi & thanh nhẹ của 得**\n• **跑步 pǎobù**: p bật hơi mạnh (đặt tờ giấy trước miệng, giấy phải rung), khác b không bật hơi trong 步 bù.\n• **踢足球 tī zúqiú**: t bật hơi; z phẳng; q = “ch” bật hơi với lưỡi phẳng.\n• **得 de** trong bổ ngữ luôn đọc nhẹ, ngắn: pǎo de kuài.\n• **锻炼 duànliàn** (4-4), **比赛 bǐsài** (3-4), **身体 shēntǐ** (1-3).",
+    "**Pronunciation: aspirated p / t & the neutral 得**\n• **跑步 pǎobù**: p with a strong puff (a paper strip should flutter), unlike unaspirated b in 步 bù.\n• **踢足球 tī zúqiú**: aspirated t; flat z; q = aspirated “ch” with a flat tongue.\n• **得 de** in complements is always light and short: pǎo de kuài.\n• **锻炼 duànliàn** (4-4), **比赛 bǐsài** (3-4), **身体 shēntǐ** (1-3)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **足** (7 nét), **走** (7), **身** (7), **体** (7), **跑** (12).\n• 跑, 踢 đều có bộ **⻊** (chân, biến thể của 足) bên trái – hành động bằng chân.\n• 足 và 走 trông giống nhau: 足 trên là 口, 走 trên là 土.\n• 体 = 亻 (người) + 本 (gốc): cơ thể là gốc của con người. Đọc to: 跑步 pǎobù · 踢足球 tī zúqiú · 身体 shēntǐ.",
+    "**Characters & tones**\nWrite: **足** (7 strokes), **走** (7), **身** (7), **体** (7), **跑** (12).\n• 跑 and 踢 have the **⻊** (foot) radical on the left – actions done with the feet.\n• 足 and 走 look alike: 足 has 口 on top, 走 has 土.\n• 体 = 亻 (person) + 本 (root). Read: 跑步 pǎobù · 踢足球 tī zúqiú · 身体 shēntǐ."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 1 đoạn tường thuật thể thao ngắn hoặc vlog chạy bộ, ghi môn, thời gian, kết quả.\n• Nói (15 phút): kể 1 phút về môn thể thao bạn chơi: bao lâu một lần, chơi thế nào (dùng 得).\n• Đọc (20 phút): đọc 1 bài ngắn về lợi ích của tập luyện, gạch chân 5 cụm từ hay.\n• Viết (25 phút): viết nhật ký tập luyện 7 ngày bằng tiếng Trung (mỗi ngày 1–2 câu với thời lượng).\n• Từ vựng (15 phút): học tên 10 môn thể thao kèm động từ đúng (踢/打/游/跑).",
+    "**Practice outside the app**\n• Listening (20 min): a short sports report or running vlog; note the sport, time and result.\n• Speaking (15 min): 1 minute on a sport you do: how often, how well (use 得).\n• Reading (20 min): a short article on the benefits of exercise; underline 5 useful phrases.\n• Writing (25 min): a 7-day workout diary in Chinese (1–2 sentences a day with durations).\n• Vocabulary (15 min): 10 sports with the right verb (踢/打/游/跑)."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "你喜欢什么运动？Nǐ xǐhuan shénme yùndòng?",
+    "Bạn thích môn thể thao nào?"
+   ],
+   [
+    "我每天跑步半个小时。Wǒ měitiān pǎobù bàn ge xiǎoshí.",
+    "Mỗi ngày tôi chạy bộ nửa tiếng."
+   ],
+   [
+    "他足球踢得很好。Tā zúqiú tī de hěn hǎo.",
+    "Anh ấy đá bóng rất giỏi."
+   ],
+   [
+    "你每天锻炼多长时间？Nǐ měitiān duànliàn duō cháng shíjiān?",
+    "Mỗi ngày bạn tập bao lâu?"
+   ],
+   [
+    "我们赢了！Wǒmen yíng le!",
+    "Chúng ta thắng rồi!"
+   ],
+   [
+    "我累死了。Wǒ lèi sǐ le.",
+    "Tôi mệt chết đi được."
+   ]
+  ],
+  "vo": [
+   [
+    "跑步",
+    "pǎobù",
+    "chạy bộ",
+    "to run, jog"
+   ],
+   [
+    "踢足球",
+    "tī zúqiú",
+    "đá bóng",
+    "to play football"
+   ],
+   [
+    "打篮球",
+    "dǎ lánqiú",
+    "chơi bóng rổ",
+    "to play basketball"
+   ],
+   [
+    "健身房",
+    "jiànshēnfáng",
+    "phòng gym",
+    "gym"
+   ],
+   [
+    "锻炼",
+    "duànliàn",
+    "tập luyện",
+    "to work out"
+   ],
+   [
+    "比赛",
+    "bǐsài",
+    "trận đấu",
+    "match, competition"
+   ],
+   [
+    "身体",
+    "shēntǐ",
+    "cơ thể, sức khỏe",
+    "body, health"
+   ],
+   [
+    "累",
+    "lèi",
+    "mệt",
+    "tired"
+   ],
+   [
+    "小时",
+    "xiǎoshí",
+    "giờ, tiếng đồng hồ",
+    "hour"
+   ],
+   [
+    "赢",
+    "yíng",
+    "thắng",
+    "to win"
+   ]
+  ],
+  "hz": "足走身体跑",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "你喜欢什么运动？",
+    "e": [
+     "什么 + danh từ = môn gì: 什么运动. 运动 yùndòng – 运 có bộ 辶.",
+     "什么 + noun = which kind: 什么运动. In 运动, 运 has the 辶 radical."
+    ],
+    "f": [
+     "什么运动",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "我每天跑步半个小时。",
+    "e": [
+     "Thời lượng đứng sau động từ: 跑步半个小时. 半个小时 = nửa tiếng (半 đứng trước 个).",
+     "Duration follows the verb: 跑步半个小时. 半个小时 = half an hour (半 before 个)."
+    ],
+    "f": [
+     "半个小时",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "我以前常常打篮球，现在工作太忙了，只能周末去健身房锻炼一个小时。",
+    "q": [
+     "Bây giờ người nói tập thể dục thế nào?",
+     "How does the speaker exercise now?"
+    ],
+    "o": [
+     [
+      "Chỉ cuối tuần đi gym một tiếng.",
+      "Only an hour at the gym at weekends."
+     ],
+     [
+      "Ngày nào cũng chơi bóng rổ.",
+      "Basketball every day."
+     ],
+     [
+      "Không tập gì cả.",
+      "No exercise at all."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "只能周末去健身房锻炼一个小时 – 只能 = chỉ có thể. Bóng rổ là 以前 (trước đây).",
+     "只能周末去健身房锻炼一个小时 – 只能 = can only. Basketball was 以前 (before)."
+    ],
+    "f": [
+     "只能周末去健身房",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢什么运动？我喜欢游泳和跑步，可是我篮球打得不太好。",
+    "e": [
+     "Câu hỏi: 你喜欢什么运动？– Gợi ý trả lời mẫu. 篮球打得不太好 – đưa tân ngữ lên trước + 得. 不太 bú tài.",
+     "Question: 你喜欢什么运动？– A model answer. 篮球打得不太好 – fronted object + 得. 不太 = bú tài."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你每天锻炼多长时间？我每天早上锻炼四十分钟，周末去健身房两个小时。",
+    "e": [
+     "Câu hỏi: 你每天锻炼多长时间？– Gợi ý trả lời mẫu. 锻炼 duànliàn (4-4); 四十 sìshí – s phẳng rồi sh uốn lưỡi.",
+     "Question: 你每天锻炼多长时间？– A model answer. 锻炼 duànliàn (4-4); 四十 sìshí – flat s then curled sh."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Dạo này tôi béo lên rồi, từ tuần sau tôi định ngày nào cũng đi gym, bạn có muốn đi cùng không?",
+    "a": [
+     "最近我胖了，从下个星期开始我打算每天去健身房，你要不要跟我一起去？",
+     "我最近胖了，从下周开始我打算每天都去健身房，你想不想跟我一起去？",
+     "最近我胖了，下个星期开始我打算天天去健身房，你要不要一起去？"
+    ],
+    "e": [
+     "胖了 = béo lên (了 chỉ thay đổi); 从…开始 = bắt đầu từ; 打算 = định; 要不要 = có muốn… không (rủ rê).",
+     "胖了 = have put on weight; 从…开始 = starting from; 打算 = plan to; 要不要 = do you want to…."
+    ],
+    "f": [
+     "你要不要跟我一起去",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành một câu dùng 越来越",
+     "Rewrite as one sentence with 越来越"
+    ],
+    "s": "以前他跑得很慢，现在他跑得快了。",
+    "a": [
+     "他跑得越来越快了。",
+     "他现在跑得越来越快了。"
+    ],
+    "e": [
+     "越来越 + tính từ = ngày càng…; không thêm 很 trước tính từ. 了 cuối câu nhấn mạnh sự thay đổi.",
+     "越来越 + adjective = more and more…; no 很. Final 了 stresses the change."
+    ],
+    "f": [
+     "越来越快了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我跑了半个小时就累得不行了，你跑得比我快得很多，真厉害！",
+    "a": [
+     "我跑了半个小时就累得不行了，你跑得比我快得多，真厉害！",
+     "我跑了半个小时就累得不行了，你跑得比我快多了，真厉害！"
+    ],
+    "e": [
+     "Trong câu 比, “hơn nhiều” = 快得多 / 快多了; không dùng 很多 sau tính từ. 累得不行 = mệt không chịu nổi.",
+     "In 比 sentences, “much faster” = 快得多 / 快多了, not 快得很多. 累得不行 = exhausted."
+    ],
+    "f": [
+     "比我快得多",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "医生说我得多运动，可是我一下班就不想动，真拿自己没___。",
+    "a": [
+     "办法"
+    ],
+    "e": [
+     "拿…没办法 = bó tay với…, không biết làm sao với…. 一…就… = hễ… là…; 得 děi = phải.",
+     "拿…没办法 = can't do anything about…. 一…就… = as soon as…; 得 děi = must."
+    ],
+    "f": [
+     "拿自己没办法",
+     "HSK3"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "为了身体健康，我每天早上六点起床去跑步，每次跑四十分钟。我的朋友大卫是英国人，他足球踢得非常好。上个星期六，我们学校有一场足球比赛，大卫踢进了两个球，我们赢了！比赛以后，大家都很累，可是很高兴。我们一起去吃饭，大卫说下次想教我打网球。你喜欢什么运动？你每天锻炼多长时间？",
+   "tr": "Vì sức khỏe, mỗi sáng mình dậy lúc sáu giờ đi chạy bộ, mỗi lần chạy bốn mươi phút. Bạn mình là David, người Anh, cậu ấy đá bóng cực giỏi. Thứ Bảy tuần trước, trường mình có một trận bóng đá, David ghi hai bàn, chúng mình thắng! Sau trận đấu, ai cũng mệt nhưng rất vui. Chúng mình cùng đi ăn, David nói lần sau muốn dạy mình chơi quần vợt. Bạn thích môn thể thao nào? Mỗi ngày bạn tập luyện bao lâu?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Mỗi lần người viết chạy bao lâu?",
+     "How long does the writer run each time?"
+    ],
+    "o": [
+     [
+      "40 phút",
+      "40 minutes"
+     ],
+     [
+      "6 tiếng",
+      "6 hours"
+     ],
+     [
+      "1 tiếng",
+      "1 hour"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "每次跑四十分钟. 六点 là giờ thức dậy, không phải thời lượng chạy.",
+     "每次跑四十分钟. 六点 is the time they get up, not the duration."
+    ],
+    "f": [
+     "每次跑四十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "David đã làm gì trong trận đấu?",
+     "What did David do in the match?"
+    ],
+    "o": [
+     [
+      "Ghi hai bàn.",
+      "Scored two goals."
+     ],
+     [
+      "Bị thương.",
+      "Got injured."
+     ],
+     [
+      "Không chơi.",
+      "Didn't play."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "大卫踢进了两个球 – 踢进 = sút vào; 两个球 = hai bàn.",
+     "大卫踢进了两个球 – 踢进 = kicked in; 两个球 = two goals."
+    ],
+    "f": [
+     "踢进了两个球",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Sau trận đấu mọi người cảm thấy thế nào?",
+     "How did everyone feel after the match?"
+    ],
+    "o": [
+     [
+      "Mệt nhưng rất vui.",
+      "Tired but very happy."
+     ],
+     [
+      "Buồn vì thua.",
+      "Sad because they lost."
+     ],
+     [
+      "Không mệt chút nào.",
+      "Not tired at all."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "大家都很累，可是很高兴 – 可是 nối hai cảm xúc trái chiều. Họ 赢了 (thắng), không thua.",
+     "大家都很累，可是很高兴 – 可是 links the two feelings. They 赢了 (won)."
+    ],
+    "f": [
+     "很累，可是很高兴",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我每天早上跑步，每次跑四十___，跑完以后去上班。",
+    "a": [
+     "分钟"
+    ],
+    "e": [
+     "Thời lượng phút = 分钟 (四十分钟). Chỉ viết 分 là “phút” trong giờ đồng hồ (八点十分), không dùng cho thời lượng.",
+     "Duration in minutes = 分钟. 分 alone is for clock time (八点十分)."
+    ],
+    "f": [
+     "四十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "大卫足球踢___非常好，他是我们学校最好的球员。",
+    "a": [
+     "得"
+    ],
+    "e": [
+     "Bổ ngữ trạng thái: động từ + 得 + đánh giá. Không dùng 的 hay 地 sau động từ.",
+     "Degree complement: verb + 得 + comment. Not 的 or 地 after a verb."
+    ],
+    "f": [
+     "踢得非常好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "上个星期六我们学校的足球比赛___了，大家都很高兴。",
+    "a": [
+     "赢"
+    ],
+    "e": [
+     "赢了 = thắng rồi; ngược lại là 输了 (thua). 大家都很高兴 cho biết kết quả tốt.",
+     "赢了 = won; the opposite is 输了 (lost). 大家都很高兴 shows a good result."
+    ],
+    "f": [
+     "赢了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "你每天锻炼多长___？——差不多一个小时，周末更长。",
+    "o": [
+     "时间",
+     "时候",
+     "小时"
+    ],
+    "a": 0,
+    "e": [
+     "多长时间 = bao lâu (thời lượng). 什么时候 = khi nào (thời điểm). 多长小时 không có.",
+     "多长时间 = how long. 时候 is for “when”. 多长小时 doesn't exist."
+    ],
+    "f": [
+     "多长时间",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "他踢足球得很好，所以大家都喜欢跟他一起踢。",
+    "a": [
+     "他踢足球踢得很好，所以大家都喜欢跟他一起踢。",
+     "他足球踢得很好，所以大家都喜欢跟他一起踢。"
+    ],
+    "e": [
+     "得 phải đứng ngay sau động từ, không sau tân ngữ. Lặp động từ (踢足球踢得) hoặc đưa tân ngữ lên trước (足球踢得).",
+     "得 must follow the verb directly, not the object. Repeat the verb or front the object."
+    ],
+    "f": [
+     "踢得很好",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我昨天在健身房锻炼一个小时了，所以今天身体很累。",
+    "a": [
+     "我昨天在健身房锻炼了一个小时，所以今天身体很累。"
+    ],
+    "e": [
+     "Việc đã xong trong quá khứ: động từ + 了 + thời lượng (锻炼了一个小时). 了 cuối câu sau thời lượng mang nghĩa “đến giờ vẫn đang…”, không hợp với 昨天.",
+     "Finished past action: verb + 了 + duration. A final 了 after the duration means “so far”, which clashes with 昨天."
+    ],
+    "f": [
+     "锻炼了一个小时",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tối qua tôi chạy bộ một tiếng, nên hôm nay rất mệt.",
+    "a": [
+     "我昨天晚上跑了一个小时，所以今天很累。",
+     "昨天晚上我跑步跑了一个小时，所以今天很累。",
+     "我昨天晚上跑了一个小时步，所以今天很累。"
+    ],
+    "e": [
+     "Thời lượng sau động từ + 了: 跑了一个小时. Với 跑步 có thể lặp động từ (跑步跑了…) hoặc chen vào giữa (跑了一个小时步).",
+     "Duration after verb + 了: 跑了一个小时. With 跑步, repeat the verb or split it (跑了一个小时步)."
+    ],
+    "f": [
+     "跑了一个小时",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn thích môn thể thao nào? Tôi thích bơi và đá bóng.",
+    "a": [
+     "你喜欢什么运动？我喜欢游泳和踢足球。",
+     "你喜欢哪种运动？我喜欢游泳和踢足球。"
+    ],
+    "e": [
+     "Đá bóng = 踢足球 (động từ 踢 “đá”), bóng rổ = 打篮球. Không nói 打足球.",
+     "Football = 踢足球 (踢 “kick”), basketball = 打篮球. Never 打足球."
+    ],
+    "f": [
+     "踢足球",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Đặt câu hỏi cho phần “非常好” bằng 怎么样",
+     "Ask about “非常好” with 怎么样"
+    ],
+    "s": "大卫足球踢得非常好。",
+    "a": [
+     "大卫足球踢得怎么样？",
+     "大卫踢足球踢得怎么样？"
+    ],
+    "e": [
+     "Thay phần đánh giá sau 得 bằng 怎么样; giữ nguyên phần trước. Không thêm 吗.",
+     "Replace the comment after 得 with 怎么样; no 吗."
+    ],
+    "f": [
+     "踢得怎么样",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我|每天|早上|去公园|跑步|，每次|跑|四十分钟",
+    "m": [
+     "Mỗi sáng tôi đi chạy ở công viên, mỗi lần chạy bốn mươi phút.",
+     "Every morning I run in the park, forty minutes each time."
+    ],
+    "e": [
+     "Thời gian (每天早上) → nơi (去公园) → việc (跑步); thời lượng (四十分钟) đứng SAU động từ 跑.",
+     "Time → place → activity; the duration comes AFTER 跑."
+    ],
+    "f": [
+     "每次跑四十分钟",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 100 chữ về thói quen tập luyện của bạn: môn gì, bao lâu một lần, mỗi lần bao lâu, chơi giỏi không, cảm giác sau khi tập.",
+     "Write about 100 characters on your exercise routine: which sport, how often, how long, how well, how you feel afterwards."
+    ],
+    "m": "我最喜欢的运动是游泳。我每个星期去游泳三次，每次游一个小时。我游得不太快，可是游得很远。周末我有时候和同事一起去踢足球，他们都踢得比我好。运动以后我觉得很累，可是身体很舒服，晚上也睡得很好。你喜欢什么运动？",
+    "e": [
+     "Cần có: • 我最喜欢的运动是… • tần suất (每个星期…次) • thời lượng sau động từ • bổ ngữ 得 ít nhất 2 lần • cảm giác (累 / 舒服).",
+     "Must include: • 我最喜欢的运动是… • frequency • a duration after the verb • the 得 complement at least twice • feelings (累 / 舒服)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d20",
+  "g": "daily",
+  "t": [
+   "Gọi điện, hẹn lịch & lời mời",
+   "Phone calls, appointments & invitations"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: trật tự thời gian – nơi chốn · 吧 · …怎么样？**\n• Trật tự cố định: chủ ngữ + **thời gian** + **nơi chốn** + động từ: 我们**明天下午三点在学校门口**见面吧。Không đặt thời gian ở cuối như tiếng Việt.\n• **吧** cuối câu = rủ rê, đề nghị nhẹ nhàng: 我们一起去吧！\n• Đề nghị rồi hỏi ý: **…，怎么样？** 星期天去公园，**怎么样**？\n• Gọi điện: **喂**，请问小王**在吗**？– 我就是。/ 他不在。Mời: 我想**请你**吃饭。你**有空**吗？",
+    "**Grammar: time–place order · 吧 · …怎么样？**\n• Fixed order: subject + **time** + **place** + verb: 我们**明天下午三点在学校门口**见面吧。Time never goes at the end.\n• Final **吧** = a soft suggestion: 我们一起去吧！\n• Suggest, then ask: **…，怎么样？** 星期天去公园，**怎么样**？\n• On the phone: **喂**，请问小王**在吗**？– 我就是。/ 他不在。Inviting: 我想**请你**吃饭。你**有空**吗？"
+   ],
+   [
+    "**Phát âm: 喂 wéi, số điện thoại & 一 yāo**\n• Nghe máy nói **喂 wéi** (thanh 2, giọng lên như hỏi) – đọc wèi (thanh 4) nghe cộc, như quát.\n• Đọc số điện thoại từng chữ số; số **1 đọc yāo** để khỏi nhầm với 7 qī: 138 = yāo sān bā.\n• **有空 yǒu kòng** (3-4): 空 ở đây đọc kòng (rảnh), không phải kōng (trống rỗng).\n• **号码 hàomǎ** (4-3), **准时 zhǔnshí** (3-2).",
+    "**Pronunciation: 喂 wéi, phone numbers & 一 yāo**\n• Answer the phone with **喂 wéi** (rising, like a question) – wèi (falling) sounds rude.\n• Phone numbers are read digit by digit; **1 is yāo** to avoid confusion with 7 qī: 138 = yāo sān bā.\n• **有空 yǒu kòng** (3-4): 空 is kòng (free time), not kōng (empty).\n• **号码 hàomǎ** (4-3), **准时 zhǔnshí** (3-2)."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **号** (5 nét), **打** (5), **机** (6), **话** (8), **请** (10).\n• 话 và 请 có bộ **讠** (lời nói): nói chuyện, mời mọc đều dùng lời.\n• 打 có bộ **扌** (tay): gọi điện ngày xưa là “quay số” bằng tay. 机 có bộ 木 (cây/gỗ) – máy móc.\n• Đọc to: 打电话 dǎ diànhuà (3-4-4) · 手机 shǒujī (3-1) · 号码 hàomǎ (4-3).",
+    "**Characters & tones**\nWrite: **号** (5 strokes), **打** (5), **机** (6), **话** (8), **请** (10).\n• 话 and 请 have the **讠** (speech) radical: talking and inviting use words.\n• 打 has **扌** (hand): dialling was done by hand. 机 has 木 (wood) – machines.\n• Read: 打电话 dǎ diànhuà (3-4-4) · 手机 shǒujī (3-1) · 号码 hàomǎ (4-3)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 2 đoạn hội thoại điện thoại, ghi: ai gọi, việc gì, hẹn lúc nào ở đâu.\n• Nói (20 phút): đóng vai 3 cuộc gọi: mời đi ăn, đổi giờ hẹn, từ chối lịch sự; ghi âm.\n• Đọc (15 phút): đọc 5 tin nhắn WeChat mẫu, tìm thời gian và địa điểm hẹn.\n• Viết (20 phút): viết 1 tin nhắn mời sinh nhật và 1 tin nhắn từ chối khoảng 60 chữ.\n• Từ vựng (10 phút): tập đọc to 5 số điện thoại (số 1 = yāo) và 10 từ của bài.",
+    "**Practice outside the app**\n• Listening (20 min): 2 phone dialogues; note who calls, why, and when/where they meet.\n• Speaking (20 min): role-play 3 calls: an invitation, moving a meeting, a polite refusal; record them.\n• Reading (15 min): read 5 sample WeChat messages; find the time and place.\n• Writing (20 min): a birthday invitation and a refusal message, about 60 characters each.\n• Vocabulary (10 min): read 5 phone numbers aloud (1 = yāo) and the 10 words."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "喂，请问小王在吗？Wéi, qǐngwèn Xiǎo Wáng zài ma?",
+    "A lô, xin hỏi Tiểu Vương có đó không?"
+   ],
+   [
+    "我就是。Wǒ jiù shì.",
+    "Tôi đây (chính tôi)."
+   ],
+   [
+    "你明天有空吗？Nǐ míngtiān yǒu kòng ma?",
+    "Ngày mai bạn có rảnh không?"
+   ],
+   [
+    "我想请你吃饭。Wǒ xiǎng qǐng nǐ chī fàn.",
+    "Tôi muốn mời bạn đi ăn."
+   ],
+   [
+    "我们明天下午三点见面吧。Wǒmen míngtiān xiàwǔ sān diǎn jiànmiàn ba.",
+    "Chiều mai 3 giờ chúng ta gặp nhau nhé."
+   ],
+   [
+    "对不起，那天我有事。Duìbuqǐ, nà tiān wǒ yǒu shì.",
+    "Xin lỗi, hôm đó tôi bận việc."
+   ],
+   [
+    "你的手机号码是多少？Nǐ de shǒujī hàomǎ shì duōshao?",
+    "Số điện thoại của bạn là bao nhiêu?"
+   ]
+  ],
+  "vo": [
+   [
+    "打电话",
+    "dǎ diànhuà",
+    "gọi điện thoại",
+    "to make a phone call"
+   ],
+   [
+    "喂",
+    "wéi",
+    "a lô",
+    "hello (on the phone)"
+   ],
+   [
+    "手机",
+    "shǒujī",
+    "điện thoại di động",
+    "mobile phone"
+   ],
+   [
+    "号码",
+    "hàomǎ",
+    "số (điện thoại)",
+    "number"
+   ],
+   [
+    "有空",
+    "yǒu kòng",
+    "rảnh",
+    "to be free"
+   ],
+   [
+    "见面",
+    "jiànmiàn",
+    "gặp mặt",
+    "to meet"
+   ],
+   [
+    "邀请",
+    "yāoqǐng",
+    "mời, lời mời",
+    "to invite, invitation"
+   ],
+   [
+    "生日",
+    "shēngrì",
+    "sinh nhật",
+    "birthday"
+   ],
+   [
+    "聚会",
+    "jùhuì",
+    "buổi tiệc, họp mặt",
+    "party, get-together"
+   ],
+   [
+    "准时",
+    "zhǔnshí",
+    "đúng giờ",
+    "on time"
+   ]
+  ],
+  "hz": "号打机话请",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "喂，请问小王在吗？",
+    "e": [
+     "喂 wéi = a lô. 请问…在吗？ = xin hỏi … có ở đó không. 在 ở đây = có mặt.",
+     "喂 wéi = hello (phone). 请问…在吗？ = is … there, please? 在 = be present."
+    ],
+    "f": [
+     "请问小王在吗",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "你明天有空吗？我想请你吃饭。",
+    "e": [
+     "有空 yǒu kòng = rảnh. 请你吃饭 = mời bạn ăn (người mời trả tiền). Không viết 空 thành 控.",
+     "有空 = be free. 请你吃饭 = treat you to a meal. 空, not 控."
+    ],
+    "f": [
+     "请你吃饭",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "对不起，明天上午我要去医院，我们改到下午四点见面，好吗？",
+    "q": [
+     "Họ sẽ gặp nhau lúc mấy giờ?",
+     "When will they meet?"
+    ],
+    "o": [
+     [
+      "4 giờ chiều mai",
+      "4 p.m. tomorrow"
+     ],
+     [
+      "sáng mai",
+      "tomorrow morning"
+     ],
+     [
+      "4 giờ chiều nay",
+      "4 p.m. today"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "改到下午四点见面 – dời sang 4 giờ chiều (của 明天). Buổi sáng người nói phải đi bệnh viện.",
+     "改到下午四点见面 – moved to 4 p.m. (tomorrow). In the morning the speaker goes to hospital."
+    ],
+    "f": [
+     "改到下午四点见面",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢打电话还是发短信？我喜欢发短信，因为打电话的时候我常常听不懂。",
+    "e": [
+     "Câu hỏi: 你喜欢打电话还是发短信？– Gợi ý trả lời mẫu. 还是 = hay (câu hỏi lựa chọn); 短信 duǎnxìn; 听不懂 tīng bu dǒng.",
+     "Question: 你喜欢打电话还是发短信？– A model answer. 还是 = or; 短信 duǎnxìn; 听不懂 tīng bu dǒng."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "周末你常常请朋友来家里吗？是的，我常常请朋友来我家吃饭、聊天儿。",
+    "e": [
+     "Câu hỏi: 周末你常常请朋友来家里吗？– Gợi ý trả lời mẫu. 请 + người + 来 + nơi = mời ai đến; 聊天儿 liáotiānr.",
+     "Question: 周末你常常请朋友来家里吗？– A model answer. 请 + person + 来 = invite someone over; 聊天儿 liáotiānr."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Xin lỗi, mình có thể dời sang thứ Hai tuần sau gặp được không? Cuối tuần này mình phải về quê.",
+    "a": [
+     "不好意思，我们能不能改到下个星期一见面？这个周末我得回老家。",
+     "不好意思，能不能改到下周一见面？这个周末我要回老家。",
+     "对不起，我们能不能下个星期一再见面？这个周末我得回老家。"
+    ],
+    "e": [
+     "改到 + thời gian + 见面 = dời sang…; 能不能…？ = có thể… không (lịch sự); 得 děi = phải; 回老家 = về quê.",
+     "改到 + time + 见面 = move to…; 能不能…？ polite; 得 děi = have to; 回老家 = go back home."
+    ],
+    "f": [
+     "能不能改到下个星期一见面",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển sang lời kể gián tiếp",
+     "Change to reported speech"
+    ],
+    "s": "小林在电话里说：“我明天不能来了。”",
+    "a": [
+     "小林在电话里说他明天不能来了。"
+    ],
+    "e": [
+     "Bỏ ngoặc kép; 我 (Tiểu Lâm) → 他. Thời gian giữ nguyên vì người kể vẫn ở cùng ngày.",
+     "Drop the quotes; 我 → 他."
+    ],
+    "f": [
+     "说他明天不能来了",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "你到了以后给我打个电话，我下楼去接你，好不好吗？",
+    "a": [
+     "你到了以后给我打个电话，我下楼去接你，好不好？",
+     "你到了以后给我打个电话，我下楼去接你，好吗？"
+    ],
+    "e": [
+     "好不好 đã là câu hỏi chính phản, không thêm 吗. Chọn 好不好？ hoặc 好吗？. 下楼去接你 = xuống lầu đón bạn.",
+     "好不好 is already a question; drop 吗. 下楼去接你 = come down to meet you."
+    ],
+    "f": [
+     "好不好",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "我刚才给你打了好几次电话，你怎么一直不___啊？害得我担心死了。",
+    "a": [
+     "接"
+    ],
+    "e": [
+     "接电话 = nghe máy; 一直不接 = mãi không nghe. 怎么 = sao lại (trách nhẹ); 害得我… = làm tôi….",
+     "接电话 = answer the phone; 一直不接 = kept not answering. 怎么 = how come (mild reproach)."
+    ],
+    "f": [
+     "一直不接",
+     "HSK3"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "小林：喂，你好！请问小王在吗？小王：我就是。小林，有什么事吗？小林：这个星期六是我的生日，晚上我在家开一个生日聚会，想请你来，你有空吗？小王：太好了！我有空。几点开始？小林：晚上六点半。我家在学校东边，你知道怎么走吗？小王：不知道，你发短信告诉我吧。小林：好的。别忘了准时来！",
+   "tr": "Tiểu Lâm: A lô, chào bạn! Xin hỏi Tiểu Vương có đó không? Tiểu Vương: Mình đây. Tiểu Lâm, có việc gì vậy? Tiểu Lâm: Thứ Bảy này là sinh nhật mình, buổi tối mình tổ chức tiệc sinh nhật ở nhà, muốn mời bạn đến, bạn có rảnh không? Tiểu Vương: Tuyệt quá! Mình rảnh. Mấy giờ bắt đầu? Tiểu Lâm: Sáu rưỡi tối. Nhà mình ở phía đông trường, bạn biết đường đi không? Tiểu Vương: Không biết, bạn nhắn tin chỉ cho mình nhé. Tiểu Lâm: Được. Đừng quên đến đúng giờ nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Tiểu Lâm gọi điện để làm gì?",
+     "Why does Xiao Lin call?"
+    ],
+    "o": [
+     [
+      "Mời Tiểu Vương đến tiệc sinh nhật.",
+      "To invite Xiao Wang to a birthday party."
+     ],
+     [
+      "Hỏi đường đến trường.",
+      "To ask the way to school."
+     ],
+     [
+      "Hủy cuộc hẹn thứ Bảy.",
+      "To cancel Saturday's plan."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "晚上我在家开一个生日聚会，想请你来 – 请你来 = mời bạn đến.",
+     "晚上我在家开一个生日聚会，想请你来 – 请你来 = invite you to come."
+    ],
+    "f": [
+     "想请你来",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bữa tiệc bắt đầu khi nào?",
+     "When does the party start?"
+    ],
+    "o": [
+     [
+      "6 giờ 30 tối thứ Bảy",
+      "6:30 p.m. on Saturday"
+     ],
+     [
+      "6 giờ tối thứ Sáu",
+      "6 p.m. on Friday"
+     ],
+     [
+      "6 giờ 30 sáng thứ Bảy",
+      "6:30 a.m. on Saturday"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "这个星期六…晚上六点半 – 半 = rưỡi; 晚上 = buổi tối.",
+     "这个星期六…晚上六点半 – 半 = half past; 晚上 = evening."
+    ],
+    "f": [
+     "晚上六点半",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Làm sao Tiểu Vương biết đường đến nhà Tiểu Lâm?",
+     "How will Xiao Wang find the way?"
+    ],
+    "o": [
+     [
+      "Tiểu Lâm sẽ nhắn tin chỉ đường.",
+      "Xiao Lin will text the directions."
+     ],
+     [
+      "Tiểu Lâm sẽ đến đón.",
+      "Xiao Lin will pick him up."
+     ],
+     [
+      "Anh ấy đã biết đường.",
+      "He already knows the way."
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "不知道，你发短信告诉我吧 – không biết, nhắn tin cho tôi nhé. 吧 = đề nghị nhẹ.",
+     "不知道，你发短信告诉我吧 – he doesn't know; Lin will text. 吧 = soft request."
+    ],
+    "f": [
+     "你发短信告诉我吧",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "喂，你好！请问小王___吗？我是他的同学小林。",
+    "a": [
+     "在"
+    ],
+    "e": [
+     "请问 + người + 在吗？ = có… ở đó không? 在 = có mặt. Không dùng 是 hay 有.",
+     "请问 + person + 在吗？ = is … there? 在 = be present."
+    ],
+    "f": [
+     "在吗",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这个星期六晚上我家有一个生日聚会，你有___吗？想请你来玩儿。",
+    "a": [
+     "空"
+    ],
+    "e": [
+     "有空 yǒu kòng = rảnh. Cũng có thể nói 有时间, nhưng ô trống chỉ có một chữ.",
+     "有空 yǒu kòng = free. 有时间 also works, but the blank is one character."
+    ],
+    "f": [
+     "有空",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "明天下午我们一起去看电影___，我已经买好两张票了。",
+    "a": [
+     "吧"
+    ],
+    "e": [
+     "吧 cuối câu = rủ rê, đề nghị. 吗 biến câu thành câu hỏi có/không – không hợp với “tôi đã mua vé rồi”.",
+     "Final 吧 = let's…. 吗 would make a yes/no question."
+    ],
+    "f": [
+     "一起去看电影吧",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "对不起，我现在在开会，不能接电话，___再给你打过去。",
+    "o": [
+     "一会儿",
+     "刚才",
+     "以前"
+    ],
+    "a": 0,
+    "e": [
+     "一会儿 = lát nữa (tương lai) đi với 再. 刚才 = vừa nãy, 以前 = trước đây – đều chỉ quá khứ.",
+     "一会儿 = in a moment (future), goes with 再. 刚才 and 以前 refer to the past."
+    ],
+    "f": [
+     "一会儿再给你打过去",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我们见面明天下午三点在学校门口吧，你别迟到。",
+    "a": [
+     "我们明天下午三点在学校门口见面吧，你别迟到。"
+    ],
+    "e": [
+     "Thời gian + nơi chốn đứng TRƯỚC động từ: 明天下午三点在学校门口见面. Tiếng Việt “gặp nhau lúc 3 giờ” – tiếng Trung đảo lên trước.",
+     "Time + place come BEFORE the verb: 明天下午三点在学校门口见面."
+    ],
+    "f": [
+     "明天下午三点在学校门口见面",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "她的手机号码是多少吗？我想给她打电话。",
+    "a": [
+     "她的手机号码是多少？我想给她打电话。"
+    ],
+    "e": [
+     "多少 đã là từ hỏi, không thêm 吗. Lỗi thường gặp: 是什么吗 / 是多少吗.",
+     "多少 is already a question word; drop 吗."
+    ],
+    "f": [
+     "是多少",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Thứ Sáu này bạn có rảnh không? Tôi muốn mời bạn đi ăn cơm.",
+    "a": [
+     "这个星期五你有空吗？我想请你吃饭。",
+     "这个周五你有空吗？我想请你吃饭。",
+     "你这个星期五有空吗？我想请你吃饭。"
+    ],
+    "e": [
+     "Mời ăn = 请 + người + 吃饭 (không cần 去). Thứ Sáu này = 这个星期五 / 这个周五.",
+     "Treat to a meal = 请 + person + 吃饭. This Friday = 这个星期五 / 这个周五."
+    ],
+    "f": [
+     "我想请你吃饭",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin lỗi, tối nay tôi có việc, không thể đến được.",
+    "a": [
+     "对不起，今天晚上我有事，不能来了。",
+     "对不起，今天晚上我有事，不能去了。",
+     "不好意思，今晚我有事，来不了了。"
+    ],
+    "e": [
+     "有事 = có việc bận. 不能来了 – 了 cuối câu báo kế hoạch đã thay đổi. 来/去 tùy vị trí người nghe.",
+     "有事 = be busy. 不能来了 – final 了 signals a change of plan. 来 or 去 depending on viewpoint."
+    ],
+    "f": [
+     "我有事，不能来了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành lời đề nghị, kết thúc bằng ……怎么样？",
+     "Turn it into a suggestion ending in ……怎么样？"
+    ],
+    "s": "我们星期天去公园。",
+    "a": [
+     "我们星期天去公园，怎么样？",
+     "我们星期天去公园怎么样？"
+    ],
+    "e": [
+     "Câu đề nghị + 怎么样？ = …, thấy sao? Không thêm 吗.",
+     "Suggestion + 怎么样？ = how about…? No 吗."
+    ],
+    "f": [
+     "怎么样",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "我们|明天|下午|三点|在学校门口|见面|吧",
+    "m": [
+     "Chiều mai 3 giờ chúng ta gặp nhau ở cổng trường nhé.",
+     "Let's meet at the school gate at 3 p.m. tomorrow."
+    ],
+    "e": [
+     "Thời gian (lớn → nhỏ: 明天 → 下午 → 三点) → nơi chốn → động từ → 吧.",
+     "Time (big → small) → place → verb → 吧."
+    ],
+    "f": [
+     "在学校门口见面吧",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết tin nhắn khoảng 80 chữ mời bạn dự một buổi họp mặt: dịp gì, thời gian, địa điểm, hỏi bạn có rảnh không, dặn đúng giờ.",
+     "Write a message (about 80 characters) inviting a friend to a get-together: occasion, time, place, ask if they're free, remind them to be on time."
+    ],
+    "m": "小王，你好！下个星期五是我的生日，我想请几个好朋友来我家吃饭。时间是晚上七点，我家在学校东边的十二号楼三楼。你那天晚上有空吗？要是有空，一定来啊！别忘了准时来，我们七点半一起吃蛋糕。",
+    "e": [
+     "Cần có: • dịp (生日 / 聚会) • thời gian + nơi chốn TRƯỚC động từ • 你…有空吗？ • 请你来 / 一定来 • 别忘了准时.",
+     "Must include: • occasion • time + place BEFORE the verb • 你…有空吗？ • 请你来 / 一定来 • 别忘了准时."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d21",
+  "g": "daily",
+  "t": [
+   "Nấu ăn & công thức",
+   "Cooking & recipes"
+  ],
+  "th": [
+   [
+    "**Ngữ pháp: 先…然后…再…最后 · 一点儿 & 有点儿 · 切成**\n• Trình tự các bước: **先** A，**然后** B，**再** C，**最后** D。先炒鸡蛋，然后炒西红柿，最后放盐。\n• **Động từ + 一点儿 + danh từ** = (cho) một chút: 放**一点儿**盐。**有点儿 + tính từ** = hơi (thường là chê): 这个汤**有点儿**咸。Không nói 一点儿咸.\n• **切成 + hình dạng** = cắt thành: 切成小块。\n• Khen: 又好吃又便宜。/ 太好吃了！",
+    "**Grammar: 先…然后…再…最后 · 一点儿 vs 有点儿 · 切成**\n• Sequence: **先** A，**然后** B，**再** C，**最后** D。先炒鸡蛋，然后炒西红柿，最后放盐。\n• **Verb + 一点儿 + noun** = a little (of): 放**一点儿**盐。**有点儿 + adjective** = a bit (usually negative): 这个汤**有点儿**咸。Never 一点儿咸.\n• **切成 + shape** = cut into: 切成小块。\n• Praise: 又好吃又便宜。/ 太好吃了！"
+   ],
+   [
+    "**Phát âm: c / ch – s / sh trong bếp**\n• **菜 cài** (c phẳng, bật hơi) ≠ **柴 chái**; **炒 chǎo** (ch uốn lưỡi) ≠ **草 cǎo**.\n• **盐 yán** (2) – **咸 xián** (2); **糖 táng** (2) – **汤 tāng** (1): cặp dễ nhầm, chỉ khác thanh!\n• **西红柿 xīhóngshì** (1-2-4), **鸡蛋 jīdàn** (1-4), **米饭 mǐfàn** (3-4).\n• **一点儿 yìdiǎnr** – nhớ cuộn lưỡi -r ở cuối.",
+    "**Pronunciation: c / ch – s / sh in the kitchen**\n• **菜 cài** (flat, aspirated c) ≠ **柴 chái**; **炒 chǎo** (curled ch) ≠ **草 cǎo**.\n• **糖 táng** (2) – **汤 tāng** (1): the same syllable, different tones!\n• **西红柿 xīhóngshì** (1-2-4), **鸡蛋 jīdàn** (1-4), **米饭 mǐfàn** (3-4).\n• **一点儿 yìdiǎnr** – curl the tongue for final -r."
+   ],
+   [
+    "**Chữ Hán & thanh điệu**\nTập viết: **米** (6 nét), **吃** (6), **饭** (7), **油** (8), **菜** (11).\n• 饭 có bộ **饣** (ăn uống); 油 có bộ **氵** (nước) – chất lỏng; 菜 có bộ **艹** (cỏ) – rau.\n• 吃 = 口 (miệng) + 乞: ăn bằng miệng. 米 trông như hạt gạo rơi ra bốn phía.\n• Đọc to: 做饭 zuò fàn (4-4) · 好吃 hǎochī (3-1) · 米饭 mǐfàn (3-4).",
+    "**Characters & tones**\nWrite: **米** (6 strokes), **吃** (6), **饭** (7), **油** (8), **菜** (11).\n• 饭 has **饣** (food); 油 has **氵** (water) – liquids; 菜 has **艹** (grass) – vegetables.\n• 吃 = 口 (mouth) + 乞. 米 looks like grains scattering in four directions.\n• Read: 做饭 zuò fàn (4-4) · 好吃 hǎochī (3-1) · 米饭 mǐfàn (3-4)."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem 1 video nấu ăn tiếng Trung ngắn (có phụ đề), ghi nguyên liệu và các bước.\n• Nói (20 phút): vừa nấu một món vừa nói to các bước bằng tiếng Trung (先…然后…).\n• Đọc (15 phút): đọc 1 công thức trên app nấu ăn tiếng Trung, gạch chân động từ nấu (炒, 切, 放, 煮).\n• Viết (25 phút): viết công thức một món Việt khoảng 100 chữ.\n• Từ vựng (10 phút): dán nhãn tiếng Trung cho 10 đồ vật/nguyên liệu trong bếp.",
+    "**Practice outside the app**\n• Listening (20 min): watch a short Chinese cooking video (with subtitles); note ingredients and steps.\n• Speaking (20 min): cook something while saying the steps aloud in Chinese (先…然后…).\n• Reading (15 min): read a recipe in a Chinese cooking app; underline cooking verbs (炒, 切, 放, 煮).\n• Writing (25 min): write a Vietnamese recipe in about 100 characters.\n• Vocabulary (10 min): label 10 kitchen items/ingredients in Chinese."
+   ]
+  ],
+  "tb": [
+   [
+    "中文",
+    "Tiếng Việt"
+   ],
+   [
+    "你会做饭吗？Nǐ huì zuò fàn ma?",
+    "Bạn biết nấu ăn không?"
+   ],
+   [
+    "先炒鸡蛋，再炒西红柿。Xiān chǎo jīdàn, zài chǎo xīhóngshì.",
+    "Xào trứng trước, rồi xào cà chua."
+   ],
+   [
+    "放一点儿盐。Fàng yìdiǎnr yán.",
+    "Cho một chút muối."
+   ],
+   [
+    "这个汤有点儿咸。Zhège tāng yǒudiǎnr xián.",
+    "Canh này hơi mặn."
+   ],
+   [
+    "太好吃了！Tài hǎochī le!",
+    "Ngon quá!"
+   ],
+   [
+    "这个菜怎么做？Zhège cài zěnme zuò?",
+    "Món này làm thế nào?"
+   ]
+  ],
+  "vo": [
+   [
+    "做饭",
+    "zuò fàn",
+    "nấu ăn",
+    "to cook"
+   ],
+   [
+    "菜",
+    "cài",
+    "món ăn; rau",
+    "dish; vegetable"
+   ],
+   [
+    "鸡蛋",
+    "jīdàn",
+    "trứng gà",
+    "egg"
+   ],
+   [
+    "西红柿",
+    "xīhóngshì",
+    "cà chua",
+    "tomato"
+   ],
+   [
+    "米饭",
+    "mǐfàn",
+    "cơm",
+    "cooked rice"
+   ],
+   [
+    "盐",
+    "yán",
+    "muối",
+    "salt"
+   ],
+   [
+    "糖",
+    "táng",
+    "đường",
+    "sugar"
+   ],
+   [
+    "油",
+    "yóu",
+    "dầu ăn",
+    "oil"
+   ],
+   [
+    "锅",
+    "guō",
+    "nồi, chảo",
+    "pot, wok"
+   ],
+   [
+    "好吃",
+    "hǎochī",
+    "ngon",
+    "tasty"
+   ]
+  ],
+  "hz": "米吃饭油菜",
+  "warm": [
+   {
+    "t": "dict",
+    "s": "你会做饭吗？我会做几个简单的菜。",
+    "e": [
+     "会 + động từ = biết làm. 做饭 = nấu ăn; 几个简单的菜 = vài món đơn giản (几 ở đây = vài).",
+     "会 + verb = can. 做饭 = cook; 几个简单的菜 = a few simple dishes (几 = a few)."
+    ],
+    "f": [
+     "会做饭",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "先炒鸡蛋，再炒西红柿。",
+    "e": [
+     "先…再… = trước… rồi…. 炒 chǎo = xào (bộ 火). 西红柿 có 3 chữ: 西 + 红 + 柿.",
+     "先…再… = first… then…. 炒 chǎo = stir-fry (火 radical). 西红柿 = 3 characters."
+    ],
+    "f": [
+     "先炒鸡蛋，再炒",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "这个汤有点儿咸，下次你少放一点儿盐，多放一点儿水就好了。",
+    "q": [
+     "Món canh có vấn đề gì?",
+     "What's wrong with the soup?"
+    ],
+    "o": [
+     [
+      "hơi mặn",
+      "a bit salty"
+     ],
+     [
+      "hơi ngọt",
+      "a bit sweet"
+     ],
+     [
+      "hơi nhạt",
+      "a bit bland"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "有点儿咸 = hơi mặn → lần sau 少放盐 (bớt muối). 咸 xián ≠ 甜 tián (ngọt).",
+     "有点儿咸 = a bit salty → 少放盐 next time. 咸 xián ≠ 甜 tián (sweet)."
+    ],
+    "f": [
+     "有点儿咸",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你会做什么菜？我会做西红柿炒鸡蛋，这个菜又简单又好吃。",
+    "e": [
+     "Câu hỏi: 你会做什么菜？– Gợi ý trả lời mẫu. 西红柿炒鸡蛋 xīhóngshì chǎo jīdàn; 又…又… = vừa… vừa….",
+     "Question: 你会做什么菜？– A model answer. 西红柿炒鸡蛋; 又…又… = both… and…."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "你喜欢在家做饭还是在外面吃？我喜欢在家做饭，因为又便宜又健康。",
+    "e": [
+     "Câu hỏi: 你喜欢在家做饭还是在外面吃？– Gợi ý trả lời mẫu. 外面 wàimian (nhẹ); 健康 jiànkāng.",
+     "Question: 你喜欢在家做饭还是在外面吃？– A model answer. 外面 wàimian; 健康 jiànkāng."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Món này hơi nhạt, bạn đưa giúp mình lọ muối được không?",
+    "a": [
+     "这个菜有点儿淡，你能把盐递给我吗？",
+     "这个菜有点儿淡，你能不能把盐递给我？",
+     "这个菜有点儿淡，麻烦你把盐递给我，好吗？"
+    ],
+    "e": [
+     "淡 dàn = nhạt; 把盐递给我 = đưa muối cho tôi (câu 把 + 给). Hỏi lịch sự: 能…吗？ / 能不能…？",
+     "淡 dàn = bland; 把盐递给我 = pass me the salt (把 + 给). Polite: 能…吗？ / 能不能…？"
+    ],
+    "f": [
+     "把盐递给我",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng 把",
+     "Rewrite using 把"
+    ],
+    "s": "你帮我切一下这些西红柿。",
+    "a": [
+     "你帮我把这些西红柿切一下。"
+    ],
+    "e": [
+     "把 + tân ngữ xác định (这些西红柿) + động từ + 一下. 帮我 giữ ở trước 把.",
+     "把 + definite object + verb + 一下; 帮我 stays before 把."
+    ],
+    "f": [
+     "把这些西红柿切一下",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "我昨天做了红烧肉，今天再做了一次，因为大家都说太好吃了。",
+    "a": [
+     "我昨天做了红烧肉，今天又做了一次，因为大家都说太好吃了。"
+    ],
+    "e": [
+     "Việc lặp lại ĐÃ xảy ra dùng 又 (又做了一次); 再 dùng cho việc lặp lại SẼ xảy ra (明天再做).",
+     "Repetition that already happened uses 又; 再 is for future repetition (明天再做)."
+    ],
+    "f": [
+     "今天又做了一次",
+     "HSK3"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "这道菜看___简单，做起来可不容易，火太大就糊了。",
+    "a": [
+     "起来"
+    ],
+    "e": [
+     "看起来… 做起来… = nhìn thì…, làm thì…. 可 nhấn mạnh; 糊了 = cháy khét.",
+     "看起来… 做起来… = looks…, but doing it…. 可 adds emphasis; 糊了 = burnt."
+    ],
+    "f": [
+     "看起来简单",
+     "HSK3"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "今天我教你做一个简单的中国菜：西红柿炒鸡蛋。先准备两个西红柿和三个鸡蛋。西红柿洗干净以后，切成小块；鸡蛋打在碗里。锅里放一点儿油，先炒鸡蛋，炒好了放在盘子里。然后炒西红柿，再放鸡蛋，最后放一点儿盐和糖。十分钟就做好了！这个菜又好吃又便宜，和米饭一起吃最好。你也试试吧！",
+   "tr": "Hôm nay mình dạy bạn làm một món Trung Quốc đơn giản: trứng xào cà chua. Trước tiên chuẩn bị hai quả cà chua và ba quả trứng. Cà chua rửa sạch rồi cắt thành miếng nhỏ; trứng đập vào bát. Cho một chút dầu vào chảo, xào trứng trước, xào xong để ra đĩa. Sau đó xào cà chua, rồi cho trứng vào, cuối cùng cho một chút muối và đường. Mười phút là xong! Món này vừa ngon vừa rẻ, ăn với cơm là ngon nhất. Bạn cũng thử làm nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Cần chuẩn bị những gì?",
+     "What do you need to prepare?"
+    ],
+    "o": [
+     [
+      "2 quả cà chua và 3 quả trứng",
+      "2 tomatoes and 3 eggs"
+     ],
+     [
+      "3 quả cà chua và 2 quả trứng",
+      "3 tomatoes and 2 eggs"
+     ],
+     [
+      "2 quả cà chua và 10 quả trứng",
+      "2 tomatoes and 10 eggs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "准备两个西红柿和三个鸡蛋. Số 十 là thời gian nấu (十分钟).",
+     "准备两个西红柿和三个鸡蛋. 十 is the cooking time (十分钟)."
+    ],
+    "f": [
+     "两个西红柿和三个鸡蛋",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cho gì vào chảo đầu tiên (sau dầu)?",
+     "What goes into the wok first (after the oil)?"
+    ],
+    "o": [
+     [
+      "trứng",
+      "the eggs"
+     ],
+     [
+      "cà chua",
+      "the tomatoes"
+     ],
+     [
+      "muối và đường",
+      "salt and sugar"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "锅里放一点儿油，先炒鸡蛋 – 先 = trước tiên. Cà chua là bước 然后.",
+     "锅里放一点儿油，先炒鸡蛋 – 先 = first. Tomatoes come at 然后."
+    ],
+    "f": [
+     "先炒鸡蛋",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bước cuối cùng là gì?",
+     "What is the last step?"
+    ],
+    "o": [
+     [
+      "cho một chút muối và đường",
+      "add a little salt and sugar"
+     ],
+     [
+      "cho trứng vào lại",
+      "put the eggs back"
+     ],
+     [
+      "cắt cà chua",
+      "cut the tomatoes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "最后放一点儿盐和糖 – 最后 = cuối cùng. 再放鸡蛋 là bước ngay trước đó.",
+     "最后放一点儿盐和糖 – 最后 = finally. 再放鸡蛋 is the step before."
+    ],
+    "f": [
+     "最后放一点儿盐和糖",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "做这个菜很简单，___炒鸡蛋，然后炒西红柿，最后放盐。",
+    "a": [
+     "先"
+    ],
+    "e": [
+     "Chuỗi bước: 先 → 然后 → 最后. 先 đứng trước động từ đầu tiên.",
+     "Sequence: 先 → 然后 → 最后. 先 goes before the first verb."
+    ],
+    "f": [
+     "先炒鸡蛋",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "锅里放一___儿油，油热了以后再放鸡蛋。",
+    "a": [
+     "点"
+    ],
+    "e": [
+     "一点儿 = một chút, đứng sau động từ và trước danh từ: 放一点儿油.",
+     "一点儿 = a little, after the verb and before the noun."
+    ],
+    "f": [
+     "放一点儿油",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "西红柿洗干净以后，切___小块，放在盘子里。",
+    "a": [
+     "成"
+    ],
+    "e": [
+     "切成 + hình dạng = cắt thành…. 成 là bổ ngữ kết quả “thành”.",
+     "切成 + shape = cut into…. 成 is a result complement."
+    ],
+    "f": [
+     "切成小块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "这个汤___咸，你下次少放一点儿盐吧。",
+    "o": [
+     "有点儿",
+     "一点儿",
+     "很多"
+    ],
+    "a": 0,
+    "e": [
+     "Hơi + tính từ (không hài lòng) = 有点儿咸. 一点儿 đứng SAU tính từ (咸一点儿) hoặc trước danh từ, không đứng trước tính từ.",
+     "“A bit” + adjective (complaint) = 有点儿咸. 一点儿 can't come before an adjective."
+    ],
+    "f": [
+     "有点儿咸",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "这个菜一点儿辣，你能吃辣的吗？我可以少放一点儿。",
+    "a": [
+     "这个菜有点儿辣，你能吃辣的吗？我可以少放一点儿。"
+    ],
+    "e": [
+     "Trước tính từ dùng 有点儿: 有点儿辣 (hơi cay). 一点儿 chỉ dùng sau động từ/tính từ: 少放一点儿.",
+     "Before an adjective use 有点儿. 一点儿 follows verbs/adjectives: 少放一点儿."
+    ],
+    "f": [
+     "有点儿辣",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "妈妈做的菜太好吃，我每次都吃两碗米饭。",
+    "a": [
+     "妈妈做的菜太好吃了，我每次都吃两碗米饭。"
+    ],
+    "e": [
+     "太 + tính từ cần 了 ở sau: 太好吃了. Thiếu 了 câu nghe cụt.",
+     "太 + adjective needs 了: 太好吃了."
+    ],
+    "f": [
+     "太好吃了",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Trước tiên rửa sạch rau, sau đó cắt thành miếng nhỏ.",
+    "a": [
+     "先把菜洗干净，然后切成小块。",
+     "先洗菜，然后切成小块。",
+     "先把菜洗干净，再切成小块。",
+     "先洗干净菜，然后切成小块。"
+    ],
+    "e": [
+     "先… 然后/再… = trước… sau đó…. 洗干净 = rửa sạch (bổ ngữ kết quả); 切成小块 = cắt thành miếng nhỏ.",
+     "先… 然后/再… = first… then…. 洗干净 = wash clean; 切成小块 = cut into small pieces."
+    ],
+    "f": [
+     "切成小块",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Món này vừa ngon vừa rẻ, tôi thường nấu cho bạn bè ăn.",
+    "a": [
+     "这个菜又好吃又便宜，我常常做给朋友吃。",
+     "这个菜又好吃又便宜，我常常给朋友做。",
+     "这个菜又好吃又便宜，我常常做给朋友们吃。"
+    ],
+    "e": [
+     "又 A 又 B = vừa… vừa…, không thêm 很. Nấu cho ai ăn = 做给 + người + 吃 hoặc 给 + người + 做.",
+     "又 A 又 B = both… and…, no 很. Cook for someone = 做给 + person + 吃 or 给 + person + 做."
+    ],
+    "f": [
+     "又好吃又便宜",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Nối ba câu bằng 先……然后……最后……",
+     "Join the three sentences with 先……然后……最后……"
+    ],
+    "s": "我放油。我炒鸡蛋。我放盐。",
+    "a": [
+     "我先放油，然后炒鸡蛋，最后放盐。"
+    ],
+    "e": [
+     "Chủ ngữ 我 chỉ cần nói một lần; 先, 然后, 最后 đứng trước từng động từ.",
+     "Say 我 once; 先, 然后, 最后 precede each verb."
+    ],
+    "f": [
+     "先放油，然后炒鸡蛋，最后放盐",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "锅里|放|一点儿|油|，先|炒|鸡蛋",
+    "m": [
+     "Cho một chút dầu vào chảo, xào trứng trước.",
+     "Put a little oil in the wok and fry the eggs first."
+    ],
+    "e": [
+     "Nơi chốn (锅里) + 放 + 一点儿 + 油; 先 đứng ngay trước động từ 炒.",
+     "Place + 放 + 一点儿 + 油; 先 right before 炒."
+    ],
+    "f": [
+     "放一点儿油",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết công thức một món ăn Việt Nam khoảng 100 chữ: nguyên liệu, các bước (先/然后/再/最后), mẹo nêm nếm.",
+     "Write a recipe for a Vietnamese dish in about 100 characters: ingredients, steps (先/然后/再/最后), a seasoning tip."
+    ],
+    "m": "我教你做越南鸡肉粥。先准备一碗米、半只鸡、一点儿姜和葱。先把米洗干净，然后和水一起放在锅里煮。再把鸡肉放进去，煮四十分钟。最后放一点儿盐和鱼露，上面放一点儿葱。别放太多盐，不然有点儿咸。这个粥又简单又好吃，冬天吃最好！",
+    "e": [
+     "Cần có: • nguyên liệu (准备…) • 先/然后/再/最后 • 一点儿 + danh từ • 有点儿 + tính từ hoặc 又…又… • lời khuyên (别…).",
+     "Must include: • ingredients (准备…) • 先/然后/再/最后 • 一点儿 + noun • 有点儿 + adjective or 又…又… • a tip (别…)."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h2-r",
+  "t": [
+   "Bài đọc: Chuyến đi Bắc Kinh",
+   "Reading: A trip to Beijing"
+  ],
+  "rd": {
+   "tx": "上个星期六，我和弟弟去了北京。北京比河内冷多了，我们穿了很多衣服。我们去了长城，弟弟说长城太高了，他走得很慢。晚上我们吃了北京烤鸭，非常好吃。这次旅游很累，但是我们都很高兴。",
+   "py": "Shàng ge xīngqīliù, wǒ hé dìdi qù le Běijīng. Běijīng bǐ Hénèi lěng duō le, wǒmen chuān le hěn duō yīfu. Wǒmen qù le Chángchéng, dìdi shuō Chángchéng tài gāo le, tā zǒu de hěn màn. Wǎnshang wǒmen chī le Běijīng kǎoyā, fēicháng hǎochī. Zhè cì lǚyóu hěn lèi, dànshì wǒmen dōu hěn gāoxìng.",
+   "tr": "Thứ Bảy tuần trước, tôi và em trai đi Bắc Kinh. Bắc Kinh lạnh hơn Hà Nội nhiều, chúng tôi mặc rất nhiều quần áo. Chúng tôi đi Vạn Lý Trường Thành, em trai nói Trường Thành cao quá, em ấy đi rất chậm. Buổi tối chúng tôi ăn vịt quay Bắc Kinh, cực kỳ ngon. Chuyến du lịch lần này rất mệt nhưng chúng tôi đều rất vui."
+  },
+  "vo": [
+   [
+    "衣服",
+    "yīfu",
+    "quần áo",
+    "clothes"
+   ],
+   [
+    "长城",
+    "Chángchéng",
+    "Vạn Lý Trường Thành",
+    "the Great Wall"
+   ],
+   [
+    "晚上",
+    "wǎnshang",
+    "buổi tối",
+    "evening"
+   ],
+   [
+    "烤鸭",
+    "kǎoyā",
+    "vịt quay",
+    "roast duck"
+   ],
+   [
+    "旅游",
+    "lǚyóu",
+    "du lịch",
+    "to travel"
+   ],
+   [
+    "高兴",
+    "gāoxìng",
+    "vui",
+    "happy"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Họ đi đâu?",
+     "Where did they go?"
+    ],
+    [
+     "北京",
+     "上海",
+     "河内"
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Thời tiết Bắc Kinh so với Hà Nội?",
+     "How was Beijing compared with Hanoi?"
+    ],
+    [
+     [
+      "lạnh hơn nhiều",
+      "much colder"
+     ],
+     [
+      "nóng hơn",
+      "hotter"
+     ],
+     [
+      "giống nhau",
+      "the same"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Vì sao em trai đi chậm?",
+     "Why did the brother walk slowly?"
+    ],
+    [
+     [
+      "vì Trường Thành cao quá",
+      "the Great Wall was too high"
+     ],
+     [
+      "vì bị ốm",
+      "he was ill"
+     ],
+     [
+      "vì trời mưa",
+      "it rained"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Buổi tối họ ăn gì?",
+     "What did they eat in the evening?"
+    ],
+    [
+     [
+      "vịt quay Bắc Kinh",
+      "Peking duck"
+     ],
+     [
+      "sủi cảo",
+      "dumplings"
+     ],
+     [
+      "mì",
+      "noodles"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "北京___河内冷多了。",
+    [
+     "比",
+     "跟",
+     "没有"
+    ],
+    0
+   ],
+   [
+    "order",
+    "他|走|得|很|慢",
+    [
+     "Em ấy đi rất chậm.",
+     "He walked very slowly."
+    ]
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "上个星期六，我和弟弟去了北京，北京比河内冷多了。",
+    "q": [
+     "Người nói đi Bắc Kinh với ai, khi nào?",
+     "Who did the speaker go to Beijing with, and when?"
+    ],
+    "o": [
+     [
+      "với em trai, thứ Bảy tuần trước",
+      "with a younger brother, last Saturday"
+     ],
+     [
+      "với anh trai, Chủ nhật tuần trước",
+      "with an older brother, last Sunday"
+     ],
+     [
+      "với em trai, thứ Bảy tuần này",
+      "with a younger brother, this Saturday"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "上个星期六 = thứ Bảy tuần trước (上 = trước, 下 = sau); 弟弟 = em trai, 哥哥 mới là anh trai.",
+     "上个星期六 = last Saturday (上 = last, 下 = next); 弟弟 = younger brother, 哥哥 = older brother."
+    ],
+    "f": [
+     "上个星期六",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "弟弟说长城太高了，所以他走得很慢，我们走了三个小时。",
+    "q": [
+     "Họ đi trên Trường Thành bao lâu?",
+     "How long did they walk on the Great Wall?"
+    ],
+    "o": [
+     [
+      "ba tiếng",
+      "three hours"
+     ],
+     [
+      "một tiếng",
+      "one hour"
+     ],
+     [
+      "ba mươi phút",
+      "thirty minutes"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "走了三个小时 – thời lượng đứng sau động từ + 了. 走得很慢 là bổ ngữ trình độ nói về cách đi.",
+     "走了三个小时 – the duration follows verb + 了. 走得很慢 is a degree complement about how he walked."
+    ],
+    "f": [
+     "走了三个小时",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "晚上我们吃了北京烤鸭，非常好吃。",
+    "e": [
+     "吃了 = đã ăn (hoàn thành); 北京烤鸭 viết đúng 烤 (bộ hỏa 火) và 鸭 (bộ điểu 鸟).",
+     "吃了 = ate (completed); write 烤 with the fire radical 火 and 鸭 with the bird radical 鸟."
+    ],
+    "f": [
+     "吃了北京烤鸭",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "这次旅游很累，但是我们都很高兴，明年还想去。",
+    "e": [
+     "旅游 lǚyóu (ü), 但是 dànshì, 高兴 gāoxìng. 都 đứng sau chủ ngữ 我们, trước 很高兴.",
+     "旅游 lǚyóu (with ü), 但是 dànshì, 高兴 gāoxìng. 都 follows the subject 我们."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "北京的冬天比河内冷多了，所以我们去北京的时候穿___很多衣服。",
+    "o": [
+     "了",
+     "过",
+     "得"
+    ],
+    "a": 0,
+    "e": [
+     "Kể một việc cụ thể đã hoàn thành trong chuyến đi → 穿了很多衣服. 过 chỉ trải nghiệm chung chung, 得 cần có lời đánh giá phía sau.",
+     "A specific completed action on the trip → 穿了很多衣服. 过 is a general experience; 得 needs an evaluation after it."
+    ],
+    "f": [
+     "穿了很多衣服",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "长城太高了，我弟弟走___很慢，我们走了三个小时。",
+    "a": [
+     "得"
+    ],
+    "e": [
+     "Đánh giá cách đi → 走得很慢. Không dùng 的 (trước danh từ) hay 地 (trước động từ).",
+     "Evaluating how he walked → 走得很慢. Not 的 (before nouns) or 地 (before verbs)."
+    ],
+    "f": [
+     "走得很慢",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "北京比河内很冷，所以我们穿了很多衣服。",
+    "a": [
+     "北京比河内冷，所以我们穿了很多衣服。",
+     "北京比河内冷多了，所以我们穿了很多衣服。",
+     "北京比河内冷得多，所以我们穿了很多衣服。"
+    ],
+    "e": [
+     "Câu 比 không có 很 trước tính từ: 比河内冷, hoặc 冷多了 / 冷得多 như trong bài.",
+     "No 很 before the adjective in a 比 sentence: 比河内冷, or 冷多了 / 冷得多 as in the text."
+    ],
+    "f": [
+     "比河内冷",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Trước đây tôi chưa từng ăn vịt quay Bắc Kinh, tối qua là lần đầu tiên tôi ăn.",
+    "a": [
+     "我以前没吃过北京烤鸭，昨天晚上是我第一次吃。",
+     "以前我没吃过北京烤鸭，昨天晚上是我第一次吃。",
+     "我以前没有吃过北京烤鸭，昨天晚上是我第一次吃。",
+     "我以前没吃过北京烤鸭，昨天晚上我第一次吃。",
+     "我以前没吃过北京烤鸭，昨天晚上是第一次吃。"
+    ],
+    "e": [
+     "“Chưa từng” = 没 + V + 过 (以前没吃过). “Lần đầu tiên” = 第一次, đặt trước động từ 吃.",
+     "“Never before” = 没 + V + 过 (以前没吃过). “The first time” = 第一次, placed before 吃."
+    ],
+    "f": [
+     "以前没吃过",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại thành câu phủ định (chuyến đi đã không diễn ra)",
+     "Rewrite in the negative (the trip didn't happen)"
+    ],
+    "s": "上个星期六，我和弟弟去了北京。",
+    "a": [
+     "上个星期六，我和弟弟没去北京。",
+     "上个星期六，我和弟弟没有去北京。",
+     "上个星期六我和弟弟没去北京。"
+    ],
+    "e": [
+     "Phủ định quá khứ dùng 没(有) + V và bỏ 了: 没去北京. Không viết 不去了北京 hay 没去了北京.",
+     "Past negative: 没(有) + verb, drop 了: 没去北京. Not 不去了北京 or 没去了北京."
+    ],
+    "f": [
+     "没去北京",
+     "HSK2"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "晚上我们|在|一个|小|饭馆|吃|了|北京烤鸭",
+    "m": [
+     "Buổi tối chúng tôi đã ăn vịt quay Bắc Kinh ở một quán ăn nhỏ.",
+     "In the evening we had Peking duck at a small restaurant."
+    ],
+    "e": [
+     "Thời gian → chủ ngữ → 在 + nơi chốn → động từ + 了 → tân ngữ. Nơi chốn với 在 luôn đứng trước động từ, không đặt cuối câu như tiếng Việt.",
+     "Time → subject → 在 + place → verb + 了 → object. 在 + place always precedes the verb, not at the end as in Vietnamese."
+    ],
+    "f": [
+     "在一个小饭馆吃了",
+     "HSK2"
+    ]
+   }
+  ]
+ }
+]

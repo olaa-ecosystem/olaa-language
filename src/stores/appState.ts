@@ -10,6 +10,7 @@ import {
 } from '../features/flashcards-srs/srs';
 import type { ErrorCategory } from '../features/exercises/explain';
 import { recordActivity, type StreakState } from '../features/learning-progress/streak';
+import type { CurriculumLang, LevelUnit } from '../features/levels/types';
 
 export const STATE_VERSION = 1;
 export const DAILY_GOAL_OPTIONS = [10, 20, 30, 50] as const;
@@ -22,6 +23,16 @@ export interface CourseProgress {
   mistakes: Record<string, Exercise>;
   /** How often each kind of mistake happened (PRD v1.0 §6.3). */
   mistakeCategories?: Partial<Record<ErrorCategory, number>>;
+}
+
+/** Progress in the level curriculum (A1–C2, HSK1–6) of one language. */
+export interface LevelProgress {
+  /** Best score (0–1) of each finished unit. */
+  units: Record<string, number>;
+  /** Best level-test score (0–1) of each level code. */
+  tests: Record<string, number>;
+  /** Unit vocabulary, reviewed with spaced repetition. */
+  cards: Record<string, SrsCard>;
 }
 
 export interface Profile {
@@ -42,6 +53,9 @@ export interface AppState {
   /** "Can't listen now" pauses listening exercises until this time (ms). */
   listenOffUntil: number;
   courses: Partial<Record<CourseId, CourseProgress>>;
+  /** Level curriculum language last opened. Optional: older saved states have none. */
+  levelLang?: CurriculumLang;
+  levels?: Partial<Record<CurriculumLang, LevelProgress>>;
 }
 
 export function initialState(): AppState {
@@ -179,4 +193,71 @@ export function setBuddy(state: AppState, buddy: MascotId): AppState {
 
 export function pauseListening(state: AppState, until: number): AppState {
   return { ...state, listenOffUntil: until };
+}
+
+/* ---------- level curriculum ---------- */
+
+export function levelProgress(state: AppState, lang: CurriculumLang): LevelProgress {
+  return state.levels?.[lang] ?? { units: {}, tests: {}, cards: {} };
+}
+
+function withLevels(
+  state: AppState,
+  lang: CurriculumLang,
+  update: (p: LevelProgress) => LevelProgress,
+): AppState {
+  return { ...state, levels: { ...state.levels, [lang]: update(levelProgress(state, lang)) } };
+}
+
+export function setLevelLang(state: AppState, lang: CurriculumLang): AppState {
+  return state.levelLang === lang ? state : { ...state, levelLang: lang };
+}
+
+/** Finishing a unit keeps the best score, adds its words to flashcards and awards XP. */
+export function finishUnit(
+  state: AppState,
+  input: { lang: CurriculumLang; unit: LevelUnit; score: number; xp: number; today: DayKey },
+): AppState {
+  const { lang, unit, score, xp, today } = input;
+  const next = withLevels(state, lang, (p) => {
+    const cards = { ...p.cards };
+    for (const word of unit.vocab) {
+      const id = `${unit.id}:${word.word}`;
+      const back = word.sound ? `${word.vi} · ${word.sound}` : word.vi;
+      cards[id] ??= newCard(id, word.word, back, unit.id, today);
+    }
+    return {
+      ...p,
+      cards,
+      units: { ...p.units, [unit.id]: Math.max(p.units[unit.id] ?? 0, score) },
+    };
+  });
+  return awardXp({ ...next, lessonsCompleted: next.lessonsCompleted + 1 }, xp, today);
+}
+
+export function finishLevelTest(
+  state: AppState,
+  input: { lang: CurriculumLang; level: string; score: number; xp: number; today: DayKey },
+): AppState {
+  const { lang, level, score, xp, today } = input;
+  const next = withLevels(state, lang, (p) => ({
+    ...p,
+    tests: { ...p.tests, [level]: Math.max(p.tests[level] ?? 0, score) },
+  }));
+  return awardXp(next, xp, today);
+}
+
+export function applyLevelCardReview(
+  state: AppState,
+  lang: CurriculumLang,
+  cardId: string,
+  grade: ReviewGrade,
+  today: DayKey,
+): AppState {
+  const card = levelProgress(state, lang).cards[cardId];
+  if (!card) return state;
+  return withLevels(state, lang, (p) => ({
+    ...p,
+    cards: { ...p.cards, [cardId]: reviewCard(card, grade, today) },
+  }));
 }

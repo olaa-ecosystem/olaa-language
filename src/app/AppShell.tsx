@@ -1,5 +1,12 @@
 import type { ReactNode } from 'react';
-import { CardsIcon, DumbbellIcon, HomeIcon, UserIcon } from '../components/Icons';
+import {
+  BookIcon,
+  CardsIcon,
+  DumbbellIcon,
+  HomeIcon,
+  LadderIcon,
+  UserIcon,
+} from '../components/Icons';
 import { Mascot } from '../components/mascots';
 import { StreakStat, XpStat } from '../components/ui';
 import type { Course } from '../features/curriculum';
@@ -12,10 +19,19 @@ import { routeHref, type Route } from './router';
 
 const NAV: { route: Route; label: string; icon: ReactNode }[] = [
   { route: { name: 'learn' }, label: 'Learn', icon: <HomeIcon /> },
+  { route: { name: 'levels' }, label: 'Lộ trình', icon: <LadderIcon /> },
+  { route: { name: 'topics' }, label: 'Chủ đề', icon: <BookIcon /> },
   { route: { name: 'practice' }, label: 'Practice', icon: <DumbbellIcon /> },
   { route: { name: 'review' }, label: 'Flashcards', icon: <CardsIcon /> },
   { route: { name: 'profile' }, label: 'Profile', icon: <UserIcon /> },
 ];
+
+/** Sub-pages highlight their section in the menu. */
+function section(name: Route['name']): Route['name'] {
+  if (name === 'level') return 'levels';
+  if (name === 'topic') return 'topics';
+  return name;
+}
 
 export function AppShell({
   course,
@@ -24,6 +40,7 @@ export function AppShell({
 }: {
   course: Course;
   active: Route['name'];
+
   children: ReactNode;
 }) {
   const state = useAppState();
@@ -58,8 +75,8 @@ export function AppShell({
             <li key={item.label}>
               <a
                 href={routeHref(item.route)}
-                className={`nav-link ${active === item.route.name ? 'is-active' : ''}`}
-                aria-current={active === item.route.name ? 'page' : undefined}
+                className={`nav-link ${section(active) === item.route.name ? 'is-active' : ''}`}
+                aria-current={section(active) === item.route.name ? 'page' : undefined}
               >
                 {item.icon}
                 <span>{item.label}</span>

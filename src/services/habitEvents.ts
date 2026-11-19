@@ -43,6 +43,20 @@ export function detectEvents(prev: AppState, next: AppState, today: DayKey): Lan
       }
     }
   }
+  // Level curriculum: the first time a unit is finished counts as a completed lesson.
+  for (const [lang, progress] of Object.entries(next.levels ?? {})) {
+    if (!progress) continue;
+    const old = prev.levels?.[lang as keyof NonNullable<AppState['levels']>]?.units ?? {};
+    for (const unitId of Object.keys(progress.units)) {
+      if (old[unitId] === undefined) {
+        events.push({
+          type: 'language.lesson.completed',
+          date: today,
+          payload: { courseId: `${lang}-vi`, lessonId: unitId },
+        });
+      }
+    }
+  }
   return events;
 }
 

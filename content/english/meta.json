@@ -1,0 +1,65 @@
+{
+ "name": [
+  "Tiếng Anh",
+  "English"
+ ],
+ "short": "EN",
+ "tts": "en-US",
+ "native": "English",
+ "levels": [
+  {
+   "c": "A1",
+   "n": [
+    "Khởi động",
+    "Beginner"
+   ],
+   "x": "Cambridge A1 Movers",
+   "w": "~600"
+  },
+  {
+   "c": "A2",
+   "n": [
+    "Sơ cấp",
+    "Elementary"
+   ],
+   "x": "Cambridge A2 Key (KET)",
+   "w": "~1,200"
+  },
+  {
+   "c": "B1",
+   "n": [
+    "Trung cấp",
+    "Intermediate"
+   ],
+   "x": "B1 Preliminary · IELTS 4.0–5.0",
+   "w": "~2,500"
+  },
+  {
+   "c": "B2",
+   "n": [
+    "Trung–cao cấp",
+    "Upper-intermediate"
+   ],
+   "x": "B2 First (FCE) · IELTS 5.5–6.5",
+   "w": "~4,500"
+  },
+  {
+   "c": "C1",
+   "n": [
+    "Cao cấp",
+    "Advanced"
+   ],
+   "x": "C1 Advanced (CAE) · IELTS 7.0–8.0",
+   "w": "~8,000"
+  },
+  {
+   "c": "C2",
+   "n": [
+    "Thành thạo",
+    "Mastery"
+   ],
+   "x": "C2 Proficiency (CPE) · IELTS 8.5–9.0",
+   "w": "10,000+"
+  }
+ ]
+}

@@ -1,0 +1,4414 @@
+[
+ {
+  "id": "a1-1",
+  "t": [
+   "Chào hỏi & động từ ser",
+   "Greetings & ser"
+  ],
+  "th": [
+   [
+    "**Ser** (là) chia theo ngôi:\n• yo **soy** · tú **eres** · él / ella / usted **es**\n• nosotros/as **somos** · vosotros/as **sois** · ellos / ellas / ustedes **son**",
+    "**Ser** (to be) by person:\n• yo **soy** · tú **eres** · él / ella / usted **es**\n• nosotros/as **somos** · vosotros/as **sois** · ellos / ellas / ustedes **son**"
+   ],
+   [
+    "**Usted / ustedes** là cách gọi lịch sự, chia như ngôi thứ ba. **Vosotros** chỉ dùng ở Tây Ban Nha; Mỹ Latinh dùng **ustedes** cho mọi trường hợp số nhiều.",
+    "**Usted / ustedes** are polite forms and take third-person verbs. **Vosotros** is used only in Spain; Latin America uses **ustedes** for all plural ‘you’."
+   ],
+   [
+    "Chào hỏi: Hola · Buenos días (sáng) · Buenas tardes (chiều) · Buenas noches (tối / chúc ngủ ngon) · Adiós · Hasta luego.\nGiới thiệu: **Me llamo** Lan. **Soy** de Vietnam. Mucho gusto / **Encantado** (nam) – **Encantada** (nữ).",
+    "Greetings: Hola · Buenos días · Buenas tardes · Buenas noches · Adiós · Hasta luego.\nIntroductions: **Me llamo** Lan. **Soy** de Vietnam. Mucho gusto / **Encantado** (male) – **Encantada** (female)."
+   ],
+   [
+    "Câu hỏi và câu cảm thán có **dấu mở ngược** ở đầu: ¿Cómo estás? ¡Hola!",
+    "Questions and exclamations open with an **inverted mark**: ¿Cómo estás? ¡Hola!"
+   ]
+  ],
+  "tb": [
+   [
+    "Persona",
+    "ser"
+   ],
+   [
+    "yo",
+    "soy"
+   ],
+   [
+    "tú",
+    "eres"
+   ],
+   [
+    "él / ella / usted",
+    "es"
+   ],
+   [
+    "nosotros/as",
+    "somos"
+   ],
+   [
+    "vosotros/as",
+    "sois"
+   ],
+   [
+    "ellos / ellas / ustedes",
+    "son"
+   ]
+  ],
+  "vo": [
+   [
+    "hola",
+    "O-la",
+    "xin chào",
+    "hello"
+   ],
+   [
+    "adiós",
+    "a-DIÓS",
+    "tạm biệt",
+    "goodbye"
+   ],
+   [
+    "gracias",
+    "GRA-cias",
+    "cảm ơn",
+    "thank you"
+   ],
+   [
+    "por favor",
+    "por fa-VOR",
+    "làm ơn",
+    "please"
+   ],
+   [
+    "me llamo",
+    "me YA-mo",
+    "tôi tên là",
+    "my name is"
+   ],
+   [
+    "encantado",
+    "en-can-TA-do",
+    "rất vui được gặp",
+    "pleased to meet you"
+   ],
+   [
+    "¿Cómo estás?",
+    "CÓ-mo es-TÁS",
+    "bạn khỏe không?",
+    "how are you?"
+   ],
+   [
+    "de nada",
+    "de NA-da",
+    "không có gì",
+    "you're welcome"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Yo ___ estudiante.",
+    [
+     "soy",
+     "eres",
+     "es"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Nosotros ___ de Vietnam.",
+    [
+     "son",
+     "somos",
+     "sois"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "¿Usted ___ el profesor?",
+    [
+     "eres",
+     "es",
+     "soy"
+    ],
+    1,
+    [
+     "usted chia như ngôi thứ ba.",
+     "usted takes third-person forms."
+    ]
+   ],
+   [
+    "fill",
+    "Ellas ___ médicas.",
+    [
+     "somos",
+     "son",
+     "es"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Một phụ nữ nói “rất vui được gặp bạn”:",
+     "A woman says “pleased to meet you”:"
+    ],
+    [
+     "Encantado",
+     "Encantada",
+     "Encantados"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Chào lúc 3 giờ chiều:",
+     "Greeting at 3 p.m.:"
+    ],
+    [
+     "Buenos días",
+     "Buenas tardes",
+     "Buenas noches"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Me llamo Lan y soy de Hanói",
+    [
+     "Tôi tên Lan và tôi đến từ Hà Nội.",
+     "My name is Lan and I'm from Hanoi."
+    ]
+   ],
+   [
+    "dict",
+    "Hola, ¿cómo estás?"
+   ],
+   [
+    "say",
+    "Hola, me llamo Ana. Soy de Vietnam."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Hola, me llamo Marta, soy de Valencia, pero mis padres son de Granada.",
+    "q": [
+     "Bố mẹ của Marta đến từ đâu?",
+     "Where are Marta's parents from?"
+    ],
+    "o": [
+     "Valencia",
+     "Granada",
+     "Madrid"
+    ],
+    "a": 1,
+    "e": [
+     "Marta nói “soy de Valencia” (bản thân cô), nhưng “mis padres son de Granada”. Bẫy là chọn Valencia vì nghe thấy trước.",
+     "Marta says “soy de Valencia” about herself, but “mis padres son de Granada”. The trap is picking Valencia because you hear it first."
+    ],
+    "f": [
+     "mis padres son de Granada",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Buenos días, señor García, ¿usted es el profesor nuevo de español?",
+    "e": [
+     "Với “usted” động từ chia như ngôi thứ ba: “usted es”, không phải “usted eres”. Nhớ dấu ¿ ở đầu câu hỏi.",
+     "“Usted” takes the third-person verb: “usted es”, not “usted eres”. Remember the opening ¿."
+    ],
+    "f": [
+     "usted es",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Encantada, me llamo Lan, soy vietnamita y somos estudiantes de español en Madrid.",
+    "e": [
+     "Người nói là nữ nên dùng “Encantada”. Chú ý “soy” (yo) và “somos” (nosotros) trong cùng một câu.",
+     "The speaker is female, so “Encantada”. Note “soy” (yo) and “somos” (nosotros) in the same sentence."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "¡Hola, Carmen! Me llamo Minh y soy de Vietnam, pero ahora vivo en Salamanca. Soy estudiante de español en la universidad. Mis compañeros de clase son muy simpáticos: Ana es de Italia, Tom y Jack son de Inglaterra y Yuki es de Japón. Nuestra profesora se llama Elena; es de Salamanca y es muy paciente. Las clases son por la mañana, de nueve a una. ¿Y tú? ¿De dónde eres? ¿Eres estudiante también? Un abrazo, Minh.",
+   "tr": "Chào Carmen! Mình tên là Minh, mình đến từ Việt Nam nhưng bây giờ mình sống ở Salamanca. Mình là sinh viên tiếng Tây Ban Nha ở trường đại học. Các bạn cùng lớp của mình rất dễ mến: Ana đến từ Ý, Tom và Jack đến từ Anh, còn Yuki đến từ Nhật Bản. Cô giáo của bọn mình tên là Elena; cô là người Salamanca và rất kiên nhẫn. Các buổi học diễn ra vào buổi sáng, từ chín giờ đến một giờ. Còn bạn thì sao? Bạn đến từ đâu? Bạn cũng là sinh viên à? Ôm bạn thật chặt, Minh."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Minh đến từ đâu và hiện đang sống ở đâu?",
+     "Where is Minh from and where does he live now?"
+    ],
+    "o": [
+     [
+      "Đến từ Việt Nam, đang sống ở Salamanca",
+      "From Vietnam, now lives in Salamanca"
+     ],
+     [
+      "Đến từ Salamanca, đang sống ở Việt Nam",
+      "From Salamanca, now lives in Vietnam"
+     ],
+     [
+      "Đến từ Nhật Bản, đang sống ở Salamanca",
+      "From Japan, now lives in Salamanca"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu “soy de Vietnam, pero ahora vivo en Salamanca” cho biết cả quê và nơi ở hiện tại. “Ser de” chỉ nguồn gốc, không phải nơi đang sống.",
+     "“soy de Vietnam, pero ahora vivo en Salamanca” gives both origin and current home. “Ser de” means origin, not where you live now."
+    ],
+    "f": [
+     "soy de Vietnam, pero ahora vivo en Salamanca",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tom và Jack đến từ nước nào?",
+     "Where are Tom and Jack from?"
+    ],
+    "o": [
+     [
+      "Anh",
+      "England"
+     ],
+     [
+      "Ý",
+      "Italy"
+     ],
+     [
+      "Nhật Bản",
+      "Japan"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Đoạn văn viết “Tom y Jack son de Inglaterra”. Hai người nên động từ ở số nhiều “son”. Ý là quê của Ana, Nhật Bản là quê của Yuki.",
+     "The text says “Tom y Jack son de Inglaterra” – two people, so the plural “son”. Italy is Ana's country and Japan is Yuki's."
+    ],
+    "f": [
+     "Tom y Jack son de Inglaterra",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cô giáo Elena là người như thế nào?",
+     "What is the teacher Elena like?"
+    ],
+    "o": [
+     [
+      "Rất kiên nhẫn",
+      "Very patient"
+     ],
+     [
+      "Rất nghiêm khắc",
+      "Very strict"
+     ],
+     [
+      "Rất trẻ",
+      "Very young"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Es muy paciente” = cô ấy rất kiên nhẫn. Tính cách dùng “ser”. Văn bản không nói gì về tuổi hay sự nghiêm khắc của cô.",
+     "“Es muy paciente” = she is very patient. Personality uses “ser”. The text says nothing about her age or strictness."
+    ],
+    "f": [
+     "es muy paciente",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Mis compañeros de clase ___ de Italia y de Japón, y yo soy de Vietnam.",
+    "o": [
+     "somos",
+     "son",
+     "sois"
+    ],
+    "a": 1,
+    "e": [
+     "Chủ ngữ “mis compañeros” là ngôi thứ ba số nhiều (= ellos) nên dùng “son”. “Somos” chỉ dùng khi có “tôi” trong nhóm; “sois” là cho “vosotros”.",
+     "“Mis compañeros” is third-person plural (= ellos), so “son”. “Somos” only works if “I” am in the group; “sois” is for “vosotros”."
+    ],
+    "f": [
+     "son",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Vosotros ___ los estudiantes nuevos de la clase de español, ¿verdad?",
+    "a": [
+     "sois"
+    ],
+    "e": [
+     "“Vosotros” (các bạn – dùng ở Tây Ban Nha) đi với “sois”. Đừng nhầm với “son” – dạng của “ustedes” hoặc “ellos”.",
+     "“Vosotros” (you all – used in Spain) takes “sois”. Don't confuse it with “son”, the form for “ustedes” or “ellos”."
+    ],
+    "f": [
+     "sois",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Nosotros son estudiantes de español y nuestra profesora es de Madrid.",
+    "a": [
+     "Nosotros somos estudiantes de español y nuestra profesora es de Madrid.",
+     "Somos estudiantes de español y nuestra profesora es de Madrid."
+    ],
+    "e": [
+     "“Nosotros” phải đi với “somos”. Người Việt hay giữ nguyên “son” cho mọi chủ ngữ số nhiều, nhưng tiếng Tây Ban Nha chia riêng cho từng ngôi.",
+     "“Nosotros” must take “somos”. Learners often use “son” for every plural subject, but Spanish has a separate form for each person."
+    ],
+    "f": [
+     "somos",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Xin chào, tôi tên là Lan, tôi là người Việt Nam và tôi là sinh viên ở Madrid.",
+    "a": [
+     "Hola, me llamo Lan, soy vietnamita y soy estudiante en Madrid.",
+     "Hola, me llamo Lan, soy de Vietnam y soy estudiante en Madrid.",
+     "Hola, me llamo Lan, soy vietnamita y estudiante en Madrid.",
+     "Hola, soy Lan, soy vietnamita y soy estudiante en Madrid."
+    ],
+    "e": [
+     "Giới thiệu tên dùng “me llamo”; quốc tịch và nghề nghiệp dùng “ser” (soy vietnamita, soy estudiante). Không cần mạo từ trước nghề: “soy estudiante”, không nói “soy una estudiante”.",
+     "Use “me llamo” for your name and “ser” for nationality and job (soy vietnamita, soy estudiante). No article before a job: “soy estudiante”, not “soy una estudiante”."
+    ],
+    "f": [
+     "soy vietnamita",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với chủ ngữ “nosotros”",
+     "Rewrite the sentence with the subject “nosotros”"
+    ],
+    "s": "Yo soy de Vietnam y soy estudiante de español en una escuela de Sevilla.",
+    "a": [
+     "Nosotros somos de Vietnam y somos estudiantes de español en una escuela de Sevilla.",
+     "Somos de Vietnam y somos estudiantes de español en una escuela de Sevilla."
+    ],
+    "e": [
+     "Đổi “soy” thành “somos” ở cả hai chỗ, và danh từ nghề nghiệp cũng phải chuyển sang số nhiều: “estudiantes”. Bẫy là quên thêm -s cho “estudiante”.",
+     "Change both “soy” to “somos”, and the job noun becomes plural too: “estudiantes”. The trap is forgetting the -s on “estudiante”."
+    ],
+    "f": [
+     "somos estudiantes",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Buenas tardes,|señora López,|¿usted es|la madre|de Carlos|o|la profesora|de inglés?",
+    "m": [
+     "Chào buổi chiều, bà López, bà là mẹ của Carlos hay là cô giáo tiếng Anh ạ?",
+     "Good afternoon, Mrs López, are you Carlos's mother or the English teacher?"
+    ],
+    "e": [
+     "“Buenas tardes” dùng sau 12 giờ trưa. Với người lớn tuổi hay người lạ dùng “usted” + động từ ngôi thứ ba “es”. Dấu ¿ đặt ngay trước phần câu hỏi.",
+     "“Buenas tardes” is used after midday. With older people or strangers use “usted” + third-person “es”. The ¿ goes right before the question part."
+    ],
+    "f": [
+     "¿usted es",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-2",
+  "t": [
+   "Giống, mạo từ & số nhiều",
+   "Gender, articles & plurals"
+  ],
+  "th": [
+   [
+    "Danh từ có giống: thường **-o** là giống đực (el libro), **-a** là giống cái (la casa).\nNgoại lệ cần nhớ: **el** día, **el** mapa, **el** problema, **el** idioma; **la** mano, **la** foto, **la** radio.\nĐuôi **-ción, -sión, -dad** luôn giống cái: la canción, la ciudad.",
+    "Nouns have gender: usually **-o** is masculine (el libro), **-a** feminine (la casa).\nKey exceptions: **el** día, **el** mapa, **el** problema, **el** idioma; **la** mano, **la** foto, **la** radio.\n**-ción, -sión, -dad** are always feminine: la canción, la ciudad."
+   ],
+   [
+    "Mạo từ xác định: el, la, los, las. Không xác định: un, una, unos, unas.",
+    "Definite articles: el, la, los, las. Indefinite: un, una, unos, unas."
+   ],
+   [
+    "Số nhiều: nguyên âm + **s** (libros); phụ âm + **es** (ciudades, profesores); **-z → -ces** (lápiz → lápices).",
+    "Plurals: vowel + **s** (libros); consonant + **es** (ciudades, profesores); **-z → -ces** (lápiz → lápices)."
+   ],
+   [
+    "Tính từ **hòa hợp giống và số**: el coche rojo, la casa roja, los coches rojos. Tính từ tận cùng -e hoặc phụ âm giữ nguyên giống: un chico inteligente, una chica inteligente.",
+    "Adjectives **agree in gender and number**: el coche rojo, la casa roja, los coches rojos. Adjectives in -e or a consonant don't change for gender: un chico inteligente, una chica inteligente."
+   ]
+  ],
+  "vo": [
+   [
+    "el libro",
+    "el LI-bro",
+    "quyển sách",
+    "the book"
+   ],
+   [
+    "la casa",
+    "la CA-sa",
+    "ngôi nhà",
+    "the house"
+   ],
+   [
+    "el día",
+    "el DÍ-a",
+    "ngày",
+    "the day"
+   ],
+   [
+    "la mano",
+    "la MA-no",
+    "bàn tay",
+    "the hand"
+   ],
+   [
+    "la ciudad",
+    "la ciu-DAD",
+    "thành phố",
+    "the city"
+   ],
+   [
+    "el problema",
+    "el pro-BLE-ma",
+    "vấn đề",
+    "the problem"
+   ],
+   [
+    "rojo",
+    "RO-jo",
+    "màu đỏ",
+    "red"
+   ],
+   [
+    "grande",
+    "GRAN-de",
+    "to, lớn",
+    "big"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "___ problema es difícil.",
+    [
+     "El",
+     "La"
+    ],
+    0,
+    [
+     "problema là giống đực dù tận cùng -a.",
+     "problema is masculine despite -a."
+    ]
+   ],
+   [
+    "fill",
+    "Me duele ___ mano.",
+    [
+     "el",
+     "la"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Tengo ___ amigas en Madrid.",
+    [
+     "unos",
+     "unas",
+     "un"
+    ],
+    1
+   ],
+   [
+    "type",
+    [
+     "Số nhiều của: la ciudad",
+     "Plural of: la ciudad"
+    ],
+    [
+     "las ciudades"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Số nhiều của: el lápiz",
+     "Plural of: el lápiz"
+    ],
+    [
+     "los lápices"
+    ]
+   ],
+   [
+    "fill",
+    "Las casas son ___ .",
+    [
+     "blanco",
+     "blancas",
+     "blancos"
+    ],
+    1
+   ],
+   [
+    "mc",
+    "¿Cuál es correcto?",
+    [
+     "la canción bonito",
+     "el canción bonita",
+     "la canción bonita"
+    ],
+    2
+   ],
+   [
+    "order",
+    "Los libros nuevos están en la mesa",
+    [
+     "Những quyển sách mới ở trên bàn.",
+     "The new books are on the table."
+    ]
+   ],
+   [
+    "dict",
+    "La ciudad es muy grande."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "En mi ciudad hay dos parques grandes, una universidad nueva y muchas tiendas pequeñas.",
+    "q": [
+     "Thành phố có mấy công viên?",
+     "How many parks are there in the city?"
+    ],
+    "o": [
+     [
+      "một",
+      "one"
+     ],
+     [
+      "hai",
+      "two"
+     ],
+     [
+      "ba",
+      "three"
+     ]
+    ],
+    "a": 1,
+    "e": [
+     "“Dos parques grandes” = hai công viên lớn. Chú ý tính từ “grandes” cũng ở số nhiều để hòa hợp với “parques”.",
+     "“Dos parques grandes” = two big parks. Note that “grandes” is also plural to agree with “parques”."
+    ],
+    "f": [
+     "dos parques grandes",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Las fotos de la ciudad son bonitas, pero el mapa es muy viejo.",
+    "e": [
+     "“Foto” là giống cái (viết tắt của “la fotografía”) nên “las fotos… bonitas”; “mapa” tận cùng -a nhưng là giống đực: “el mapa… viejo”.",
+     "“Foto” is feminine (short for “la fotografía”), so “las fotos… bonitas”; “mapa” ends in -a but is masculine: “el mapa… viejo”."
+    ],
+    "f": [
+     "el mapa",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Tengo unos libros nuevos y unas canciones españolas muy bonitas en el móvil.",
+    "e": [
+     "“Unos libros nuevos” (giống đực) đối lập với “unas canciones españolas” (giống cái, vì đuôi -ción). Số nhiều “canciones” mất dấu sắc.",
+     "“Unos libros nuevos” (masculine) contrasts with “unas canciones españolas” (feminine, because of -ción). The plural “canciones” loses its accent."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Mi habitación en Madrid es pequeña, pero es muy bonita. Hay una cama, una mesa blanca y dos sillas rojas. En la mesa hay un ordenador, unos libros de español y un mapa viejo de la ciudad. En la pared hay tres fotos de mi familia y un póster de una canción famosa. La ventana es grande y la luz es buena. El único problema es el ruido: la calle es muy ruidosa por la noche. ¡Pero es mi habitación favorita!",
+   "tr": "Phòng của tôi ở Madrid nhỏ nhưng rất đẹp. Có một cái giường, một cái bàn trắng và hai cái ghế đỏ. Trên bàn có một chiếc máy tính, mấy quyển sách tiếng Tây Ban Nha và một tấm bản đồ cũ của thành phố. Trên tường có ba bức ảnh gia đình tôi và một tấm áp phích của một bài hát nổi tiếng. Cửa sổ lớn và ánh sáng tốt. Vấn đề duy nhất là tiếng ồn: con phố rất ồn vào ban đêm. Nhưng đó là căn phòng tôi thích nhất!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Trên bàn có những gì?",
+     "What is on the table?"
+    ],
+    "o": [
+     [
+      "Máy tính, sách tiếng Tây Ban Nha và một tấm bản đồ cũ",
+      "A computer, Spanish books and an old map"
+     ],
+     [
+      "Ba bức ảnh gia đình",
+      "Three family photos"
+     ],
+     [
+      "Hai cái ghế đỏ",
+      "Two red chairs"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Câu “En la mesa hay un ordenador, unos libros de español y un mapa viejo” liệt kê đồ trên bàn. Ảnh gia đình ở trên tường, còn ghế thì ở trong phòng.",
+     "“En la mesa hay un ordenador, unos libros de español y un mapa viejo” lists what is on the table. The photos are on the wall and the chairs are in the room."
+    ],
+    "f": [
+     "un ordenador, unos libros de español y un mapa viejo",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Những chiếc ghế màu gì?",
+     "What colour are the chairs?"
+    ],
+    "o": [
+     [
+      "đỏ",
+      "red"
+     ],
+     [
+      "trắng",
+      "white"
+     ],
+     [
+      "đen",
+      "black"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Dos sillas rojas” – ghế màu đỏ. Màu trắng là của cái bàn (“una mesa blanca”). Tính từ “rojas” ở giống cái số nhiều vì “sillas”.",
+     "“Dos sillas rojas” – the chairs are red. White is the table (“una mesa blanca”). “Rojas” is feminine plural because of “sillas”."
+    ],
+    "f": [
+     "dos sillas rojas",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vấn đề duy nhất của căn phòng là gì?",
+     "What is the only problem with the room?"
+    ],
+    "o": [
+     [
+      "Tiếng ồn ngoài phố vào ban đêm",
+      "The street noise at night"
+     ],
+     [
+      "Căn phòng quá tối",
+      "The room is too dark"
+     ],
+     [
+      "Cửa sổ quá nhỏ",
+      "The window is too small"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“El único problema es el ruido: la calle es muy ruidosa por la noche.” Văn bản còn nói ánh sáng tốt và cửa sổ lớn, nên hai đáp án kia sai.",
+     "“El único problema es el ruido: la calle es muy ruidosa por la noche.” The text also says the light is good and the window is big, so the other options are wrong."
+    ],
+    "f": [
+     "El único problema es el ruido",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "En la mesa hay ___ mapa viejo de la ciudad y unas fotos de mi familia.",
+    "o": [
+     "un",
+     "una",
+     "unos"
+    ],
+    "a": 0,
+    "e": [
+     "“Mapa” là ngoại lệ: tận cùng -a nhưng là giống đực, nên dùng “un mapa viejo”. Bẫy là chọn “una” theo quy tắc đuôi -a.",
+     "“Mapa” is an exception: it ends in -a but is masculine, so “un mapa viejo”. The trap is choosing “una” because of the -a ending."
+    ],
+    "f": [
+     "un mapa",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "En la pared de mi habitación hay tres fotos ___ (bonito) de mi familia y un póster.",
+    "a": [
+     "bonitas"
+    ],
+    "e": [
+     "“Foto” là giống cái (la foto) và ở đây số nhiều, nên tính từ phải là “bonitas”. Đừng để đuôi -o của “foto” đánh lừa.",
+     "“Foto” is feminine (la foto) and plural here, so the adjective must be “bonitas”. Don't be fooled by the -o ending of “foto”."
+    ],
+    "f": [
+     "bonitas",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "La ciudad tiene muchos problemas, pero las universidades son muy buenos y modernas.",
+    "a": [
+     "La ciudad tiene muchos problemas, pero las universidades son muy buenas y modernas."
+    ],
+    "e": [
+     "“Universidades” là giống cái (đuôi -dad luôn giống cái) nên tính từ phải là “buenas”, giống như “modernas”.",
+     "“Universidades” is feminine (-dad is always feminine), so the adjective must be “buenas”, just like “modernas”."
+    ],
+    "f": [
+     "buenas",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Trong phòng tôi có một cái giường lớn, hai cái ghế đỏ và một cái bàn trắng.",
+    "a": [
+     "En mi habitación hay una cama grande, dos sillas rojas y una mesa blanca.",
+     "En mi cuarto hay una cama grande, dos sillas rojas y una mesa blanca.",
+     "Mi habitación tiene una cama grande, dos sillas rojas y una mesa blanca."
+    ],
+    "e": [
+     "“Có” (tồn tại) dịch là “hay”. Tính từ đứng sau danh từ và hòa hợp: “una cama grande” (grande không đổi giống), “dos sillas rojas”, “una mesa blanca”.",
+     "“There is/are” is “hay”. Adjectives follow the noun and agree: “una cama grande” (grande doesn't change for gender), “dos sillas rojas”, “una mesa blanca”."
+    ],
+    "f": [
+     "dos sillas rojas",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Chuyển cả câu sang số nhiều",
+     "Put the whole sentence into the plural"
+    ],
+    "s": "El lápiz azul es nuevo y la canción española es muy bonita.",
+    "a": [
+     "Los lápices azules son nuevos y las canciones españolas son muy bonitas."
+    ],
+    "e": [
+     "“Lápiz” → “lápices” (z đổi thành c), “azul” → “azules” (phụ âm + es), “canción” → “canciones” (mất dấu sắc). Động từ “es” cũng thành “son”.",
+     "“Lápiz” → “lápices” (z becomes c), “azul” → “azules” (consonant + es), “canción” → “canciones” (accent dropped). The verb “es” also becomes “son”."
+    ],
+    "f": [
+     "Los lápices azules",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "El problema|de mi ciudad|es|el ruido|de los coches|por la noche,|pero|los parques|son bonitos.",
+    "m": [
+     "Vấn đề của thành phố tôi là tiếng ồn xe cộ vào ban đêm, nhưng các công viên thì đẹp.",
+     "The problem with my city is the traffic noise at night, but the parks are nice."
+    ],
+    "e": [
+     "“El problema” là giống đực dù tận cùng -a (giống “el día”, “el mapa”). “Los parques son bonitos”: mạo từ, động từ và tính từ đều số nhiều giống đực.",
+     "“El problema” is masculine despite the -a (like “el día”, “el mapa”). In “los parques son bonitos” the article, verb and adjective are all masculine plural."
+    ],
+    "f": [
+     "El problema",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-3",
+  "t": [
+   "Thì hiện tại – động từ có quy tắc",
+   "Present tense – regular verbs"
+  ],
+  "th": [
+   [
+    "Bỏ đuôi **-ar / -er / -ir** rồi thêm đuôi theo ngôi. Đây là 3 bảng cần thuộc lòng.",
+    "Remove **-ar / -er / -ir** and add the personal ending. Memorise these three patterns."
+   ],
+   [
+    "Thường **bỏ đại từ chủ ngữ** vì đuôi động từ đã cho biết ngôi: **Hablo** español = Tôi nói tiếng Tây Ban Nha.",
+    "The **subject pronoun is usually dropped** because the ending shows the person: **Hablo** español = I speak Spanish."
+   ]
+  ],
+  "tb": [
+   [
+    "",
+    "hablar (-ar)",
+    "comer (-er)",
+    "vivir (-ir)"
+   ],
+   [
+    "yo",
+    "hablo",
+    "como",
+    "vivo"
+   ],
+   [
+    "tú",
+    "hablas",
+    "comes",
+    "vives"
+   ],
+   [
+    "él / ella / usted",
+    "habla",
+    "come",
+    "vive"
+   ],
+   [
+    "nosotros",
+    "hablamos",
+    "comemos",
+    "vivimos"
+   ],
+   [
+    "vosotros",
+    "habláis",
+    "coméis",
+    "vivís"
+   ],
+   [
+    "ellos / ustedes",
+    "hablan",
+    "comen",
+    "viven"
+   ]
+  ],
+  "vo": [
+   [
+    "hablar",
+    "ha-BLAR",
+    "nói",
+    "to speak"
+   ],
+   [
+    "comer",
+    "co-MER",
+    "ăn",
+    "to eat"
+   ],
+   [
+    "vivir",
+    "vi-VIR",
+    "sống",
+    "to live"
+   ],
+   [
+    "trabajar",
+    "tra-ba-JAR",
+    "làm việc",
+    "to work"
+   ],
+   [
+    "estudiar",
+    "es-tu-DIAR",
+    "học",
+    "to study"
+   ],
+   [
+    "beber",
+    "be-BER",
+    "uống",
+    "to drink"
+   ],
+   [
+    "escribir",
+    "es-cri-BIR",
+    "viết",
+    "to write"
+   ],
+   [
+    "aprender",
+    "a-pren-DER",
+    "học, tiếp thu",
+    "to learn"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Yo ___ en Hanói.",
+    [
+     "vivo",
+     "vive",
+     "vivimos"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Ella ___ inglés y francés.",
+    [
+     "hablo",
+     "habla",
+     "hablas"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Nosotros ___ arroz todos los días.",
+    [
+     "comen",
+     "comemos",
+     "coméis"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "¿Tú ___ en una oficina?",
+    [
+     "trabajas",
+     "trabaja",
+     "trabajo"
+    ],
+    0
+   ],
+   [
+    "type",
+    [
+     "Chia “escribir” cho ellos",
+     "Conjugate “escribir” for ellos"
+    ],
+    [
+     "escriben"
+    ]
+   ],
+   [
+    "type",
+    [
+     "Chia “aprender” cho nosotros",
+     "Conjugate “aprender” for nosotros"
+    ],
+    [
+     "aprendemos"
+    ]
+   ],
+   [
+    "mc",
+    [
+     "“Bebéis” là ngôi nào?",
+     "“Bebéis” is which person?"
+    ],
+    [
+     "nosotros",
+     "vosotros",
+     "ellos"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Mis padres trabajan en un hospital",
+    [
+     "Bố mẹ tôi làm việc ở bệnh viện.",
+     "My parents work in a hospital."
+    ]
+   ],
+   [
+    "dict",
+    "Estudio español todos los días."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Mi hermano trabaja en un banco, pero por la noche estudia inglés en una academia.",
+    "q": [
+     "Buổi tối anh trai làm gì?",
+     "What does the brother do in the evening?"
+    ],
+    "o": [
+     [
+      "Học tiếng Anh ở trung tâm",
+      "He studies English at a language school"
+     ],
+     [
+      "Làm việc ở ngân hàng",
+      "He works at a bank"
+     ],
+     [
+      "Nấu bữa tối",
+      "He cooks dinner"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Por la noche estudia inglés” – buổi tối anh ấy học tiếng Anh. Làm ở ngân hàng là công việc ban ngày; “pero” báo hiệu sự đối lập.",
+     "“Por la noche estudia inglés” – in the evening he studies English. The bank is his day job; “pero” signals the contrast."
+    ],
+    "f": [
+     "estudia inglés",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Nosotros vivimos en Hanói y comemos arroz con nuestra familia todos los días.",
+    "e": [
+     "Đuôi ngôi “nosotros”: -ir → -imos (vivimos), -er → -emos (comemos). Viết “Hanói” có dấu sắc trên ó.",
+     "“Nosotros” endings: -ir → -imos (vivimos), -er → -emos (comemos). “Hanói” has an accent on the ó."
+    ],
+    "f": [
+     "vivimos",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "¿Vosotros habláis español en casa o solo en clase con el profesor?",
+    "e": [
+     "“Habláis” có dấu sắc trên á và nhấn vào âm tiết cuối: ha-BLÁIS. Câu hỏi có lên giọng ở cuối.",
+     "“Habláis” has an accent on the á and stress on the last syllable: ha-BLÁIS. The question rises at the end."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Hola, me llamo Javier y vivo en Toledo con mi mujer, Paula. Yo trabajo en una oficina en el centro y Paula enseña matemáticas en un instituto. Por la mañana desayunamos juntos en la cocina: yo bebo café y ella bebe té. Por la tarde estudio inglés en una academia porque necesito el idioma para mi trabajo. Paula lee novelas y escribe un blog de viajes. Los domingos comemos con mis padres, que viven en un pueblo cerca de Toledo.",
+   "tr": "Xin chào, tôi tên là Javier và tôi sống ở Toledo với vợ tôi, Paula. Tôi làm việc ở một văn phòng trong trung tâm, còn Paula dạy toán ở một trường trung học. Buổi sáng chúng tôi cùng ăn sáng trong bếp: tôi uống cà phê còn cô ấy uống trà. Buổi chiều tôi học tiếng Anh ở một trung tâm ngoại ngữ vì tôi cần ngôn ngữ này cho công việc. Paula đọc tiểu thuyết và viết một blog du lịch. Chủ nhật nào chúng tôi cũng ăn trưa với bố mẹ tôi, những người sống ở một ngôi làng gần Toledo."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Paula làm nghề gì?",
+     "What is Paula's job?"
+    ],
+    "o": [
+     [
+      "Dạy toán ở trường trung học",
+      "She teaches maths at a secondary school"
+     ],
+     [
+      "Làm việc ở văn phòng",
+      "She works in an office"
+     ],
+     [
+      "Viết sách du lịch",
+      "She writes travel books"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Paula enseña matemáticas en un instituto.” Văn phòng là chỗ làm của Javier; Paula chỉ viết blog du lịch chứ không viết sách.",
+     "“Paula enseña matemáticas en un instituto.” The office is Javier's workplace; Paula writes a travel blog, not books."
+    ],
+    "f": [
+     "Paula enseña matemáticas en un instituto",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Tại sao Javier học tiếng Anh?",
+     "Why does Javier study English?"
+    ],
+    "o": [
+     [
+      "Vì anh cần nó cho công việc",
+      "Because he needs it for his job"
+     ],
+     [
+      "Vì anh sắp đi du lịch",
+      "Because he is going to travel"
+     ],
+     [
+      "Vì vợ anh là người Anh",
+      "Because his wife is English"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Porque necesito el idioma para mi trabajo” – “porque” giới thiệu lý do. Văn bản không nhắc đến chuyến du lịch nào.",
+     "“Porque necesito el idioma para mi trabajo” – “porque” introduces the reason. The text mentions no trip."
+    ],
+    "f": [
+     "porque necesito el idioma para mi trabajo",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Họ làm gì vào Chủ nhật?",
+     "What do they do on Sundays?"
+    ],
+    "o": [
+     [
+      "Ăn trưa với bố mẹ Javier",
+      "They eat with Javier's parents"
+     ],
+     [
+      "Đi du lịch đến làng khác",
+      "They travel to another village"
+     ],
+     [
+      "Ở nhà đọc tiểu thuyết",
+      "They stay home reading novels"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Los domingos comemos con mis padres” – “los domingos” (số nhiều) nghĩa là mọi Chủ nhật, một thói quen lặp lại.",
+     "“Los domingos comemos con mis padres” – plural “los domingos” means every Sunday, a regular habit."
+    ],
+    "f": [
+     "Los domingos comemos con mis padres",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Por la mañana mi mujer y yo ___ juntos en la cocina antes de ir al trabajo.",
+    "o": [
+     "desayunan",
+     "desayunamos",
+     "desayunáis"
+    ],
+    "a": 1,
+    "e": [
+     "“Mi mujer y yo” = nosotros, nên dùng đuôi -amos: “desayunamos”. Bẫy là chọn “desayunan” vì thấy hai người.",
+     "“Mi mujer y yo” = nosotros, so the -amos ending: “desayunamos”. The trap is “desayunan” because there are two people."
+    ],
+    "f": [
+     "desayunamos",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Paula lee muchas novelas y ___ (escribir) un blog de viajes los fines de semana.",
+    "a": [
+     "escribe"
+    ],
+    "e": [
+     "Ngôi “ella” của động từ -ir có đuôi -e: “escribe”. Động từ -er và -ir giống nhau ở ngôi này (lee, escribe).",
+     "The “ella” form of an -ir verb ends in -e: “escribe”. -er and -ir verbs share this ending (lee, escribe)."
+    ],
+    "f": [
+     "escribe",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mis padres vive en un pueblo pequeño y comen con nosotros todos los domingos.",
+    "a": [
+     "Mis padres viven en un pueblo pequeño y comen con nosotros todos los domingos."
+    ],
+    "e": [
+     "“Mis padres” = ellos, nên động từ phải là “viven”, giống như “comen” ở vế sau. Lỗi thường gặp là quên đuôi -n của ngôi số nhiều.",
+     "“Mis padres” = ellos, so the verb must be “viven”, just like “comen” later. A common mistake is dropping the plural -n."
+    ],
+    "f": [
+     "viven",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi làm việc ở một văn phòng và buổi tối tôi học tiếng Tây Ban Nha ở một trung tâm ngoại ngữ.",
+    "a": [
+     "Trabajo en una oficina y por la noche estudio español en una academia.",
+     "Yo trabajo en una oficina y por la noche estudio español en una academia.",
+     "Trabajo en una oficina y por las noches estudio español en una academia.",
+     "Trabajo en una oficina y por la noche estudio español en una academia de idiomas."
+    ],
+    "e": [
+     "Đuôi -o đã cho biết chủ ngữ là “yo”, nên thường bỏ đại từ. “Buổi tối” = “por la noche”; tên ngôn ngữ viết thường: “español”.",
+     "The -o ending already shows “yo”, so the pronoun is usually dropped. “In the evening” = “por la noche”; language names are lower case: “español”."
+    ],
+    "f": [
+     "estudio español",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với chủ ngữ “vosotros”",
+     "Rewrite the sentence with the subject “vosotros”"
+    ],
+    "s": "Tú vives en Sevilla, hablas español e inglés y comes en casa todos los días.",
+    "a": [
+     "Vosotros vivís en Sevilla, habláis español e inglés y coméis en casa todos los días.",
+     "Vivís en Sevilla, habláis español e inglés y coméis en casa todos los días."
+    ],
+    "e": [
+     "Đuôi của “vosotros”: -ar → -áis, -er → -éis, -ir → -ís, luôn có dấu sắc. Chú ý “vivís” chứ không phải “vivéis”.",
+     "“Vosotros” endings: -ar → -áis, -er → -éis, -ir → -ís, always with an accent. Note “vivís”, not “vivéis”."
+    ],
+    "f": [
+     "vivís",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Los sábados|mis amigos|y yo|comemos|en un restaurante|y después|aprendemos|a bailar.",
+    "m": [
+     "Thứ Bảy nào tôi và các bạn cũng ăn ở nhà hàng rồi sau đó học nhảy.",
+     "On Saturdays my friends and I eat at a restaurant and then learn to dance."
+    ],
+    "e": [
+     "“Mis amigos y yo” = nosotros → “comemos”, “aprendemos”. Cấu trúc “aprender a + động từ nguyên mẫu”: aprendemos a bailar.",
+     "“Mis amigos y yo” = nosotros → “comemos”, “aprendemos”. The pattern is “aprender a + infinitive”: aprendemos a bailar."
+    ],
+    "f": [
+     "aprendemos a bailar",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-4",
+  "t": [
+   "Ser hay estar?",
+   "Ser vs estar"
+  ],
+  "th": [
+   [
+    "**SER** – bản chất, định nghĩa: nhận dạng, nghề nghiệp, quốc tịch, tính cách, đặc điểm, giờ và ngày, chất liệu.\nSoy vietnamita. Es médico. Son las tres.",
+    "**SER** – essence: identity, job, nationality, personality, characteristics, time and date, material.\nSoy vietnamita. Es médico. Son las tres."
+   ],
+   [
+    "**ESTAR** – trạng thái tạm thời, cảm xúc, **vị trí**, và estar + gerundio (đang làm).\nEstoy cansado. Madrid está en España. Estamos comiendo.\nChia: estoy, estás, está, estamos, estáis, están.",
+    "**ESTAR** – temporary states, feelings, **location**, and estar + gerund (ongoing action).\nEstoy cansado. Madrid está en España. Estamos comiendo.\nForms: estoy, estás, está, estamos, estáis, están."
+   ],
+   [
+    "Tính từ **đổi nghĩa**: ser aburrido (nhàm chán) – estar aburrido (đang chán); ser listo (thông minh) – estar listo (sẵn sàng).",
+    "Adjectives that **change meaning**: ser aburrido (boring) – estar aburrido (bored); ser listo (clever) – estar listo (ready)."
+   ],
+   [
+    "**Hay** = có (tồn tại, chưa xác định): Hay un banco cerca. Vị trí của vật đã xác định dùng estar: El banco está cerca.",
+    "**Hay** = there is/are (existence): Hay un banco cerca. Location of a known thing uses estar: El banco está cerca."
+   ]
+  ],
+  "vo": [
+   [
+    "cansado",
+    "can-SA-do",
+    "mệt",
+    "tired"
+   ],
+   [
+    "contento",
+    "con-TEN-to",
+    "vui",
+    "happy, pleased"
+   ],
+   [
+    "enfermo",
+    "en-FER-mo",
+    "ốm",
+    "ill"
+   ],
+   [
+    "aburrido",
+    "a-bu-RRI-do",
+    "nhàm chán / chán",
+    "boring / bored"
+   ],
+   [
+    "listo",
+    "LIS-to",
+    "thông minh / sẵn sàng",
+    "clever / ready"
+   ],
+   [
+    "cerca",
+    "CER-ca",
+    "gần",
+    "near"
+   ],
+   [
+    "lejos",
+    "LE-jos",
+    "xa",
+    "far"
+   ],
+   [
+    "hay",
+    "AI",
+    "có (tồn tại)",
+    "there is / there are"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Mi madre ___ profesora.",
+    [
+     "es",
+     "está"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Hoy ___ muy cansada.",
+    [
+     "soy",
+     "estoy"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "Barcelona ___ en España.",
+    [
+     "es",
+     "está"
+    ],
+    1,
+    [
+     "Vị trí → estar.",
+     "Location → estar."
+    ]
+   ],
+   [
+    "fill",
+    "___ las ocho de la mañana.",
+    [
+     "Son",
+     "Están"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "¿Dónde ___ el baño?",
+    [
+     "es",
+     "está",
+     "hay"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "___ un supermercado cerca de mi casa.",
+    [
+     "Está",
+     "Hay",
+     "Es"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "“La película es aburrida” nghĩa là?",
+     "“La película es aburrida” means?"
+    ],
+    [
+     [
+      "Bộ phim nhàm chán",
+      "The film is boring"
+     ],
+     [
+      "Bộ phim đang chán",
+      "The film is bored"
+     ],
+     [
+      "Tôi chán bộ phim",
+      "I'm tired of the film"
+     ]
+    ],
+    0
+   ],
+   [
+    "order",
+    "Estamos en casa porque está lloviendo",
+    [
+     "Chúng tôi ở nhà vì trời đang mưa.",
+     "We're at home because it's raining."
+    ]
+   ],
+   [
+    "dict",
+    "Estoy contento porque hoy es sábado."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Mi hermana es médica, pero hoy está en casa porque está enferma.",
+    "q": [
+     "Vì sao hôm nay chị ấy ở nhà?",
+     "Why is she at home today?"
+    ],
+    "o": [
+     [
+      "Vì chị ấy bị ốm",
+      "Because she is ill"
+     ],
+     [
+      "Vì hôm nay là ngày nghỉ",
+      "Because it is her day off"
+     ],
+     [
+      "Vì chị ấy làm việc ở nhà",
+      "Because she works from home"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Está enferma” = đang bị ốm (trạng thái tạm thời → estar). “Es médica” là nghề nghiệp → ser.",
+     "“Está enferma” = she is ill (temporary state → estar). “Es médica” is her job → ser."
+    ],
+    "f": [
+     "está enferma",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Hay un supermercado cerca de mi casa, pero el banco está muy lejos.",
+    "e": [
+     "“Hay” giới thiệu một thứ chưa xác định (un supermercado); vị trí của thứ đã xác định (el banco) dùng “está”.",
+     "“Hay” introduces something new (un supermercado); the location of a known thing (el banco) uses “está”."
+    ],
+    "f": [
+     "Hay un supermercado",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Son las ocho de la tarde y estamos muy cansados porque trabajamos mucho.",
+    "e": [
+     "Giờ giấc luôn dùng “ser”: “son las ocho” (số nhiều), nhưng “es la una”. Cảm giác mệt dùng “estar”.",
+     "Time always uses “ser”: “son las ocho” (plural), but “es la una”. Feeling tired uses “estar”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Querida Sara: Ya estoy en Granada. El hotel es pequeño, pero es muy bonito y está en el centro, cerca de la catedral. Mi habitación está en el tercer piso y tiene una ventana grande. Hay un café muy bueno al lado del hotel y también hay una farmacia. Hoy estoy un poco cansada porque el viaje en autobús es muy largo, pero estoy contenta. Mañana es sábado y hay un concierto en la plaza. ¡La ciudad es preciosa! Besos, Elena.",
+   "tr": "Sara thân mến: Mình đã đến Granada rồi. Khách sạn nhỏ nhưng rất đẹp và nằm ở trung tâm, gần nhà thờ lớn. Phòng của mình ở tầng ba và có một cửa sổ lớn. Ngay cạnh khách sạn có một quán cà phê rất ngon và còn có một hiệu thuốc. Hôm nay mình hơi mệt vì chuyến đi bằng xe buýt rất dài, nhưng mình vui lắm. Mai là thứ Bảy và có một buổi hòa nhạc ở quảng trường. Thành phố đẹp tuyệt! Hôn bạn, Elena."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Khách sạn nằm ở đâu?",
+     "Where is the hotel?"
+    ],
+    "o": [
+     [
+      "Ở trung tâm, gần nhà thờ lớn",
+      "In the centre, near the cathedral"
+     ],
+     [
+      "Ở ngoại ô thành phố",
+      "On the outskirts of the city"
+     ],
+     [
+      "Cạnh bến xe buýt",
+      "Next to the bus station"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Está en el centro, cerca de la catedral” – vị trí luôn dùng “estar”. Văn bản không nhắc đến bến xe buýt.",
+     "“Está en el centro, cerca de la catedral” – location always uses “estar”. The text doesn't mention a bus station."
+    ],
+    "f": [
+     "está en el centro, cerca de la catedral",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Bên cạnh khách sạn có gì?",
+     "What is next to the hotel?"
+    ],
+    "o": [
+     [
+      "Một quán cà phê và một hiệu thuốc",
+      "A café and a pharmacy"
+     ],
+     [
+      "Một siêu thị",
+      "A supermarket"
+     ],
+     [
+      "Một ngân hàng",
+      "A bank"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Hay un café muy bueno al lado del hotel y también hay una farmacia.” “Hay” dùng để nói có cái gì đó tồn tại ở một nơi.",
+     "“Hay un café muy bueno al lado del hotel y también hay una farmacia.” “Hay” says that something exists in a place."
+    ],
+    "f": [
+     "Hay un café muy bueno al lado del hotel",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Hôm nay Elena cảm thấy thế nào?",
+     "How does Elena feel today?"
+    ],
+    "o": [
+     [
+      "Hơi mệt nhưng vui",
+      "A bit tired but happy"
+     ],
+     [
+      "Bị ốm",
+      "Ill"
+     ],
+     [
+      "Buồn chán",
+      "Bored"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Estoy un poco cansada… pero estoy contenta.” Cả hai là trạng thái tạm thời nên dùng “estar”; đuôi -a vì Elena là nữ.",
+     "“Estoy un poco cansada… pero estoy contenta.” Both are temporary states, so “estar”; the -a ending because Elena is female."
+    ],
+    "f": [
+     "estoy un poco cansada",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "El hotel es pequeño y muy bonito, y ___ en el centro de la ciudad, cerca de la catedral.",
+    "o": [
+     "es",
+     "está",
+     "hay"
+    ],
+    "a": 1,
+    "e": [
+     "Nói vị trí của một vật đã xác định (el hotel) thì dùng “está”. “Es” dùng cho đặc điểm (pequeño, bonito); “hay” chỉ dùng cho vật chưa xác định.",
+     "The location of a known thing (el hotel) uses “está”. “Es” is for characteristics (pequeño, bonito); “hay” only introduces new, unspecified things."
+    ],
+    "f": [
+     "está en el centro",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "En mi calle ___ dos farmacias y un supermercado, pero no hay ningún banco.",
+    "a": [
+     "hay"
+    ],
+    "e": [
+     "“Hay” (có) dùng cho cả số ít lẫn số nhiều và không bao giờ đổi hình thức: hay un banco, hay dos farmacias.",
+     "“Hay” (there is/are) works for both singular and plural and never changes: hay un banco, hay dos farmacias."
+    ],
+    "f": [
+     "hay",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mi padre está médico en un hospital y hoy está muy cansado porque trabaja mucho.",
+    "a": [
+     "Mi padre es médico en un hospital y hoy está muy cansado porque trabaja mucho."
+    ],
+    "e": [
+     "Nghề nghiệp là bản chất, nên dùng “ser”: “es médico”. Còn “está muy cansado” đúng vì mệt là trạng thái tạm thời.",
+     "A job is part of identity, so use “ser”: “es médico”. “Está muy cansado” is correct because tiredness is a temporary state."
+    ],
+    "f": [
+     "es médico",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố mẹ tôi là giáo viên, nhưng hôm nay họ ở nhà vì họ bị ốm.",
+    "a": [
+     "Mis padres son profesores, pero hoy están en casa porque están enfermos.",
+     "Mis padres son maestros, pero hoy están en casa porque están enfermos."
+    ],
+    "e": [
+     "Nghề nghiệp → “son profesores”; vị trí → “están en casa”; trạng thái → “están enfermos”. Một câu dùng cả ser và estar, mỗi động từ một lý do riêng.",
+     "Job → “son profesores”; location → “están en casa”; state → “están enfermos”. One sentence uses both ser and estar, each for its own reason."
+    ],
+    "f": [
+     "están enfermos",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu, bắt đầu bằng “En mi ciudad” và dùng “hay” thay cho “tiene”",
+     "Rewrite the sentence starting with “En mi ciudad” and using “hay” instead of “tiene”"
+    ],
+    "s": "Mi ciudad tiene un museo muy famoso y dos parques grandes cerca del río.",
+    "a": [
+     "En mi ciudad hay un museo muy famoso y dos parques grandes cerca del río."
+    ],
+    "e": [
+     "“Hay” diễn tả sự tồn tại và không cần chủ ngữ: “En mi ciudad hay…”. Không viết “En mi ciudad hay tiene” hay “En mi ciudad están un museo”.",
+     "“Hay” expresses existence and needs no subject: “En mi ciudad hay…”. Don't write “hay tiene” or “En mi ciudad están un museo”."
+    ],
+    "f": [
+     "En mi ciudad hay",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "La película|es|aburrida,|por eso|mis amigos|y yo|estamos|aburridos|en el cine.",
+    "m": [
+     "Bộ phim nhàm chán, vì thế tôi và các bạn đang thấy chán trong rạp.",
+     "The film is boring, so my friends and I are bored in the cinema."
+    ],
+    "e": [
+     "“Ser aburrido” = nhàm chán (đặc điểm của bộ phim); “estar aburrido” = đang thấy chán (cảm giác của người xem). Cùng một tính từ, nghĩa khác nhau.",
+     "“Ser aburrido” = boring (a quality of the film); “estar aburrido” = bored (how the viewers feel). Same adjective, different meanings."
+    ],
+    "f": [
+     "estamos aburridos",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-5",
+  "t": [
+   "Gustar & tener",
+   "Gustar & tener"
+  ],
+  "th": [
+   [
+    "**Gustar** = “làm (ai) thích”. Chủ ngữ là **thứ được thích**:\n• me gusta **el café** / me gusta **leer** (số ít / động từ)\n• me gusta**n** **los libros** (số nhiều)",
+    "**Gustar** = “to be pleasing”. The subject is **the thing liked**:\n• me gusta **el café** / me gusta **leer** (singular / verb)\n• me gusta**n** **los libros** (plural)"
+   ],
+   [
+    "Đại từ: **me, te, le, nos, os, les**. Nhấn mạnh hoặc làm rõ: A mí me gusta… A ella le gusta…",
+    "Pronouns: **me, te, le, nos, os, les**. For emphasis/clarity: A mí me gusta… A ella le gusta…"
+   ],
+   [
+    "**Tener** (có) bất quy tắc: tengo, tienes, tiene, tenemos, tenéis, tienen.\nTuổi dùng tener: **Tengo** 25 años.\nCụm: tener hambre (đói), tener sed (khát), tener frío / calor, **tener que** + V (phải).",
+    "**Tener** (to have) is irregular: tengo, tienes, tiene, tenemos, tenéis, tienen.\nAge uses tener: **Tengo** 25 años.\nPhrases: tener hambre, tener sed, tener frío / calor, **tener que** + V (have to)."
+   ]
+  ],
+  "vo": [
+   [
+    "gustar",
+    "gus-TAR",
+    "thích (làm vừa lòng)",
+    "to like / please"
+   ],
+   [
+    "tener",
+    "te-NER",
+    "có",
+    "to have"
+   ],
+   [
+    "el café",
+    "el ca-FÉ",
+    "cà phê",
+    "coffee"
+   ],
+   [
+    "la música",
+    "la MÚ-si-ca",
+    "âm nhạc",
+    "music"
+   ],
+   [
+    "tener hambre",
+    "te-NER AM-bre",
+    "đói",
+    "to be hungry"
+   ],
+   [
+    "tener sed",
+    "te-NER SED",
+    "khát",
+    "to be thirsty"
+   ],
+   [
+    "tener que",
+    "te-NER que",
+    "phải",
+    "to have to"
+   ],
+   [
+    "años",
+    "A-ños",
+    "tuổi, năm",
+    "years"
+   ]
+  ],
+  "ex": [
+   [
+    "fill",
+    "Me ___ los gatos.",
+    [
+     "gusta",
+     "gustan"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "A mi hermano ___ gusta el fútbol.",
+    [
+     "me",
+     "te",
+     "le"
+    ],
+    2
+   ],
+   [
+    "fill",
+    "Nos ___ bailar.",
+    [
+     "gusta",
+     "gustan"
+    ],
+    0,
+    [
+     "Động từ nguyên mẫu → gusta.",
+     "Infinitive → gusta."
+    ]
+   ],
+   [
+    "fill",
+    "Yo ___ veinte años.",
+    [
+     "soy",
+     "tengo",
+     "estoy"
+    ],
+    1
+   ],
+   [
+    "fill",
+    "¿Vosotros ___ hambre?",
+    [
+     "tenéis",
+     "tienen",
+     "tenemos"
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Tengo ___ estudiar esta noche.",
+    [
+     "de",
+     "que",
+     "a"
+    ],
+    1
+   ],
+   [
+    "order",
+    "A mi madre le gustan las flores",
+    [
+     "Mẹ tôi thích hoa.",
+     "My mother likes flowers."
+    ]
+   ],
+   [
+    "dict",
+    "Tengo sed, quiero agua."
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "A mi hermano le gusta mucho el fútbol, pero a mí me gustan más los libros.",
+    "q": [
+     "Người nói thích gì hơn?",
+     "What does the speaker prefer?"
+    ],
+    "o": [
+     [
+      "sách",
+      "books"
+     ],
+     [
+      "bóng đá",
+      "football"
+     ],
+     [
+      "âm nhạc",
+      "music"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“A mí me gustan más los libros” – bóng đá là sở thích của anh trai (“a mi hermano le gusta”). “Gustan” số nhiều vì “los libros”.",
+     "“A mí me gustan más los libros” – football is the brother's hobby (“a mi hermano le gusta”). “Gustan” is plural because of “los libros”."
+    ],
+    "f": [
+     "me gustan más los libros",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Tengo mucha sed y mucho calor, así que quiero un vaso de agua fría.",
+    "e": [
+     "Tiếng Tây Ban Nha “có” khát và nóng: “tener sed”, “tener calor”. Vì “sed” là danh từ giống cái nên “mucha sed”, còn “mucho calor”.",
+     "Spanish “has” thirst and heat: “tener sed”, “tener calor”. “Sed” is a feminine noun, so “mucha sed”, but “mucho calor”."
+    ],
+    "f": [
+     "Tengo mucha sed",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Mis padres tienen cincuenta años y les gusta pasear por el parque los domingos.",
+    "e": [
+     "Tuổi dùng “tener”: “tienen cincuenta años”. “Les gusta” vì người thích là “mis padres” (họ), và “pasear” là động từ nên “gusta” số ít.",
+     "Age uses “tener”: “tienen cincuenta años”. “Les gusta” because the likers are “mis padres”, and “pasear” is a verb, so singular “gusta”."
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Busco compañero de intercambio. Me llamo Pablo, tengo veintidós años y soy estudiante de Biología en Valencia. Me gusta mucho la música, sobre todo el jazz, y me gustan los idiomas. Hablo inglés y un poco de francés, pero no hablo vietnamita. Tengo una hermana pequeña; a ella le gustan los animales y tiene dos perros. Los fines de semana tengo que trabajar en una cafetería, pero tengo tiempo libre los martes y los jueves por la tarde. ¿Te gusta el español? ¡Escríbeme!",
+   "tr": "Tìm bạn trao đổi ngôn ngữ. Mình tên là Pablo, 22 tuổi, là sinh viên ngành Sinh học ở Valencia. Mình rất thích âm nhạc, nhất là nhạc jazz, và mình thích học ngoại ngữ. Mình nói được tiếng Anh và một chút tiếng Pháp, nhưng không biết tiếng Việt. Mình có một em gái; em ấy thích động vật và có hai con chó. Cuối tuần mình phải làm ở một quán cà phê, nhưng mình rảnh vào chiều thứ Ba và thứ Năm. Bạn có thích tiếng Tây Ban Nha không? Viết thư cho mình nhé!"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Pablo bao nhiêu tuổi và làm gì?",
+     "How old is Pablo and what does he do?"
+    ],
+    "o": [
+     [
+      "22 tuổi, sinh viên ngành Sinh học",
+      "22, a Biology student"
+     ],
+     [
+      "25 tuổi, giáo viên tiếng Anh",
+      "25, an English teacher"
+     ],
+     [
+      "22 tuổi, nhân viên quán cà phê",
+      "22, a café worker"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Tengo veintidós años y soy estudiante de Biología.” Anh ấy có làm ở quán cà phê nhưng chỉ vào cuối tuần, đó không phải nghề chính.",
+     "“Tengo veintidós años y soy estudiante de Biología.” He does work in a café, but only at weekends; it isn't his main occupation."
+    ],
+    "f": [
+     "tengo veintidós años y soy estudiante de Biología",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Em gái của Pablo thích gì?",
+     "What does Pablo's sister like?"
+    ],
+    "o": [
+     [
+      "động vật",
+      "animals"
+     ],
+     [
+      "nhạc jazz",
+      "jazz"
+     ],
+     [
+      "ngoại ngữ",
+      "languages"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“A ella le gustan los animales y tiene dos perros.” Jazz và ngoại ngữ là sở thích của chính Pablo (“me gusta”, “me gustan”).",
+     "“A ella le gustan los animales y tiene dos perros.” Jazz and languages are Pablo's own interests (“me gusta”, “me gustan”)."
+    ],
+    "f": [
+     "a ella le gustan los animales",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Khi nào Pablo rảnh?",
+     "When is Pablo free?"
+    ],
+    "o": [
+     [
+      "Chiều thứ Ba và thứ Năm",
+      "Tuesday and Thursday afternoons"
+     ],
+     [
+      "Cuối tuần",
+      "At weekends"
+     ],
+     [
+      "Sáng thứ Hai",
+      "Monday mornings"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Tengo tiempo libre los martes y los jueves por la tarde.” Cuối tuần anh ấy phải làm việc (“tengo que trabajar”).",
+     "“Tengo tiempo libre los martes y los jueves por la tarde.” At weekends he has to work (“tengo que trabajar”)."
+    ],
+    "f": [
+     "tengo tiempo libre los martes y los jueves por la tarde",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "A mi hermana pequeña le ___ mucho los animales y por eso tiene dos perros.",
+    "o": [
+     "gusta",
+     "gustan",
+     "gusto"
+    ],
+    "a": 1,
+    "e": [
+     "Chủ ngữ của “gustar” là thứ được thích: “los animales” (số nhiều) → “gustan”. “Gusto” là chia theo ngôi “yo”, sai ở đây.",
+     "The subject of “gustar” is the thing liked: “los animales” (plural) → “gustan”. “Gusto” is the yo form and wrong here."
+    ],
+    "f": [
+     "le gustan",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Los fines de semana tengo ___ trabajar en una cafetería, así que no tengo tiempo libre.",
+    "a": [
+     "que"
+    ],
+    "e": [
+     "“Tener que + động từ nguyên mẫu” = phải làm gì. Không dùng “de” hay “a” sau “tener” trong nghĩa này.",
+     "“Tener que + infinitive” = to have to do something. Don't use “de” or “a” after “tener” with this meaning."
+    ],
+    "f": [
+     "tengo que trabajar",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Yo soy veintidós años y me gusta mucho la música, sobre todo el jazz.",
+    "a": [
+     "Yo tengo veintidós años y me gusta mucho la música, sobre todo el jazz.",
+     "Tengo veintidós años y me gusta mucho la música, sobre todo el jazz."
+    ],
+    "e": [
+     "Tuổi trong tiếng Tây Ban Nha dùng “tener” (có bao nhiêu năm): “tengo veintidós años”. Dịch theo tiếng Anh “I am 22” thành “soy” là lỗi rất phổ biến.",
+     "Age in Spanish uses “tener” (to have years): “tengo veintidós años”. Translating “I am 22” as “soy” is a very common mistake."
+    ],
+    "f": [
+     "tengo veintidós años",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố tôi thích cà phê, nhưng mẹ tôi thích những bộ phim Tây Ban Nha.",
+    "a": [
+     "A mi padre le gusta el café, pero a mi madre le gustan las películas españolas.",
+     "A mi padre le gusta el café, pero a mi madre le gustan las pelis españolas."
+    ],
+    "e": [
+     "Người thích đứng sau “a” và có “le”: “a mi padre le gusta”. “El café” số ít → “gusta”; “las películas” số nhiều → “gustan”. Nhớ dùng mạo từ “el / las”.",
+     "The liker comes after “a” with “le”: “a mi padre le gusta”. “El café” is singular → “gusta”; “las películas” is plural → “gustan”. Remember the articles “el / las”."
+    ],
+    "f": [
+     "le gustan las películas españolas",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với chủ ngữ “nosotros” (A nosotros…)",
+     "Rewrite the sentence for “nosotros” (A nosotros…)"
+    ],
+    "s": "A mí me gusta cocinar y tengo que comprar la comida en el mercado los sábados.",
+    "a": [
+     "A nosotros nos gusta cocinar y tenemos que comprar la comida en el mercado los sábados.",
+     "Nos gusta cocinar y tenemos que comprar la comida en el mercado los sábados."
+    ],
+    "e": [
+     "“Me gusta” → “nos gusta” (gusta vẫn số ít vì “cocinar” là động từ); “tengo que” → “tenemos que”. Đừng viết “nos gustamos”.",
+     "“Me gusta” → “nos gusta” (gusta stays singular because “cocinar” is a verb); “tengo que” → “tenemos que”. Don't write “nos gustamos”."
+    ],
+    "f": [
+     "nos gusta cocinar",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "¿Vosotros|tenéis|hambre|o|solo|tenéis sed|después|del partido|de fútbol?",
+    "m": [
+     "Các bạn đói hay chỉ khát thôi sau trận bóng đá?",
+     "Are you hungry or just thirsty after the football match?"
+    ],
+    "e": [
+     "“Tener hambre / tener sed” = đói / khát. “Vosotros” đi với “tenéis” (có dấu sắc). “Del” = de + el.",
+     "“Tener hambre / tener sed” = to be hungry / thirsty. “Vosotros” takes “tenéis” (with an accent). “Del” = de + el."
+    ],
+    "f": [
+     "tenéis hambre",
+     "A1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d01",
+  "g": "daily",
+  "t": [
+   "Giới thiệu bản thân & gia đình",
+   "Introducing yourself & family"
+  ],
+  "th": [
+   [
+    "**Ser hay tener?** Tiếng Tây Ban Nha dùng **ser** cho quốc tịch, quê, nghề và **tener** cho tuổi (không dùng ser!).\n• Soy de Vietnam y soy enfermera. (Tôi người Việt Nam và là y tá.)\n• Tengo veinticinco años. (Tôi 25 tuổi – nghĩa đen: tôi “có” 25 năm.)\n• Mis padres son médicos. (Bố mẹ tôi là bác sĩ.)\nChia ser: soy, eres, es, somos, sois, son · tener: tengo, tienes, tiene, tenemos, tenéis, tienen.",
+    "**Ser or tener?** Spanish uses **ser** for nationality, origin and job, and **tener** for age (never ser!).\n• Soy de Vietnam y soy enfermera. (I'm from Vietnam and I'm a nurse.)\n• Tengo veinticinco años. (I'm 25 – literally “I have 25 years”.)\n• Mis padres son médicos. (My parents are doctors.)\nser: soy, eres, es, somos, sois, son · tener: tengo, tienes, tiene, tenemos, tenéis, tienen."
+   ],
+   [
+    "**Giống đực / giống cái**: danh từ và tính từ chỉ người thường đổi **-o → -a**: el hermano / la hermana, casado / casada, el médico / la médica. Nghề tận cùng bằng -or thêm -a: el profesor / la profesora. Số nhiều giống đực có thể chỉ cả nam lẫn nữ: **mis hermanos** = anh chị em của tôi; **mis padres** = bố mẹ tôi.\nTính từ sở hữu: mi, tu, su (+ số nhiều mis, tus, sus): mi madre, tus hermanos.",
+    "**Masculine / feminine**: nouns and adjectives for people usually change **-o → -a**: el hermano / la hermana, casado / casada, el médico / la médica. Jobs ending in -or add -a: el profesor / la profesora. Masculine plural can include both sexes: **mis hermanos** = my brothers and sisters; **mis padres** = my parents.\nPossessives: mi, tu, su (plural mis, tus, sus): mi madre, tus hermanos."
+   ],
+   [
+    "**Phát âm**: tiếng Tây Ban Nha chỉ có **5 nguyên âm thuần a, e, i, o, u** – đọc ngắn, rõ, không bao giờ biến thành nguyên âm đôi như tiếng Anh (no = /no/, không phải /nəʊ/).\n**r** đơn giữa từ là âm rung một lần, đầu lưỡi chạm nhẹ lợi trên: pa**d**re /ˈpaðɾe/, he**r**mano /eɾˈmano/. Chữ **h** luôn câm: hermano đọc “ermano”.",
+    "**Pronunciation**: Spanish has only **5 pure vowels a, e, i, o, u** – short and clear, never gliding like English (no = /no/, not /nəʊ/).\nA single **r** inside a word is one quick tap of the tongue: padre /ˈpaðɾe/, hermano /eɾˈmano/. **h** is always silent: hermano sounds like “ermano”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): nghe 3 đoạn tự giới thiệu sơ cấp, ghi lại tên, tuổi, nghề của từng người.\n• Nói (20 phút): ghi âm 1 phút tự giới thiệu dùng cả 4 mẫu câu, nghe lại và sửa 3 lỗi.\n• Đọc (20 phút): đọc 1 hồ sơ cá nhân ngắn (profile mạng xã hội, thẻ học viên), trả lời 5 câu đúng/sai.\n• Viết (30 phút): viết đoạn 60–80 từ giới thiệu gia đình.\n• Từ vựng (15 phút): làm flashcard 10 từ, ôn theo khoảng cách 1-3-7 ngày.\n• Thử thách: viết phần giới thiệu bản thân trên HelloTalk hoặc Tandem bằng tiếng Tây Ban Nha.",
+    "**Practice outside the app**\n• Listening (20 min): listen to 3 beginner self-introductions, note each person's name, age and job.\n• Speaking (20 min): record a 1-minute self-introduction using all 4 key phrases, listen back and fix 3 mistakes.\n• Reading (20 min): read a short profile (social media, student card), answer 5 true/false questions.\n• Writing (30 min): write 60–80 words about your family.\n• Vocabulary (15 min): make flashcards for the 10 words, review after 1, 3 and 7 days.\n• Challenge: write your self-introduction on HelloTalk or Tandem in Spanish."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Me llamo An.",
+    "Tôi tên là An."
+   ],
+   [
+    "Tengo 25 años.",
+    "Tôi 25 tuổi."
+   ],
+   [
+    "En mi familia somos cuatro.",
+    "Nhà tôi có 4 người."
+   ],
+   [
+    "Soy de Vietnam.",
+    "Tôi đến từ Việt Nam."
+   ],
+   [
+    "¿De dónde eres?",
+    "Bạn từ đâu đến?"
+   ],
+   [
+    "¿A qué te dedicas?",
+    "Bạn làm nghề gì?"
+   ],
+   [
+    "Estoy casado / casada.",
+    "Tôi đã kết hôn."
+   ]
+  ],
+  "vo": [
+   [
+    "el nombre",
+    "/el ˈnombɾe/ el NOM-bre",
+    "tên",
+    "name"
+   ],
+   [
+    "la edad",
+    "/la eˈðað/ la e-DAD",
+    "tuổi",
+    "age"
+   ],
+   [
+    "el padre",
+    "/el ˈpaðɾe/ el PA-dre",
+    "bố",
+    "father"
+   ],
+   [
+    "la madre",
+    "/la ˈmaðɾe/ la MA-dre",
+    "mẹ",
+    "mother"
+   ],
+   [
+    "el hermano mayor / menor",
+    "/el eɾˈmano maˈʝoɾ / meˈnoɾ/ el her-MA-no ma-YOR / me-NOR",
+    "anh trai / em trai",
+    "older / younger brother"
+   ],
+   [
+    "la hermana mayor / menor",
+    "/la eɾˈmana maˈʝoɾ / meˈnoɾ/ la her-MA-na ma-YOR / me-NOR",
+    "chị gái / em gái",
+    "older / younger sister"
+   ],
+   [
+    "el trabajo",
+    "/el tɾaˈβaxo/ el tra-BA-jo",
+    "nghề nghiệp, công việc",
+    "job"
+   ],
+   [
+    "el pueblo natal",
+    "/el ˈpweβlo naˈtal/ el PUE-blo na-TAL",
+    "quê",
+    "hometown"
+   ],
+   [
+    "la afición",
+    "/la afiˈθjon/ la a-fi-CIÓN",
+    "sở thích",
+    "hobby"
+   ],
+   [
+    "casado / casada",
+    "/kaˈsaðo / kaˈsaða/ ca-SA-do / ca-SA-da",
+    "đã kết hôn",
+    "married"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Me llamo An.",
+    "e": [
+     "“Me llamo” (nghĩa đen: tôi tự gọi mình là) là cách giới thiệu tên tự nhiên nhất; nhớ hai chữ l: llamo.",
+     "“Me llamo” (literally “I call myself”) is the most natural way to give your name; remember the double l in llamo."
+    ],
+    "f": [
+     "Me llamo",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Tengo 25 años.",
+    "e": [
+     "Tuổi dùng **tener**, không dùng ser: “Soy 25 años” là lỗi điển hình. Nhớ dấu ñ trong años (anos = hậu môn!).",
+     "Age uses **tener**, not ser: “Soy 25 años” is a classic mistake. Keep the ñ in años (anos means something else!)."
+    ],
+    "f": [
+     "Tengo 25 años",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "En mi familia somos cuatro.",
+    "e": [
+     "Người Tây Ban Nha nói “somos cuatro” (chúng tôi là bốn người), không dịch từng chữ “nhà tôi có 4 người”.",
+     "Spanish says “somos cuatro” (we are four), not a word-for-word “my house has 4 people”."
+    ],
+    "f": [
+     "somos cuatro",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Soy de Vietnam, pero ahora vivo en Madrid con mi hermana mayor.",
+    "e": [
+     "“Soy de” + nơi chốn để nói quê/quốc gia. Đọc rõ năm nguyên âm, r rung một lần trong “pero” và “hermana”.",
+     "“Soy de” + place gives your origin. Pronounce the five vowels clearly and tap the r once in “pero” and “hermana”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿De dónde eres? – Soy de Vietnam, de una ciudad pequeña cerca de Hanói, y ahora vivo en Hue.",
+    "e": [
+     "Câu hỏi: ¿De dónde eres? – Gợi ý trả lời mẫu: dùng “soy de” cho quê và “vivo en” cho nơi đang sống.",
+     "Question: ¿De dónde eres? – Model answer: use “soy de” for origin and “vivo en” for where you live now."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: Háblame de tu familia. – En mi familia somos cuatro: mis padres, mi hermano menor y yo, y mi padre es médico.",
+    "e": [
+     "Câu hỏi: Háblame de tu familia. – Gợi ý trả lời mẫu: “somos + số”, rồi liệt kê từng người và nghề với ser.",
+     "Question: Háblame de tu familia. – Model answer: “somos + number”, then list each person and their job with ser."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "¡Hola, Marta! Me llamo Lan y tengo veinticinco años. Soy de Hue, una ciudad del centro de Vietnam, pero ahora vivo en Hanói. Soy enfermera y trabajo en un hospital grande. En mi familia somos cuatro: mi padre, mi madre, mi hermano menor y yo. Mi padre es profesor y mi madre es cocinera. Mi hermano tiene diecinueve años y es estudiante. Mi afición favorita es leer novelas. ¿Y tú? ¿Cuántos años tienes? ¿Tienes hermanos? Un abrazo, Lan",
+   "tr": "Chào Marta! Mình tên là Lan, 25 tuổi. Mình đến từ Huế, một thành phố ở miền Trung Việt Nam, nhưng bây giờ mình sống ở Hà Nội. Mình là y tá và làm việc ở một bệnh viện lớn. Nhà mình có bốn người: bố, mẹ, em trai và mình. Bố mình là giáo viên, còn mẹ mình là đầu bếp. Em trai mình 19 tuổi và là sinh viên. Sở thích yêu thích của mình là đọc tiểu thuyết. Còn bạn? Bạn bao nhiêu tuổi? Bạn có anh chị em không? Ôm bạn, Lan"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Lan hiện đang sống ở đâu?",
+     "Where does Lan live now?"
+    ],
+    "o": [
+     [
+      "Ở Hà Nội",
+      "In Hanoi"
+     ],
+     [
+      "Ở Huế",
+      "In Hue"
+     ],
+     [
+      "Ở Tây Ban Nha",
+      "In Spain"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Soy de Hue … pero ahora vivo en Hanói”: Huế là quê, Hà Nội là nơi đang sống. Đừng nhầm “soy de” với “vivo en”.",
+     "“Soy de Hue … pero ahora vivo en Hanói”: Hue is her hometown, Hanoi is where she lives. Don't confuse “soy de” with “vivo en”."
+    ],
+    "f": [
+     "ahora vivo en Hanói",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Mẹ của Lan làm nghề gì?",
+     "What does Lan's mother do?"
+    ],
+    "o": [
+     [
+      "Đầu bếp",
+      "Cook"
+     ],
+     [
+      "Giáo viên",
+      "Teacher"
+     ],
+     [
+      "Y tá",
+      "Nurse"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Mi madre es cocinera.” Giáo viên là bố (profesor), y tá là chính Lan (enfermera).",
+     "“Mi madre es cocinera.” The teacher is her father (profesor); the nurse is Lan herself (enfermera)."
+    ],
+    "f": [
+     "mi madre es cocinera",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Em trai của Lan bao nhiêu tuổi?",
+     "How old is Lan's brother?"
+    ],
+    "o": [
+     [
+      "19 tuổi",
+      "19"
+     ],
+     [
+      "25 tuổi",
+      "25"
+     ],
+     [
+      "4 tuổi",
+      "4"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Mi hermano tiene diecinueve años” – diecinueve = 19. Số 25 là tuổi của Lan, 4 là số người trong nhà.",
+     "“Mi hermano tiene diecinueve años” – diecinueve = 19. 25 is Lan's age, 4 is the family size."
+    ],
+    "f": [
+     "tiene diecinueve años",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Yo ___ 25 años y vivo con mis padres en Hanói.",
+    "a": [
+     "tengo"
+    ],
+    "e": [
+     "Tuổi dùng tener: “tengo 25 años”. Không nói “soy 25 años” hay “estoy 25 años”.",
+     "Age uses tener: “tengo 25 años”. Not “soy 25 años” or “estoy 25 años”."
+    ],
+    "f": [
+     "tengo",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Ella ___ de México, pero ahora trabaja en Madrid.",
+    "a": [
+     "es"
+    ],
+    "e": [
+     "Nguồn gốc/quốc tịch dùng ser: “es de México”. “Está de México” là sai.",
+     "Origin uses ser: “es de México”. “Está de México” is wrong."
+    ],
+    "f": [
+     "es de México",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Mis padres ___ médicos y trabajan en el mismo hospital.",
+    "a": [
+     "son"
+    ],
+    "e": [
+     "Nghề dùng ser, chủ ngữ “mis padres” số nhiều ngôi 3 → son. Sau ser + nghề không cần mạo từ: son médicos.",
+     "Jobs use ser; “mis padres” is 3rd person plural → son. No article before the job: son médicos."
+    ],
+    "f": [
+     "son",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bố tôi là giáo viên.",
+    "a": [
+     "Mi padre es profesor.",
+     "Mi padre es maestro.",
+     "Mi papá es profesor."
+    ],
+    "e": [
+     "Nghề dùng ser và không cần “un”: “es profesor” (không phải “es un profesor”). “Maestro” thường dùng cho giáo viên tiểu học.",
+     "Jobs use ser with no “un”: “es profesor” (not “es un profesor”). “Maestro” is often a primary teacher."
+    ],
+    "f": [
+     "es profesor",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Bạn có anh chị em không?",
+    "a": [
+     "¿Tienes hermanos?",
+     "¿Tienes hermanos o hermanas?",
+     "¿Usted tiene hermanos?"
+    ],
+    "e": [
+     "“Hermanos” (giống đực số nhiều) đã bao gồm cả anh chị em trai lẫn gái. Dùng tener: ¿Tienes…?",
+     "“Hermanos” (masculine plural) covers both brothers and sisters. Use tener: ¿Tienes…?"
+    ],
+    "f": [
+     "¿Tienes hermanos?",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mi hermana mayor es veintiocho años y trabaja como enfermera en un hospital de Hue.",
+    "a": [
+     "Mi hermana mayor tiene veintiocho años y trabaja como enfermera en un hospital de Hue."
+    ],
+    "e": [
+     "Lỗi ở “es veintiocho años”: tuổi phải dùng tener → “tiene veintiocho años”. Người Việt hay dịch thẳng “là … tuổi”.",
+     "The error is “es veintiocho años”: age needs tener → “tiene veintiocho años”. Learners often translate “is … years old” literally."
+    ],
+    "f": [
+     "tiene veintiocho años",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Mi madre es ___ y trabaja en una escuela pequeña cerca de nuestra casa.",
+    "o": [
+     "profesora",
+     "profesor",
+     "profesoras"
+    ],
+    "a": 0,
+    "e": [
+     "Mẹ là nữ, nên nghề -or thêm -a: profesora. “Profesor” là giống đực, “profesoras” là số nhiều.",
+     "Mother is female, so -or jobs add -a: profesora. “Profesor” is masculine, “profesoras” is plural."
+    ],
+    "f": [
+     "profesora",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Me llamo Minh|y tengo treinta años,|soy de Da Nang|pero ahora vivo|en Ciudad Ho Chi Minh|con mi mujer",
+    "m": [
+     "Tôi tên là Minh, 30 tuổi, quê Đà Nẵng nhưng giờ sống ở TP Hồ Chí Minh với vợ.",
+     "My name is Minh, I'm thirty, I'm from Da Nang but now I live in Ho Chi Minh City with my wife."
+    ],
+    "e": [
+     "Thứ tự tự nhiên: tên (me llamo) → tuổi (tengo) → quê (soy de) → nơi ở (vivo en). “Pero ahora” nối hai ý trái ngược.",
+     "Natural order: name (me llamo) → age (tengo) → origin (soy de) → home (vivo en). “Pero ahora” links the contrast."
+    ],
+    "f": [
+     "soy de Da Nang pero ahora vivo",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu về chị gái (đổi hermano → hermana, chú ý giống cái)",
+     "Rewrite the sentence about a sister (hermano → hermana, mind the feminine forms)"
+    ],
+    "s": "Mi hermano menor está casado, es médico y vive en un pueblo pequeño de Vietnam.",
+    "a": [
+     "Mi hermana menor está casada, es médica y vive en un pueblo pequeño de Vietnam."
+    ],
+    "e": [
+     "Khi đổi sang giống cái phải đổi cả tính từ và nghề: casado → casada, médico → médica. “Pequeño” vẫn giữ vì đi với “pueblo”.",
+     "Switching to feminine changes the adjective and the job too: casado → casada, médico → médica. “Pequeño” stays because it goes with “pueblo”."
+    ],
+    "f": [
+     "casada, es médica",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi tên là Hoa, tôi 22 tuổi và tôi là sinh viên ở Hà Nội.",
+    "a": [
+     "Me llamo Hoa, tengo veintidós años y soy estudiante en Hanói.",
+     "Me llamo Hoa, tengo 22 años y soy estudiante en Hanói.",
+     "Me llamo Hoa, tengo veintidós años y estudio en Hanói."
+    ],
+    "e": [
+     "Ba động từ khác nhau: llamarse (tên), tener (tuổi), ser (nghề). Không cần “yo” vì đuôi động từ đã cho biết ngôi.",
+     "Three different verbs: llamarse (name), tener (age), ser (job). No need for “yo” – the verb ending shows the person."
+    ],
+    "f": [
+     "tengo veintidós años y soy estudiante",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết email khoảng 80 từ gửi một bạn qua thư nước ngoài: tên, tuổi, quê, gia đình, sở thích, và hỏi lại họ 2 câu.",
+     "Write an 80-word email to a foreign pen friend: name, age, hometown, family, hobbies, and ask them 2 questions."
+    ],
+    "m": "¡Hola, Carlos! Me llamo Nam y tengo veintitrés años. Soy de Hai Phong, una ciudad del norte de Vietnam, pero ahora estudio en Hanói. En mi familia somos cinco: mis padres, mis dos hermanas menores y yo. Mi padre es ingeniero y mi madre es enfermera. Mis aficiones son el fútbol y la música. Los fines de semana juego al fútbol con mis amigos. ¿Y tú? ¿De dónde eres? ¿Tienes hermanos? Escríbeme pronto. Un abrazo, Nam",
+    "e": [
+     "Cần có: me llamo + tengo … años; soy de + quê; somos + số người và nghề của bố mẹ (ser); 2 câu hỏi có dấu ¿ ?.",
+     "Must include: me llamo + tengo … años; soy de + hometown; somos + number and parents' jobs (ser); 2 questions with ¿ ?."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d02",
+  "g": "daily",
+  "t": [
+   "Sinh hoạt hằng ngày",
+   "Daily routine"
+  ],
+  "th": [
+   [
+    "**Động từ phản thân** đi kèm đại từ **me, te, se, nos, os, se** đặt TRƯỚC động từ đã chia: levantarse → **me levanto**, ducharse → **se ducha**, acostarse → **nos acostamos**.\n• Normalmente me levanto a las seis. (Tôi thường dậy lúc 6 giờ.)\n• Ella se ducha por la noche. (Cô ấy tắm buổi tối.)\n• ¿A qué hora te acuestas? (Bạn đi ngủ lúc mấy giờ?)\nLưu ý: acostarse đổi **o → ue** (me acuesto), giống volver → vuelvo.",
+    "**Reflexive verbs** take **me, te, se, nos, os, se** BEFORE the conjugated verb: levantarse → **me levanto**, ducharse → **se ducha**, acostarse → **nos acostamos**.\n• Normalmente me levanto a las seis. (I usually get up at six.)\n• Ella se ducha por la noche. (She showers at night.)\n• ¿A qué hora te acuestas? (What time do you go to bed?)\nNote: acostarse changes **o → ue** (me acuesto), like volver → vuelvo."
+   ],
+   [
+    "**Hiện tại -ar / -er / -ir**: cenar → ceno, cenas, cena, cenamos, cenáis, cenan · comer → como, comes, come… · vivir → vivo, vives, vive… Bất quy tắc hay gặp: **ir** → voy, vas, va; **salir** → salgo.\n**Soler + động từ nguyên mẫu** = thường hay làm: **Suelo** acostarme a las once. ¿Qué **sueles** hacer los fines de semana? Trạng từ tần suất: siempre, normalmente, a veces, nunca.",
+    "**Present -ar / -er / -ir**: cenar → ceno, cenas, cena, cenamos, cenáis, cenan · comer → como, comes, come… · vivir → vivo, vives, vive… Common irregulars: **ir** → voy, vas, va; **salir** → salgo.\n**Soler + infinitive** = to usually do: **Suelo** acostarme a las once. ¿Qué **sueles** hacer los fines de semana? Frequency words: siempre, normalmente, a veces, nunca."
+   ],
+   [
+    "**Phát âm chữ j**: âm bật hơi trong cổ họng /x/, giống “kh” tiếng Việt nhưng mạnh hơn: tra**j**o, hi**j**o, **j**ueves. Chữ **g trước e, i** cũng đọc như vậy: **g**ente, ele**g**ir. Đừng đọc j như “gi” tiếng Anh.",
+    "**The letter j** is a throaty breathy /x/, like Vietnamese “kh” but stronger: trabajo, hijo, jueves. **g before e, i** sounds the same: gente, elegir. Never pronounce it like English “j”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (20 phút): xem 1 video “mi rutina diaria”, ghi lại 8 hoạt động kèm giờ.\n• Nói (20 phút): kể một ngày của bạn từ sáng đến tối trong 90 giây, dùng ít nhất 3 trạng từ tần suất.\n• Đọc (20 phút): đọc 1 bài ngắn về lịch sinh hoạt của một người, sắp xếp 8 hoạt động theo đúng thứ tự.\n• Viết (30 phút): viết nhật ký 80–100 từ về ngày hôm nay.\n• Từ vựng (15 phút): ghép 10 động từ với khung giờ trong ngày, nói thành câu.\n• Thử thách (cả ngày): tự nói thầm việc đang làm bằng tiếng Tây Ban Nha (“Ahora me cepillo los dientes”), ít nhất 10 lần.",
+    "**Practice outside the app**\n• Listening (20 min): watch a “mi rutina diaria” video, note 8 activities with times.\n• Speaking (20 min): describe your day from morning to night in 90 seconds, using at least 3 frequency adverbs.\n• Reading (20 min): read a short text about someone's routine, put 8 activities in order.\n• Writing (30 min): write an 80–100-word diary entry about today.\n• Vocabulary (15 min): match 10 verbs with times of day and say them in sentences.\n• Challenge (all day): narrate what you're doing in Spanish (“Ahora me cepillo los dientes”) at least 10 times."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "Normalmente me levanto a las seis.",
+    "Tôi thường dậy lúc 6 giờ."
+   ],
+   [
+    "Voy al trabajo en moto.",
+    "Tôi đi làm bằng xe máy."
+   ],
+   [
+    "Por la noche estudio inglés una hora.",
+    "Buổi tối tôi học tiếng Anh một tiếng."
+   ],
+   [
+    "¿Qué sueles hacer los fines de semana?",
+    "Cuối tuần bạn thường làm gì?"
+   ],
+   [
+    "¿A qué hora te acuestas?",
+    "Bạn đi ngủ lúc mấy giờ?"
+   ],
+   [
+    "Tomo café todas las mañanas.",
+    "Sáng nào tôi cũng uống cà phê."
+   ]
+  ],
+  "vo": [
+   [
+    "levantarse",
+    "/leβanˈtaɾse/ le-van-TAR-se",
+    "thức dậy",
+    "to get up"
+   ],
+   [
+    "cepillarse los dientes",
+    "/θepiˈʎaɾse los ˈðjentes/ ce-pi-LLAR-se los DIEN-tes",
+    "đánh răng",
+    "to brush your teeth"
+   ],
+   [
+    "desayunar",
+    "/desaʝuˈnaɾ/ de-sa-yu-NAR",
+    "ăn sáng",
+    "to have breakfast"
+   ],
+   [
+    "ir al trabajo",
+    "/iɾ al tɾaˈβaxo/ ir al tra-BA-jo",
+    "đi làm",
+    "to go to work"
+   ],
+   [
+    "salir del trabajo",
+    "/saˈliɾ ðel tɾaˈβaxo/ sa-LIR del tra-BA-jo",
+    "tan làm",
+    "to finish work"
+   ],
+   [
+    "cocinar",
+    "/koθiˈnaɾ/ co-ci-NAR",
+    "nấu ăn",
+    "to cook"
+   ],
+   [
+    "ducharse",
+    "/duˈt͡ʃaɾse/ du-CHAR-se",
+    "tắm (vòi sen)",
+    "to take a shower"
+   ],
+   [
+    "acostarse",
+    "/akosˈtaɾse/ a-cos-TAR-se",
+    "đi ngủ",
+    "to go to bed"
+   ],
+   [
+    "el fin de semana",
+    "/el fin de seˈmana/ el FIN de se-MA-na",
+    "cuối tuần",
+    "weekend"
+   ],
+   [
+    "normalmente",
+    "/noɾmalˈmente/ nor-mal-MEN-te",
+    "thường",
+    "usually"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Normalmente me levanto a las seis.",
+    "e": [
+     "Đại từ “me” đứng trước động từ đã chia: me levanto. “A las seis” = lúc 6 giờ (las vì ngầm hiểu “horas”).",
+     "“Me” goes before the conjugated verb: me levanto. “A las seis” = at six (las because “horas” is implied)."
+    ],
+    "f": [
+     "me levanto",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Voy al trabajo en moto.",
+    "e": [
+     "Phương tiện dùng “en”: en moto, en autobús, en coche (nhưng “a pie” = đi bộ). al = a + el.",
+     "Transport uses “en”: en moto, en autobús, en coche (but “a pie” = on foot). al = a + el."
+    ],
+    "f": [
+     "en moto",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Por la noche estudio inglés una hora.",
+    "e": [
+     "“Por la noche” = vào buổi tối. Thời lượng “una hora” đứng sau, không cần giới từ.",
+     "“Por la noche” = in the evening. The duration “una hora” follows with no preposition."
+    ],
+    "f": [
+     "Por la noche",
+     "A1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Normalmente me acuesto a las once, pero los viernes suelo salir con mis amigos y vuelvo tarde.",
+    "q": [
+     "Người nói thường đi ngủ lúc mấy giờ?",
+     "What time does the speaker usually go to bed?"
+    ],
+    "o": [
+     [
+      "11 giờ",
+      "At eleven"
+     ],
+     [
+      "Rất muộn mỗi ngày",
+      "Very late every day"
+     ],
+     [
+      "Thứ Sáu",
+      "On Fridays"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Me acuesto a las once” = tôi đi ngủ lúc 11 giờ. Thứ Sáu là ngoại lệ (vuelvo tarde), không phải thói quen thường ngày.",
+     "“Me acuesto a las once” = I go to bed at eleven. Friday is the exception (vuelvo tarde), not the usual habit."
+    ],
+    "f": [
+     "me acuesto a las once",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Cómo es un día normal para ti? – Normalmente me levanto a las seis, desayuno con mi familia y voy al trabajo en autobús.",
+    "e": [
+     "Câu hỏi: ¿Cómo es un día normal para ti? – Gợi ý trả lời mẫu: kể theo thứ tự thời gian với động từ phản thân và chữ j rõ trong “trabajo”.",
+     "Question: ¿Cómo es un día normal para ti? – Model answer: tell it in time order with reflexive verbs and a clear j in “trabajo”."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Câu hỏi: ¿Eres más de mañanas o de noches? – Soy más de mañanas, porque siempre me levanto temprano y por la noche estoy cansado.",
+    "e": [
+     "Câu hỏi: ¿Eres más de mañanas o de noches? – Gợi ý trả lời mẫu: “soy más de…” + lý do với porque.",
+     "Question: ¿Eres más de mañanas o de noches? – Model answer: “soy más de…” + a reason with porque."
+    ]
+   }
+  ],
+  "ex": [],
+  "rd2": {
+   "tx": "Normalmente me levanto a las seis y media. Primero me ducho, me cepillo los dientes y desayuno pan con café. A las siete y media voy al trabajo en moto. Salgo del trabajo a las cinco. Por la tarde cocino con mi madre y cenamos a las siete. Por la noche estudio español una hora. Suelo acostarme a las once. Los fines de semana me levanto tarde y a veces visito a mis abuelos en el campo.",
+   "tr": "Tôi thường dậy lúc sáu rưỡi. Đầu tiên tôi tắm, đánh răng và ăn sáng bánh mì với cà phê. Bảy rưỡi tôi đi làm bằng xe máy. Tôi tan làm lúc năm giờ. Buổi chiều tôi nấu ăn với mẹ và chúng tôi ăn tối lúc bảy giờ. Buổi tối tôi học tiếng Tây Ban Nha một tiếng. Tôi thường đi ngủ lúc mười một giờ. Cuối tuần tôi dậy muộn và thỉnh thoảng về thăm ông bà ở quê."
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Người viết đi làm bằng gì?",
+     "How does the writer go to work?"
+    ],
+    "o": [
+     [
+      "Bằng xe máy",
+      "By motorbike"
+     ],
+     [
+      "Bằng xe buýt",
+      "By bus"
+     ],
+     [
+      "Đi bộ",
+      "On foot"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Voy al trabajo en moto” – moto = xe máy.",
+     "“Voy al trabajo en moto” – moto = motorbike."
+    ],
+    "f": [
+     "voy al trabajo en moto",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Buổi tối người viết làm gì?",
+     "What does the writer do in the evening?"
+    ],
+    "o": [
+     [
+      "Học tiếng Tây Ban Nha một tiếng",
+      "Studies Spanish for an hour"
+     ],
+     [
+      "Nấu ăn với mẹ",
+      "Cooks with their mother"
+     ],
+     [
+      "Thăm ông bà",
+      "Visits grandparents"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Por la noche estudio español una hora.” Nấu ăn là “por la tarde”, thăm ông bà là vào cuối tuần.",
+     "“Por la noche estudio español una hora.” Cooking is “por la tarde”; visiting grandparents is at weekends."
+    ],
+    "f": [
+     "Por la noche estudio español una hora",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Cuối tuần người viết thế nào?",
+     "What happens at weekends?"
+    ],
+    "o": [
+     [
+      "Dậy muộn, đôi khi thăm ông bà",
+      "Gets up late, sometimes visits grandparents"
+     ],
+     [
+      "Dậy lúc 6:30",
+      "Gets up at 6:30"
+     ],
+     [
+      "Luôn ở thành phố",
+      "Always stays in the city"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Los fines de semana me levanto tarde y a veces visito a mis abuelos en el campo.” “A veces” = thỉnh thoảng.",
+     "“Los fines de semana me levanto tarde y a veces visito a mis abuelos en el campo.” “A veces” = sometimes."
+    ],
+    "f": [
+     "me levanto tarde",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Yo me ___ a las siete todos los días, incluso los domingos. (levantarse)",
+    "a": [
+     "levanto"
+    ],
+    "e": [
+     "Ngôi yo của levantar là “levanto”; đại từ “me” đã có sẵn trước chỗ trống.",
+     "The yo form of levantar is “levanto”; the pronoun “me” is already before the blank."
+    ],
+    "f": [
+     "me levanto",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Ella ___ por la noche porque por la mañana no tiene tiempo. (ducharse)",
+    "a": [
+     "se ducha"
+    ],
+    "e": [
+     "Ngôi 3 số ít: đại từ “se” + “ducha”. Quên “se” là lỗi hay gặp: “ella ducha” nghĩa là cô ấy tắm cho ai đó.",
+     "3rd person singular: “se” + “ducha”. Forgetting “se” is common: “ella ducha” would mean she showers someone else."
+    ],
+    "f": [
+     "se ducha",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "¿A qué hora ___ tú normalmente con tu familia? (cenar)",
+    "a": [
+     "cenas"
+    ],
+    "e": [
+     "Cenar là động từ -ar có quy tắc: tú → cenas. Không phản thân nên không có “te”.",
+     "Cenar is a regular -ar verb: tú → cenas. It is not reflexive, so no “te”."
+    ],
+    "f": [
+     "cenas",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi thường đi ngủ lúc 11 giờ.",
+    "a": [
+     "Normalmente me acuesto a las once.",
+     "Suelo acostarme a las once.",
+     "Normalmente me voy a la cama a las once."
+    ],
+    "e": [
+     "Acostarse đổi o → ue: me acuesto. Hoặc dùng soler: suelo acostarme (đại từ gắn vào cuối động từ nguyên mẫu).",
+     "Acostarse changes o → ue: me acuesto. Or with soler: suelo acostarme (pronoun attached to the infinitive)."
+    ],
+    "f": [
+     "me acuesto a las once",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Sáng nào tôi cũng uống cà phê.",
+    "a": [
+     "Tomo café todas las mañanas.",
+     "Todas las mañanas tomo café.",
+     "Bebo café todas las mañanas."
+    ],
+    "e": [
+     "“Todas las mañanas” = mỗi sáng. Với đồ uống người Tây Ban Nha hay dùng “tomar” hơn “beber”.",
+     "“Todas las mañanas” = every morning. For drinks Spaniards often say “tomar” rather than “beber”."
+    ],
+    "f": [
+     "todas las mañanas",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Mi hermano levanta a las seis, desayuna en casa y después va a la universidad en bicicleta.",
+    "a": [
+     "Mi hermano se levanta a las seis, desayuna en casa y después va a la universidad en bicicleta."
+    ],
+    "e": [
+     "Thiếu đại từ phản thân: “se levanta”. “Levanta” không có “se” nghĩa là nâng/nhấc một vật gì đó.",
+     "The reflexive pronoun is missing: “se levanta”. “Levanta” without “se” means to lift something."
+    ],
+    "f": [
+     "se levanta",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Los sábados mis padres ___ dormir hasta las nueve porque no trabajan.",
+    "o": [
+     "suelen",
+     "suele",
+     "solemos"
+    ],
+    "a": 0,
+    "e": [
+     "Chủ ngữ “mis padres” = ellos → suelen. “Soler” đổi o → ue và luôn theo sau là động từ nguyên mẫu (dormir).",
+     "Subject “mis padres” = ellos → suelen. “Soler” changes o → ue and is followed by an infinitive (dormir)."
+    ],
+    "f": [
+     "suelen dormir",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Después del trabajo|cocino la cena,|veo la televisión|un rato|y me acuesto|a las once",
+    "m": [
+     "Sau giờ làm, tôi nấu bữa tối, xem tivi một lúc rồi đi ngủ lúc 11 giờ.",
+     "After work I cook dinner, watch TV for a while and go to bed at eleven."
+    ],
+    "e": [
+     "Chuỗi hành động nối bằng dấu phẩy và “y” trước hành động cuối. “Me” đứng ngay trước “acuesto”.",
+     "A chain of actions joined by commas and “y” before the last one. “Me” sits right before “acuesto”."
+    ],
+    "f": [
+     "y me acuesto a las once",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu với “soler” thay cho “normalmente”",
+     "Rewrite the sentence using “soler” instead of “normalmente”"
+    ],
+    "s": "Normalmente me levanto temprano y desayuno con mi hermana antes de ir a clase.",
+    "a": [
+     "Suelo levantarme temprano y desayunar con mi hermana antes de ir a clase.",
+     "Suelo levantarme temprano y desayuno con mi hermana antes de ir a clase."
+    ],
+    "e": [
+     "Soler + nguyên mẫu; đại từ phản thân gắn vào đuôi: levantarme. Các động từ sau “y” cũng để nguyên mẫu (desayunar).",
+     "Soler + infinitive; the reflexive pronoun attaches: levantarme. Verbs after “y” also stay infinitive (desayunar)."
+    ],
+    "f": [
+     "Suelo levantarme",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "So sánh một ngày thường và một ngày cuối tuần của bạn trong khoảng 100 từ, dùng ít nhất 4 trạng từ tần suất.",
+     "Compare a weekday and a weekend day in about 100 words, using at least 4 frequency adverbs."
+    ],
+    "m": "De lunes a viernes siempre me levanto a las seis. Me ducho, desayuno rápido y voy al trabajo en moto. Normalmente como en la oficina con mis compañeros. Salgo del trabajo a las cinco y por la noche estudio español una hora. Nunca me acuesto después de las once. Los fines de semana son diferentes: me levanto a las nueve y desayuno tranquilamente con mi familia. A veces voy al mercado con mi madre y por la tarde suelo jugar al bádminton con mis amigos. Los domingos por la noche normalmente veo una película y me acuesto un poco más tarde.",
+    "e": [
+     "Cần có: ít nhất 4 trạng từ (siempre, normalmente, a veces, nunca); động từ phản thân với đại từ đúng; so sánh rõ ngày thường – cuối tuần; giờ với “a las…”.",
+     "Must include: at least 4 adverbs (siempre, normalmente, a veces, nunca); reflexive verbs with the right pronoun; a clear weekday–weekend contrast; times with “a las…”."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d16",
+  "g": "daily",
+  "t": [
+   "Thời tiết & các mùa",
+   "Weather & seasons"
+  ],
+  "th": [
+   [
+    "**Nói về thời tiết**: tiếng Tây Ban Nha dùng ba cấu trúc chính:\n• **hace + danh từ**: hace calor (trời nóng), hace frío (trời lạnh), hace sol (trời nắng), hace viento (trời gió), hace buen / mal tiempo (thời tiết đẹp / xấu).\n• **está + tính từ**: está nublado (trời nhiều mây), está despejado (trời quang).\n• **động từ riêng**: llueve (trời mưa – llover), nieva (tuyết rơi – nevar).\nVí dụ: En Hanói hace mucho calor en verano. · Hoy está nublado, pero no llueve. · En invierno nieva en las montañas.",
+    "**Talking about the weather**: Spanish uses three main structures:\n• **hace + noun**: hace calor (it's hot), hace frío (it's cold), hace sol (it's sunny), hace viento (it's windy), hace buen / mal tiempo (the weather is good / bad).\n• **está + adjective**: está nublado (it's cloudy), está despejado (it's clear).\n• **special verbs**: llueve (it rains – llover), nieva (it snows – nevar).\nExamples: En Hanói hace mucho calor en verano. · Hoy está nublado, pero no llueve. · En invierno nieva en las montañas."
+   ],
+   [
+    "**Mucho hay muy?** Vì calor, frío là **danh từ**, ta nói **hace mucho calor** (nghĩa đen: làm nhiều nóng), **không** nói “hace muy calor”. Nhưng với tính từ thì dùng muy: **está muy nublado**. Bốn mùa: **la primavera** (xuân), **el verano** (hè), **el otoño** (thu), **el invierno** (đông) – đi với giới từ **en**: en otoño. Hỏi thời tiết: **¿Qué tiempo hace hoy?**",
+    "**Mucho or muy?** Because calor and frío are **nouns**, say **hace mucho calor** – **not** “hace muy calor”. With adjectives use muy: **está muy nublado**. The four seasons: **la primavera** (spring), **el verano** (summer), **el otoño** (autumn), **el invierno** (winter) – with **en**: en otoño. Ask about the weather: **¿Qué tiempo hace hoy?**"
+   ],
+   [
+    "**Phát âm**: **b** và **v** đọc giống hệt nhau (/b/ đầu từ, /β/ nhẹ giữa từ): **v**erano = **b**erano, in**v**ierno /imˈbjeɾno/. **ll** trong **ll**ueve, **ll**uvia đọc gần như y. **ñ** trong oto**ñ**o đọc như “nh” tiếng Việt: o-TO-ño. Chữ **h** trong **h**ace luôn câm: “a-ce”.",
+    "**Pronunciation**: **b** and **v** sound exactly the same (/b/ at the start, soft /β/ between vowels): verano = berano, invierno /imˈbjeɾno/. **ll** in llueve, lluvia sounds almost like y. **ñ** in otoño is like Vietnamese “nh”: o-TO-ño. The **h** in hace is always silent: “a-ce”."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): nghe bản tin thời tiết ngắn của Tây Ban Nha (el tiempo), ghi lại nhiệt độ và thời tiết của 3 thành phố.\n• Nói (15 phút): mỗi sáng nói 3 câu về thời tiết hôm nay trước gương.\n• Đọc (15 phút): mở ứng dụng thời tiết bằng tiếng Tây Ban Nha, đọc dự báo 5 ngày.\n• Viết (20 phút): viết 5–6 câu về mùa bạn thích nhất và lý do.\n• Từ vựng (10 phút): làm flashcard 10 từ thời tiết + 4 mùa.",
+    "**Practice outside the app**\n• Listening (15 min): listen to a short Spanish weather forecast (el tiempo) and note the temperature and weather for 3 cities.\n• Speaking (15 min): every morning say 3 sentences about today's weather in front of the mirror.\n• Reading (15 min): switch your weather app to Spanish and read the 5-day forecast.\n• Writing (20 min): write 5–6 sentences about your favourite season and why.\n• Vocabulary (10 min): make flashcards for 10 weather words + the 4 seasons."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "¿Qué tiempo hace hoy?",
+    "Hôm nay thời tiết thế nào?"
+   ],
+   [
+    "Hace mucho calor.",
+    "Trời rất nóng."
+   ],
+   [
+    "Hace frío y hace viento.",
+    "Trời lạnh và có gió."
+   ],
+   [
+    "Está nublado.",
+    "Trời nhiều mây."
+   ],
+   [
+    "Llueve mucho en otoño.",
+    "Mùa thu mưa nhiều."
+   ],
+   [
+    "Mi estación favorita es la primavera.",
+    "Mùa tôi thích nhất là mùa xuân."
+   ],
+   [
+    "Estamos a treinta grados.",
+    "Trời đang 30 độ."
+   ]
+  ],
+  "vo": [
+   [
+    "el tiempo",
+    "/el ˈtjempo/ el TIEM-po",
+    "thời tiết",
+    "weather"
+   ],
+   [
+    "el calor",
+    "/el kaˈloɾ/ el ca-LOR",
+    "cái nóng",
+    "heat"
+   ],
+   [
+    "el frío",
+    "/el ˈfɾio/ el FRÍ-o",
+    "cái lạnh",
+    "cold"
+   ],
+   [
+    "el sol",
+    "/el sol/ el SOL",
+    "mặt trời, nắng",
+    "sun"
+   ],
+   [
+    "la lluvia",
+    "/la ˈʎuβja/ la LLU-via",
+    "mưa",
+    "rain"
+   ],
+   [
+    "llover",
+    "/ʎoˈβeɾ/ llo-VER",
+    "mưa (động từ)",
+    "to rain"
+   ],
+   [
+    "nublado",
+    "/nuˈβlaðo/ nu-BLA-do",
+    "nhiều mây",
+    "cloudy"
+   ],
+   [
+    "la primavera",
+    "/la pɾimaˈβeɾa/ la pri-ma-VE-ra",
+    "mùa xuân",
+    "spring"
+   ],
+   [
+    "el verano",
+    "/el beˈɾano/ el ve-RA-no",
+    "mùa hè",
+    "summer"
+   ],
+   [
+    "el invierno",
+    "/el imˈbjeɾno/ el in-VIER-no",
+    "mùa đông",
+    "winter"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "En Hanói hace mucho calor en verano, pero en invierno hace un poco de frío.",
+    "e": [
+     "“Hace mucho calor” – mucho vì calor là danh từ. “Un poco de frío” = hơi lạnh. Nhớ dấu ó trong Hanói.",
+     "“Hace mucho calor” – mucho because calor is a noun. “Un poco de frío” = a bit cold. Remember the ó in Hanói."
+    ],
+    "f": [
+     "hace mucho calor",
+     "A1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Hoy está nublado y hace viento, así que voy a llevar una chaqueta y un paraguas.",
+    "q": [
+     "Hôm nay thời tiết thế nào?",
+     "What is the weather like today?"
+    ],
+    "o": [
+     [
+      "Nhiều mây và có gió",
+      "Cloudy and windy"
+     ],
+     [
+      "Nắng và nóng",
+      "Sunny and hot"
+     ],
+     [
+      "Có tuyết",
+      "Snowy"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Está nublado y hace viento.” Mang ô (paraguas) vì sợ mưa, nhưng câu không nói trời đang mưa.",
+     "“Está nublado y hace viento.” The umbrella is just in case – the sentence doesn't say it's raining."
+    ],
+    "f": [
+     "está nublado y hace viento",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Mi estación favorita es la primavera porque no hace frío y hay muchas flores.",
+    "e": [
+     "“Estación” = mùa (cũng có nghĩa “nhà ga”). Primavera là giống cái: la primavera, mi estación favorita.",
+     "“Estación” = season (also “station”). Primavera is feminine: la primavera, mi estación favorita."
+    ],
+    "f": [
+     "Mi estación favorita",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "¿Qué tiempo hace hoy en tu ciudad? Aquí llueve mucho y estamos a veinte grados.",
+    "e": [
+     "Câu hỏi thời tiết chuẩn: ¿Qué tiempo hace? Nhiệt độ: “estamos a + số + grados”. Đọc ll trong llueve gần như y.",
+     "Standard weather question: ¿Qué tiempo hace? Temperature: “estamos a + number + grados”. Say the ll in llueve almost like y."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "En otoño hace buen tiempo en Hanói: no hace calor, no llueve mucho y el cielo está azul.",
+    "e": [
+     "Đọc ñ trong otoño như “nh”. “Hace buen tiempo” – buen (không phải bueno) đứng trước danh từ giống đực.",
+     "Pronounce the ñ in otoño like “ny”. “Hace buen tiempo” – buen (not bueno) before a masculine noun."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Nghe nói cuối tuần này trời sẽ mưa to, nên nếu bạn muốn thì mình để chuyến dã ngoại sang tuần sau nhé.",
+    "a": [
+     "Dicen que este fin de semana va a llover mucho, así que, si quieres, dejamos el pícnic para la semana que viene.",
+     "He oído que este fin de semana va a llover mucho, así que si quieres dejamos el pícnic para la semana que viene.",
+     "Dicen que este fin de semana lloverá mucho, así que, si quieres, aplazamos el pícnic a la semana que viene."
+    ],
+    "e": [
+     "“Dicen que…” = nghe nói. “Ir a + nguyên mẫu” cho dự báo; “dejar algo para…” = để việc gì sang lúc khác.",
+     "“Dicen que…” = they say / I hear. “Ir a + infinitive” for a forecast; “dejar algo para…” = to put something off until…"
+    ],
+    "f": [
+     "dejamos el pícnic para la semana que viene",
+     "A2"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở thì quá khứ (indefinido), bắt đầu bằng “Ayer…”",
+     "Rewrite in the past (preterite), starting with “Ayer…”"
+    ],
+    "s": "Hoy llueve todo el día y hace mucho frío.",
+    "a": [
+     "Ayer llovió todo el día e hizo mucho frío.",
+     "Ayer llovió todo el día y hizo mucho frío."
+    ],
+    "e": [
+     "Llover → **llovió**, hacer → **hizo** (bất quy tắc). Trước “hizo” (âm i) nên dùng **e** thay cho y.",
+     "Llover → **llovió**, hacer → **hizo** (irregular). Before “hizo” (i sound) y becomes **e**."
+    ],
+    "f": [
+     "llovió todo el día e hizo",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Si mañana hará buen tiempo, podemos subir a la montaña y comer allí al aire libre.",
+    "a": [
+     "Si mañana hace buen tiempo, podemos subir a la montaña y comer allí al aire libre."
+    ],
+    "e": [
+     "Sau **si** (nếu, điều kiện thật) không dùng tương lai: si mañana **hace** buen tiempo.",
+     "After **si** (real condition) never use the future: si mañana **hace** buen tiempo."
+    ],
+    "f": [
+     "Si mañana hace buen tiempo",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "¡Qué día tan feo! Está lloviendo a ___ y se me ha olvidado el paraguas en casa.",
+    "a": [
+     "cántaros"
+    ],
+    "e": [
+     "Thành ngữ “llover a cántaros” = mưa như trút nước (nghĩa đen: mưa từng vò).",
+     "Idiom “llover a cántaros” = to rain cats and dogs (literally: by the jugful)."
+    ],
+    "f": [
+     "llover a cántaros",
+     "B1"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "¡Hola, Lucía! Te escribo desde Sapa, en el norte de Vietnam. Aquí es invierno y hace mucho frío: estamos a cinco grados. Por la mañana hay niebla y por la tarde está nublado. Ayer llovió un poco, pero hoy hace sol. En Hanói ahora no hace tanto frío. En verano hace mucho calor y llueve casi todos los días. Mi estación favorita es el otoño porque hace buen tiempo y el cielo está azul. ¿Qué tiempo hace en Madrid? Un abrazo, Mai",
+   "tr": "Chào Lucía! Mình viết cho bạn từ Sa Pa, ở miền Bắc Việt Nam. Ở đây đang là mùa đông và trời rất lạnh: chỉ năm độ. Buổi sáng có sương mù và buổi chiều trời nhiều mây. Hôm qua trời mưa một chút, nhưng hôm nay trời nắng. Ở Hà Nội bây giờ không lạnh đến thế. Vào mùa hè trời rất nóng và gần như ngày nào cũng mưa. Mùa mình thích nhất là mùa thu vì thời tiết đẹp và bầu trời xanh. Ở Madrid thời tiết thế nào? Ôm bạn, Mai"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Ở Sa Pa hôm nay thời tiết thế nào?",
+     "What's the weather like in Sapa today?"
+    ],
+    "o": [
+     [
+      "Rất lạnh nhưng có nắng",
+      "Very cold but sunny"
+     ],
+     [
+      "Nóng và mưa",
+      "Hot and rainy"
+     ],
+     [
+      "Có tuyết cả ngày",
+      "Snowing all day"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Hace mucho frío… Ayer llovió un poco, pero hoy hace sol.” Mưa là hôm qua (ayer), không phải hôm nay.",
+     "“Hace mucho frío… Ayer llovió un poco, pero hoy hace sol.” The rain was yesterday (ayer), not today."
+    ],
+    "f": [
+     "hoy hace sol",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Ở Hà Nội mùa hè như thế nào?",
+     "What is summer like in Hanoi?"
+    ],
+    "o": [
+     [
+      "Rất nóng và gần như ngày nào cũng mưa",
+      "Very hot, with rain almost every day"
+     ],
+     [
+      "Mát và trời xanh",
+      "Cool with blue skies"
+     ],
+     [
+      "Lạnh và có sương mù",
+      "Cold and foggy"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“En verano hace mucho calor y llueve casi todos los días.” Trời xanh là đặc điểm mùa thu.",
+     "“En verano hace mucho calor y llueve casi todos los días.” Blue skies describe autumn."
+    ],
+    "f": [
+     "llueve casi todos los días",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Mai thích mùa thu?",
+     "Why does Mai like autumn?"
+    ],
+    "o": [
+     [
+      "Vì thời tiết đẹp và trời xanh",
+      "Because the weather is nice and the sky is blue"
+     ],
+     [
+      "Vì trời lạnh",
+      "Because it's cold"
+     ],
+     [
+      "Vì có nhiều mưa",
+      "Because it rains a lot"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…porque hace buen tiempo y el cielo está azul.” “Hace buen tiempo” = thời tiết đẹp.",
+     "“…porque hace buen tiempo y el cielo está azul.” “Hace buen tiempo” = the weather is nice."
+    ],
+    "f": [
+     "hace buen tiempo",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "En agosto ___ mucho calor en Sevilla, así que la gente no sale a la calle a mediodía.",
+    "o": [
+     "hace",
+     "está",
+     "es"
+    ],
+    "a": 0,
+    "e": [
+     "Calor là danh từ → dùng **hace**: hace calor. “Está calor” và “es calor” là lỗi điển hình của người mới học.",
+     "Calor is a noun → use **hace**: hace calor. “Está calor” and “es calor” are classic beginner mistakes."
+    ],
+    "f": [
+     "hace mucho calor",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Hoy no podemos ir a la playa porque el cielo ___ muy nublado y va a llover.",
+    "o": [
+     "está",
+     "hace",
+     "hay"
+    ],
+    "a": 0,
+    "e": [
+     "Nublado là tính từ → **está** nublado. Hace đi với danh từ (hace sol), hay đi với danh từ có mạo từ (hay niebla).",
+     "Nublado is an adjective → **está** nublado. Hace goes with nouns (hace sol), hay with nouns like niebla (hay niebla)."
+    ],
+    "f": [
+     "está muy nublado",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "En invierno ___ mucho en las montañas del norte, y los niños hacen muñecos de nieve. (nevar)",
+    "a": [
+     "nieva"
+    ],
+    "e": [
+     "Nevar là động từ đổi gốc e → ie: **nieva** (trời có tuyết). Giống llover → llueve (o → ue).",
+     "Nevar is stem-changing e → ie: **nieva** (it snows). Like llover → llueve (o → ue)."
+    ],
+    "f": [
+     "nieva mucho",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "No me gusta el verano porque hace mucho calor, pero me encanta la ___ porque hay flores.",
+    "a": [
+     "primavera"
+    ],
+    "e": [
+     "Mùa có hoa = **la primavera** (mùa xuân). Các mùa: primavera, verano, otoño, invierno.",
+     "The season with flowers = **la primavera** (spring). Seasons: primavera, verano, otoño, invierno."
+    ],
+    "f": [
+     "la primavera",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Hoy hace muy calor en Madrid, así que vamos a la piscina con mis amigos por la tarde.",
+    "a": [
+     "Hoy hace mucho calor en Madrid, así que vamos a la piscina con mis amigos por la tarde."
+    ],
+    "e": [
+     "Calor là danh từ, nên dùng **mucho** (nhiều): hace mucho calor. “Muy” chỉ đi với tính từ hoặc trạng từ: muy nublado, muy bien.",
+     "Calor is a noun, so use **mucho**: hace mucho calor. “Muy” only goes with adjectives or adverbs: muy nublado, muy bien."
+    ],
+    "f": [
+     "hace mucho calor",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "En otoño llove mucho en mi ciudad y siempre llevo un paraguas en la mochila.",
+    "a": [
+     "En otoño llueve mucho en mi ciudad y siempre llevo un paraguas en la mochila."
+    ],
+    "e": [
+     "Llover đổi gốc o → **ue**: llueve. “Llove” không tồn tại.",
+     "Llover changes o → **ue**: llueve. “Llove” doesn't exist."
+    ],
+    "f": [
+     "llueve mucho",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Hôm nay trời lạnh và có gió, nên tôi mặc áo khoác và đi xe buýt.",
+    "a": [
+     "Hoy hace frío y hace viento, así que llevo una chaqueta y voy en autobús.",
+     "Hoy hace frío y viento, así que me pongo una chaqueta y voy en autobús.",
+     "Hoy hace frío y hace viento, por eso llevo un abrigo y voy en autobús."
+    ],
+    "e": [
+     "Cả frío và viento đều đi với **hace**. Đi bằng xe → “ir **en** autobús”. “Así que / por eso” = nên.",
+     "Both frío and viento go with **hace**. By bus → “ir **en** autobús”. “Así que / por eso” = so."
+    ],
+    "f": [
+     "hace frío y hace viento",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Mùa tôi thích nhất là mùa thu vì thời tiết đẹp và không mưa nhiều.",
+    "a": [
+     "Mi estación favorita es el otoño porque hace buen tiempo y no llueve mucho.",
+     "Mi estación preferida es el otoño porque hace buen tiempo y no llueve mucho.",
+     "Mi estación favorita es el otoño, porque hace buen tiempo y no llueve mucho."
+    ],
+    "e": [
+     "“Mi estación favorita es…”; “hace buen tiempo” (buen trước danh từ giống đực); “no llueve mucho”.",
+     "“Mi estación favorita es…”; “hace buen tiempo” (buen before a masculine noun); “no llueve mucho”."
+    ],
+    "f": [
+     "hace buen tiempo",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở dạng phủ định và đổi “mucho” cho hợp nghĩa: trời KHÔNG nóng lắm",
+     "Make it negative: it is NOT very hot"
+    ],
+    "s": "Hoy hace mucho calor en la playa.",
+    "a": [
+     "Hoy no hace mucho calor en la playa.",
+     "Hoy en la playa no hace mucho calor."
+    ],
+    "e": [
+     "Phủ định: đặt **no** ngay trước động từ: no hace. “No hace mucho calor” = không nóng lắm.",
+     "Negative: put **no** right before the verb: no hace. “No hace mucho calor” = it isn't very hot."
+    ],
+    "f": [
+     "no hace mucho calor",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "En verano|hace mucho calor|y llueve|casi todos los días,|pero|me gusta|ir a la playa",
+    "m": [
+     "Mùa hè trời rất nóng và gần như ngày nào cũng mưa, nhưng tôi thích đi biển.",
+     "In summer it's very hot and it rains almost every day, but I like going to the beach."
+    ],
+    "e": [
+     "Mùa đứng đầu câu với **en**. “Casi todos los días” = gần như mỗi ngày. “Me gusta + nguyên mẫu”.",
+     "The season opens the sentence with **en**. “Casi todos los días” = almost every day. “Me gusta + infinitive”."
+    ],
+    "f": [
+     "casi todos los días",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết 5–6 câu (khoảng 60 từ) về thời tiết ở thành phố của bạn trong bốn mùa và mùa bạn thích nhất.",
+     "Write 5–6 sentences (about 60 words) about the weather in your city in the four seasons and your favourite season."
+    ],
+    "m": "Vivo en Hanói, en el norte de Vietnam. En primavera hace buen tiempo, pero a veces hay niebla. En verano hace mucho calor y llueve casi todos los días. En otoño no hace calor y el cielo está azul. En invierno hace frío, pero no nieva. Mi estación favorita es el otoño porque me gusta pasear por el lago.",
+    "e": [
+     "Cần có: • thành phố bạn sống • thời tiết cho cả 4 mùa (hace, está, llueve) • ít nhất một câu với mucho/muy dùng đúng • mùa yêu thích + porque.",
+     "Checklist: • your city • the weather for all 4 seasons (hace, está, llueve) • at least one correct mucho/muy • your favourite season + porque."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t-d17",
+  "g": "daily",
+  "t": [
+   "Sở thích & thời gian rảnh",
+   "Hobbies & free time"
+  ],
+  "th": [
+   [
+    "**Động từ gustar** hoạt động “ngược” với tiếng Việt: thứ được thích là chủ ngữ, người thích là đại từ đứng trước (me, te, le, nos, os, les).\n• **me gusta** + nguyên mẫu / danh từ số ít: Me gusta leer. Me gusta la música.\n• **me gustan** + danh từ số nhiều: Me gustan las películas de acción.\n• **encantar** (rất thích) dùng y hệt: Me encanta bailar. Nos encantan los gatos.\n• Phủ định: **No me gusta** cocinar. Hỏi: **¿Te gusta** el fútbol?",
+    "**The verb gustar** works “backwards”: the thing liked is the subject, and the person who likes it is a pronoun in front (me, te, le, nos, os, les).\n• **me gusta** + infinitive / singular noun: Me gusta leer. Me gusta la música.\n• **me gustan** + plural noun: Me gustan las películas de acción.\n• **encantar** (to love) works the same way: Me encanta bailar. Nos encantan los gatos.\n• Negative: **No me gusta** cocinar. Question: **¿Te gusta** el fútbol?"
+   ],
+   [
+    "**Tần suất & hoạt động**: siempre (luôn luôn), a menudo (thường), a veces (thỉnh thoảng), nunca (không bao giờ). Ví dụ: Los sábados **siempre** juego al fútbol. **Nunca** veo la tele por la mañana.\nĐộng từ đi kèm: **jugar al** + môn thể thao/trò chơi (jugar al tenis, al ajedrez); **tocar** + nhạc cụ (tocar la guitarra); **ver** la tele / una serie; **salir con** amigos; **ir de** compras / excursión.",
+    "**Frequency & activities**: siempre (always), a menudo (often), a veces (sometimes), nunca (never). E.g. Los sábados siempre juego al fútbol. Nunca veo la tele por la mañana.\nVerb partners: **jugar al** + sport/game (jugar al tenis, al ajedrez); **tocar** + instrument (tocar la guitarra); **ver** la tele / una serie; **salir con** amigos; **ir de** compras / excursión."
+   ],
+   [
+    "**Phát âm**: **g** trước a, o, u đọc /g/ cứng: **g**ato, **g**usta. Trong **gui**tarra và **gue**rra, chữ u **câm**: gi-TA-rra. Chữ **j** luôn là âm /x/ giống “kh”: **j**ugar = khu-GAR. Đuôi **-ar** của nguyên mẫu có trọng âm ở cuối: bai-LAR, na-DAR, co-ci-NAR.",
+    "**Pronunciation**: **g** before a, o, u is a hard /g/: gato, gusta. In guitarra and guerra the u is **silent**: gi-TA-rra. **j** is always /x/, like Vietnamese “kh”: jugar = khu-GAR. Infinitives in **-ar** are stressed at the end: bai-LAR, na-DAR, co-ci-NAR."
+   ],
+   [
+    "**Tự luyện ngoài app**\n• Nghe (15 phút): nghe 1 podcast sơ cấp về sở thích, ghi lại 5 hoạt động được nhắc đến.\n• Nói (15 phút): ghi âm 1 phút: 3 thứ bạn thích, 2 thứ bạn không thích, mỗi thứ kèm porque.\n• Đọc (15 phút): đọc 3 hồ sơ trên trang trao đổi ngôn ngữ, ghi lại sở thích của mỗi người.\n• Viết (20 phút): viết 60 từ về một ngày cuối tuần lý tưởng.\n• Từ vựng (10 phút): học 10 hoạt động + động từ đi kèm (jugar al, tocar, ir de).",
+    "**Practice outside the app**\n• Listening (15 min): listen to a beginner podcast about hobbies and note 5 activities.\n• Speaking (15 min): record 1 minute: 3 things you like and 2 you don't, each with porque.\n• Reading (15 min): read 3 profiles on a language-exchange site and note each person's hobbies.\n• Writing (20 min): write 60 words about your ideal weekend.\n• Vocabulary (10 min): learn 10 activities + their verb partners (jugar al, tocar, ir de)."
+   ]
+  ],
+  "tb": [
+   [
+    "Español",
+    "Tiếng Việt"
+   ],
+   [
+    "¿Qué haces en tu tiempo libre?",
+    "Bạn làm gì lúc rảnh?"
+   ],
+   [
+    "Me gusta leer y escuchar música.",
+    "Tôi thích đọc sách và nghe nhạc."
+   ],
+   [
+    "Me encantan las películas de terror.",
+    "Tôi rất thích phim kinh dị."
+   ],
+   [
+    "No me gusta nada cocinar.",
+    "Tôi chẳng thích nấu ăn chút nào."
+   ],
+   [
+    "Los fines de semana juego al fútbol.",
+    "Cuối tuần tôi chơi bóng đá."
+   ],
+   [
+    "Toco la guitarra desde pequeño.",
+    "Tôi chơi guitar từ nhỏ."
+   ],
+   [
+    "¿Te gusta bailar?",
+    "Bạn có thích nhảy không?"
+   ]
+  ],
+  "vo": [
+   [
+    "el tiempo libre",
+    "/el ˈtjempo ˈliβɾe/ el TIEM-po LI-bre",
+    "thời gian rảnh",
+    "free time"
+   ],
+   [
+    "la afición",
+    "/la afiˈθjon/ la a-fi-CIÓN",
+    "sở thích",
+    "hobby"
+   ],
+   [
+    "leer",
+    "/leˈeɾ/ le-ER",
+    "đọc",
+    "to read"
+   ],
+   [
+    "bailar",
+    "/bajˈlaɾ/ bai-LAR",
+    "nhảy, khiêu vũ",
+    "to dance"
+   ],
+   [
+    "nadar",
+    "/naˈðaɾ/ na-DAR",
+    "bơi",
+    "to swim"
+   ],
+   [
+    "cocinar",
+    "/koθiˈnaɾ/ co-ci-NAR",
+    "nấu ăn",
+    "to cook"
+   ],
+   [
+    "jugar al fútbol",
+    "/xuˈɣaɾ al ˈfutβol/ ju-GAR al FÚT-bol",
+    "chơi bóng đá",
+    "to play football"
+   ],
+   [
+    "tocar la guitarra",
+    "/toˈkaɾ la ɡiˈtara/ to-CAR la gui-TA-rra",
+    "chơi đàn guitar",
+    "to play the guitar"
+   ],
+   [
+    "el fin de semana",
+    "/el fin de seˈmana/ el FIN de se-MA-na",
+    "cuối tuần",
+    "weekend"
+   ],
+   [
+    "la película",
+    "/la peˈlikula/ la pe-LÍ-cu-la",
+    "bộ phim",
+    "film"
+   ]
+  ],
+  "warm": [
+   {
+    "t": "dict",
+    "s": "Me gusta leer novelas y escuchar música por la noche.",
+    "e": [
+     "Gustar + nguyên mẫu → luôn **gusta** (số ít), dù có hai hoạt động. Nhớ dấu ú trong música.",
+     "Gustar + infinitive → always **gusta** (singular), even with two activities. Remember the ú in música."
+    ],
+    "f": [
+     "Me gusta leer",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Me encantan las películas de terror, pero mi novia prefiere las comedias.",
+    "e": [
+     "Las películas là số nhiều → **encantan**. “Prefiere” – preferir đổi e → ie.",
+     "Las películas is plural → **encantan**. “Prefiere” – preferir changes e → ie."
+    ],
+    "f": [
+     "Me encantan las películas",
+     "A1"
+    ]
+   },
+   {
+    "t": "listen",
+    "s": "Los sábados por la mañana juego al tenis con mi hermano y por la tarde toco la guitarra.",
+    "q": [
+     "Người nói làm gì vào chiều thứ Bảy?",
+     "What does the speaker do on Saturday afternoons?"
+    ],
+    "o": [
+     [
+      "Chơi guitar",
+      "Plays the guitar"
+     ],
+     [
+      "Chơi tennis",
+      "Plays tennis"
+     ],
+     [
+      "Đi bơi với anh trai",
+      "Goes swimming with his brother"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "Buổi sáng chơi tennis (jugar al tenis), buổi chiều (por la tarde) chơi guitar (tocar la guitarra).",
+     "Morning: tennis (jugar al tenis); afternoon (por la tarde): guitar (tocar la guitarra)."
+    ],
+    "f": [
+     "por la tarde toco la guitarra",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "¿Qué haces en tu tiempo libre? Yo a veces nado en la piscina y a menudo salgo con mis amigos.",
+    "e": [
+     "“Salgo” – salir bất quy tắc ở ngôi yo. Trạng từ tần suất (a veces, a menudo) đứng trước động từ.",
+     "“Salgo” – salir is irregular in the yo form. Frequency adverbs (a veces, a menudo) go before the verb."
+    ]
+   },
+   {
+    "t": "say",
+    "s": "No me gusta nada cocinar, pero me encanta comer en restaurantes con mi familia los domingos.",
+    "e": [
+     "“No me gusta nada” = chẳng thích chút nào. Phân biệt: gusta (một hoạt động), encanta (rất thích).",
+     "“No me gusta nada” = I don't like it at all. Gusta (like) vs encanta (love)."
+    ]
+   }
+  ],
+  "ex": [],
+  "hard": [
+   {
+    "t": "trans",
+    "s": "Dạo này mình bị nghiện một bộ phim của Hàn Quốc, tối nào cũng xem đến tận khuya.",
+    "a": [
+     "Últimamente estoy enganchado a una serie coreana y todas las noches la veo hasta muy tarde.",
+     "Últimamente estoy enganchada a una serie coreana y la veo todas las noches hasta muy tarde.",
+     "Últimamente estoy enganchado a una serie coreana; cada noche la veo hasta las tantas."
+    ],
+    "e": [
+     "“Estar enganchado/a a” = bị nghiện, mê (khẩu ngữ). “Hasta las tantas” = đến tận khuya. “Serie” = phim bộ.",
+     "“Estar enganchado/a a” = to be hooked on (colloquial). “Hasta las tantas” = until the small hours. “Serie” = TV series."
+    ],
+    "f": [
+     "estoy enganchado a una serie",
+     "B1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu dùng “soler + nguyên mẫu” để nói thói quen",
+     "Rewrite using “soler + infinitive” for a habit"
+    ],
+    "s": "Normalmente salgo a correr los domingos por la mañana.",
+    "a": [
+     "Suelo salir a correr los domingos por la mañana.",
+     "Los domingos por la mañana suelo salir a correr."
+    ],
+    "e": [
+     "“Soler + nguyên mẫu” = thường làm gì (thói quen); soler đổi o → ue: suelo. Bỏ “normalmente” vì nghĩa đã có trong suelo.",
+     "“Soler + infinitive” = to usually do (habit); soler changes o → ue: suelo. Drop “normalmente” – suelo already means it."
+    ],
+    "f": [
+     "Suelo salir a correr",
+     "A2"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "A mis padres les encanta viajar, pero a mí no me gustan mucho viajar en coche porque me mareo y prefiero quedarme en casa leyendo.",
+    "a": [
+     "A mis padres les encanta viajar, pero a mí no me gusta mucho viajar en coche porque me mareo y prefiero quedarme en casa leyendo."
+    ],
+    "e": [
+     "Gustar + **nguyên mẫu** (viajar) luôn ở số ít: no me **gusta** viajar. Chỉ dùng gustan với danh từ số nhiều (me gustan los viajes). “Marearse” = say xe.",
+     "Gustar + **infinitive** (viajar) is always singular: no me **gusta** viajar. Gustan only with plural nouns (me gustan los viajes). “Marearse” = to get carsick."
+    ],
+    "f": [
+     "no me gusta mucho viajar",
+     "A2"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "¿Te apetece venir al concierto el sábado? Yo ___ de ir, pero si no puedes, no pasa nada.",
+    "a": [
+     "tengo ganas"
+    ],
+    "e": [
+     "“Tener ganas de + nguyên mẫu” = rất muốn làm gì. “¿Te apetece…?” = bạn có muốn…? – cách mời rất tự nhiên.",
+     "“Tener ganas de + infinitive” = to really want to. “¿Te apetece…?” = do you fancy…? – a very natural invitation."
+    ],
+    "f": [
+     "tengo ganas de ir",
+     "A2"
+    ]
+   }
+  ],
+  "rd2": {
+   "tx": "Me llamo Diego y tengo veinte años. Estudio en la universidad, pero en mi tiempo libre hago muchas cosas. Me encanta la música: toco la guitarra y a veces canto con mis amigos. Los sábados por la mañana juego al fútbol en el parque. Por la tarde me gusta leer o ver series en casa. No me gusta nada ir de compras porque hay mucha gente. Los domingos siempre como con mi familia y después salimos a pasear. ¿Y tú? ¿Qué haces los fines de semana?",
+   "tr": "Mình tên là Diego, hai mươi tuổi. Mình học đại học, nhưng lúc rảnh mình làm rất nhiều việc. Mình rất thích âm nhạc: mình chơi guitar và thỉnh thoảng hát cùng bạn bè. Sáng thứ Bảy mình chơi bóng đá ở công viên. Buổi chiều mình thích đọc sách hoặc xem phim bộ ở nhà. Mình chẳng thích đi mua sắm chút nào vì đông người. Chủ nhật mình luôn ăn trưa với gia đình rồi sau đó cả nhà đi dạo. Còn bạn? Cuối tuần bạn làm gì?"
+  },
+  "ex2": [
+   {
+    "t": "read",
+    "q": [
+     "Diego làm gì vào sáng thứ Bảy?",
+     "What does Diego do on Saturday mornings?"
+    ],
+    "o": [
+     [
+      "Chơi bóng đá ở công viên",
+      "Plays football in the park"
+     ],
+     [
+      "Xem phim bộ ở nhà",
+      "Watches series at home"
+     ],
+     [
+      "Ăn trưa với gia đình",
+      "Has lunch with his family"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Los sábados por la mañana juego al fútbol en el parque.” Xem phim là buổi chiều, ăn với gia đình là Chủ nhật.",
+     "“Los sábados por la mañana juego al fútbol en el parque.” Series are in the afternoon, family lunch is on Sunday."
+    ],
+    "f": [
+     "juego al fútbol en el parque",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Vì sao Diego không thích đi mua sắm?",
+     "Why doesn't Diego like shopping?"
+    ],
+    "o": [
+     [
+      "Vì quá đông người",
+      "Because there are too many people"
+     ],
+     [
+      "Vì đắt tiền",
+      "Because it's expensive"
+     ],
+     [
+      "Vì anh ấy không có thời gian",
+      "Because he has no time"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“…porque hay mucha gente.” “No me gusta nada” = chẳng thích chút nào.",
+     "“…porque hay mucha gente.” “No me gusta nada” = I don't like it at all."
+    ],
+    "f": [
+     "porque hay mucha gente",
+     "A1"
+    ]
+   },
+   {
+    "t": "read",
+    "q": [
+     "Chủ nhật Diego thường làm gì?",
+     "What does Diego usually do on Sundays?"
+    ],
+    "o": [
+     [
+      "Ăn với gia đình rồi đi dạo",
+      "Eats with his family and then goes for a walk"
+     ],
+     [
+      "Hát với bạn bè",
+      "Sings with his friends"
+     ],
+     [
+      "Đi học ở trường đại học",
+      "Studies at the university"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Los domingos siempre como con mi familia y después salimos a pasear.” “Siempre” = luôn luôn.",
+     "“Los domingos siempre como con mi familia y después salimos a pasear.” “Siempre” = always."
+    ],
+    "f": [
+     "siempre como con mi familia",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "A mi hermana le ___ mucho los videojuegos, pero a mí me parecen un poco aburridos.",
+    "o": [
+     "gustan",
+     "gusta",
+     "gustas"
+    ],
+    "a": 0,
+    "e": [
+     "Los videojuegos là số nhiều → **gustan**. Người thích (mi hermana) không quyết định động từ – thứ được thích mới quyết định.",
+     "Los videojuegos is plural → **gustan**. The person who likes (mi hermana) doesn't decide the verb – the thing liked does."
+    ],
+    "f": [
+     "le gustan mucho los videojuegos",
+     "A1"
+    ]
+   },
+   {
+    "t": "fill",
+    "s": "Los martes y los jueves mi padre ___ al tenis con sus compañeros de trabajo después de la oficina.",
+    "o": [
+     "juega",
+     "toca",
+     "hace"
+    ],
+    "a": 0,
+    "e": [
+     "Môn thể thao/trò chơi dùng **jugar al**: juega al tenis. “Tocar” dành cho nhạc cụ.",
+     "Sports and games take **jugar al**: juega al tenis. “Tocar” is for instruments."
+    ],
+    "f": [
+     "juega al tenis",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "Mi abuelo ___ el piano muy bien y todos los domingos tocamos juntos en el salón. (tocar)",
+    "a": [
+     "toca"
+    ],
+    "e": [
+     "Nhạc cụ dùng **tocar**: toca el piano. Không dùng “juega el piano”.",
+     "Instruments use **tocar**: toca el piano. Never “juega el piano”."
+    ],
+    "f": [
+     "toca el piano",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "No me gusta ___ ir al cine solo; prefiero ver películas en casa con mi familia.",
+    "a": [
+     "nada"
+    ],
+    "e": [
+     "“No me gusta nada” = chẳng thích chút nào. Tiếng Tây Ban Nha dùng phủ định kép: no … nada.",
+     "“No me gusta nada” = I don't like it at all. Spanish uses double negatives: no … nada."
+    ],
+    "f": [
+     "No me gusta nada",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Yo gusto mucho bailar salsa, y los viernes voy a una escuela de baile con mi amiga Carmen.",
+    "a": [
+     "Me gusta mucho bailar salsa, y los viernes voy a una escuela de baile con mi amiga Carmen.",
+     "A mí me gusta mucho bailar salsa, y los viernes voy a una escuela de baile con mi amiga Carmen."
+    ],
+    "e": [
+     "Không nói “yo gusto” (= tôi làm người khác thích). Đúng: **(A mí) me gusta** bailar.",
+     "Don't say “yo gusto” (= I am pleasing). Correct: **(A mí) me gusta** bailar."
+    ],
+    "f": [
+     "Me gusta mucho bailar",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Los fines de semana nunca no veo la tele porque prefiero salir a pasear con mi perro.",
+    "a": [
+     "Los fines de semana nunca veo la tele porque prefiero salir a pasear con mi perro.",
+     "Los fines de semana no veo nunca la tele porque prefiero salir a pasear con mi perro."
+    ],
+    "e": [
+     "Khi **nunca** đứng trước động từ thì không thêm “no”. Nếu nunca đứng sau, phải có no: no veo nunca.",
+     "When **nunca** comes before the verb, don't add “no”. If nunca comes after, you need no: no veo nunca."
+    ],
+    "f": [
+     "nunca veo la tele",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Lúc rảnh tôi thích đọc sách và nghe nhạc, nhưng tôi không thích xem tivi.",
+    "a": [
+     "En mi tiempo libre me gusta leer y escuchar música, pero no me gusta ver la tele.",
+     "En mi tiempo libre me gusta leer y escuchar música, pero no me gusta ver la televisión.",
+     "En el tiempo libre me gusta leer y escuchar música, pero no me gusta ver la tele."
+    ],
+    "e": [
+     "“Me gusta + hai nguyên mẫu” vẫn là gusta (số ít). “Ver la tele” = xem tivi; “escuchar música” không cần mạo từ.",
+     "“Me gusta + two infinitives” is still gusta (singular). “Ver la tele” = watch TV; “escuchar música” needs no article."
+    ],
+    "f": [
+     "me gusta leer y escuchar música",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Thỉnh thoảng tôi đi bơi với bạn bè vào Chủ nhật vì hồ bơi gần nhà tôi.",
+    "a": [
+     "A veces voy a nadar con mis amigos los domingos porque la piscina está cerca de mi casa.",
+     "A veces nado con mis amigos los domingos porque la piscina está cerca de mi casa.",
+     "Los domingos a veces voy a nadar con mis amigos porque la piscina está cerca de casa."
+    ],
+    "e": [
+     "“Los domingos” (có mạo từ, số nhiều) = vào các Chủ nhật. Vị trí dùng **estar**: la piscina está cerca de…",
+     "“Los domingos” (article + plural) = on Sundays. Location uses **estar**: la piscina está cerca de…"
+    ],
+    "f": [
+     "A veces voy a nadar",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu cho người thứ ba: “A mi hermano…”",
+     "Rewrite it about a third person: “A mi hermano…”"
+    ],
+    "s": "Me encantan los perros y me gusta pasear por el parque.",
+    "a": [
+     "A mi hermano le encantan los perros y le gusta pasear por el parque."
+    ],
+    "e": [
+     "Đổi đại từ me → **le** (cho anh ấy); động từ giữ nguyên vì thứ được thích không đổi: encantan, gusta.",
+     "Change me → **le** (to him); the verbs stay the same because the things liked don't change: encantan, gusta."
+    ],
+    "f": [
+     "A mi hermano le encantan",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Los domingos|por la tarde|mis amigos y yo|jugamos|al baloncesto|en el parque|cerca de casa",
+    "m": [
+     "Chiều Chủ nhật tôi và bạn bè chơi bóng rổ ở công viên gần nhà.",
+     "On Sunday afternoons my friends and I play basketball in the park near home."
+    ],
+    "e": [
+     "“Mis amigos y yo” → động từ ngôi nosotros: **jugamos**. Nhớ “jugar **al**” + môn thể thao.",
+     "“Mis amigos y yo” → nosotros verb: **jugamos**. Remember “jugar **al**” + sport."
+    ],
+    "f": [
+     "jugamos al baloncesto",
+     "A1"
+    ]
+   },
+   {
+    "t": "free",
+    "q": [
+     "Viết khoảng 60 từ giới thiệu sở thích của bạn: thích gì, không thích gì, làm khi nào và bao lâu một lần.",
+     "Write about 60 words on your hobbies: what you like and dislike, when and how often you do them."
+    ],
+    "m": "En mi tiempo libre me encanta leer novelas y escuchar música. Toco la guitarra desde los quince años y a menudo practico por la noche. Los sábados por la mañana juego al bádminton con mis compañeros de clase. A veces voy al cine con mi novio. No me gusta nada ir de compras porque siempre hay mucha gente en las tiendas.",
+    "e": [
+     "Cần có: • ít nhất 2 thứ thích (me gusta / me encanta) và 1 thứ không thích • gusta/gustan dùng đúng số • 2 trạng từ tần suất (a menudo, a veces, siempre…) • jugar al / tocar dùng đúng.",
+     "Checklist: • at least 2 likes (me gusta / me encanta) and 1 dislike • gusta/gustan in the right number • 2 frequency adverbs (a menudo, a veces, siempre…) • jugar al / tocar used correctly."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-r",
+  "t": [
+   "Bài đọc: Lucía tự giới thiệu",
+   "Reading: Lucía introduces herself"
+  ],
+  "rd": {
+   "tx": "¡Hola! Me llamo Lucía y soy de Sevilla. Tengo veinticinco años y soy profesora de inglés. Vivo en un piso pequeño con mi gato, Rufo. Me gusta mucho leer y cocinar. Los sábados como con mi familia. Mi madre cocina muy bien. Hoy estoy un poco cansada porque trabajo mucho, pero estoy contenta.",
+   "tr": "Xin chào! Tôi tên Lucía, tôi đến từ Sevilla. Tôi 25 tuổi và là giáo viên tiếng Anh. Tôi sống trong một căn hộ nhỏ với con mèo của tôi, Rufo. Tôi rất thích đọc sách và nấu ăn. Thứ Bảy nào tôi cũng ăn cùng gia đình. Mẹ tôi nấu ăn rất ngon. Hôm nay tôi hơi mệt vì làm việc nhiều, nhưng tôi vui."
+  },
+  "vo": [
+   [
+    "el piso",
+    "el PI-so",
+    "căn hộ",
+    "flat"
+   ],
+   [
+    "el gato",
+    "el GA-to",
+    "con mèo",
+    "cat"
+   ],
+   [
+    "leer",
+    "le-ER",
+    "đọc",
+    "to read"
+   ],
+   [
+    "cocinar",
+    "co-ci-NAR",
+    "nấu ăn",
+    "to cook"
+   ],
+   [
+    "los sábados",
+    "los SÁ-ba-dos",
+    "các ngày thứ Bảy",
+    "on Saturdays"
+   ],
+   [
+    "un poco",
+    "un PO-co",
+    "một chút",
+    "a little"
+   ]
+  ],
+  "ex": [
+   [
+    "mc",
+    [
+     "Lucía đến từ đâu?",
+     "Where is Lucía from?"
+    ],
+    [
+     "Madrid",
+     "Sevilla",
+     "Barcelona"
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Lucía làm nghề gì?",
+     "What is Lucía's job?"
+    ],
+    [
+     [
+      "giáo viên tiếng Anh",
+      "English teacher"
+     ],
+     [
+      "đầu bếp",
+      "cook"
+     ],
+     [
+      "bác sĩ",
+      "doctor"
+     ]
+    ],
+    0
+   ],
+   [
+    "mc",
+    [
+     "Rufo là ai?",
+     "Who is Rufo?"
+    ],
+    [
+     [
+      "em trai",
+      "her brother"
+     ],
+     [
+      "con mèo",
+      "her cat"
+     ],
+     [
+      "một người bạn",
+      "a friend"
+     ]
+    ],
+    1
+   ],
+   [
+    "mc",
+    [
+     "Vì sao hôm nay Lucía mệt?",
+     "Why is Lucía tired today?"
+    ],
+    [
+     [
+      "vì làm việc nhiều",
+      "she works a lot"
+     ],
+     [
+      "vì ốm",
+      "she's ill"
+     ],
+     [
+      "vì đi du lịch",
+      "she travelled"
+     ]
+    ],
+    0
+   ],
+   [
+    "fill",
+    "Hoy ___ un poco cansada.",
+    [
+     "soy",
+     "estoy",
+     "tengo"
+    ],
+    1
+   ],
+   [
+    "order",
+    "Me gusta mucho leer y cocinar",
+    [
+     "Tôi rất thích đọc sách và nấu ăn.",
+     "I really like reading and cooking."
+    ]
+   ]
+  ],
+  "warm": [
+   {
+    "t": "listen",
+    "s": "Lucía es profesora de inglés en Sevilla y vive en un piso pequeño con su gato.",
+    "q": [
+     "Lucía sống với ai?",
+     "Who does Lucía live with?"
+    ],
+    "o": [
+     [
+      "Với con mèo của cô",
+      "With her cat"
+     ],
+     [
+      "Với mẹ",
+      "With her mother"
+     ],
+     [
+      "Với một người bạn",
+      "With a friend"
+     ]
+    ],
+    "a": 0,
+    "e": [
+     "“Vive en un piso pequeño con su gato” – cô sống cùng con mèo Rufo. Mẹ cô chỉ được nhắc đến trong các bữa ăn thứ Bảy.",
+     "“Vive en un piso pequeño con su gato” – she lives with her cat Rufo. Her mother only appears at the Saturday meals."
+    ],
+    "f": [
+     "con su gato",
+     "A1"
+    ]
+   },
+   {
+    "t": "dict",
+    "s": "Los sábados como con mi familia porque mi madre cocina muy bien.",
+    "e": [
+     "“Como” ở đây là động từ “comer” chia ngôi yo (tôi ăn), không phải “như”. “Cocina” là “cocinar” ngôi ella.",
+     "“Como” here is “comer” in the yo form (I eat), not “like/as”. “Cocina” is “cocinar” in the ella form."
+    ],
+    "f": [
+     "Los sábados como con mi familia",
+     "A1"
+    ]
+   },
+   {
+    "t": "say",
+    "s": "Hoy estoy un poco cansada porque trabajo mucho, pero estoy contenta.",
+    "e": [
+     "Hai trạng thái tạm thời đều dùng “estar”. Nhấn vào “can-SA-da” và “con-TEN-ta”.",
+     "Both temporary states use “estar”. Stress “can-SA-da” and “con-TEN-ta”."
+    ]
+   }
+  ],
+  "ex2": [
+   {
+    "t": "fill",
+    "s": "Lucía ___ veinticinco años y es profesora de inglés en una escuela de Sevilla.",
+    "o": [
+     "es",
+     "tiene",
+     "está"
+    ],
+    "a": 1,
+    "e": [
+     "Tuổi luôn dùng “tener”: “tiene veinticinco años”. Bẫy là chọn “es” do ảnh hưởng của tiếng Anh “she is 25”.",
+     "Age always uses “tener”: “tiene veinticinco años”. The trap is “es”, copied from English “she is 25”."
+    ],
+    "f": [
+     "tiene veinticinco años",
+     "A1"
+    ]
+   },
+   {
+    "t": "gap",
+    "s": "A Lucía le ___ mucho leer y cocinar, y los sábados come con su familia.",
+    "a": [
+     "gusta"
+    ],
+    "e": [
+     "Khi thứ được thích là động từ (leer, cocinar), “gustar” luôn ở số ít: “le gusta”, kể cả khi có hai động từ.",
+     "When the thing liked is a verb (leer, cocinar), “gustar” stays singular: “le gusta”, even with two verbs."
+    ],
+    "f": [
+     "le gusta",
+     "A1"
+    ]
+   },
+   {
+    "t": "fix",
+    "s": "Lucía es un poco cansada hoy porque trabaja mucho, pero está contenta.",
+    "a": [
+     "Lucía está un poco cansada hoy porque trabaja mucho, pero está contenta."
+    ],
+    "e": [
+     "Mệt mỏi là trạng thái tạm thời (có “hoy”), nên dùng “estar”: “está un poco cansada”. “Es cansada” nghe như đó là bản chất của cô ấy.",
+     "Tiredness is a temporary state (note “hoy”), so “estar”: “está un poco cansada”. “Es cansada” sounds like a permanent trait."
+    ],
+    "f": [
+     "está un poco cansada",
+     "A1"
+    ]
+   },
+   {
+    "t": "trans",
+    "s": "Tôi tên là Minh, tôi ba mươi tuổi và tôi sống trong một căn hộ nhỏ ở Hà Nội.",
+    "a": [
+     "Me llamo Minh, tengo treinta años y vivo en un piso pequeño en Hanói.",
+     "Me llamo Minh, tengo 30 años y vivo en un piso pequeño en Hanói.",
+     "Me llamo Minh, tengo treinta años y vivo en Hanói en un piso pequeño.",
+     "Me llamo Minh, tengo treinta años y vivo en un apartamento pequeño en Hanói."
+    ],
+    "e": [
+     "Tên: “me llamo”; tuổi: “tengo… años”; nơi ở: “vivo en”. Ở Tây Ban Nha “căn hộ” thường là “piso”. Tính từ “pequeño” đứng sau danh từ.",
+     "Name: “me llamo”; age: “tengo… años”; home: “vivo en”. In Spain a flat is usually “piso”. The adjective “pequeño” follows the noun."
+    ],
+    "f": [
+     "tengo treinta años",
+     "A1"
+    ]
+   },
+   {
+    "t": "rewrite",
+    "q": [
+     "Viết lại câu ở ngôi thứ ba (nói về Lucía)",
+     "Rewrite the sentence in the third person (about Lucía)"
+    ],
+    "s": "Me llamo Lucía, soy de Sevilla y vivo en un piso pequeño con mi gato.",
+    "a": [
+     "Se llama Lucía, es de Sevilla y vive en un piso pequeño con su gato.",
+     "Ella se llama Lucía, es de Sevilla y vive en un piso pequeño con su gato."
+    ],
+    "e": [
+     "Đổi cả ba động từ: “me llamo” → “se llama”, “soy” → “es”, “vivo” → “vive”, và tính từ sở hữu “mi” → “su”. Hay quên đổi “mi gato”.",
+     "Change all three verbs: “me llamo” → “se llama”, “soy” → “es”, “vivo” → “vive”, and the possessive “mi” → “su”. People often forget “mi gato”."
+    ],
+    "f": [
+     "se llama Lucía",
+     "A1"
+    ]
+   },
+   {
+    "t": "order",
+    "s": "Mi madre|cocina|muy bien,|por eso|los sábados|como|con mi familia|en su casa.",
+    "m": [
+     "Mẹ tôi nấu ăn rất ngon, vì thế thứ Bảy nào tôi cũng ăn với gia đình ở nhà mẹ.",
+     "My mother cooks very well, so on Saturdays I eat with my family at her house."
+    ],
+    "e": [
+     "“Por eso” (vì thế) nối nguyên nhân với kết quả. “Los sábados” = mọi thứ Bảy, đứng đầu mệnh đề để chỉ thói quen.",
+     "“Por eso” (that's why) links cause and result. “Los sábados” = every Saturday, placed at the start of the clause for a habit."
+    ],
+    "f": [
+     "por eso",
+     "A1"
+    ]
+   }
+  ]
+ }
+]
