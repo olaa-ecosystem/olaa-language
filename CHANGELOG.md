@@ -13,3 +13,9 @@ All notable changes will be recorded here. Until the first release, this reposit
   - Practice hub: fix mistakes, spaced-repetition flashcards, quick practice (earn hearts).
   - Profile with stats, weekly XP chart, buddy and settings.
   - Unit + integration tests and GitHub Actions CI.
+- Olaa ID sign-in and progress sync with Firebase (platform ADR-0004, PRD REQ-01-040/041):
+  - Google and email/password sign-in on the welcome page and in Profile → Account.
+  - Progress syncs to Firestore `language/{uid}`; most recent copy wins; other devices update live.
+  - Sign-out clears this device; the account keeps the progress.
+  - Without `VITE_FIREBASE_*` config the app stays local-only, as before.
+  - `firebase.json` / `.firebaserc` to deploy the build to Firebase Hosting.

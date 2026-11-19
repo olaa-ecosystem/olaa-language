@@ -27,6 +27,12 @@ export const appStore = {
     saveJson(state);
     listeners.forEach((l) => l());
   },
+  /** Replace the whole state, e.g. with progress downloaded from the account. */
+  replace(next: AppState): void {
+    state = { ...initialState(), ...next };
+    saveJson(state);
+    listeners.forEach((l) => l());
+  },
   reset(): void {
     clearSaved();
     state = initialState();

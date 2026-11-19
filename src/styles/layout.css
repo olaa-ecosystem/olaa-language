@@ -1309,3 +1309,24 @@ fieldset.field {
     height: 72px !important;
   }
 }
+
+/* ================= account ================= */
+.account-card {
+  display: grid;
+  gap: 12px;
+  text-align: left;
+}
+.account-card p {
+  margin: 0;
+}
+.account-card__form {
+  display: grid;
+  gap: 10px;
+}
+.account-card__error {
+  color: var(--danger);
+  font-weight: 600;
+}
+.welcome__hello .account-card {
+  margin-top: 20px;
+}
