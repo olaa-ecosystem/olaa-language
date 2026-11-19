@@ -11,8 +11,10 @@ import {
   setSound,
   switchCourse,
 } from '../../stores/appState';
+import { firebaseEnabled } from '../../services/firebase';
 import { MASCOT_IDS } from '../../types';
 import { fromDayKey, lastNDays, toDayKey } from '../../utils/date';
+import { AccountCard } from '../account/AccountCard';
 import { COURSES, courseCompletion, type Course } from '../curriculum';
 import { masteredCount } from '../flashcards-srs/srs';
 import { visibleStreak } from './streak';
@@ -108,6 +110,13 @@ export function ProfilePage({ course }: { course: Course }) {
         ))}
       </div>
 
+      {firebaseEnabled && (
+        <>
+          <h2 className="section-title">Account</h2>
+          <AccountCard />
+        </>
+      )}
+
       <h2 className="section-title">Settings</h2>
       <div className="card settings">
         <fieldset>
@@ -178,7 +187,7 @@ export function ProfilePage({ course }: { course: Course }) {
             </button>
           )}
         </div>
-        <p className="muted small">Progress is saved in this browser only.</p>
+        {!firebaseEnabled && <p className="muted small">Progress is saved in this browser only.</p>}
       </div>
     </div>
   );

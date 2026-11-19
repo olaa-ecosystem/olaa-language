@@ -57,6 +57,20 @@ tests/integration/     App-level tests
 ```
 
 ## 8. Development
+
+### Firebase (sign-in and sync)
+Optional. Copy `.env.example` to `.env.local` and fill the `VITE_FIREBASE_*` values from
+Firebase console → Project settings → Your apps → Web app. Without them the app runs local-only.
+Firestore rules live in `olaa-platform/infrastructure/firebase/`.
+
+Deploy to Firebase Hosting site `olaa-language` (project `olaa-ecosystem`), live at
+https://olaa-language.web.app. GitHub Actions deploys PR previews and `main` automatically
+(`.github/workflows/deploy.yml`). By hand:
+
+```bash
+pnpm build && npx firebase-tools deploy --only hosting
+```
+
 Requires Node 20+ and pnpm 9 (`npm i -g pnpm@9` or `npx pnpm@9 …`).
 
 ```bash

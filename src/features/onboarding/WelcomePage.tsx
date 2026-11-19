@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import { MASCOTS, Mascot } from '../../components/mascots';
+import { firebaseEnabled } from '../../services/firebase';
 import { appStore } from '../../stores/appStore';
 import { completeOnboarding, DAILY_GOAL_OPTIONS } from '../../stores/appState';
 import { MASCOT_IDS, type MascotId } from '../../types';
+import { AccountCard } from '../account/AccountCard';
 import { COURSES, type CourseId } from '../curriculum';
 
 type Step = 'hello' | 'course' | 'buddy' | 'goal';
@@ -62,6 +64,9 @@ export function WelcomePage() {
           >
             Get started
           </button>
+          {firebaseEnabled && (
+            <AccountCard intro="Already learning with Olaa? Sign in to continue where you left off." />
+          )}
         </section>
       )}
 
