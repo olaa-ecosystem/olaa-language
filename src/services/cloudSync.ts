@@ -42,6 +42,22 @@ let applyingRemote = false;
 let pushTimer: ReturnType<typeof setTimeout> | null = null;
 let stopSnapshot: Unsubscribe | null = null;
 let started = false;
+let lastState: AppState = appStore.getState();
+const localChangeListeners = new Set<(prev: AppState, next: AppState) => void>();
+
+/** The signed-in user's uid, or null. */
+export function currentUserId(): string | null {
+  return currentUid;
+}
+
+/**
+ * Called after each change made on this device (not changes downloaded from the account),
+ * with the state before and after. Used to emit events for other apps.
+ */
+export function onLocalChange(listener: (prev: AppState, next: AppState) => void): () => void {
+  localChangeListeners.add(listener);
+  return () => localChangeListeners.delete(listener);
+}
 
 function readMeta(): number {
   try {
@@ -165,9 +181,12 @@ export function startCloudSync(): void {
   started = true;
 
   appStore.subscribe(() => {
+    const prev = lastState;
+    lastState = appStore.getState();
     if (applyingRemote) return;
     writeMeta(Date.now());
     schedulePush();
+    localChangeListeners.forEach((l) => l(prev, lastState));
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden') void flush();
