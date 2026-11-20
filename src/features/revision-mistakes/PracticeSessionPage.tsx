@@ -18,6 +18,7 @@ import type { Explanation } from '../exercises/explain';
 import { LessonPlayer } from '../lesson-player/LessonPlayer';
 import { SessionComplete } from '../lesson-player/ResultScreens';
 import type { SessionSummary } from '../lesson-player/session';
+import { tr } from '../../i18n/locale';
 
 export const PRACTICE_XP = 10;
 const MISTAKES_PER_SESSION = 10;
@@ -70,14 +71,23 @@ export function PracticeSessionPage({
   if (!exercises.length) {
     return (
       <div className="page page--center">
-        <EmptyState mascot={<Mascot id={buddy} size={140} />} title="Nothing to practise yet">
+        <EmptyState
+          mascot={<Mascot id={buddy} size={140} />}
+          title={tr('Chưa có gì để luyện', 'Nothing to practise yet')}
+        >
           <p>
             {kind === 'mistakes'
-              ? 'No mistakes to review — nice work! Finish more lessons to keep growing.'
-              : 'Complete your first lesson to unlock practice.'}
+              ? tr(
+                  'Không có lỗi nào để xem lại, giỏi lắm! Học thêm bài để tiến bộ tiếp.',
+                  'No mistakes to review. Nice work! Finish more lessons to keep growing.',
+                )
+              : tr(
+                  'Học xong bài đầu tiên để mở phần luyện tập.',
+                  'Complete your first lesson to unlock practice.',
+                )}
           </p>
           <button type="button" className="btn" onClick={() => navigate({ name: 'learn' })}>
-            Go to lessons
+            {tr('Đến bài học', 'Go to lessons')}
           </button>
         </EmptyState>
       </div>
@@ -88,7 +98,11 @@ export function PracticeSessionPage({
     return (
       <SessionComplete
         buddy={buddy}
-        title={kind === 'mistakes' ? 'Mistakes fixed!' : 'Practice complete!'}
+        title={
+          kind === 'mistakes'
+            ? tr('Đã sửa xong lỗi!', 'Mistakes fixed!')
+            : tr('Xong lượt luyện tập!', 'Practice complete!')
+        }
         xp={PRACTICE_XP}
         summary={summary}
         onContinue={exit}

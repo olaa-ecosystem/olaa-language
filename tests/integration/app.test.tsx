@@ -4,6 +4,11 @@ import { App } from '../../src/app/App';
 import { LessonPlayer } from '../../src/features/lesson-player/LessonPlayer';
 import type { Exercise } from '../../src/features/exercises';
 import { appStore } from '../../src/stores/appStore';
+import { setLocale } from '../../src/i18n/locale';
+
+// These checks were written against the English interface.
+beforeAll(() => setLocale('en'));
+afterAll(() => setLocale('vi'));
 
 beforeEach(() => {
   appStore.reset();
@@ -28,7 +33,7 @@ describe('onboarding to first lesson', () => {
     expect(appStore.getState().profile).toEqual({ name: 'Mai', buddy: 'frog' });
     expect(screen.getByRole('heading', { name: 'First words' })).toBeInTheDocument();
 
-    const node = screen.getByRole('button', { name: /greetings — available/i });
+    const node = screen.getByRole('button', { name: /greetings: available/i });
     await user.click(node);
     await user.click(screen.getByRole('button', { name: /start \+10 xp/i }));
     await act(async () => {
@@ -52,7 +57,7 @@ describe('onboarding to first lesson', () => {
       activeCourseId: 'en-from-vi',
     }));
     render(<App />);
-    expect(screen.getByRole('button', { name: /people — locked/i })).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: /people: locked/i })).toBeInTheDocument();
   });
 });
 

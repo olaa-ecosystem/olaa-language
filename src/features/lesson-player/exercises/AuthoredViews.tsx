@@ -12,6 +12,7 @@ import type {
   TextExercise,
 } from '../../exercises';
 import { ExerciseTitle, SpeakButton, useNumberKeys, type ViewProps } from './common';
+import { tr } from '../../../i18n/locale';
 
 function Blanked({ text }: { text: string }) {
   const parts = text.split(/_{2,}/);
@@ -20,7 +21,7 @@ function Blanked({ text }: { text: string }) {
       {parts.map((p, i) => (
         <span key={i}>
           {p}
-          {i < parts.length - 1 && <span className="blank" aria-label="chỗ trống" />}
+          {i < parts.length - 1 && <span className="blank" aria-label={tr('chỗ trống', 'blank')} />}
         </span>
       ))}
     </p>
@@ -31,7 +32,7 @@ function Passage({ passage }: { passage: NonNullable<ChoiceExercise['passage']> 
   const [showTranslation, setShowTranslation] = useState(false);
   return (
     <details className="passage" open>
-      <summary>Bài đọc</summary>
+      <summary>{tr('Bài đọc', 'Reading')}</summary>
       <p>{passage.text}</p>
       {passage.translation && (
         <button
@@ -39,7 +40,9 @@ function Passage({ passage }: { passage: NonNullable<ChoiceExercise['passage']> 
           className="link-btn"
           onClick={() => setShowTranslation(!showTranslation)}
         >
-          {showTranslation ? 'Ẩn bản dịch' : 'Xem bản dịch'}
+          {showTranslation
+            ? tr('Ẩn bản dịch', 'Hide translation')
+            : tr('Xem bản dịch', 'Show translation')}
         </button>
       )}
       {showTranslation && <p className="passage__translation">{passage.translation}</p>}
@@ -59,16 +62,28 @@ export function ChoiceItemView({
   }, [exercise]);
   return (
     <div className="exercise">
-      <ExerciseTitle>{exercise.instruction ?? 'Chọn đáp án đúng'}</ExerciseTitle>
+      <ExerciseTitle>
+        {exercise.instruction ?? tr('Chọn đáp án đúng', 'Choose the right answer')}
+      </ExerciseTitle>
       {exercise.passage && <Passage passage={exercise.passage} />}
       {exercise.audioText && (
         <div className="audio-row">
-          <SpeakButton text={exercise.audioText} lang={exercise.lang} big label="Nghe" />
-          <SpeakButton text={exercise.audioText} lang={exercise.lang} slow label="Nghe chậm" />
+          <SpeakButton
+            text={exercise.audioText}
+            lang={exercise.lang}
+            big
+            label={tr('Nghe', 'Listen')}
+          />
+          <SpeakButton
+            text={exercise.audioText}
+            lang={exercise.lang}
+            slow
+            label={tr('Nghe chậm', 'Play slowly')}
+          />
         </div>
       )}
       <Blanked text={exercise.prompt} />
-      <div className="choices" role="group" aria-label="Các đáp án">
+      <div className="choices" role="group" aria-label={tr('Các đáp án', 'Answer options')}>
         {exercise.options.map((option, i) => {
           const picked = response === String(i);
           const state = locked
@@ -131,7 +146,7 @@ function AnswerInput({
     spellCheck: false,
     value: response ?? '',
     readOnly: locked,
-    placeholder: 'Nhập câu trả lời…',
+    placeholder: tr('Nhập câu trả lời…', 'Type your answer…'),
   };
   return (
     <>
@@ -157,11 +172,13 @@ function AnswerInput({
 export function TextItemView({ exercise, locked, response, onResponse }: ViewProps<TextExercise>) {
   return (
     <div className="exercise">
-      <ExerciseTitle>{exercise.instruction ?? 'Viết câu trả lời'}</ExerciseTitle>
+      <ExerciseTitle>
+        {exercise.instruction ?? tr('Viết câu trả lời', 'Write your answer')}
+      </ExerciseTitle>
       <Blanked text={exercise.prompt} />
       <AnswerInput
         id="text-answer"
-        label="Câu trả lời"
+        label={tr('Câu trả lời', 'Answer')}
         lang={exercise.lang}
         locked={locked}
         response={response}
@@ -180,14 +197,24 @@ export function DictationView({
   useEffect(() => speakSoon(exercise.audioText, exercise.lang), [exercise]);
   return (
     <div className="exercise">
-      <ExerciseTitle>Nghe và chép lại</ExerciseTitle>
+      <ExerciseTitle>{tr('Nghe và chép lại', 'Listen and write what you hear')}</ExerciseTitle>
       <div className="audio-row">
-        <SpeakButton text={exercise.audioText} lang={exercise.lang} big label="Nghe" />
-        <SpeakButton text={exercise.audioText} lang={exercise.lang} slow label="Nghe chậm" />
+        <SpeakButton
+          text={exercise.audioText}
+          lang={exercise.lang}
+          big
+          label={tr('Nghe', 'Listen')}
+        />
+        <SpeakButton
+          text={exercise.audioText}
+          lang={exercise.lang}
+          slow
+          label={tr('Nghe chậm', 'Play slowly')}
+        />
       </div>
       <AnswerInput
         id="dictation-answer"
-        label="Câu bạn nghe được"
+        label={tr('Câu bạn nghe được', 'What you heard')}
         lang={exercise.lang}
         locked={locked}
         response={response}
@@ -200,10 +227,22 @@ export function DictationView({
 export function SayView({ exercise, locked, response, onResponse }: ViewProps<SayExercise>) {
   return (
     <div className="exercise">
-      <ExerciseTitle>Nghe mẫu rồi nói to câu này</ExerciseTitle>
+      <ExerciseTitle>
+        {tr('Nghe mẫu rồi nói to câu này', 'Listen, then say it aloud')}
+      </ExerciseTitle>
       <div className="audio-row">
-        <SpeakButton text={exercise.text} lang={exercise.lang} big label="Nghe mẫu" />
-        <SpeakButton text={exercise.text} lang={exercise.lang} slow label="Nghe chậm" />
+        <SpeakButton
+          text={exercise.text}
+          lang={exercise.lang}
+          big
+          label={tr('Nghe mẫu', 'Play the model')}
+        />
+        <SpeakButton
+          text={exercise.text}
+          lang={exercise.lang}
+          slow
+          label={tr('Nghe chậm', 'Play slowly')}
+        />
       </div>
       <p className="authored-prompt" lang={exercise.lang}>
         {exercise.text}
@@ -216,9 +255,14 @@ export function SayView({ exercise, locked, response, onResponse }: ViewProps<Sa
         disabled={locked}
         onClick={() => onResponse(response === 'said' ? null : 'said')}
       >
-        Tôi đã nói to câu này
+        {tr('Tôi đã nói to câu này', 'I said it aloud')}
       </button>
-      <p className="hint">Chấm phát âm tự động sẽ có sau. Bây giờ bạn tự nghe lại và so với mẫu.</p>
+      <p className="hint">
+        {tr(
+          'Chấm phát âm tự động sẽ có sau. Bây giờ bạn tự nghe lại và so với mẫu.',
+          'Automatic pronunciation scoring comes later. For now, compare yourself with the model.',
+        )}
+      </p>
     </div>
   );
 }
@@ -226,11 +270,11 @@ export function SayView({ exercise, locked, response, onResponse }: ViewProps<Sa
 export function FreeView({ exercise, locked, response, onResponse }: ViewProps<FreeExercise>) {
   return (
     <div className="exercise">
-      <ExerciseTitle>Viết</ExerciseTitle>
+      <ExerciseTitle>{tr('Viết', 'Write')}</ExerciseTitle>
       <p className="authored-prompt">{exercise.prompt}</p>
       <AnswerInput
         id="free-answer"
-        label="Bài viết của bạn"
+        label={tr('Bài viết của bạn', 'Your writing')}
         lang={exercise.lang}
         locked={locked}
         response={response}
@@ -239,7 +283,7 @@ export function FreeView({ exercise, locked, response, onResponse }: ViewProps<F
       />
       {locked && exercise.model && (
         <details className="passage" open>
-          <summary>Bài mẫu để so sánh</summary>
+          <summary>{tr('Bài mẫu để so sánh', 'Model answer to compare')}</summary>
           <p style={{ whiteSpace: 'pre-wrap' }}>{exercise.model}</p>
         </details>
       )}

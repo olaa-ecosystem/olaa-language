@@ -12,8 +12,9 @@ import { toDayKey } from '../../utils/date';
 import { LanguageTabs } from '../levels/LevelsPage';
 import type { CurriculumLang } from '../levels/types';
 import type { Loaded } from '../levels/useLevel';
-import { loadTopics, phraseIn, topicExercises } from './topics';
+import { loadTopics, meaningOf, phraseIn, skillName, studyTime, topicExercises } from './topics';
 import type { Topic } from './types';
+import { tr } from '../../i18n/locale';
 
 function useTopics(): Loaded<Topic[]> {
   const [state, setState] = useState<Loaded<Topic[]>>({ status: 'loading' });
@@ -34,7 +35,9 @@ function Waiting({ loaded }: { loaded: Loaded<unknown> }) {
   return (
     <div className="page page--center">
       <p className="muted" role="status">
-        {loaded.status === 'error' ? 'Không tải được chủ đề.' : 'Đang tải…'}
+        {loaded.status === 'error'
+          ? tr('Không tải được chủ đề.', 'Could not load the topics.')
+          : tr('Đang tải…', 'Loading…')}
       </p>
     </div>
   );
@@ -47,8 +50,13 @@ export function TopicsPage() {
     <div className="page">
       <section className="page-hero">
         <div>
-          <h1>15 chủ đề giao tiếp</h1>
-          <p>Mỗi chủ đề có từ vựng, mẫu câu và bài tập cho cả ba ngôn ngữ.</p>
+          <h1>{tr('15 chủ đề giao tiếp', '15 conversation topics')}</h1>
+          <p>
+            {tr(
+              'Mỗi chủ đề có từ vựng, mẫu câu và bài tập cho cả ba ngôn ngữ.',
+              'Each topic has vocabulary, model sentences and practice in all three languages. Topic notes are in Vietnamese.',
+            )}
+          </p>
         </div>
       </section>
       <ol className="unit-list">
@@ -59,7 +67,7 @@ export function TopicsPage() {
               <span>
                 <strong>{t.title}</strong>
                 <small className="muted">
-                  {t.level.cefr} · {t.level.hsk} · {t.hours}
+                  {t.level.cefr} · {t.level.hsk} · {studyTime(t.hours)}
                 </small>
               </span>
             </a>
@@ -81,7 +89,7 @@ export function TopicPage({ topicId }: { topicId: string }) {
   return (
     <div className="page topic-page">
       <a className="link-btn" href={routeHref({ name: 'topics' })}>
-        ← Chủ đề
+        ← {tr('Chủ đề', 'Topics')}
       </a>
       <header>
         <p className="eyebrow">
@@ -94,59 +102,59 @@ export function TopicPage({ topicId }: { topicId: string }) {
         className="btn btn--block"
         href={routeHref({ name: 'topic-practice', topicId: topic.id, lang })}
       >
-        Luyện tập chủ đề này
+        {tr('Luyện tập chủ đề này', 'Practise this topic')}
       </a>
 
       <section className="card lesson-intro__words">
-        <h2>Từ vựng</h2>
+        <h2>{tr('Từ vựng', 'Vocabulary')}</h2>
         <ul>
           {topic.vocab.map((w) => (
             <li key={w.en}>
               <button
                 type="button"
                 className="speak-btn"
-                aria-label={`Nghe ${phraseIn(w, lang)}`}
+                aria-label={tr(`Nghe ${phraseIn(w, lang)}`, `Listen to ${phraseIn(w, lang)}`)}
                 onClick={() => say(phraseIn(w, lang))}
               >
                 🔊
               </button>
               <strong lang={lang}>{phraseIn(w, lang)}</strong>
               {lang === 'zh' && <span className="vocab-sound">{w.zh.pinyin}</span>}
-              <span>{w.vi}</span>
+              <span>{meaningOf(w, lang)}</span>
             </li>
           ))}
         </ul>
       </section>
 
       <section className="card lesson-intro__words">
-        <h2>Mẫu câu</h2>
+        <h2>{tr('Mẫu câu', 'Model sentences')}</h2>
         <ul>
           {topic.sentences.map((s) => (
             <li key={s.en}>
               <button
                 type="button"
                 className="speak-btn"
-                aria-label={`Nghe ${phraseIn(s, lang)}`}
+                aria-label={tr(`Nghe ${phraseIn(s, lang)}`, `Listen to ${phraseIn(s, lang)}`)}
                 onClick={() => say(phraseIn(s, lang))}
               >
                 🔊
               </button>
               <strong lang={lang}>{phraseIn(s, lang)}</strong>
               {lang === 'zh' && <span className="vocab-sound">{s.zh.pinyin}</span>}
-              <span>{s.vi}</span>
+              <span>{meaningOf(s, lang)}</span>
             </li>
           ))}
         </ul>
       </section>
 
       <section className="card">
-        <h2>Ngữ pháp</h2>
+        <h2>{tr('Ngữ pháp', 'Grammar')}</h2>
         <p>{topic.grammar[lang]}</p>
-        <h2>Phát âm</h2>
+        <h2>{tr('Phát âm', 'Pronunciation')}</h2>
         <p>{topic.pronunciation[lang]}</p>
         {lang === 'zh' && topic.hanzi.length > 0 && (
           <>
-            <h2>Chữ Hán</h2>
+            <h2>{tr('Chữ Hán', 'Characters')}</h2>
             <ul>
               {topic.hanzi.map((h) => (
                 <li key={h}>{h}</li>
@@ -157,21 +165,22 @@ export function TopicPage({ topicId }: { topicId: string }) {
       </section>
 
       <section className="card">
-        <h2>Nhiệm vụ 4 kỹ năng</h2>
+        <h2>{tr('Nhiệm vụ 4 kỹ năng', 'Four-skill tasks')}</h2>
         <ul className="task-list">
           {topic.skills.map((s) => (
             <li key={s.skill}>
-              <strong>{s.skill}</strong> ({s.minutes} phút): {s.task}
+              <strong>{skillName(s.skill)}</strong> ({tr(`${s.minutes} phút`, `${s.minutes} min`)}):{' '}
+              {s.task}
             </li>
           ))}
           <li>
-            <strong>Viết:</strong> {topic.writing}
+            <strong>{tr('Viết:', 'Writing:')}</strong> {topic.writing}
           </li>
           <li>
-            <strong>Chép chính tả:</strong> {topic.dictation}
+            <strong>{tr('Chép chính tả:', 'Dictation:')}</strong> {topic.dictation}
           </li>
           <li>
-            <strong>Thử thách:</strong> {topic.challenge}
+            <strong>{tr('Thử thách:', 'Challenge:')}</strong> {topic.challenge}
           </li>
         </ul>
       </section>
@@ -193,7 +202,7 @@ export function TopicPracticePage({ topicId, lang }: { topicId: string; lang: Cu
     return (
       <SessionComplete
         buddy={buddy}
-        title="Xong chủ đề!"
+        title={tr('Xong chủ đề!', 'Topic done!')}
         xp={result.xp}
         summary={result.summary}
         onContinue={back}

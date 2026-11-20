@@ -3,6 +3,7 @@ import { speak } from '../../../utils/speech';
 import { shuffle } from '../../../utils/random';
 import type { MatchExercise } from '../../exercises';
 import { ExerciseTitle, type ViewProps } from './common';
+import { tr } from '../../../i18n/locale';
 
 type Side = 'left' | 'right';
 
@@ -59,7 +60,11 @@ export function MatchView({ exercise, targetLang, onResponse }: ViewProps<MatchE
   };
 
   const column = (side: Side, order: number[]) => (
-    <div className="match-col" role="group" aria-label={side === 'left' ? 'Words' : 'Translations'}>
+    <div
+      className="match-col"
+      role="group"
+      aria-label={side === 'left' ? tr('Từ', 'Words') : tr('Nghĩa', 'Translations')}
+    >
       {order.map((index) => {
         const pair = exercise.pairs[index];
         if (!pair) return null;
@@ -83,7 +88,7 @@ export function MatchView({ exercise, targetLang, onResponse }: ViewProps<MatchE
 
   return (
     <div className="exercise">
-      <ExerciseTitle>Tap the matching pairs</ExerciseTitle>
+      <ExerciseTitle>{tr('Chạm để ghép các cặp', 'Tap the matching pairs')}</ExerciseTitle>
       <div className="match-grid">
         {column(
           'left',

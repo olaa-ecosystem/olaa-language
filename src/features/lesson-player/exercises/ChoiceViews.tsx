@@ -3,6 +3,7 @@ import { Mascot } from '../../../components/mascots';
 import { speak } from '../../../utils/speech';
 import type { PictureExercise, SelectExercise } from '../../exercises';
 import { BuddyPrompt, ExerciseTitle, choiceState, useNumberKeys, type ViewProps } from './common';
+import { tr } from '../../../i18n/locale';
 
 export function SelectView({
   exercise,
@@ -25,14 +26,14 @@ export function SelectView({
 
   return (
     <div className="exercise">
-      <ExerciseTitle>Select the correct meaning</ExerciseTitle>
+      <ExerciseTitle>{tr('Chọn nghĩa đúng', 'Select the correct meaning')}</ExerciseTitle>
       <BuddyPrompt
         buddy={buddy}
         text={exercise.prompt}
         lang={exercise.promptLang}
         speakable={exercise.promptLang === targetLang}
       />
-      <div className="choices" role="group" aria-label="Answer options">
+      <div className="choices" role="group" aria-label={tr('Các đáp án', 'Answer options')}>
         {exercise.options.map((option, i) => (
           <button
             key={option}
@@ -75,9 +76,10 @@ export function PictureView({
   return (
     <div className="exercise">
       <ExerciseTitle>
-        Which one is “<span lang={exercise.promptLang}>{exercise.prompt}</span>”?
+        {tr('Hình nào là “', 'Which one is “')}
+        <span lang={exercise.promptLang}>{exercise.prompt}</span>”?
       </ExerciseTitle>
-      <div className="picture-grid" role="group" aria-label="Pictures">
+      <div className="picture-grid" role="group" aria-label={tr('Các hình', 'Pictures')}>
         {exercise.options.map((option, i) => (
           <button
             key={option.image}

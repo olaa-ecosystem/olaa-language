@@ -7,9 +7,17 @@ import { courseProgress } from '../../stores/appState';
 import { DailyGoalCard } from '../learning-progress/DailyGoalCard';
 import { lessonStatuses, nextLessonId } from './path';
 import { MAX_LESSON_LEVEL, type Course } from './types';
+import { tr } from '../../i18n/locale';
 
 /** Horizontal offsets that make the path wind left and right. */
 const OFFSETS = [0, 64, 0, -64];
+
+/** Lesson state in words, for screen readers. */
+function statusLabel(status: string): string {
+  if (status === 'locked') return tr('chưa mở', 'locked');
+  if (status === 'completed') return tr('đã học', 'completed');
+  return tr('đang mở', 'available');
+}
 
 export function LearnPage({ course }: { course: Course }) {
   const state = useAppState();
@@ -34,7 +42,9 @@ export function LearnPage({ course }: { course: Course }) {
         >
           <header className="unit__banner">
             <div>
-              <p className="unit__eyebrow">Unit {unitIndex + 1}</p>
+              <p className="unit__eyebrow">
+                {tr(`Chương ${unitIndex + 1}`, `Unit ${unitIndex + 1}`)}
+              </p>
               <h2 id={`${unit.id}-title`}>{unit.title}</h2>
               <p>{unit.description}</p>
             </div>
@@ -56,14 +66,14 @@ export function LearnPage({ course }: { course: Course }) {
                 >
                   {isNext && (
                     <span className="path__start" aria-hidden>
-                      Start
+                      {tr('Bắt đầu', 'Start')}
                     </span>
                   )}
                   <button
                     type="button"
                     className={`node node--${status} ${isNext ? 'node--next' : ''}`}
                     aria-expanded={isOpen}
-                    aria-label={`${lesson.title} — ${status}${level ? `, level ${level}` : ''}`}
+                    aria-label={`${lesson.title}: ${statusLabel(status)}${level ? tr(`, cấp ${level}`, `, level ${level}`) : ''}`}
                     onClick={() => setOpen(isOpen ? null : lesson.id)}
                   >
                     <span className="node__face">
@@ -106,13 +116,24 @@ export function LearnPage({ course }: { course: Course }) {
                     >
                       <h3>{lesson.title}</h3>
                       {status === 'locked' ? (
-                        <p>Finish the lessons above to unlock this one.</p>
+                        <p>
+                          {tr(
+                            'Học xong các bài phía trên để mở bài này.',
+                            'Finish the lessons above to unlock this one.',
+                          )}
+                        </p>
                       ) : (
                         <>
                           <p>
                             {level >= MAX_LESSON_LEVEL
-                              ? 'Legendary! Practise any time.'
-                              : `Level ${level} of ${MAX_LESSON_LEVEL}`}
+                              ? tr(
+                                  'Huyền thoại! Luyện lúc nào cũng được.',
+                                  'Legendary! Practise any time.',
+                                )
+                              : tr(
+                                  `Cấp ${level}/${MAX_LESSON_LEVEL}`,
+                                  `Level ${level} of ${MAX_LESSON_LEVEL}`,
+                                )}
                           </p>
                           <button
                             type="button"
@@ -120,7 +141,9 @@ export function LearnPage({ course }: { course: Course }) {
                             onClick={() => navigate({ name: 'lesson', lessonId: lesson.id })}
                             autoFocus
                           >
-                            {status === 'completed' ? 'Practise +10 XP' : 'Start +10 XP'}
+                            {status === 'completed'
+                              ? tr('Luyện lại +10 XP', 'Practise +10 XP')
+                              : tr('Bắt đầu +10 XP', 'Start +10 XP')}
                           </button>
                         </>
                       )}
@@ -135,7 +158,12 @@ export function LearnPage({ course }: { course: Course }) {
 
       <div className="path-end">
         <Mascot id="whale" size={110} />
-        <p>More units are on the way — keep your streak swimming!</p>
+        <p>
+          {tr(
+            'Các chương mới đang trên đường tới. Giữ chuỗi ngày học nhé!',
+            'More units are on the way. Keep your streak swimming!',
+          )}
+        </p>
       </div>
     </div>
   );

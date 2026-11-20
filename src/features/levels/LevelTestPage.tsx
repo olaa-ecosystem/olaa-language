@@ -16,6 +16,7 @@ import { LEVEL_TEST_PASS, levelTestExercises } from './toExercises';
 import type { CurriculumLang } from './types';
 import { canTakeTest } from './unlock';
 import { useLevel } from './useLevel';
+import { tr } from '../../i18n/locale';
 
 const TEST_XP = 30;
 
@@ -30,9 +31,14 @@ export function LevelTestPage({ lang, level }: { lang: CurriculumLang; level: st
   if (!allowed) {
     return (
       <div className="page page--center">
-        <p>Chưa làm được bài kiểm tra này. Qua cấp trước trước đã.</p>
+        <p>
+          {tr(
+            'Chưa làm được bài kiểm tra này. Hãy qua cấp trước.',
+            'This test isn’t open yet. Pass the level before first.',
+          )}
+        </p>
         <button type="button" className="btn" onClick={back}>
-          Về lộ trình
+          {tr('Về lộ trình', 'Back to levels')}
         </button>
       </div>
     );
@@ -42,8 +48,8 @@ export function LevelTestPage({ lang, level }: { lang: CurriculumLang; level: st
       <div className="page page--center">
         <p className="muted" role="status">
           {loaded.status === 'error'
-            ? 'Không tải được bài kiểm tra.'
-            : 'Đang chuẩn bị bài kiểm tra…'}
+            ? tr('Không tải được bài kiểm tra.', 'Could not load the test.')
+            : tr('Đang chuẩn bị bài kiểm tra…', 'Preparing the test…')}
         </p>
       </div>
     );
@@ -95,18 +101,31 @@ function TestSession({
     return (
       <SessionComplete
         buddy={buddy}
-        title={passed ? `Qua cấp ${level}!` : 'Chưa qua lần này'}
+        title={
+          passed
+            ? tr(`Qua cấp ${level}!`, `${level} passed!`)
+            : tr('Chưa qua lần này', 'Not passed this time')
+        }
         xp={passed ? TEST_XP : 0}
         summary={result}
         extra={
           <div className="recap card">
             <p>
-              Đúng {Math.round(result.accuracy * 100)}% (cần {Math.round(LEVEL_TEST_PASS * 100)}%).
+              {tr(
+                `Đúng ${Math.round(result.accuracy * 100)}% (cần ${Math.round(LEVEL_TEST_PASS * 100)}%).`,
+                `${Math.round(result.accuracy * 100)}% correct (${Math.round(LEVEL_TEST_PASS * 100)}% needed).`,
+              )}
             </p>
             <p className="muted">
               {passed
-                ? 'Cấp tiếp theo đã mở, và mọi bài trong cấp này đều học được.'
-                : 'Học thêm các bài của cấp này rồi làm lại; mỗi lần là một bộ câu hỏi khác.'}
+                ? tr(
+                    'Cấp tiếp theo đã mở, và mọi bài trong cấp này đều học được.',
+                    'The next level is open, and every unit in this level is unlocked.',
+                  )
+                : tr(
+                    'Học thêm các bài của cấp này rồi làm lại; mỗi lần là một bộ câu hỏi khác.',
+                    'Study more units in this level and try again; each attempt has different questions.',
+                  )}
             </p>
           </div>
         }
@@ -118,11 +137,13 @@ function TestSession({
   if (!started) {
     return (
       <div className="lesson-intro">
-        <p className="eyebrow">Bài kiểm tra cấp độ</p>
+        <p className="eyebrow">{tr('Bài kiểm tra cấp độ', 'Level test')}</p>
         <h1>{level}</h1>
         <p className="lesson-intro__goal">
-          {exercises.length} câu lấy từ mọi bài của cấp. Mỗi câu chỉ trả lời một lần. Cần đúng từ{' '}
-          {Math.round(LEVEL_TEST_PASS * 100)}% để qua.
+          {tr(
+            `${exercises.length} câu lấy từ mọi bài của cấp. Mỗi câu chỉ trả lời một lần. Cần đúng từ ${Math.round(LEVEL_TEST_PASS * 100)}% để qua.`,
+            `${exercises.length} questions from every unit of the level. Each is answered once. You need ${Math.round(LEVEL_TEST_PASS * 100)}% to pass.`,
+          )}
         </p>
         <div className="lesson-intro__actions">
           <button
@@ -131,10 +152,10 @@ function TestSession({
             onClick={() => setStarted(true)}
             autoFocus
           >
-            Bắt đầu
+            {tr('Bắt đầu', 'Start')}
           </button>
           <button type="button" className="btn btn--ghost btn--block" onClick={back}>
-            Để sau
+            {tr('Để sau', 'Later')}
           </button>
         </div>
       </div>

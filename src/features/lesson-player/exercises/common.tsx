@@ -4,13 +4,17 @@ import { SpeakerIcon, TurtleIcon } from '../../../components/Icons';
 import type { MascotId } from '../../../types';
 import { speak, type SpeechLang } from '../../../utils/speech';
 import type { Exercise, GradeResult } from '../../exercises';
+import { tr } from '../../../i18n/locale';
 
-export const LANGUAGE_NAMES: Record<SpeechLang, string> = {
-  en: 'English',
-  vi: 'Vietnamese',
-  es: 'Spanish',
-  zh: 'Chinese',
-};
+/** Name of a language in the interface language ("tiếng Anh" / "English"). */
+export function languageName(lang: SpeechLang): string {
+  return {
+    en: tr('tiếng Anh', 'English'),
+    vi: tr('tiếng Việt', 'Vietnamese'),
+    es: tr('tiếng Tây Ban Nha', 'Spanish'),
+    zh: tr('tiếng Trung', 'Chinese'),
+  }[lang];
+}
 
 export interface ViewProps<E extends Exercise> {
   exercise: E;
@@ -41,7 +45,7 @@ export function SpeakButton({
       type="button"
       className={`speak-btn ${big ? 'speak-btn--big' : ''} ${slow ? 'speak-btn--slow' : ''}`}
       onClick={() => speak(text, lang, slow)}
-      aria-label={label ?? (slow ? 'Play slowly' : 'Play audio')}
+      aria-label={label ?? (slow ? tr('Nghe chậm', 'Play slowly') : tr('Nghe', 'Play audio'))}
     >
       {slow ? <TurtleIcon size={big ? 30 : 20} /> : <SpeakerIcon size={big ? 40 : 20} />}
     </button>

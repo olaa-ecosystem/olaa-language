@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import { CloseIcon } from '../../components/Icons';
-import { CHEERS, COMFORTS, Mascot } from '../../components/mascots';
+import { cheers, comforts, Mascot } from '../../components/mascots';
 import { ProgressBar } from '../../components/ui';
 import type { MascotId } from '../../types';
 import type { SpeechLang } from '../../utils/speech';
@@ -29,6 +29,7 @@ import {
   type SessionState,
   type SessionSummary,
 } from './session';
+import { tr } from '../../i18n/locale';
 
 export interface LessonPlayerProps {
   exercises: Exercise[];
@@ -144,13 +145,16 @@ export function LessonPlayer(props: LessonPlayerProps) {
         <button
           type="button"
           className="icon-btn"
-          aria-label="Quit lesson"
+          aria-label={tr('Thoát bài học', 'Quit lesson')}
           onClick={() => setConfirmQuit(true)}
         >
           <CloseIcon />
         </button>
-        <ProgressBar value={progressRatio(session)} label="Lesson progress" />
-        {exercise.review && <span className="review-chip">Review</span>}
+        <ProgressBar
+          value={progressRatio(session)}
+          label={tr('Tiến độ bài học', 'Lesson progress')}
+        />
+        {exercise.review && <span className="review-chip">{tr('Ôn lại', 'Review')}</span>}
       </header>
 
       <main className="lesson__body" key={session.position}>
@@ -183,7 +187,7 @@ export function LessonPlayer(props: LessonPlayerProps) {
           ) : (
             exercise.kind !== 'match' && (
               <button type="button" className="btn btn--ghost" onClick={() => check('')}>
-                Skip
+                {tr('Bỏ qua', 'Skip')}
               </button>
             )
           )}
@@ -194,7 +198,7 @@ export function LessonPlayer(props: LessonPlayerProps) {
               onClick={proceed}
               autoFocus
             >
-              Continue
+              {tr('Tiếp tục', 'Continue')}
             </button>
           ) : (
             <button
@@ -203,7 +207,7 @@ export function LessonPlayer(props: LessonPlayerProps) {
               disabled={!response || exercise.kind === 'match'}
               onClick={() => check()}
             >
-              Check
+              {tr('Kiểm tra', 'Check')}
             </button>
           )}
         </div>
@@ -213,11 +217,17 @@ export function LessonPlayer(props: LessonPlayerProps) {
         <div className="modal-backdrop">
           <div className="modal" role="dialog" aria-modal="true" aria-labelledby="quit-title">
             <Mascot id={buddy} size={120} mood="sad" />
-            <h2 id="quit-title">Wait, don’t go!</h2>
+            <h2 id="quit-title">{tr('Khoan, đừng đi vội!', 'Wait, don’t go!')}</h2>
             <p>
               {mode === 'lesson'
-                ? 'Your place is saved. You can continue this lesson later.'
-                : 'You’ll lose your progress in this practice.'}
+                ? tr(
+                    'Chỗ bạn đang học đã được lưu. Bạn có thể học tiếp bài này sau.',
+                    'Your place is saved. You can continue this lesson later.',
+                  )
+                : tr(
+                    'Bạn sẽ mất tiến độ của lượt luyện tập này.',
+                    'You’ll lose your progress in this practice.',
+                  )}
             </p>
             <button
               type="button"
@@ -225,10 +235,10 @@ export function LessonPlayer(props: LessonPlayerProps) {
               onClick={() => setConfirmQuit(false)}
               autoFocus
             >
-              Keep learning
+              {tr('Học tiếp', 'Keep learning')}
             </button>
             <button type="button" className="btn btn--ghost btn--block" onClick={onQuit}>
-              End session
+              {tr('Kết thúc', 'End session')}
             </button>
           </div>
         </div>
@@ -251,12 +261,24 @@ function Feedback({
   let title: string;
   let detail: string | null = null;
   if (result.correct) {
-    title = CHEERS[seed % CHEERS.length]!;
-    if (result.note === 'accents') detail = `Mind the accents: ${result.correctAnswer}`;
-    if (result.note === 'typo') detail = `Watch the spelling: ${result.correctAnswer}`;
+    const list = cheers();
+    title = list[seed % list.length]!;
+    if (result.note === 'accents')
+      detail = tr(
+        `Chú ý dấu: ${result.correctAnswer}`,
+        `Mind the accents: ${result.correctAnswer}`,
+      );
+    if (result.note === 'typo')
+      detail = tr(
+        `Chú ý chính tả: ${result.correctAnswer}`,
+        `Watch the spelling: ${result.correctAnswer}`,
+      );
   } else {
-    title = COMFORTS[seed % COMFORTS.length]!;
-    detail = result.correctAnswer ? `Correct answer: ${result.correctAnswer}` : null;
+    const list = comforts();
+    title = list[seed % list.length]!;
+    detail = result.correctAnswer
+      ? tr(`Đáp án đúng: ${result.correctAnswer}`, `Correct answer: ${result.correctAnswer}`)
+      : null;
   }
   return (
     <div className="feedback" role="status" aria-live="assertive">

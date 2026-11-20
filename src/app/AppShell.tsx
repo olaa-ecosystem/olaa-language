@@ -16,14 +16,15 @@ import { useNow } from '../hooks/useNow';
 import { useAppState } from '../stores/appStore';
 import { toDayKey } from '../utils/date';
 import { routeHref, type Route } from './router';
+import { tr } from '../i18n/locale';
 
-const NAV: { route: Route; label: string; icon: ReactNode }[] = [
-  { route: { name: 'learn' }, label: 'Learn', icon: <HomeIcon /> },
-  { route: { name: 'levels' }, label: 'Lộ trình', icon: <LadderIcon /> },
-  { route: { name: 'topics' }, label: 'Chủ đề', icon: <BookIcon /> },
-  { route: { name: 'practice' }, label: 'Practice', icon: <DumbbellIcon /> },
-  { route: { name: 'review' }, label: 'Flashcards', icon: <CardsIcon /> },
-  { route: { name: 'profile' }, label: 'Profile', icon: <UserIcon /> },
+const nav = (): { route: Route; label: string; icon: ReactNode }[] => [
+  { route: { name: 'learn' }, label: tr('Học', 'Learn'), icon: <HomeIcon /> },
+  { route: { name: 'levels' }, label: tr('Lộ trình', 'Levels'), icon: <LadderIcon /> },
+  { route: { name: 'topics' }, label: tr('Chủ đề', 'Topics'), icon: <BookIcon /> },
+  { route: { name: 'practice' }, label: tr('Luyện tập', 'Practice'), icon: <DumbbellIcon /> },
+  { route: { name: 'review' }, label: tr('Thẻ từ', 'Flashcards'), icon: <CardsIcon /> },
+  { route: { name: 'profile' }, label: tr('Hồ sơ', 'Profile'), icon: <UserIcon /> },
 ];
 
 /** Sub-pages highlight their section in the menu. */
@@ -63,7 +64,7 @@ export function AppShell({
 
   return (
     <div className="shell">
-      <nav className="sidebar" aria-label="Main">
+      <nav className="sidebar" aria-label={tr('Điều hướng chính', 'Main')}>
         <a className="logo" href={routeHref({ name: 'learn' })}>
           <span className="logo__mark" aria-hidden>
             <Mascot id={state.profile?.buddy ?? 'bear'} size={40} />
@@ -71,7 +72,7 @@ export function AppShell({
           olaa<span>language</span>
         </a>
         <ul>
-          {NAV.map((item) => (
+          {nav().map((item) => (
             <li key={item.label}>
               <a
                 href={routeHref(item.route)}
@@ -90,14 +91,17 @@ export function AppShell({
         <div className="topbar">{stats}</div>
         <div className="shell__content">
           <main className="shell__page">{children}</main>
-          <aside className="shell__aside" aria-label="Your progress">
+          <aside className="shell__aside" aria-label={tr('Tiến độ của bạn', 'Your progress')}>
             {stats}
             <DailyGoalCard />
             <div className="card tip-card">
               <Mascot id="giraffe" size={70} />
               <p>
-                <strong>Tip from Gigi:</strong> short daily lessons beat long weekly ones. Keep your
-                streak alive!
+                <strong>{tr('Gigi mách nhỏ:', 'Tip from Gigi:')}</strong>{' '}
+                {tr(
+                  'học ngắn mỗi ngày hiệu quả hơn học dồn cả tuần. Giữ chuỗi ngày học nhé!',
+                  'short daily lessons beat long weekly ones. Keep your streak alive!',
+                )}
               </p>
             </div>
           </aside>

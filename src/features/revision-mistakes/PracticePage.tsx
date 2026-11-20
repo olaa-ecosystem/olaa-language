@@ -9,6 +9,7 @@ import { courseProgress } from '../../stores/appState';
 import { toDayKey } from '../../utils/date';
 import type { Course } from '../curriculum';
 import { dueCards } from '../flashcards-srs/srs';
+import { tr } from '../../i18n/locale';
 
 export function PracticePage({ course }: { course: Course }) {
   const state = useAppState();
@@ -23,8 +24,13 @@ export function PracticePage({ course }: { course: Course }) {
     <div className="page">
       <header className="page-hero page-hero--practice">
         <div>
-          <h1>Practice hub</h1>
-          <p>Strengthen what you’ve learned. Review comes back inside new lessons too.</p>
+          <h1>{tr('Luyện tập', 'Practice hub')}</h1>
+          <p>
+            {tr(
+              'Củng cố những gì đã học. Phần ôn cũng xuất hiện trong các bài mới.',
+              'Strengthen what you’ve learned. Review comes back inside new lessons too.',
+            )}
+          </p>
         </div>
         <Mascot id={buddy} size={120} mood="wave" />
       </header>
@@ -32,11 +38,14 @@ export function PracticePage({ course }: { course: Course }) {
       <div className="practice-grid">
         <PracticeCard
           mascot="rabbit"
-          title="Fix mistakes"
+          title={tr('Sửa lỗi', 'Fix mistakes')}
           detail={
             mistakes
-              ? `${mistakes} exercise${mistakes === 1 ? '' : 's'} to review`
-              : 'No mistakes — great job!'
+              ? tr(
+                  `${mistakes} câu cần xem lại`,
+                  `${mistakes} exercise${mistakes === 1 ? '' : 's'} to review`,
+                )
+              : tr('Không có lỗi nào, giỏi lắm!', 'No mistakes. Great job!')
           }
           icon={<DumbbellIcon />}
           disabled={!mistakes}
@@ -44,9 +53,11 @@ export function PracticePage({ course }: { course: Course }) {
         />
         <PracticeCard
           mascot="elephant"
-          title="Flashcards"
+          title={tr('Thẻ từ', 'Flashcards')}
           detail={
-            due ? `${due} word${due === 1 ? '' : 's'} due for review` : 'All caught up for today'
+            due
+              ? tr(`${due} từ cần ôn`, `${due} word${due === 1 ? '' : 's'} due for review`)
+              : tr('Hôm nay đã ôn xong', 'All caught up for today')
           }
           icon={<CardsIcon />}
           disabled={!Object.keys(progress.cards).length}
@@ -54,8 +65,12 @@ export function PracticePage({ course }: { course: Course }) {
         />
         <PracticeCard
           mascot="turtle"
-          title="Quick practice"
-          detail={anyCompleted ? 'A mixed session from your lessons' : 'Finish a lesson to unlock'}
+          title={tr('Luyện nhanh', 'Quick practice')}
+          detail={
+            anyCompleted
+              ? tr('Một lượt trộn câu từ các bài đã học', 'A mixed session from your lessons')
+              : tr('Học xong một bài để mở', 'Finish a lesson to unlock')
+          }
           icon={<DumbbellIcon />}
           disabled={!anyCompleted}
           onClick={() => navigate({ name: 'practice-session', kind: 'mix' })}

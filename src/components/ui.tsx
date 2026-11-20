@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
 import { BoltIcon, FlameIcon } from './Icons';
+import { tr } from '../i18n/locale';
 
 export function ProgressBar({
   value,
@@ -29,18 +30,22 @@ export function StreakStat({ count, active }: { count: number; active: boolean }
   return (
     <span
       className={`stat stat--streak ${active ? '' : 'is-off'}`}
-      title={active ? 'Day streak — practised today!' : 'Day streak — practise today to extend it'}
+      title={
+        active
+          ? tr('Chuỗi ngày học: hôm nay đã học!', 'Day streak: practised today!')
+          : tr('Chuỗi ngày học: học hôm nay để nối dài', 'Day streak: practise today to extend it')
+      }
     >
       <FlameIcon />
       {count}
-      <span className="visually-hidden"> day streak</span>
+      <span className="visually-hidden">{tr(' ngày liên tiếp', ' day streak')}</span>
     </span>
   );
 }
 
 export function XpStat({ xp }: { xp: number }) {
   return (
-    <span className="stat stat--xp" title="Total XP">
+    <span className="stat stat--xp" title={tr('Tổng XP', 'Total XP')}>
       <BoltIcon />
       {xp}
       <span className="visually-hidden"> XP</span>

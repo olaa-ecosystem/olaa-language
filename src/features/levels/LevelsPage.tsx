@@ -10,12 +10,13 @@ import { LEVEL_TEST_PASS } from './toExercises';
 import type { CurriculumLang } from './types';
 import { canTakeTest, levelState, unitStates } from './unlock';
 import { useLevel } from './useLevel';
+import { pick, tr } from '../../i18n/locale';
 
 const pct = (n: number) => `${Math.round(n * 100)}%`;
 
 export function LanguageTabs({ lang }: { lang: CurriculumLang }) {
   return (
-    <div className="chip-row" role="tablist" aria-label="Ngôn ngữ">
+    <div className="chip-row" role="tablist" aria-label={tr('Ngôn ngữ đang học', 'Language')}>
       {CURRICULUM_LANGS.map((l) => (
         <button
           key={l}
@@ -25,7 +26,7 @@ export function LanguageTabs({ lang }: { lang: CurriculumLang }) {
           className={`chip ${l === lang ? 'is-selected' : ''}`}
           onClick={() => appStore.update((s) => setLevelLang(s, l))}
         >
-          {languageName(l)[0]}
+          {pick(languageName(l))}
         </button>
       ))}
     </div>
@@ -43,18 +44,22 @@ export function LevelsPage() {
     <div className="page">
       <section className="page-hero">
         <div>
-          <h1>Lộ trình theo cấp độ</h1>
+          <h1>{tr('Lộ trình theo cấp độ', 'Levels')}</h1>
           <p>
-            Lý thuyết, từ vựng và bài tập do đội nội dung soạn. Qua bài kiểm tra cấp độ (từ{' '}
-            {pct(LEVEL_TEST_PASS)}) để mở cấp tiếp theo.
+            {tr(
+              `Lý thuyết, từ vựng và bài tập do đội nội dung soạn. Qua bài kiểm tra cấp độ (từ ${pct(LEVEL_TEST_PASS)}) để mở cấp tiếp theo.`,
+              `Theory, vocabulary and exercises written by our content team. Pass a level test (${pct(LEVEL_TEST_PASS)} or more) to open the next level.`,
+            )}
           </p>
         </div>
       </section>
       <LanguageTabs lang={lang} />
       {due > 0 && (
         <a className="card level-due" href={routeHref({ name: 'level-review', lang })}>
-          <strong>{due} từ cần ôn hôm nay</strong>
-          <span className="muted">Ôn từ vựng của các bài đã học</span>
+          <strong>{tr(`${due} từ cần ôn hôm nay`, `${due} words to review today`)}</strong>
+          <span className="muted">
+            {tr('Ôn từ vựng của các bài đã học', 'Review words from finished units')}
+          </span>
         </a>
       )}
       <ol className="level-list">
@@ -66,21 +71,22 @@ export function LevelsPage() {
               <div className="level-card__head">
                 <span className="level-badge">{level.code}</span>
                 <div>
-                  <h2>{level.name[0]}</h2>
+                  <h2>{pick(level.name)}</h2>
                   <p className="muted">
-                    {level.exam} · {level.words} từ
+                    {level.exam} · {tr(`${level.words} từ`, `${level.words} words`)}
                   </p>
                 </div>
               </div>
               {test !== undefined && (
                 <p className="muted">
-                  Bài kiểm tra: {pct(test)} {open === 'done' ? '· Đã qua' : ''}
+                  {tr('Bài kiểm tra: ', 'Level test: ')}
+                  {pct(test)} {open === 'done' ? tr('· Đã qua', '· Passed') : ''}
                 </p>
               )}
               <div className="level-card__actions">
                 {open !== 'locked' && (
                   <a className="btn" href={routeHref({ name: 'level', lang, level: level.code })}>
-                    {open === 'done' ? 'Xem lại' : 'Học'}
+                    {open === 'done' ? tr('Xem lại', 'Review') : tr('Học', 'Learn')}
                   </a>
                 )}
                 {canTakeTest(levels, progress, i) && open !== 'done' && (
@@ -88,11 +94,15 @@ export function LevelsPage() {
                     className="btn btn--ghost"
                     href={routeHref({ name: 'level-test', lang, level: level.code })}
                   >
-                    {open === 'locked' ? 'Kiểm tra để vượt cấp' : 'Kiểm tra cấp độ'}
+                    {open === 'locked'
+                      ? tr('Kiểm tra để vượt cấp', 'Test out of this level')
+                      : tr('Kiểm tra cấp độ', 'Level test')}
                   </a>
                 )}
                 {open === 'locked' && !canTakeTest(levels, progress, i) && (
-                  <span className="muted">Qua cấp trước để mở</span>
+                  <span className="muted">
+                    {tr('Qua cấp trước để mở', 'Pass the level before to open')}
+                  </span>
                 )}
               </div>
             </li>
@@ -115,10 +125,15 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
   if (!meta || open === 'locked') {
     return (
       <div className="page page--center">
-        <EmptyState mascot={null} title="Cấp độ này chưa mở">
-          <p>Qua bài kiểm tra của cấp trước, hoặc làm bài kiểm tra để vượt cấp.</p>
+        <EmptyState mascot={null} title={tr('Cấp độ này chưa mở', 'This level isn’t open yet')}>
+          <p>
+            {tr(
+              'Qua bài kiểm tra của cấp trước, hoặc làm bài kiểm tra để vượt cấp.',
+              'Pass the previous level’s test, or take a test to skip ahead.',
+            )}
+          </p>
           <button type="button" className="btn" onClick={() => navigate({ name: 'levels' })}>
-            Về lộ trình
+            {tr('Về lộ trình', 'Back to levels')}
           </button>
         </EmptyState>
       </div>
@@ -130,8 +145,11 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
       <div className="page page--center">
         <p className="muted" role="status">
           {loaded.status === 'error'
-            ? 'Không tải được bài học. Kiểm tra mạng rồi thử lại.'
-            : 'Đang tải bài học…'}
+            ? tr(
+                'Không tải được bài học. Kiểm tra mạng rồi thử lại.',
+                'Could not load the lessons. Check your connection and try again.',
+              )
+            : tr('Đang tải bài học…', 'Loading lessons…')}
         </p>
       </div>
     );
@@ -149,16 +167,19 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
   return (
     <div className="page">
       <a className="link-btn" href={routeHref({ name: 'levels' })}>
-        ← {languageName(lang)[0]}
+        ← {pick(languageName(lang))}
       </a>
       <header>
         <p className="eyebrow">
           {meta.code} · {meta.exam}
         </p>
-        <h1>{meta.name[0]}</h1>
-        <ProgressBar value={units.length ? done / units.length : 0} label="Tiến độ cấp độ" />
+        <h1>{pick(meta.name)}</h1>
+        <ProgressBar
+          value={units.length ? done / units.length : 0}
+          label={tr('Tiến độ cấp độ', 'Level progress')}
+        />
         <p className="muted">
-          {done}/{units.length} bài đã học
+          {tr(`${done}/${units.length} bài đã học`, `${done}/${units.length} units done`)}
         </p>
       </header>
       <ol className="unit-list">
@@ -171,8 +192,10 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
                 <span className={`card unit-row is-locked`} aria-disabled="true">
                   <span className="unit-row__n">{i + 1}</span>
                   <span>
-                    <strong>{unit.title[0]}</strong>
-                    <small className="muted">Học xong bài trước để mở</small>
+                    <strong>{pick(unit.title)}</strong>
+                    <small className="muted">
+                      {tr('Học xong bài trước để mở', 'Finish the unit before to open')}
+                    </small>
                   </span>
                 </span>
               ) : (
@@ -182,10 +205,15 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
                 >
                   <span className="unit-row__n">{s === 'done' ? '✓' : i + 1}</span>
                   <span>
-                    <strong>{unit.title[0]}</strong>
+                    <strong>{pick(unit.title)}</strong>
                     <small className="muted">
-                      {unit.vocab.length} từ · {unit.items.length} câu
-                      {score !== undefined ? ` · đúng ${pct(score)}` : ''}
+                      {tr(
+                        `${unit.vocab.length} từ · ${unit.items.length} câu`,
+                        `${unit.vocab.length} words · ${unit.items.length} questions`,
+                      )}
+                      {score !== undefined
+                        ? tr(` · đúng ${pct(score)}`, ` · ${pct(score)} correct`)
+                        : ''}
                     </small>
                   </span>
                 </a>
@@ -196,7 +224,7 @@ export function LevelPage({ lang, level }: { lang: CurriculumLang; level: string
       </ol>
       {open !== 'done' && (
         <a className="btn btn--block" href={routeHref({ name: 'level-test', lang, level })}>
-          Làm bài kiểm tra {meta.code}
+          {tr(`Làm bài kiểm tra ${meta.code}`, `Take the ${meta.code} test`)}
         </a>
       )}
     </div>

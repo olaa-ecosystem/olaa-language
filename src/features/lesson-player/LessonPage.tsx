@@ -22,6 +22,7 @@ import { LessonPlayer } from './LessonPlayer';
 import { clearSession, loadSession, saveSession } from './resume';
 import { SessionComplete } from './ResultScreens';
 import { lessonXp, type SessionState, type SessionSummary } from './session';
+import { tr } from '../../i18n/locale';
 
 const LISTEN_PAUSE_MS = 60 * 60 * 1000;
 /** Rough time per exercise, for the duration shown before a lesson. */
@@ -123,11 +124,16 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
       <div className="page page--center">
         <EmptyState
           mascot={<Mascot id={buddy} size={140} mood="sad" />}
-          title="This lesson isn’t open yet"
+          title={tr('Bài này chưa mở', 'This lesson isn’t open yet')}
         >
-          <p>Finish the lessons before it on your path to unlock it.</p>
+          <p>
+            {tr(
+              'Học xong các bài trước trên lộ trình để mở bài này.',
+              'Finish the lessons before it on your path to unlock it.',
+            )}
+          </p>
           <button type="button" className="btn" onClick={exit}>
-            Back to path
+            {tr('Về lộ trình', 'Back to path')}
           </button>
         </EmptyState>
       </div>
@@ -144,7 +150,7 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
         <button
           type="button"
           className="icon-btn lesson-intro__close"
-          aria-label="Back to path"
+          aria-label={tr('Về lộ trình', 'Back to path')}
           onClick={exit}
         >
           ×
@@ -153,29 +159,29 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
           <Mascot id={buddy} size={96} mood="wave" />
           <div>
             <p className="eyebrow">
-              {level > 0 ? `Practice again · level ${level + 1}` : 'New lesson'}
+              {level > 0
+                ? tr(`Luyện lại · cấp ${level + 1}`, `Practice again · level ${level + 1}`)
+                : tr('Bài mới', 'New lesson')}
             </p>
             <h1>{lesson.title}</h1>
             <p className="lesson-intro__goal">
-              Goal: understand and use {lesson.words.length} words and {lesson.sentences.length}{' '}
-              sentences. About {minutes} min
-              {reviewCount > 0
-                ? `, with ${reviewCount} review question${reviewCount > 1 ? 's' : ''} from earlier lessons`
-                : ''}
-              .
+              {tr(
+                `Mục tiêu: hiểu và dùng được ${lesson.words.length} từ và ${lesson.sentences.length} câu. Khoảng ${minutes} phút${reviewCount > 0 ? `, có ${reviewCount} câu ôn từ các bài trước` : ''}.`,
+                `Goal: understand and use ${lesson.words.length} words and ${lesson.sentences.length} sentences. About ${minutes} min${reviewCount > 0 ? `, with ${reviewCount} review question${reviewCount > 1 ? 's' : ''} from earlier lessons` : ''}.`,
+              )}
             </p>
           </div>
         </div>
 
-        <section className="card lesson-intro__words" aria-label="New words">
-          <h2>Words</h2>
+        <section className="card lesson-intro__words" aria-label={tr('Từ mới', 'New words')}>
+          <h2>{tr('Từ vựng', 'Words')}</h2>
           <ul>
             {lesson.words.map((w) => (
               <li key={w.en}>
                 <button
                   type="button"
                   className="speak-btn"
-                  aria-label={`Listen to ${w[targetLang]}`}
+                  aria-label={tr(`Nghe ${w[targetLang]}`, `Listen to ${w[targetLang]}`)}
                   onClick={() => speak(w[targetLang], targetLang)}
                 >
                   🔊
@@ -188,15 +194,15 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
         </section>
 
         {lesson.sentences.length > 0 && (
-          <section className="card lesson-intro__words" aria-label="Examples">
-            <h2>Examples</h2>
+          <section className="card lesson-intro__words" aria-label={tr('Câu mẫu', 'Examples')}>
+            <h2>{tr('Câu mẫu', 'Examples')}</h2>
             <ul>
               {lesson.sentences.slice(0, 2).map((s) => (
                 <li key={s.en}>
                   <button
                     type="button"
                     className="speak-btn"
-                    aria-label={`Listen to ${s[targetLang]}`}
+                    aria-label={tr(`Nghe ${s[targetLang]}`, `Listen to ${s[targetLang]}`)}
                     onClick={() => speak(s[targetLang], targetLang)}
                   >
                     🔊
@@ -220,7 +226,10 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
                 setPhase('play');
               }}
             >
-              Continue where you left off ({saved.session.position} answered)
+              {tr(
+                `Học tiếp từ chỗ đã dừng (đã trả lời ${saved.session.position} câu)`,
+                `Continue where you left off (${saved.session.position} answered)`,
+              )}
             </button>
           )}
           <button
@@ -232,7 +241,7 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
             }}
             autoFocus={!saved}
           >
-            {saved ? 'Start over' : 'Start lesson'}
+            {saved ? tr('Học lại từ đầu', 'Start over') : tr('Bắt đầu bài học', 'Start lesson')}
           </button>
         </div>
       </div>
@@ -243,16 +252,21 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
     return (
       <SessionComplete
         buddy={buddy}
-        title="Lesson complete!"
+        title={tr('Xong bài học!', 'Lesson complete!')}
         xp={result.xp}
         summary={result.summary}
         extra={
           <div className="recap card">
-            <h2>Recap</h2>
-            <p>You practised: {lesson.words.map((w) => w[targetLang]).join(', ')}.</p>
+            <h2>{tr('Tóm tắt', 'Recap')}</h2>
+            <p>
+              {tr('Bạn đã luyện: ', 'You practised: ')}
+              {lesson.words.map((w) => w[targetLang]).join(', ')}.
+            </p>
             <p className="muted">
-              {lesson.words.length} words are in your flashcards; they come back tomorrow and inside
-              later lessons.
+              {tr(
+                `${lesson.words.length} từ đã vào thẻ ôn tập; chúng quay lại từ ngày mai và trong các bài sau.`,
+                `${lesson.words.length} words are in your flashcards; they come back tomorrow and inside later lessons.`,
+              )}
             </p>
             {next && (
               <button
@@ -260,7 +274,8 @@ export function LessonPage({ course, lessonId }: { course: Course; lessonId: str
                 className="btn btn--ghost btn--block"
                 onClick={() => navigate({ name: 'lesson', lessonId: next.id })}
               >
-                Next: {next.title}
+                {tr('Bài tiếp: ', 'Next: ')}
+                {next.title}
               </button>
             )}
           </div>

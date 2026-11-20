@@ -3,6 +3,7 @@ import { BoltIcon, StarIcon } from '../../components/Icons';
 import { Mascot } from '../../components/mascots';
 import type { MascotId } from '../../types';
 import type { SessionSummary } from './session';
+import { tr } from '../../i18n/locale';
 
 function formatDuration(ms: number): string {
   const total = Math.max(0, Math.round(ms / 1000));
@@ -32,25 +33,34 @@ export function SessionComplete({
             <span key={i} style={{ '--i': i } as CSSProperties} />
           ))}
         </div>
-        <Mascot id={buddy} size={200} mood="happy" label="Your buddy celebrating" />
+        <Mascot
+          id={buddy}
+          size={200}
+          mood="happy"
+          label={tr('Bạn học đang ăn mừng', 'Your buddy celebrating')}
+        />
       </div>
       <h1>{title}</h1>
-      {summary.perfect && <p className="result-screen__sub">Perfect — no mistakes!</p>}
+      {summary.perfect && (
+        <p className="result-screen__sub">
+          {tr('Hoàn hảo, không sai câu nào!', 'Perfect: no mistakes!')}
+        </p>
+      )}
       <div className="result-stats">
         <div className="result-stat result-stat--xp">
-          <span>Total XP</span>
+          <span>{tr('Tổng XP', 'Total XP')}</span>
           <strong>
             <BoltIcon size={20} /> {xp}
           </strong>
         </div>
         <div className="result-stat result-stat--acc">
-          <span>Accuracy</span>
+          <span>{tr('Độ chính xác', 'Accuracy')}</span>
           <strong>
             <StarIcon size={20} /> {Math.round(summary.accuracy * 100)}%
           </strong>
         </div>
         <div className="result-stat result-stat--time">
-          <span>Time</span>
+          <span>{tr('Thời gian', 'Time')}</span>
           <strong>{formatDuration(summary.durationMs)}</strong>
         </div>
       </div>
@@ -61,7 +71,7 @@ export function SessionComplete({
         onClick={onContinue}
         autoFocus
       >
-        Continue
+        {tr('Tiếp tục', 'Continue')}
       </button>
     </div>
   );

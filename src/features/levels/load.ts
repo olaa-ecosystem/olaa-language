@@ -2,6 +2,7 @@
  * Loads curriculum content. Each level file is its own chunk, fetched only when opened, so the
  * app does not download 4–5 MB of lessons up front.
  */
+import { getLocale } from '../../i18n/locale';
 import { normalizeLevels, normalizeUnit } from './normalize';
 import {
   CURRICULUM_DIRS,
@@ -35,7 +36,8 @@ export function levelsOf(lang: CurriculumLang): LevelMeta[] {
 const cache = new Map<string, Promise<LevelUnit[]>>();
 
 export function loadLevel(lang: CurriculumLang, code: string): Promise<LevelUnit[]> {
-  const key = `${lang}/${code}`;
+  // Display text follows the interface language, so the cache is per language too.
+  const key = `${getLocale()}/${lang}/${code}`;
   let pending = cache.get(key);
   if (!pending) {
     const loader = levelFiles[`../../../content/${CURRICULUM_DIRS[lang]}/levels/${code}.json`] as

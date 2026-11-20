@@ -2,7 +2,8 @@ import type { SpeechLang } from '../../../utils/speech';
 import { useEffect, useState } from 'react';
 import { speak } from '../../../utils/speech';
 import type { BuildExercise, ListenExercise } from '../../exercises';
-import { BuddyPrompt, ExerciseTitle, LANGUAGE_NAMES, SpeakButton, type ViewProps } from './common';
+import { BuddyPrompt, ExerciseTitle, languageName, SpeakButton, type ViewProps } from './common';
+import { tr } from '../../../i18n/locale';
 
 function TileBoard({
   tiles,
@@ -26,7 +27,12 @@ function TileBoard({
 
   return (
     <div className="tile-board">
-      <div className="answer-line" aria-label="Your answer" aria-live="polite" lang={lang}>
+      <div
+        className="answer-line"
+        aria-label={tr('Câu trả lời của bạn', 'Your answer')}
+        aria-live="polite"
+        lang={lang}
+      >
         {chosen.map((i) => (
           <button
             key={i}
@@ -34,13 +40,18 @@ function TileBoard({
             className="tile"
             disabled={locked}
             onClick={() => update(chosen.filter((c) => c !== i))}
-            aria-label={`Remove ${tiles[i]}`}
+            aria-label={tr(`Bỏ ${tiles[i]}`, `Remove ${tiles[i]}`)}
           >
             {tiles[i]}
           </button>
         ))}
       </div>
-      <div className="tile-bank" role="group" aria-label="Word bank" lang={lang}>
+      <div
+        className="tile-bank"
+        role="group"
+        aria-label={tr('Các từ để chọn', 'Word bank')}
+        lang={lang}
+      >
         {tiles.map((tile, i) =>
           chosen.includes(i) ? (
             <span key={i} className="tile tile--ghost" aria-hidden>
@@ -75,7 +86,12 @@ export function BuildView({
 }: ViewProps<BuildExercise>) {
   return (
     <div className="exercise">
-      <ExerciseTitle>Write this in {LANGUAGE_NAMES[exercise.answerLang]}</ExerciseTitle>
+      <ExerciseTitle>
+        {tr(
+          `Viết câu này bằng ${languageName(exercise.answerLang)}`,
+          `Write this in ${languageName(exercise.answerLang)}`,
+        )}
+      </ExerciseTitle>
       <BuddyPrompt
         buddy={buddy}
         text={exercise.prompt}
@@ -105,7 +121,7 @@ export function ListenView({
 
   return (
     <div className="exercise">
-      <ExerciseTitle>Tap what you hear</ExerciseTitle>
+      <ExerciseTitle>{tr('Chạm vào những gì bạn nghe', 'Tap what you hear')}</ExerciseTitle>
       <div className="listen-controls">
         <SpeakButton text={exercise.audioText} lang={exercise.audioLang} big />
         <SpeakButton text={exercise.audioText} lang={exercise.audioLang} big slow />
@@ -119,7 +135,7 @@ export function ListenView({
       />
       {!locked && (
         <button type="button" className="link-btn" onClick={onCantListen}>
-          Can’t listen now
+          {tr('Không nghe được lúc này', 'Can’t listen now')}
         </button>
       )}
     </div>

@@ -1,4 +1,5 @@
 import { createRng, sample, shuffle } from '../../utils/random';
+import { getLocale, tr } from '../../i18n/locale';
 import type { Exercise } from '../exercises';
 import type { CurriculumLang } from '../levels/types';
 import type { Topic, TopicPhrase } from './types';
@@ -10,6 +11,32 @@ export function loadTopics(): Promise<Topic[]> {
     (m) => (m.default as unknown as { topics: Topic[] }).topics,
   );
   return pending;
+}
+
+/**
+ * The meaning shown to the learner: Vietnamese, or English when the interface is in English
+ * and English is not the language being learned.
+ */
+export function meaningOf(p: TopicPhrase, lang: CurriculumLang): string {
+  return getLocale() === 'en' && lang !== 'en' ? p.en : p.vi;
+}
+
+const SKILL_EN: Record<string, string> = {
+  Nghe: 'Listening',
+  Nói: 'Speaking',
+  Đọc: 'Reading',
+  Viết: 'Writing',
+};
+
+/** Skill name ("Nghe") in the interface language. */
+export function skillName(skill: string): string {
+  return getLocale() === 'en' ? (SKILL_EN[skill] ?? skill) : skill;
+}
+
+/** Study time ("~3,5 giờ mỗi ngôn ngữ") in the interface language. */
+export function studyTime(hours: string): string {
+  if (getLocale() !== 'en') return hours;
+  return hours.replace(/(\d),(\d)/g, '$1.$2').replace('giờ mỗi ngôn ngữ', 'hours per language');
 }
 
 /** The phrase in the language being learned (Chinese: characters). */
@@ -32,20 +59,20 @@ export function topicExercises(topic: Topic, lang: CurriculumLang, seed: number)
   const base = (n: string) => ({ id: `${topic.id}:${lang}:${n}`, lessonId: topic.id });
   const words: Exercise[] = topic.vocab.map((w, i) => {
     const others = sample(
-      topic.vocab.filter((o) => o !== w).map((o) => o.vi),
+      topic.vocab.filter((o) => o !== w).map((o) => meaningOf(o, lang)),
       3,
       rng,
     );
-    const options = shuffle([w.vi, ...others], rng);
+    const options = shuffle([meaningOf(w, lang), ...others], rng);
     return {
       ...base(`w${i}`),
       kind: 'choice',
       skill: 'vocabulary',
-      instruction: 'Chọn nghĩa đúng',
+      instruction: tr('Chọn nghĩa đúng', 'Choose the meaning'),
       prompt: lang === 'zh' ? `${w.zh.hanzi} (${w.zh.pinyin})` : phraseIn(w, lang),
       lang,
       options,
-      answerIndex: options.indexOf(w.vi),
+      answerIndex: options.indexOf(meaningOf(w, lang)),
       audioText: phraseIn(w, lang),
       passage: null,
     };
@@ -56,7 +83,7 @@ export function topicExercises(topic: Topic, lang: CurriculumLang, seed: number)
       ...base(`f${i}`),
       kind: 'text',
       skill: 'grammar',
-      instruction: 'Điền vào chỗ trống',
+      instruction: tr('Điền vào chỗ trống', 'Fill in the blank'),
       prompt: f.sentence,
       lang,
       accepted: variants(f.answer),
@@ -65,8 +92,8 @@ export function topicExercises(topic: Topic, lang: CurriculumLang, seed: number)
     ...base(`t${i}`),
     kind: 'text',
     skill: 'translation',
-    instruction: 'Dịch sang ngôn ngữ đang học',
-    prompt: s.vi,
+    instruction: tr('Dịch sang ngôn ngữ đang học', 'Translate into the language you are learning'),
+    prompt: meaningOf(s, lang),
     lang,
     // Chinese: characters or pinyin both count (not every learner has a Chinese keyboard).
     accepted:
@@ -79,7 +106,10 @@ export function topicExercises(topic: Topic, lang: CurriculumLang, seed: number)
     skill: 'speaking',
     text: q[lang],
     lang,
-    explain: 'Nói to câu hỏi, rồi tự trả lời bằng 2–3 câu.',
+    explain: tr(
+      'Nói to câu hỏi, rồi tự trả lời bằng 2–3 câu.',
+      'Say the question aloud, then answer it in 2–3 sentences.',
+    ),
   }));
   return [...words, ...fills, ...translations, ...speaking];
 }

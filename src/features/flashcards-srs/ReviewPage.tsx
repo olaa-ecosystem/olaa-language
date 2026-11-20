@@ -12,6 +12,7 @@ import { playFeedback } from '../../utils/sound';
 import type { Course } from '../curriculum';
 import { SpeakButton } from '../lesson-player/exercises/common';
 import { dueCards, type ReviewGrade, type SrsCard } from './srs';
+import { tr } from '../../i18n/locale';
 
 const MAX_CARDS_PER_SESSION = 20;
 
@@ -83,10 +84,12 @@ export function FlashcardSession({
     return (
       <div className="result-screen">
         <Mascot id={buddy} size={190} mood="happy" />
-        <h1>Review complete!</h1>
+        <h1>{tr('Ôn xong rồi!', 'Review complete!')}</h1>
         <p className="result-screen__sub">
-          You reviewed {reviewed.length} word{reviewed.length === 1 ? '' : 's'} · +
-          {Math.min(10, reviewed.length)} XP
+          {tr(
+            `Bạn đã ôn ${reviewed.length} từ · +${Math.min(10, reviewed.length)} XP`,
+            `You reviewed ${reviewed.length} word${reviewed.length === 1 ? '' : 's'} · +${Math.min(10, reviewed.length)} XP`,
+          )}
         </p>
         <button
           type="button"
@@ -94,7 +97,7 @@ export function FlashcardSession({
           onClick={exit}
           autoFocus
         >
-          Continue
+          {tr('Tiếp tục', 'Continue')}
         </button>
       </div>
     );
@@ -103,10 +106,18 @@ export function FlashcardSession({
   if (!card) {
     return (
       <div className="page page--center">
-        <EmptyState mascot={<Mascot id="elephant" size={150} />} title="All caught up!">
-          <p>No flashcards are due right now. Ellie will remind you when it’s time to review.</p>
+        <EmptyState
+          mascot={<Mascot id="elephant" size={150} />}
+          title={tr('Đã ôn hết!', 'All caught up!')}
+        >
+          <p>
+            {tr(
+              'Chưa có thẻ nào đến hạn. Ellie sẽ nhắc khi đến lúc ôn.',
+              'No flashcards are due right now. Ellie will remind you when it’s time to review.',
+            )}
+          </p>
           <button type="button" className="btn" onClick={exit}>
-            Back to practice
+            {tr('Quay lại', 'Back')}
           </button>
         </EmptyState>
       </div>
@@ -116,27 +127,37 @@ export function FlashcardSession({
   return (
     <div className="lesson">
       <header className="lesson__top">
-        <button type="button" className="icon-btn" aria-label="Close review" onClick={exit}>
+        <button
+          type="button"
+          className="icon-btn"
+          aria-label={tr('Đóng phần ôn', 'Close review')}
+          onClick={exit}
+        >
           <CloseIcon />
         </button>
-        <ProgressBar value={total ? (total - queue.length) / total : 0} label="Review progress" />
+        <ProgressBar
+          value={total ? (total - queue.length) / total : 0}
+          label={tr('Tiến độ ôn tập', 'Review progress')}
+        />
         <span className="stat">
           {total - queue.length}/{total}
         </span>
       </header>
       <main className="lesson__body">
         <div className="exercise">
-          <h2 className="exercise-title">Do you remember this word?</h2>
+          <h2 className="exercise-title">
+            {tr('Bạn còn nhớ từ này không?', 'Do you remember this word?')}
+          </h2>
           <button
             type="button"
             className={`flashcard ${flipped ? 'is-flipped' : ''}`}
             onClick={() => setFlipped((f) => !f)}
-            aria-label={flipped ? 'Hide answer' : 'Show answer'}
+            aria-label={flipped ? tr('Ẩn đáp án', 'Hide answer') : tr('Xem đáp án', 'Show answer')}
           >
             <span className="flashcard__inner">
               <span className="flashcard__face flashcard__front" lang={frontLang}>
                 {card.front}
-                <small>Tap to flip</small>
+                <small>{tr('Chạm để lật', 'Tap to flip')}</small>
               </span>
               <span className="flashcard__face flashcard__back" lang={backLang}>
                 {card.back}
@@ -154,13 +175,13 @@ export function FlashcardSession({
           {flipped ? (
             <>
               <button type="button" className="btn btn--danger" onClick={() => grade('again')}>
-                Again
+                {tr('Chưa nhớ', 'Again')}
               </button>
               <button type="button" className="btn btn--success" onClick={() => grade('good')}>
-                Good
+                {tr('Nhớ', 'Good')}
               </button>
               <button type="button" className="btn" onClick={() => grade('easy')}>
-                Easy
+                {tr('Dễ', 'Easy')}
               </button>
             </>
           ) : (
@@ -170,7 +191,7 @@ export function FlashcardSession({
               onClick={() => setFlipped(true)}
               autoFocus
             >
-              Show answer
+              {tr('Xem đáp án', 'Show answer')}
             </button>
           )}
         </div>

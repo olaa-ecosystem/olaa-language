@@ -13,12 +13,14 @@ import type {
   Skill,
   VocabItem,
 } from './types';
+import { tr } from '../../i18n/locale';
 
-const LANG_NAME_VI: Record<CurriculumLang, string> = {
-  en: 'tiếng Anh',
-  es: 'tiếng Tây Ban Nha',
-  zh: 'tiếng Trung',
-};
+const langName = (lang: CurriculumLang): string =>
+  ({
+    en: tr('tiếng Anh', 'English'),
+    es: tr('tiếng Tây Ban Nha', 'Spanish'),
+    zh: tr('tiếng Trung', 'Chinese'),
+  })[lang];
 
 const SKILL: Record<string, Skill> = {
   fill: 'grammar',
@@ -40,7 +42,18 @@ const SKILL: Record<string, Skill> = {
 type Raw = Record<string, unknown>;
 
 const str = (v: unknown): string | null => (typeof v === 'string' && v.trim() ? v : null);
-const vi = (v: unknown): string | null => (Array.isArray(v) ? str(v[0]) : str(v));
+/** Bilingual [vi, en] text in the interface language (Vietnamese when no English is given). */
+const vi = (v: unknown): string | null =>
+  Array.isArray(v)
+    ? (str(tr(String(v[0] ?? ''), String(v[1] ?? v[0] ?? ''))) ?? str(v[0]))
+    : str(v);
+/** Answer options: bilingual options follow the interface language; the answer index is unchanged. */
+const optionList = (v: unknown): string[] | null =>
+  Array.isArray(v) &&
+  v.length > 0 &&
+  v.every((x) => typeof x === 'string' || (Array.isArray(x) && typeof x[0] === 'string'))
+    ? v.map((x) => (Array.isArray(x) ? (vi(x) ?? String(x[0])) : (x as string)))
+    : null;
 const strings = (v: unknown): string[] | null =>
   Array.isArray(v) &&
   v.length > 0 &&
@@ -51,18 +64,18 @@ const strings = (v: unknown): string[] | null =>
 function defaultInstruction(t: string, lang: CurriculumLang): string | null {
   switch (t) {
     case 'gap':
-      return 'Điền từ còn thiếu';
+      return tr('Điền từ còn thiếu', 'Fill in the missing word');
     case 'fix':
-      return 'Sửa lỗi sai trong câu';
+      return tr('Sửa lỗi sai trong câu', 'Correct the mistake in the sentence');
     case 'trans':
     case 'tr':
-      return `Dịch sang ${LANG_NAME_VI[lang]}`;
+      return tr(`Dịch sang ${langName(lang)}`, `Translate into ${langName(lang)}`);
     case 'fill':
-      return 'Chọn từ đúng để điền vào chỗ trống';
+      return tr('Chọn từ đúng để điền vào chỗ trống', 'Choose the word that fills the gap');
     case 'read':
-      return 'Đọc bài và trả lời';
+      return tr('Đọc bài và trả lời', 'Read and answer');
     case 'listen':
-      return 'Nghe và chọn đáp án đúng';
+      return tr('Nghe và chọn đáp án đúng', 'Listen and choose the right answer');
     default:
       return null;
   }
@@ -80,7 +93,7 @@ export function normalizeItem(raw: unknown, lang: CurriculumLang): ContentItem |
       case 'mc':
       case 'tr':
       case 'listen': {
-        const options = strings(b);
+        const options = optionList(b);
         const prompt = Array.isArray(a) ? vi(a) : str(a);
         if (!prompt || !options || typeof c !== 'number' || c < 0 || c >= options.length)
           return null;
@@ -153,7 +166,7 @@ export function normalizeItem(raw: unknown, lang: CurriculumLang): ContentItem |
         ? { kind: 'free', source: t, skill, prompt: question, model: str(o.m) ?? vi(o.m) }
         : null;
   }
-  const options = strings(o.o);
+  const options = optionList(o.o);
   if (options && typeof o.a === 'number') {
     if (o.a < 0 || o.a >= options.length) return null;
     const prompt = t === 'read' || t === 'listen' ? question : (s ?? question);

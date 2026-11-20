@@ -1,12 +1,17 @@
 import type { LanguageCode } from '../../types';
 import { UNITS } from './content';
 import type { Course, CourseId, Lesson, Phrase, Unit } from './types';
+import { tr } from '../../i18n/locale';
 
 export const COURSES: Record<CourseId, Course> = {
   'en-from-vi': {
     id: 'en-from-vi',
-    title: 'English',
-    subtitle: 'Học tiếng Anh · for Vietnamese speakers',
+    get title() {
+      return tr('Tiếng Anh', 'English');
+    },
+    get subtitle() {
+      return tr('Học tiếng Anh từ tiếng Việt', 'Learn English from Vietnamese');
+    },
     targetLang: 'en',
     baseLang: 'vi',
     mascot: 'whale',
@@ -14,8 +19,12 @@ export const COURSES: Record<CourseId, Course> = {
   },
   'vi-from-en': {
     id: 'vi-from-en',
-    title: 'Vietnamese',
-    subtitle: 'Tiếng Việt · for English speakers',
+    get title() {
+      return tr('Tiếng Việt', 'Vietnamese');
+    },
+    get subtitle() {
+      return tr('Học tiếng Việt từ tiếng Anh', 'Learn Vietnamese from English');
+    },
     targetLang: 'vi',
     baseLang: 'en',
     mascot: 'frog',

@@ -20,6 +20,7 @@ import { unitExercises } from './toExercises';
 import type { CurriculumLang, LevelUnit } from './types';
 import { levelState, unitStates } from './unlock';
 import { useLevel } from './useLevel';
+import { pick, tr } from '../../i18n/locale';
 
 function useHanViet(enabled: boolean): Record<string, string> {
   const [table, setTable] = useState<Record<string, string>>({});
@@ -44,7 +45,9 @@ export function UnitPage(props: {
     return (
       <div className="page page--center">
         <p className="muted" role="status">
-          {loaded.status === 'error' ? 'Không tải được bài học.' : 'Đang tải bài học…'}
+          {loaded.status === 'error'
+            ? tr('Không tải được bài học.', 'Could not load the lesson.')
+            : tr('Đang tải bài học…', 'Loading the lesson…')}
         </p>
       </div>
     );
@@ -71,10 +74,15 @@ export function UnitPage(props: {
   if (!unit || !open) {
     return (
       <div className="page page--center">
-        <EmptyState mascot={null} title="Bài này chưa mở">
-          <p>Học xong bài trước trong cấp độ để mở bài này.</p>
+        <EmptyState mascot={null} title={tr('Bài này chưa mở', 'This unit isn’t open yet')}>
+          <p>
+            {tr(
+              'Học xong bài trước trong cấp độ để mở bài này.',
+              'Finish the unit before it to open this one.',
+            )}
+          </p>
           <button type="button" className="btn" onClick={back}>
-            Về danh sách bài
+            {tr('Về danh sách bài', 'Back to units')}
           </button>
         </EmptyState>
       </div>
@@ -134,15 +142,22 @@ function UnitSession({
     return (
       <SessionComplete
         buddy={buddy}
-        title={challenge ? 'Xong thử thách!' : 'Xong bài học!'}
+        title={
+          challenge
+            ? tr('Xong thử thách!', 'Challenge done!')
+            : tr('Xong bài học!', 'Unit complete!')
+        }
         xp={challenge ? 0 : result.xp}
         summary={result.summary}
         extra={
           <div className="recap card">
-            <h2>Tóm tắt</h2>
+            <h2>{tr('Tóm tắt', 'Recap')}</h2>
             {!challenge && unit.vocab.length > 0 && (
               <p className="muted">
-                {unit.vocab.length} từ của bài đã vào thẻ ôn tập; chúng quay lại từ ngày mai.
+                {tr(
+                  `${unit.vocab.length} từ của bài đã vào thẻ ôn tập; chúng quay lại từ ngày mai.`,
+                  `${unit.vocab.length} words from this unit are in your flashcards; they come back tomorrow.`,
+                )}
               </p>
             )}
             {!challenge && unit.challenge.length > 0 && (
@@ -156,7 +171,10 @@ function UnitSession({
                   challenge: true,
                 })}
               >
-                Thử thách thêm ({unit.challenge.length} câu khó)
+                {tr(
+                  `Thử thách thêm (${unit.challenge.length} câu khó)`,
+                  `Extra challenge (${unit.challenge.length} hard questions)`,
+                )}
               </a>
             )}
             {next && (
@@ -164,7 +182,8 @@ function UnitSession({
                 className="btn btn--ghost btn--block"
                 href={routeHref({ name: 'unit', lang, level: unit.level, unitId: next.id })}
               >
-                Bài tiếp: {next.title[0]}
+                {tr('Bài tiếp: ', 'Next: ')}
+                {pick(next.title)}
               </a>
             )}
           </div>
@@ -195,31 +214,33 @@ function UnitSession({
       <button
         type="button"
         className="icon-btn lesson-intro__close"
-        aria-label="Về danh sách bài"
+        aria-label={tr('Về danh sách bài', 'Back to units')}
         onClick={onExit}
       >
         ×
       </button>
       <div>
         <p className="eyebrow">{unit.level}</p>
-        <h1>{unit.title[0]}</h1>
+        <h1>{pick(unit.title)}</h1>
         <p className="lesson-intro__goal">
-          {unit.title[1]} · {exercises.length} câu luyện tập · khoảng{' '}
-          {Math.max(5, Math.round((exercises.length * 30) / 60))} phút
+          {tr(
+            `${unit.title[1]} · ${exercises.length} câu luyện tập · khoảng ${Math.max(5, Math.round((exercises.length * 30) / 60))} phút`,
+            `${exercises.length} practice questions · about ${Math.max(5, Math.round((exercises.length * 30) / 60))} min`,
+          )}
         </p>
       </div>
 
       {unit.theory.length > 0 && (
-        <section className="card" aria-label="Lý thuyết">
-          <h2>Lý thuyết</h2>
+        <section className="card" aria-label={tr('Lý thuyết', 'Theory')}>
+          <h2>{tr('Lý thuyết', 'Theory')}</h2>
           {unit.theory.map((p, i) => (
-            <RichText key={i} text={p[0]} />
+            <RichText key={i} text={pick(p)} />
           ))}
         </section>
       )}
 
       {unit.table && (
-        <section className="card table-wrap" aria-label="Bảng">
+        <section className="card table-wrap" aria-label={tr('Bảng', 'Table')}>
           <table className="unit-table">
             <thead>
               <tr>
@@ -242,8 +263,8 @@ function UnitSession({
       )}
 
       {unit.hanzi && (
-        <section className="card" aria-label="Chữ Hán">
-          <h2>Chữ Hán của bài</h2>
+        <section className="card" aria-label={tr('Chữ Hán', 'Characters')}>
+          <h2>{tr('Chữ Hán của bài', 'Characters in this unit')}</h2>
           <ul className="hanzi-list">
             {[...unit.hanzi].map((ch, i) => (
               <li key={`${ch}-${i}`}>
@@ -252,7 +273,7 @@ function UnitSession({
                   className="hanzi"
                   lang="zh"
                   onClick={() => speak(ch, 'zh')}
-                  aria-label={`Nghe ${ch}`}
+                  aria-label={tr(`Nghe ${ch}`, `Listen to ${ch}`)}
                 >
                   {ch}
                 </button>
@@ -264,24 +285,27 @@ function UnitSession({
       )}
 
       {unit.vocab.length > 0 && (
-        <section className="card lesson-intro__words" aria-label="Từ vựng">
-          <h2>Từ vựng</h2>
+        <section className="card lesson-intro__words" aria-label={tr('Từ vựng', 'Vocabulary')}>
+          <h2>{tr('Từ vựng', 'Vocabulary')}</h2>
           <ul>
             {unit.vocab.map((w) => (
               <li key={w.word}>
                 <button
                   type="button"
                   className="speak-btn"
-                  aria-label={`Nghe ${w.word}`}
+                  aria-label={tr(`Nghe ${w.word}`, `Listen to ${w.word}`)}
                   onClick={() => speak(w.word, lang)}
                 >
                   🔊
                 </button>
                 <strong lang={lang}>{w.word}</strong>
                 {w.sound && <span className="vocab-sound">{w.sound}</span>}
-                <span>{w.vi}</span>
+                <span>{tr(w.vi, w.en || w.vi)}</span>
                 {lang === 'zh' && hanVietOf(w.word, hanViet) && (
-                  <span className="vocab-hanviet">Hán Việt: {hanVietOf(w.word, hanViet)}</span>
+                  <span className="vocab-hanviet">
+                    {tr('Hán Việt: ', 'Sino-Vietnamese: ')}
+                    {hanVietOf(w.word, hanViet)}
+                  </span>
                 )}
               </li>
             ))}
@@ -291,7 +315,7 @@ function UnitSession({
 
       <div className="lesson-intro__actions">
         <button type="button" className="btn btn--block" onClick={() => setPhase('play')} autoFocus>
-          Bắt đầu luyện tập
+          {tr('Bắt đầu luyện tập', 'Start practice')}
         </button>
       </div>
     </div>

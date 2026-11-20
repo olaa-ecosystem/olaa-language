@@ -1,4 +1,5 @@
 import type { Unit } from './types';
+import { tr } from '../../i18n/locale';
 
 /**
  * Shared bilingual content (English ⇄ Vietnamese). Both courses read the same units and
@@ -7,13 +8,22 @@ import type { Unit } from './types';
 export const UNITS: Unit[] = [
   {
     id: 'u1',
-    title: 'First words',
-    description: 'Say hello, meet people and name your animal friends.',
+    get title() {
+      return tr('Những từ đầu tiên', 'First words');
+    },
+    get description() {
+      return tr(
+        'Chào hỏi, làm quen và gọi tên các bạn thú.',
+        'Say hello, meet people and name your animal friends.',
+      );
+    },
     guide: 'bear',
     lessons: [
       {
         id: 'u1-greetings',
-        title: 'Greetings',
+        get title() {
+          return tr('Chào hỏi', 'Greetings');
+        },
         icon: '👋',
         words: [
           { en: 'hello', vi: 'xin chào', acceptEn: ['hi'] },
@@ -44,7 +54,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u1-people',
-        title: 'People',
+        get title() {
+          return tr('Mọi người', 'People');
+        },
         icon: '🧑',
         words: [
           { en: 'man', vi: 'đàn ông' },
@@ -66,7 +78,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u1-animals',
-        title: 'Animal friends',
+        get title() {
+          return tr('Bạn thú', 'Animal friends');
+        },
         icon: '🐾',
         words: [
           {
@@ -124,13 +138,19 @@ export const UNITS: Unit[] = [
   },
   {
     id: 'u2',
-    title: 'Everyday life',
-    description: 'Food, family and counting to five.',
+    get title() {
+      return tr('Cuộc sống hằng ngày', 'Everyday life');
+    },
+    get description() {
+      return tr('Đồ ăn, gia đình và đếm đến năm.', 'Food, family and counting to five.');
+    },
     guide: 'cat',
     lessons: [
       {
         id: 'u2-food',
-        title: 'Food & drink',
+        get title() {
+          return tr('Đồ ăn và đồ uống', 'Food & drink');
+        },
         icon: '🍚',
         words: [
           { en: 'rice', vi: 'cơm' },
@@ -149,7 +169,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u2-family',
-        title: 'Family',
+        get title() {
+          return tr('Gia đình', 'Family');
+        },
         icon: '🏡',
         words: [
           { en: 'mother', vi: 'mẹ', acceptEn: ['mom', 'mum'] },
@@ -174,7 +196,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u2-numbers',
-        title: 'Numbers',
+        get title() {
+          return tr('Con số', 'Numbers');
+        },
         icon: '🔢',
         words: [
           { en: 'one', vi: 'một' },
@@ -197,13 +221,22 @@ export const UNITS: Unit[] = [
   },
   {
     id: 'u3',
-    title: 'Colourful world',
-    description: 'Colours, more animals and getting around town.',
+    get title() {
+      return tr('Thế giới sắc màu', 'Colourful world');
+    },
+    get description() {
+      return tr(
+        'Màu sắc, thêm nhiều con vật và đi quanh phố.',
+        'Colours, more animals and getting around town.',
+      );
+    },
     guide: 'elephant',
     lessons: [
       {
         id: 'u3-colours',
-        title: 'Colours',
+        get title() {
+          return tr('Màu sắc', 'Colours');
+        },
         icon: '🎨',
         words: [
           { en: 'red', vi: 'màu đỏ', acceptVi: ['đỏ'] },
@@ -228,7 +261,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u3-wild',
-        title: 'Wild friends',
+        get title() {
+          return tr('Thú hoang dã', 'Wild friends');
+        },
         icon: '🐘',
         words: [
           {
@@ -290,7 +325,9 @@ export const UNITS: Unit[] = [
       },
       {
         id: 'u3-town',
-        title: 'Around town',
+        get title() {
+          return tr('Quanh phố', 'Around town');
+        },
         icon: '🚌',
         words: [
           { en: 'school', vi: 'trường học', acceptVi: ['trường'] },

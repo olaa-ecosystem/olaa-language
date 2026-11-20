@@ -1,6 +1,11 @@
 import type { BuildExercise, ListenExercise, SelectExercise, TypeExercise } from './types';
 import { explainMistake } from './explain';
 import { gradeExercise } from './grade';
+import { setLocale } from '../../i18n/locale';
+
+// These checks were written against the English interface.
+beforeAll(() => setLocale('en'));
+afterAll(() => setLocale('vi'));
 
 const base = { lessonId: 'l', promptLang: 'vi', answerLang: 'en' } as const;
 const build: BuildExercise = {

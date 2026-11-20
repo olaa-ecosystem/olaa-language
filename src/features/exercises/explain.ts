@@ -4,6 +4,7 @@
  */
 import { levenshtein, normalize, stripDiacritics } from '../../utils/text';
 import type { Exercise, GradeResult } from './types';
+import { tr } from '../../i18n/locale';
 
 export type ErrorCategory =
   | 'grammar'
@@ -19,20 +20,26 @@ export type ErrorCategory =
   | 'listening'
   | 'skipped';
 
-export const ERROR_LABELS: Record<ErrorCategory, string> = {
-  grammar: 'Grammar',
-  reading: 'Reading',
-  speaking: 'Speaking',
-  writing: 'Writing',
-  vocabulary: 'Vocabulary',
-  meaning: 'Word meaning',
-  'word-order': 'Word order',
-  'missing-words': 'Missing or extra words',
-  spelling: 'Spelling',
-  translation: 'Translation',
-  listening: 'Listening',
-  skipped: 'Skipped',
+const LABELS: Record<ErrorCategory, [string, string]> = {
+  grammar: ['Ngữ pháp', 'Grammar'],
+  reading: ['Đọc hiểu', 'Reading'],
+  speaking: ['Nói', 'Speaking'],
+  writing: ['Viết', 'Writing'],
+  vocabulary: ['Từ vựng', 'Vocabulary'],
+  meaning: ['Nghĩa của từ', 'Word meaning'],
+  'word-order': ['Trật tự từ', 'Word order'],
+  'missing-words': ['Thiếu hoặc thừa từ', 'Missing or extra words'],
+  spelling: ['Chính tả', 'Spelling'],
+  translation: ['Dịch', 'Translation'],
+  listening: ['Nghe', 'Listening'],
+  skipped: ['Bỏ qua', 'Skipped'],
 };
+
+/** Name of a mistake category in the interface language. */
+export function errorLabel(category: ErrorCategory): string {
+  const [vi, en] = LABELS[category];
+  return tr(vi, en);
+}
 
 export interface Explanation {
   category: ErrorCategory;
@@ -70,7 +77,10 @@ function tileExplanation(response: string, accepted: string[], listening: boolea
   if (sameWords) {
     return {
       category: listening ? 'listening' : 'word-order',
-      why: `You have the right words in the wrong order. It is “${target}”.`,
+      why: tr(
+        `Đúng từ nhưng sai thứ tự. Câu đúng là “${target}”.`,
+        `You have the right words in the wrong order. It is “${target}”.`,
+      ),
     };
   }
   const remaining = [...got];
@@ -80,11 +90,15 @@ function tileExplanation(response: string, accepted: string[], listening: boolea
     return i < 0;
   });
   const parts: string[] = [];
-  if (missing.length) parts.push(`Missing ${quote(missing)}.`);
-  if (remaining.length) parts.push(`Not needed: ${quote(remaining)}.`);
+  if (missing.length) parts.push(tr(`Thiếu ${quote(missing)}.`, `Missing ${quote(missing)}.`));
+  if (remaining.length)
+    parts.push(tr(`Không cần: ${quote(remaining)}.`, `Not needed: ${quote(remaining)}.`));
   return {
     category: listening ? 'listening' : 'missing-words',
-    why: listening ? `You heard “${target}”. ${parts.join(' ')}`.trim() : parts.join(' '),
+    why: listening
+      ? tr(`Câu bạn nghe là “${target}”.`, `You heard “${target}”.`) +
+        (parts.length ? ` ${parts.join(' ')}` : '')
+      : parts.join(' '),
   };
 }
 
@@ -101,20 +115,37 @@ export function explainMistake(
       | undefined;
     return {
       category: !response.trim() ? 'skipped' : (category ?? 'grammar'),
-      why: exercise.explain ?? `The answer is “${result.correctAnswer}”.`,
+      why:
+        exercise.explain ??
+        tr(`Đáp án là “${result.correctAnswer}”.`, `The answer is “${result.correctAnswer}”.`),
     };
   }
   if (!response.trim() && exercise.kind !== 'match') {
     return {
       category: 'skipped',
-      why: `The answer is “${result.correctAnswer}”. It will come back later.`,
+      why: tr(
+        `Đáp án là “${result.correctAnswer}”. Câu này sẽ quay lại sau.`,
+        `The answer is “${result.correctAnswer}”. It will come back later.`,
+      ),
     };
   }
   switch (exercise.kind) {
     case 'select':
-      return { category: 'meaning', why: `“${exercise.prompt}” means “${exercise.answer}”.` };
+      return {
+        category: 'meaning',
+        why: tr(
+          `“${exercise.prompt}” nghĩa là “${exercise.answer}”.`,
+          `“${exercise.prompt}” means “${exercise.answer}”.`,
+        ),
+      };
     case 'picture':
-      return { category: 'meaning', why: `“${exercise.prompt}” is ${result.correctAnswer}.` };
+      return {
+        category: 'meaning',
+        why: tr(
+          `“${exercise.prompt}” là ${result.correctAnswer}.`,
+          `“${exercise.prompt}” is ${result.correctAnswer}.`,
+        ),
+      };
     case 'build':
       return tileExplanation(response, exercise.accepted, false);
     case 'listen':
@@ -131,11 +162,17 @@ export function explainMistake(
         return {
           category: 'spelling',
           why: wrong.length
-            ? `Close! Check the spelling of ${quote(wrong)}.`
-            : `Close! Compare with “${target}”.`,
+            ? tr(
+                `Gần đúng! Xem lại chính tả của ${quote(wrong)}.`,
+                `Close! Check the spelling of ${quote(wrong)}.`,
+              )
+            : tr(`Gần đúng! So với “${target}”.`, `Close! Compare with “${target}”.`),
         };
       }
-      return { category: 'translation', why: `A correct translation is “${target}”.` };
+      return {
+        category: 'translation',
+        why: tr(`Một cách dịch đúng là “${target}”.`, `A correct translation is “${target}”.`),
+      };
     }
     case 'match':
     case 'choice':
