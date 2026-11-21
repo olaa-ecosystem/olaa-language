@@ -138,14 +138,6 @@ export function explainMistake(
           `“${exercise.prompt}” means “${exercise.answer}”.`,
         ),
       };
-    case 'picture':
-      return {
-        category: 'meaning',
-        why: tr(
-          `“${exercise.prompt}” là ${result.correctAnswer}.`,
-          `“${exercise.prompt}” is ${result.correctAnswer}.`,
-        ),
-      };
     case 'build':
       return tileExplanation(response, exercise.accepted, false);
     case 'listen':

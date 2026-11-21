@@ -10,9 +10,22 @@ function isAppState(value: unknown): value is AppState {
   );
 }
 
+/** Saved mistakes of exercise kinds that no longer exist (the mascot picture exercise). */
+function dropRetiredExercises(state: AppState): AppState {
+  const courses = { ...state.courses };
+  for (const [id, progress] of Object.entries(courses)) {
+    if (!progress) continue;
+    const mistakes = Object.fromEntries(
+      Object.entries(progress.mistakes).filter(([, e]) => (e.kind as string) !== 'picture'),
+    );
+    courses[id as keyof typeof courses] = { ...progress, mistakes };
+  }
+  return { ...state, courses };
+}
+
 function load(): AppState {
   // Merge with defaults so fields added later get sensible values.
-  return { ...initialState(), ...loadJson(initialState, isAppState) };
+  return dropRetiredExercises({ ...initialState(), ...loadJson(initialState, isAppState) });
 }
 
 let state: AppState = load();

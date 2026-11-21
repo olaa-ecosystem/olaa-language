@@ -1,4 +1,4 @@
-import type { LanguageCode, MascotId } from '../../types';
+import type { LanguageCode } from '../../types';
 import type { SpeechLang } from '../../utils/speech';
 
 interface ExerciseBase {
@@ -23,16 +23,6 @@ export interface SelectExercise extends ExerciseBase {
   optionLang: LanguageCode;
   options: string[];
   answer: string;
-}
-
-/** "Which one is …?" — pick the right animal picture. */
-export interface PictureExercise extends ExerciseBase {
-  kind: 'picture';
-  prompt: string;
-  promptLang: LanguageCode;
-  labelLang: LanguageCode;
-  options: { image: MascotId; label: string }[];
-  answer: MascotId;
 }
 
 /** Translate a sentence by tapping word tiles. */
@@ -123,7 +113,6 @@ export type Exercise =
   | SayExercise
   | FreeExercise
   | SelectExercise
-  | PictureExercise
   | BuildExercise
   | MatchExercise
   | TypeExercise

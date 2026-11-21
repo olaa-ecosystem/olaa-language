@@ -7,7 +7,6 @@ import type {
   Exercise,
   ListenExercise,
   MatchExercise,
-  PictureExercise,
   SelectExercise,
   TypeExercise,
 } from './types';
@@ -81,31 +80,6 @@ function selectExercise(
     optionLang,
     answer,
     options: shuffle([answer, ...distractorWords(course, word, optionLang, 3, rng)], rng),
-  };
-}
-
-function pictureExercise(
-  course: Course,
-  lesson: Lesson,
-  word: Phrase & { image: NonNullable<Phrase['image']> },
-  rng: Rng,
-): PictureExercise {
-  const others = wordPool(course).filter(
-    (w): w is typeof word => !!w.image && w.image !== word.image,
-  );
-  const options = shuffle([word, ...sample(others, 3, rng)], rng).map((w) => ({
-    image: w.image,
-    label: w[course.targetLang],
-  }));
-  return {
-    id: `${lesson.id}:picture:${word.en}`,
-    lessonId: lesson.id,
-    kind: 'picture',
-    prompt: word[course.baseLang],
-    promptLang: course.baseLang,
-    labelLang: course.targetLang,
-    options,
-    answer: word.image,
   };
 }
 
@@ -184,7 +158,7 @@ function listenExercise(
 
 /**
  * Builds one lesson session. Higher lesson levels shift the mix from recognition
- * (pictures, tiles) toward recall (typing).
+ * (choices, tiles) toward recall (typing).
  */
 export function generateLessonExercises(
   course: Course,
@@ -194,17 +168,8 @@ export function generateLessonExercises(
 ): Exercise[] {
   const rng = createRng(seed);
 
-  const pictureWords = lesson.words.filter(
-    (w): w is Phrase & { image: NonNullable<Phrase['image']> } => !!w.image,
-  );
-  const wordExercises: Exercise[] = [
-    ...sample(pictureWords, 3, rng).map((w) => pictureExercise(course, lesson, w, rng)),
-  ];
-  const selectWords = sample(
-    lesson.words.filter((w) => !w.image || pictureWords.length > 3),
-    4 - wordExercises.length,
-    rng,
-  );
+  const wordExercises: Exercise[] = [];
+  const selectWords = sample(lesson.words, 4, rng);
   selectWords.forEach((w, i) => wordExercises.push(selectExercise(course, lesson, w, i, rng)));
 
   const sentences = shuffle(lesson.sentences, rng);

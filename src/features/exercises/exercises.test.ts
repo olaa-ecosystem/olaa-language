@@ -76,8 +76,6 @@ function solve(e: Exercise): string {
   switch (e.kind) {
     case 'select':
       return e.answer;
-    case 'picture':
-      return e.answer;
     case 'build':
     case 'listen':
       return solveTiles(e);

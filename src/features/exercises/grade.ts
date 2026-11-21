@@ -1,5 +1,4 @@
 import { levenshtein, normalize, stripDiacritics } from '../../utils/text';
-import { MASCOTS } from '../../components/mascots/mascots';
 import type { Exercise, GradeResult } from './types';
 
 /**
@@ -32,13 +31,6 @@ export function gradeExercise(exercise: Exercise, response: string): GradeResult
   switch (exercise.kind) {
     case 'select':
       return { correct: response === exercise.answer, correctAnswer: exercise.answer };
-    case 'picture': {
-      const label = exercise.options.find((o) => o.image === exercise.answer)?.label;
-      return {
-        correct: response === exercise.answer,
-        correctAnswer: label ?? MASCOTS[exercise.answer].name,
-      };
-    }
     case 'build':
     case 'listen': {
       // Tiles are exact words, so only exact (normalised) matches count.
