@@ -26,22 +26,16 @@ export function gradeText(input: string, accepted: string[]): GradeResult {
   return { correct: false, correctAnswer };
 }
 
-/** Grades a learner response. Build/listen responses are tiles joined by spaces. */
+/** Grades a learner response. Build responses are tiles joined by spaces. */
 export function gradeExercise(exercise: Exercise, response: string): GradeResult {
   switch (exercise.kind) {
     case 'select':
       return { correct: response === exercise.answer, correctAnswer: exercise.answer };
-    case 'build':
-    case 'listen': {
+    case 'build': {
       // Tiles are exact words, so only exact (normalised) matches count.
       const result = gradeText(response, exercise.accepted);
       return result.note ? { correct: false, correctAnswer: result.correctAnswer } : result;
     }
-    case 'type':
-      return gradeText(response, exercise.accepted);
-    case 'match':
-      // Matching is validated pair-by-pair in the UI; finishing it is always a success.
-      return { correct: true, correctAnswer: '' };
     case 'choice':
       return {
         correct: response === String(exercise.answerIndex),

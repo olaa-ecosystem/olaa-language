@@ -1,31 +1,14 @@
 import { useSyncExternalStore } from 'react';
 import { clearSaved, loadJson, saveJson } from '../services/storage';
-import { initialState, STATE_VERSION, type AppState } from './appState';
-
-function isAppState(value: unknown): value is AppState {
-  return (
-    typeof value === 'object' &&
-    value !== null &&
-    (value as { version?: unknown }).version === STATE_VERSION
-  );
-}
-
-/** Saved mistakes of exercise kinds that no longer exist (the mascot picture exercise). */
-function dropRetiredExercises(state: AppState): AppState {
-  const courses = { ...state.courses };
-  for (const [id, progress] of Object.entries(courses)) {
-    if (!progress) continue;
-    const mistakes = Object.fromEntries(
-      Object.entries(progress.mistakes).filter(([, e]) => (e.kind as string) !== 'picture'),
-    );
-    courses[id as keyof typeof courses] = { ...progress, mistakes };
-  }
-  return { ...state, courses };
-}
+import { initialState, type AppState } from './appState';
+import { migrateState } from './migrate';
 
 function load(): AppState {
-  // Merge with defaults so fields added later get sensible values.
-  return dropRetiredExercises({ ...initialState(), ...loadJson(initialState, isAppState) });
+  const raw = loadJson<unknown>(
+    () => null,
+    (_v): _v is unknown => true,
+  );
+  return migrateState(raw) ?? initialState();
 }
 
 let state: AppState = load();
@@ -42,7 +25,7 @@ export const appStore = {
   },
   /** Replace the whole state, e.g. with progress downloaded from the account. */
   replace(next: AppState): void {
-    state = { ...initialState(), ...next };
+    state = migrateState(next) ?? initialState();
     saveJson(state);
     listeners.forEach((l) => l());
   },

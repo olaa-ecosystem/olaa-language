@@ -1,68 +1,86 @@
-import { COURSES, findLesson } from '../features/curriculum';
-import { generateLessonExercises } from '../features/exercises';
+import type { Exercise } from '../features/exercises';
 import {
-  applyCardReview,
+  awardXp,
   completeOnboarding,
-  courseProgress,
-  finishLesson,
   initialState,
+  levelProgress,
   recordMistake,
   resolveMistake,
+  setLevelLang,
 } from './appState';
+import { migrateState } from './migrate';
 
-const course = COURSES['en-from-vi'];
-const { lesson } = findLesson(course, 'u1-animals')!;
-const today = '2026-11-19';
+const today = '2026-11-21';
+const text: Exercise = {
+  id: 'a1-1:3',
+  lessonId: 'a1-1',
+  kind: 'text',
+  instruction: null,
+  prompt: 'She ___ happy.',
+  lang: 'en',
+  accepted: ['is'],
+};
 
 describe('app state actions', () => {
-  it('onboards a learner', () => {
+  it('onboards a learner with a language and a daily goal', () => {
     const state = completeOnboarding(initialState(), {
       name: '  Mai ',
-      buddy: 'frog',
-      courseId: course.id,
+      lang: 'zh',
       dailyGoalXp: 30,
     });
-    expect(state.profile).toEqual({ name: 'Mai', buddy: 'frog' });
-    expect(state.activeCourseId).toBe(course.id);
+    expect(state.profile).toEqual({ name: 'Mai' });
+    expect(state.levelLang).toBe('zh');
     expect(state.dailyGoalXp).toBe(30);
   });
 
-  it('finishing a lesson levels it up, awards XP, starts a streak and adds flashcards', () => {
-    const state = finishLesson(initialState(), { course, lesson, xp: 15, today });
-    const progress = courseProgress(state, course.id);
-    expect(progress.lessonLevels[lesson.id]).toBe(1);
+  it('awards XP and starts a streak', () => {
+    const state = awardXp(initialState(), 15, today);
     expect(state.totalXp).toBe(15);
     expect(state.xpByDay[today]).toBe(15);
     expect(state.streak.count).toBe(1);
-    expect(Object.keys(progress.cards)).toHaveLength(lesson.words.length);
-    expect(progress.cards['u1-animals:cat']).toMatchObject({ front: 'cat', back: 'con mèo' });
   });
 
-  it('caps lesson level at 5 and keeps flashcard progress on repeats', () => {
-    let state = initialState();
-    for (let i = 0; i < 7; i++) state = finishLesson(state, { course, lesson, xp: 10, today });
-    expect(courseProgress(state, course.id).lessonLevels[lesson.id]).toBe(5);
-    state = applyCardReview(state, course.id, 'u1-animals:cat', 'easy', today);
-    state = finishLesson(state, { course, lesson, xp: 10, today });
-    expect(courseProgress(state, course.id).cards['u1-animals:cat']!.box).toBe(3);
+  it('switches language without touching progress', () => {
+    const s = setLevelLang(initialState(), 'es');
+    expect(s.levelLang).toBe('es');
+    expect(setLevelLang(s, 'es')).toBe(s);
   });
 
-  it('records and resolves mistakes, ignoring match exercises', () => {
-    const exercises = generateLessonExercises(course, lesson, 0, 1);
-    const match = exercises.find((e) => e.kind === 'match')!;
-    const other = exercises.find((e) => e.kind !== 'match')!;
-    let state = recordMistake(initialState(), course.id, match);
-    expect(courseProgress(state, course.id).mistakes).toEqual({});
-    state = recordMistake(state, course.id, other);
-    expect(Object.keys(courseProgress(state, course.id).mistakes)).toEqual([other.id]);
-    state = resolveMistake(state, course.id, other.id);
-    expect(courseProgress(state, course.id).mistakes).toEqual({});
+  it('records, counts and resolves mistakes per language', () => {
+    let s = recordMistake(initialState(), 'en', text, 'grammar');
+    s = recordMistake(s, 'en', { ...text, review: true }, 'grammar');
+    const p = levelProgress(s, 'en');
+    expect(Object.keys(p.mistakes)).toEqual([text.id]);
+    expect(p.mistakes[text.id]?.review).toBeUndefined();
+    expect(p.mistakeCategories).toEqual({ grammar: 2 });
+    expect(levelProgress(s, 'es').mistakes).toEqual({});
+    s = resolveMistake(s, 'en', text.id);
+    expect(levelProgress(s, 'en').mistakes).toEqual({});
   });
 
-  it('counts mistakes by category', () => {
-    const exercise = generateLessonExercises(course, lesson, 0, 1).find((e) => e.kind !== 'match')!;
-    const s = recordMistake(initialState(), course.id, exercise, 'word-order');
-    const again = recordMistake(s, course.id, exercise, 'word-order');
-    expect(courseProgress(again, course.id).mistakeCategories).toEqual({ 'word-order': 2 });
+  it('does not keep self-checked items as mistakes', () => {
+    const say: Exercise = { id: 's', lessonId: 'a1-1', kind: 'say', text: 'Hello', lang: 'en' };
+    expect(recordMistake(initialState(), 'en', say)).toEqual(initialState());
+  });
+});
+
+describe('migrateState', () => {
+  it('keeps current data and fills missing level fields', () => {
+    const s = migrateState({
+      ...initialState(),
+      levels: { en: { units: { x: 1 }, tests: {}, cards: {} } },
+    });
+    expect(s?.levels.en).toEqual({
+      units: { x: 1 },
+      tests: {},
+      cards: {},
+      mistakes: {},
+      mistakeCategories: {},
+    });
+  });
+
+  it('rejects unknown data', () => {
+    expect(migrateState(null)).toBeNull();
+    expect(migrateState({ version: 99 })).toBeNull();
   });
 });

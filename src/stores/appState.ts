@@ -1,6 +1,4 @@
-import type { MascotId } from '../types';
 import type { DayKey } from '../utils/date';
-import { MAX_LESSON_LEVEL, type Course, type CourseId, type Lesson } from '../features/curriculum';
 import type { Exercise } from '../features/exercises';
 import {
   newCard,
@@ -12,18 +10,12 @@ import type { ErrorCategory } from '../features/exercises/explain';
 import { recordActivity, type StreakState } from '../features/learning-progress/streak';
 import type { CurriculumLang, LevelUnit } from '../features/levels/types';
 
-export const STATE_VERSION = 1;
+/**
+ * Version 2 (2026-11-21): the old 9-lesson courses and the mascots were removed. Progress
+ * lives per language in the level curriculum. `migrate.ts` upgrades version 1 data.
+ */
+export const STATE_VERSION = 2;
 export const DAILY_GOAL_OPTIONS = [10, 20, 30, 50] as const;
-
-export interface CourseProgress {
-  /** 0 = not started, 1..5 = times completed (capped). */
-  lessonLevels: Record<string, number>;
-  cards: Record<string, SrsCard>;
-  /** Exercises answered wrongly, kept for targeted practice. */
-  mistakes: Record<string, Exercise>;
-  /** How often each kind of mistake happened (PRD v1.0 §6.3). */
-  mistakeCategories?: Partial<Record<ErrorCategory, number>>;
-}
 
 /** Progress in the level curriculum (A1–C2, HSK1–6) of one language. */
 export interface LevelProgress {
@@ -33,17 +25,21 @@ export interface LevelProgress {
   tests: Record<string, number>;
   /** Unit vocabulary, reviewed with spaced repetition. */
   cards: Record<string, SrsCard>;
+  /** Exercises answered wrongly, kept for targeted practice and review in later units. */
+  mistakes: Record<string, Exercise>;
+  /** How often each kind of mistake happened (PRD v1.0 §6.3). */
+  mistakeCategories: Partial<Record<ErrorCategory, number>>;
 }
 
 export interface Profile {
   name: string;
-  buddy: MascotId;
 }
 
 export interface AppState {
   version: typeof STATE_VERSION;
   profile: Profile | null;
-  activeCourseId: CourseId | null;
+  /** Language being learned now. */
+  levelLang: CurriculumLang;
   dailyGoalXp: number;
   soundOn: boolean;
   streak: StreakState;
@@ -52,17 +48,14 @@ export interface AppState {
   lessonsCompleted: number;
   /** "Can't listen now" pauses listening exercises until this time (ms). */
   listenOffUntil: number;
-  courses: Partial<Record<CourseId, CourseProgress>>;
-  /** Level curriculum language last opened. Optional: older saved states have none. */
-  levelLang?: CurriculumLang;
-  levels?: Partial<Record<CurriculumLang, LevelProgress>>;
+  levels: Partial<Record<CurriculumLang, LevelProgress>>;
 }
 
 export function initialState(): AppState {
   return {
     version: STATE_VERSION,
     profile: null,
-    activeCourseId: null,
+    levelLang: 'en',
     dailyGoalXp: 20,
     soundOn: true,
     streak: { count: 0, longest: 0, lastActive: null },
@@ -70,39 +63,36 @@ export function initialState(): AppState {
     xpByDay: {},
     lessonsCompleted: 0,
     listenOffUntil: 0,
-    courses: {},
+    levels: {},
   };
 }
 
-export function emptyCourseProgress(): CourseProgress {
-  return { lessonLevels: {}, cards: {}, mistakes: {} };
+export function emptyLevelProgress(): LevelProgress {
+  return { units: {}, tests: {}, cards: {}, mistakes: {}, mistakeCategories: {} };
 }
 
-export function courseProgress(state: AppState, courseId: CourseId): CourseProgress {
-  return state.courses[courseId] ?? emptyCourseProgress();
+export function levelProgress(state: AppState, lang: CurriculumLang): LevelProgress {
+  return { ...emptyLevelProgress(), ...state.levels[lang] };
 }
 
-function withCourse(
+function withLevels(
   state: AppState,
-  courseId: CourseId,
-  update: (progress: CourseProgress) => CourseProgress,
+  lang: CurriculumLang,
+  update: (p: LevelProgress) => LevelProgress,
 ): AppState {
-  return {
-    ...state,
-    courses: { ...state.courses, [courseId]: update(courseProgress(state, courseId)) },
-  };
+  return { ...state, levels: { ...state.levels, [lang]: update(levelProgress(state, lang)) } };
 }
 
 /* ---------- actions (pure) ---------- */
 
 export function completeOnboarding(
   state: AppState,
-  input: { name: string; buddy: MascotId; courseId: CourseId; dailyGoalXp: number },
+  input: { name: string; lang: CurriculumLang; dailyGoalXp: number },
 ): AppState {
   return {
     ...state,
-    profile: { name: input.name.trim() || 'Learner', buddy: input.buddy },
-    activeCourseId: input.courseId,
+    profile: { name: input.name.trim() || 'Learner' },
+    levelLang: input.lang,
     dailyGoalXp: input.dailyGoalXp,
   };
 }
@@ -115,98 +105,6 @@ export function awardXp(state: AppState, amount: number, today: DayKey): AppStat
     xpByDay: { ...state.xpByDay, [today]: (state.xpByDay[today] ?? 0) + amount },
     streak: recordActivity(state.streak, today),
   };
-}
-
-export function finishLesson(
-  state: AppState,
-  input: { course: Course; lesson: Lesson; xp: number; today: DayKey },
-): AppState {
-  const { course, lesson, xp, today } = input;
-  const next = withCourse(state, course.id, (progress) => {
-    const cards = { ...progress.cards };
-    for (const word of lesson.words) {
-      const id = `${lesson.id}:${word.en}`;
-      cards[id] ??= newCard(id, word[course.targetLang], word[course.baseLang], lesson.id, today);
-    }
-    const level = Math.min(MAX_LESSON_LEVEL, (progress.lessonLevels[lesson.id] ?? 0) + 1);
-    return { ...progress, cards, lessonLevels: { ...progress.lessonLevels, [lesson.id]: level } };
-  });
-  return awardXp({ ...next, lessonsCompleted: next.lessonsCompleted + 1 }, xp, today);
-}
-
-export function recordMistake(
-  state: AppState,
-  courseId: CourseId,
-  exercise: Exercise,
-  category?: ErrorCategory,
-): AppState {
-  if (exercise.kind === 'match') return state;
-  return withCourse(state, courseId, (p) => ({
-    ...p,
-    // Review copies are stored as plain exercises so they can come back again.
-    mistakes: { ...p.mistakes, [exercise.id]: { ...exercise, review: undefined } as Exercise },
-    mistakeCategories: category
-      ? { ...p.mistakeCategories, [category]: (p.mistakeCategories?.[category] ?? 0) + 1 }
-      : p.mistakeCategories,
-  }));
-}
-
-export function resolveMistake(state: AppState, courseId: CourseId, exerciseId: string): AppState {
-  if (!courseProgress(state, courseId).mistakes[exerciseId]) return state;
-  return withCourse(state, courseId, (p) => {
-    const mistakes = { ...p.mistakes };
-    delete mistakes[exerciseId];
-    return { ...p, mistakes };
-  });
-}
-
-export function applyCardReview(
-  state: AppState,
-  courseId: CourseId,
-  cardId: string,
-  grade: ReviewGrade,
-  today: DayKey,
-): AppState {
-  const card = courseProgress(state, courseId).cards[cardId];
-  if (!card) return state;
-  return withCourse(state, courseId, (p) => ({
-    ...p,
-    cards: { ...p.cards, [cardId]: reviewCard(card, grade, today) },
-  }));
-}
-
-export function setDailyGoal(state: AppState, xp: number): AppState {
-  return { ...state, dailyGoalXp: xp };
-}
-
-export function setSound(state: AppState, soundOn: boolean): AppState {
-  return { ...state, soundOn };
-}
-
-export function switchCourse(state: AppState, courseId: CourseId): AppState {
-  return { ...state, activeCourseId: courseId };
-}
-
-export function setBuddy(state: AppState, buddy: MascotId): AppState {
-  return state.profile ? { ...state, profile: { ...state.profile, buddy } } : state;
-}
-
-export function pauseListening(state: AppState, until: number): AppState {
-  return { ...state, listenOffUntil: until };
-}
-
-/* ---------- level curriculum ---------- */
-
-export function levelProgress(state: AppState, lang: CurriculumLang): LevelProgress {
-  return state.levels?.[lang] ?? { units: {}, tests: {}, cards: {} };
-}
-
-function withLevels(
-  state: AppState,
-  lang: CurriculumLang,
-  update: (p: LevelProgress) => LevelProgress,
-): AppState {
-  return { ...state, levels: { ...state.levels, [lang]: update(levelProgress(state, lang)) } };
 }
 
 export function setLevelLang(state: AppState, lang: CurriculumLang): AppState {
@@ -260,4 +158,47 @@ export function applyLevelCardReview(
     ...p,
     cards: { ...p.cards, [cardId]: reviewCard(card, grade, today) },
   }));
+}
+
+export function recordMistake(
+  state: AppState,
+  lang: CurriculumLang,
+  exercise: Exercise,
+  category?: ErrorCategory,
+): AppState {
+  // Self-checked items (speaking, free writing) are not mistakes to practise again.
+  if (exercise.kind === 'say' || exercise.kind === 'free') return state;
+  return withLevels(state, lang, (p) => ({
+    ...p,
+    // Review copies are stored as plain exercises so they can come back again.
+    mistakes: { ...p.mistakes, [exercise.id]: { ...exercise, review: undefined } as Exercise },
+    mistakeCategories: category
+      ? { ...p.mistakeCategories, [category]: (p.mistakeCategories[category] ?? 0) + 1 }
+      : p.mistakeCategories,
+  }));
+}
+
+export function resolveMistake(
+  state: AppState,
+  lang: CurriculumLang,
+  exerciseId: string,
+): AppState {
+  if (!levelProgress(state, lang).mistakes[exerciseId]) return state;
+  return withLevels(state, lang, (p) => {
+    const mistakes = { ...p.mistakes };
+    delete mistakes[exerciseId];
+    return { ...p, mistakes };
+  });
+}
+
+export function setDailyGoal(state: AppState, xp: number): AppState {
+  return { ...state, dailyGoalXp: xp };
+}
+
+export function setSound(state: AppState, soundOn: boolean): AppState {
+  return { ...state, soundOn };
+}
+
+export function pauseListening(state: AppState, until: number): AppState {
+  return { ...state, listenOffUntil: until };
 }

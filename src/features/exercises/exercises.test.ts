@@ -1,14 +1,5 @@
-import { COURSES, allLessons } from '../curriculum';
-import {
-  MAX_EXERCISES_PER_LESSON,
-  generateLessonExercises,
-  generatePracticeExercises,
-  gradeExercise,
-  gradeText,
-  toTiles,
-} from '.';
-import type { BuildExercise, Exercise } from './types';
-import { normalize } from '../../utils/text';
+import { gradeExercise, gradeText } from '.';
+import type { Exercise } from './types';
 
 describe('gradeText', () => {
   it('accepts canonical and alternative answers, ignoring case and punctuation', () => {
@@ -34,75 +25,79 @@ describe('gradeText', () => {
   });
 });
 
-describe('toTiles', () => {
-  it('lowercases sentence starts but keeps I and names', () => {
-    expect(toTiles('Hello, I am Lan.')).toEqual(['hello', 'I', 'am', 'Lan']);
+describe('gradeExercise', () => {
+  const base = { lessonId: 'u', lang: 'en' } as const;
+  const cases: [Exercise, string, string][] = [
+    [
+      {
+        ...base,
+        id: 'c',
+        kind: 'choice',
+        instruction: null,
+        prompt: 'p',
+        options: ['a', 'b'],
+        answerIndex: 1,
+        audioText: null,
+        passage: null,
+      },
+      '1',
+      '0',
+    ],
+    [
+      { ...base, id: 't', kind: 'text', instruction: null, prompt: 'p', accepted: ['went'] },
+      'went',
+      'go',
+    ],
+    [
+      { ...base, id: 'd', kind: 'dictation', audioText: 'I like tea.' },
+      'i like tea',
+      'I like coffee',
+    ],
+    [{ ...base, id: 's', kind: 'say', text: 'Hola' }, 'said', ''],
+    [{ ...base, id: 'f', kind: 'free', prompt: 'Write', model: null }, 'Some text', '  '],
+    [
+      {
+        id: 'se',
+        lessonId: 'u',
+        kind: 'select',
+        prompt: 'cat',
+        promptLang: 'en',
+        optionLang: 'vi',
+        options: ['con mèo', 'con chó'],
+        answer: 'con mèo',
+      },
+      'con mèo',
+      'con chó',
+    ],
+    [
+      {
+        id: 'b',
+        lessonId: 'u',
+        kind: 'build',
+        prompt: 'Tôi thích trà',
+        promptLang: 'vi',
+        answerLang: 'en',
+        tiles: [],
+        accepted: ['I like tea'],
+      },
+      'I like tea',
+      'tea I like',
+    ],
+  ];
+
+  it.each(cases)('grades %o', (exercise, right, wrong) => {
+    expect(gradeExercise(exercise, right).correct).toBe(true);
+    expect(gradeExercise(exercise, wrong).correct).toBe(false);
+  });
+
+  it('does not accept a one-letter slip in dictation', () => {
+    const e: Exercise = {
+      id: 'd',
+      lessonId: 'u',
+      kind: 'dictation',
+      audioText: 'I like apples',
+      lang: 'en',
+    };
+    expect(gradeExercise(e, 'I lik apples').correct).toBe(false);
   });
 });
-
-describe.each(Object.values(COURSES))('lesson generation for $id', (course) => {
-  const lessons = allLessons(course);
-
-  it.each(lessons.map((l) => [l.id, l] as const))('%s produces a solvable session', (_, lesson) => {
-    const exercises = generateLessonExercises(course, lesson, 0, 42);
-    expect(exercises.length).toBeGreaterThanOrEqual(8);
-    expect(exercises.length).toBeLessThanOrEqual(MAX_EXERCISES_PER_LESSON);
-    expect(new Set(exercises.map((e) => e.id)).size).toBe(exercises.length);
-    exercises.forEach((e) => expect(gradeExercise(e, solve(e)).correct).toBe(true));
-  });
-
-  it('is deterministic for a given seed', () => {
-    const lesson = lessons[0]!;
-    expect(generateLessonExercises(course, lesson, 1, 7)).toEqual(
-      generateLessonExercises(course, lesson, 1, 7),
-    );
-  });
-});
-
-describe('practice generation', () => {
-  it('returns nothing when no lessons are complete', () => {
-    expect(generatePracticeExercises(COURSES['en-from-vi'], [], 1)).toEqual([]);
-  });
-
-  it('draws only from completed lessons', () => {
-    const exercises = generatePracticeExercises(COURSES['vi-from-en'], ['u1-greetings'], 3);
-    expect(exercises.length).toBeGreaterThan(0);
-    expect(exercises.every((e) => e.lessonId === 'u1-greetings')).toBe(true);
-  });
-});
-
-/** Produces a correct response for any exercise, proving each one is answerable. */
-function solve(e: Exercise): string {
-  switch (e.kind) {
-    case 'select':
-      return e.answer;
-    case 'build':
-    case 'listen':
-      return solveTiles(e);
-    case 'type':
-      return e.accepted[0]!;
-    case 'match':
-      return '';
-    case 'choice':
-      return String(e.answerIndex);
-    case 'text':
-      return e.accepted[0]!;
-    case 'dictation':
-      return e.audioText;
-    case 'say':
-      return 'said';
-    case 'free':
-      return 'my answer';
-  }
-}
-
-function solveTiles(e: Pick<BuildExercise, 'tiles' | 'accepted'>): string {
-  const remaining = [...e.tiles];
-  const answer = toTiles(e.accepted[0]!);
-  for (const token of answer) {
-    const idx = remaining.findIndex((t) => normalize(t) === normalize(token));
-    expect(idx, `tile "${token}" missing`).toBeGreaterThanOrEqual(0);
-    remaining.splice(idx, 1);
-  }
-  return answer.join(' ');
-}

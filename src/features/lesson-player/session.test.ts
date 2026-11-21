@@ -13,10 +13,10 @@ import {
 const ex = (id: string): Exercise => ({
   id,
   lessonId: 'l',
-  kind: 'type',
+  kind: 'text',
+  instruction: null,
   prompt: id,
-  promptLang: 'vi',
-  answerLang: 'en',
+  lang: 'en',
   accepted: [id],
 });
 

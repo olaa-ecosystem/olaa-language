@@ -3,6 +3,7 @@
  * so they are unit-tested on their own).
  */
 import { STATE_VERSION, type AppState } from '../stores/appState';
+import { migrateState, READABLE_VERSIONS } from '../stores/migrate';
 
 export interface RemoteSnapshot {
   state: AppState;
@@ -49,18 +50,13 @@ export function toRemoteDoc(state: AppState, updatedAt: number): RemoteDoc {
 export function fromRemoteDoc(data: unknown): RemoteSnapshot | null {
   if (typeof data !== 'object' || data === null) return null;
   const { stateJson, updatedAt, schemaVersion } = data as Partial<RemoteDoc>;
-  if (schemaVersion !== STATE_VERSION) return null;
+  if (typeof schemaVersion !== 'number' || !READABLE_VERSIONS.includes(schemaVersion)) return null;
   if (typeof stateJson !== 'string' || typeof updatedAt !== 'number') return null;
   try {
     const parsed: unknown = JSON.parse(stateJson);
-    if (
-      typeof parsed !== 'object' ||
-      parsed === null ||
-      (parsed as { version?: unknown }).version !== STATE_VERSION
-    ) {
-      return null;
-    }
-    return { state: parsed as AppState, updatedAt };
+    // Older account copies are upgraded (version 1 → 2 drops the old courses and mascots).
+    const state = migrateState(parsed);
+    return state ? { state, updatedAt } : null;
   } catch {
     return null;
   }

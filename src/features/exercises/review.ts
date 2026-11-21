@@ -4,7 +4,7 @@
  * separate review page.
  */
 import type { SrsCard } from '../flashcards-srs/srs';
-import type { LanguageCode } from '../../types';
+import type { SpeechLang } from '../../utils/speech';
 import { createRng, shuffle } from '../../utils/random';
 import type { Exercise, SelectExercise } from './types';
 
@@ -15,8 +15,8 @@ export const REVIEW_SHARE = 0.25;
 export function cardExercise(
   card: SrsCard,
   others: SrsCard[],
-  targetLang: LanguageCode,
-  baseLang: LanguageCode,
+  targetLang: SpeechLang,
+  baseLang: SpeechLang,
   seed: number,
 ): SelectExercise | null {
   const rng = createRng(seed);
@@ -52,7 +52,7 @@ export function interleaveReview(
   const seen = new Set(lesson.map((e) => e.id));
   const pool = [
     ...shuffle(
-      input.mistakes.filter((m) => m.lessonId !== input.lessonId && m.kind !== 'match'),
+      input.mistakes.filter((m) => m.lessonId !== input.lessonId),
       createRng(seed),
     ),
     ...input.dueCards,

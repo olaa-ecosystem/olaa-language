@@ -1,4 +1,4 @@
-import type { BuildExercise, ListenExercise, SelectExercise, TypeExercise } from './types';
+import type { BuildExercise, SelectExercise, TextExercise } from './types';
 import { explainMistake } from './explain';
 import { gradeExercise } from './grade';
 import { setLocale } from '../../i18n/locale';
@@ -16,21 +16,16 @@ const build: BuildExercise = {
   tiles: [],
   accepted: ['I am a student'],
 };
-const type: TypeExercise = {
-  ...base,
-  id: 't',
-  kind: 'type',
-  prompt: 'Chào buổi sáng',
-  accepted: ['Good morning'],
-};
-const listen: ListenExercise = {
-  id: 'li',
+const text: TextExercise = {
+  id: 'tx',
   lessonId: 'l',
-  kind: 'listen',
-  audioText: 'I like cats',
-  audioLang: 'en',
-  tiles: [],
-  accepted: ['I like cats'],
+  kind: 'text',
+  instruction: null,
+  prompt: 'She ___ to school yesterday.',
+  lang: 'en',
+  accepted: ['went'],
+  skill: 'grammar',
+  explain: 'Past simple of "go" is "went".',
 };
 const select: SelectExercise = {
   id: 's',
@@ -65,22 +60,16 @@ describe('explainMistake', () => {
     });
   });
 
-  it('separates spelling slips from wrong translations', () => {
-    expect(why(type, 'God mornng')).toMatchObject({ category: 'spelling' });
-    expect(why(type, 'Gud morming')).toEqual({
-      category: 'spelling',
-      why: 'Close! Check the spelling of “good”, “morning”.',
+  it('uses the teacher explanation and the skill for curriculum items', () => {
+    expect(why(text, 'goed')).toEqual({
+      category: 'grammar',
+      why: 'Past simple of "go" is "went".',
     });
-    expect(why(type, 'Hello there')).toEqual({
-      category: 'translation',
-      why: 'A correct translation is “Good morning”.',
-    });
+    expect(why(text, '')).toMatchObject({ category: 'skipped' });
   });
 
-  it('explains meanings, listening and skips', () => {
+  it('explains meanings and skips', () => {
     expect(why(select, 'con chó')).toEqual({ category: 'meaning', why: '“cat” means “con mèo”.' });
-    expect(why(listen, 'I like dogs')?.category).toBe('listening');
-    expect(why(listen, 'I like dogs')?.why).toContain('You heard “I like cats”.');
-    expect(why(type, '')).toMatchObject({ category: 'skipped' });
+    expect(why(select, '')).toMatchObject({ category: 'skipped' });
   });
 });

@@ -14,7 +14,6 @@ Yêu cầu giao diện: `olaa-platform/architecture/PRD/UIUX_PRD_v0.1.md` và `U
 content/                     Dữ liệu bài học: cấp độ A1–C2 / HSK1–6, 15 chủ đề, Hán Việt (content/README.md)
 src/
   features/
-    curriculum/              Khoá học cũ (en-from-vi, vi-from-en): bài, lộ trình, mở khoá
     levels/                  Nạp, chuẩn hoá, mở khoá cấp độ và bài; tạo bài kiểm tra cấp độ
     topics/                  15 chủ đề và bài luyện
     exercises/               Tạo bài tập, chấm điểm, giải thích lỗi, ôn lồng vào bài
@@ -22,7 +21,7 @@ src/
     flashcards-srs/          Lặp lại ngắt quãng (Leitner)
     learning-progress/       Chuỗi ngày học
     data-export/             Xuất dữ liệu người dùng (JSON)
-  stores/                    Trạng thái app (hàm thuần) và store
+  stores/                    Trạng thái app (phiên bản 2, hàm thuần), store và chuyển đổi dữ liệu cũ (migrate.ts)
   services/                  Firebase Auth/Firestore, đồng bộ, sự kiện gửi Olaa Habits
   i18n/                      Song ngữ Việt/Anh: tr(vi, en)
   utils/                     Chữ, ngày, số ngẫu nhiên, giọng đọc, âm thanh

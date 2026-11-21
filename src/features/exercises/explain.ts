@@ -120,7 +120,7 @@ export function explainMistake(
         tr(`Đáp án là “${result.correctAnswer}”.`, `The answer is “${result.correctAnswer}”.`),
     };
   }
-  if (!response.trim() && exercise.kind !== 'match') {
+  if (!response.trim()) {
     return {
       category: 'skipped',
       why: tr(
@@ -140,33 +140,6 @@ export function explainMistake(
       };
     case 'build':
       return tileExplanation(response, exercise.accepted, false);
-    case 'listen':
-      return tileExplanation(response, exercise.accepted, true);
-    case 'type': {
-      const target = closest(response, exercise.accepted);
-      const a = stripDiacritics(normalize(target));
-      const b = stripDiacritics(normalize(response));
-      const near = levenshtein(a, b) <= Math.max(2, Math.round(a.length * 0.25));
-      if (near) {
-        const want = words(target);
-        const got = words(response);
-        const wrong = want.filter((w, i) => got[i] !== w);
-        return {
-          category: 'spelling',
-          why: wrong.length
-            ? tr(
-                `Gần đúng! Xem lại chính tả của ${quote(wrong)}.`,
-                `Close! Check the spelling of ${quote(wrong)}.`,
-              )
-            : tr(`Gần đúng! So với “${target}”.`, `Close! Compare with “${target}”.`),
-        };
-      }
-      return {
-        category: 'translation',
-        why: tr(`Một cách dịch đúng là “${target}”.`, `A correct translation is “${target}”.`),
-      };
-    }
-    case 'match':
     case 'choice':
     case 'text':
     case 'dictation':

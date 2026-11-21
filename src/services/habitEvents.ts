@@ -26,30 +26,17 @@ export function detectEvents(prev: AppState, next: AppState, today: DayKey): Lan
   const goal = next.dailyGoalXp;
   const before = prev.xpByDay[today] ?? 0;
   const after = next.xpByDay[today] ?? 0;
-  if (next.activeCourseId && goal > 0 && before < goal && after >= goal) {
+  if (next.profile && goal > 0 && before < goal && after >= goal) {
     events.push({
       type: 'language.daily_goal.completed',
       date: today,
-      payload: { courseId: next.activeCourseId, xp: after, goalXp: goal },
+      payload: { courseId: `${next.levelLang}-vi`, xp: after, goalXp: goal },
     });
   }
-  for (const [courseId, progress] of Object.entries(next.courses)) {
-    if (!progress) continue;
-    const old = prev.courses[courseId as keyof typeof prev.courses]?.lessonLevels ?? {};
-    for (const [lessonId, level] of Object.entries(progress.lessonLevels)) {
-      if (level >= 1 && (old[lessonId] ?? 0) === 0) {
-        events.push({
-          type: 'language.lesson.completed',
-          date: today,
-          payload: { courseId, lessonId },
-        });
-      }
-    }
-  }
   // Level curriculum: the first time a unit is finished counts as a completed lesson.
-  for (const [lang, progress] of Object.entries(next.levels ?? {})) {
+  for (const [lang, progress] of Object.entries(next.levels)) {
     if (!progress) continue;
-    const old = prev.levels?.[lang as keyof NonNullable<AppState['levels']>]?.units ?? {};
+    const old = prev.levels[lang as keyof AppState['levels']]?.units ?? {};
     for (const unitId of Object.keys(progress.units)) {
       if (old[unitId] === undefined) {
         events.push({

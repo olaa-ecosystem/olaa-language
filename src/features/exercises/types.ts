@@ -1,4 +1,3 @@
-import type { LanguageCode } from '../../types';
 import type { SpeechLang } from '../../utils/speech';
 
 interface ExerciseBase {
@@ -19,8 +18,8 @@ interface ExerciseBase {
 export interface SelectExercise extends ExerciseBase {
   kind: 'select';
   prompt: string;
-  promptLang: LanguageCode;
-  optionLang: LanguageCode;
+  promptLang: SpeechLang;
+  optionLang: SpeechLang;
   options: string[];
   answer: string;
 }
@@ -31,32 +30,6 @@ export interface BuildExercise extends ExerciseBase {
   prompt: string;
   promptLang: SpeechLang;
   answerLang: SpeechLang;
-  tiles: string[];
-  accepted: string[];
-}
-
-/** Tap matching pairs. */
-export interface MatchExercise extends ExerciseBase {
-  kind: 'match';
-  leftLang: LanguageCode;
-  rightLang: LanguageCode;
-  pairs: { left: string; right: string }[];
-}
-
-/** Type the translation. */
-export interface TypeExercise extends ExerciseBase {
-  kind: 'type';
-  prompt: string;
-  promptLang: LanguageCode;
-  answerLang: LanguageCode;
-  accepted: string[];
-}
-
-/** Listen and build what you hear. */
-export interface ListenExercise extends ExerciseBase {
-  kind: 'listen';
-  audioText: string;
-  audioLang: LanguageCode;
   tiles: string[];
   accepted: string[];
 }
@@ -113,10 +86,7 @@ export type Exercise =
   | SayExercise
   | FreeExercise
   | SelectExercise
-  | BuildExercise
-  | MatchExercise
-  | TypeExercise
-  | ListenExercise;
+  | BuildExercise;
 
 export type ExerciseKind = Exercise['kind'];
 

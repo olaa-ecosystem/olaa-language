@@ -2,12 +2,7 @@ import { completeOnboarding, initialState } from '../stores/appState';
 import { fromRemoteDoc, initialSyncAction, toRemoteDoc } from './syncPolicy';
 
 const fresh = initialState();
-const started = completeOnboarding(initialState(), {
-  name: 'An',
-  buddy: 'bear',
-  courseId: 'en-from-vi',
-  dailyGoalXp: 20,
-});
+const started = completeOnboarding(initialState(), { name: 'An', lang: 'zh', dailyGoalXp: 20 });
 
 describe('initialSyncAction', () => {
   it('does nothing when neither side has progress', () => {
@@ -41,6 +36,51 @@ describe('remote document', () => {
     expect(fromRemoteDoc({ ...toRemoteDoc(started, 1), schemaVersion: 999 })).toBeNull();
     expect(
       fromRemoteDoc({ stateJson: '{"version":999}', updatedAt: 1, schemaVersion: 1 }),
+    ).toBeNull();
+  });
+});
+
+describe('older account copies', () => {
+  it('upgrades a version 1 copy: drops the old courses and the buddy, keeps the rest', () => {
+    const v1 = {
+      version: 1,
+      profile: { name: 'Mai', buddy: 'frog' },
+      activeCourseId: 'en-from-vi',
+      dailyGoalXp: 30,
+      soundOn: false,
+      streak: { count: 4, longest: 9, lastActive: '2026-11-18' },
+      totalXp: 120,
+      xpByDay: { '2026-11-18': 30 },
+      lessonsCompleted: 7,
+      listenOffUntil: 0,
+      courses: { 'en-from-vi': { lessonLevels: { 'u1-greetings': 2 }, cards: {}, mistakes: {} } },
+      levelLang: 'es',
+      levels: { es: { units: { 'es-a1-1': 0.9 }, tests: {}, cards: {} } },
+    };
+    const doc = { stateJson: JSON.stringify(v1), updatedAt: 5, schemaVersion: 1 };
+    const state = fromRemoteDoc(doc)!.state;
+    expect(state.version).toBe(2);
+    expect(state.profile).toEqual({ name: 'Mai' });
+    expect(state).not.toHaveProperty('courses');
+    expect(state).not.toHaveProperty('activeCourseId');
+    expect(state).toMatchObject({
+      levelLang: 'es',
+      dailyGoalXp: 30,
+      soundOn: false,
+      totalXp: 120,
+      lessonsCompleted: 7,
+    });
+    expect(state.streak.longest).toBe(9);
+    expect(state.levels.es).toMatchObject({
+      units: { 'es-a1-1': 0.9 },
+      mistakes: {},
+      mistakeCategories: {},
+    });
+  });
+
+  it('ignores copies from a newer app', () => {
+    expect(
+      fromRemoteDoc({ stateJson: '{"version":3}', updatedAt: 1, schemaVersion: 3 }),
     ).toBeNull();
   });
 });

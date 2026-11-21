@@ -1,7 +1,5 @@
-import type { LanguageCode } from '../types';
-
-/** Languages the browser voice can read: course languages plus the curriculum languages. */
-export type SpeechLang = LanguageCode | 'es' | 'zh';
+/** Languages the browser voice can read: Vietnamese plus the languages being learned. */
+export type SpeechLang = 'vi' | 'en' | 'es' | 'zh';
 
 const VOICE_LOCALES: Record<SpeechLang, string> = {
   en: 'en-US',
