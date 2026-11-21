@@ -3,6 +3,10 @@
 All notable changes will be recorded here. Until the first release, this repository is in pre-development foundation stage.
 
 ## Unreleased
+
+- 2026-11-21: repository foundation completed: `CLAUDE.md` (rules for AI agents), `LICENSE` (proprietary), `.github/CODEOWNERS`, issue template config with a private security report link, `.gitattributes`, `.nvmrc` (Node 22).
+- 2026-11-21: interface removed to import a new frontend later; only logic, data and tests remain (see README).
+- 2026-11-21: old 9-lesson courses and mascots removed; app state version 2 with migration of version 1 data. Entries below that mention them are history.
 - Repository foundation initialized.
 - MVP lesson app (React + Vite + TypeScript), see ADR-001:
   - Onboarding: choose course (English ⇄ Vietnamese), study buddy and daily goal.
@@ -31,4 +35,3 @@ All notable changes will be recorded here. Until the first release, this reposit
   - A lesson left part-way can be continued where it stopped (saved in this browser for 7 days).
   - Review inside lessons: about a quarter of each lesson is earlier mistakes and due flashcards, starting with a
     warm-up; answers update the mistake list and the card schedule.
-
