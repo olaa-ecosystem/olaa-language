@@ -160,6 +160,29 @@ export function applyLevelCardReview(
   }));
 }
 
+/**
+ * Adds one word to the flashcards (from the glossary or a topic). A word already in the deck
+ * keeps its schedule: one word, one review schedule (PRD 01 REQ-01-003).
+ */
+export function addWordCard(
+  state: AppState,
+  lang: CurriculumLang,
+  input: { id: string; front: string; back: string; lessonId: string },
+  today: DayKey,
+): AppState {
+  const cards = levelProgress(state, lang).cards;
+  const front = input.front.trim().toLowerCase();
+  if (cards[input.id] || Object.values(cards).some((c) => c.front.trim().toLowerCase() === front))
+    return state;
+  return withLevels(state, lang, (p) => ({
+    ...p,
+    cards: {
+      ...p.cards,
+      [input.id]: newCard(input.id, input.front, input.back, input.lessonId, today),
+    },
+  }));
+}
+
 export function recordMistake(
   state: AppState,
   lang: CurriculumLang,
