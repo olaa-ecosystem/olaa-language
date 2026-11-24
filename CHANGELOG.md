@@ -3,6 +3,15 @@
 All notable changes will be recorded here. Until the first release, this repository is in pre-development foundation stage.
 
 ## Unreleased
+- New interface in the Olaa Note / Habits glass style (2026-11-24): Today (goal ring, habit-style
+  plan, month calendar, Habits and Note cards), Path with structured syllabus (modules, 4 steps
+  per unit, topics placed by level, weeks estimate), unit pages with tap-to-translate passages,
+  lesson player for all exercise kinds, level tests with weak skills, topics, practice
+  (mistakes, quick mix, pronunciation drills, sound chart), Words (SRS review, glossary search),
+  Me (stats, settings, Olaa ID, export) and study notes; app switcher Language → Note → Habits.
+- Imported data now used: glossary (20,910 entries) and pronunciation files.
+- `addWordCard` state action (no shape change); Language-owned activity log, notes and theme in
+  their own localStorage keys.
 
 - 2026-11-21: repository foundation completed: `CLAUDE.md` (rules for AI agents), `LICENSE` (proprietary), `.github/CODEOWNERS`, issue template config with a private security report link, `.gitattributes`, `.nvmrc` (Node 22).
 - 2026-11-21: interface removed to import a new frontend later; only logic, data and tests remain (see README).

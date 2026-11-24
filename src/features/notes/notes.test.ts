@@ -13,7 +13,7 @@ import {
 
 const draft = {
   lang: 'en' as const,
-  source: { kind: 'grammar' as const, ref: 'A1/a1-1', title: 'Greetings & to be' },
+  source: { kind: 'grammar' as const, ref: 'en/a1-1', title: 'Greetings & to be' },
   title: 'To be',
   body: 'I → am, he/she/it → is',
   tags: defaultTags('en', 'grammar'),
@@ -27,8 +27,8 @@ describe('learning notes', () => {
     expect(notes[0]?.body).toBe('edited');
     notes = addNote(notes, { ...draft, title: 'Questions' }, 3);
     expect(notes[0]?.title).toBe('Questions');
-    expect(hasNote(notes, 'A1/a1-1', 'To be')).toBe(true);
-    expect(notesFor(notes, 'A1/a1-1')).toHaveLength(2);
+    expect(hasNote(notes, 'en/a1-1', 'To be')).toBe(true);
+    expect(notesFor(notes, 'en/a1-1')).toHaveLength(2);
     expect(removeNote(notes, notes[0]!.id)).toHaveLength(1);
   });
 
@@ -44,7 +44,7 @@ describe('learning notes', () => {
       type: 'takenote.note.create_from_source',
       user_id: 'uid1',
       source_app: 'language',
-      source_ref: 'en/grammar/A1/a1-1',
+      source_ref: 'grammar/en/a1-1',
       title: 'To be',
       body: 'I → am, he/she/it → is',
       tags: ['olaa-language', 'english', 'grammar'],

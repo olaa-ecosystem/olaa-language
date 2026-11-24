@@ -47,7 +47,6 @@ export function createLocalStore<T>(
       return () => listeners.delete(listener);
     },
     use() {
-      // eslint-disable-next-line react-hooks/rules-of-hooks
       return useSyncExternalStore(store.subscribe, store.get, store.get);
     },
   };

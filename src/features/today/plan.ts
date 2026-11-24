@@ -54,6 +54,8 @@ export interface PlanInput {
   xpToday: number;
   goalXp: number;
   dueCards: number;
+  /** Cards in the deck; without any, there is nothing to review yet. */
+  totalCards: number;
   mistakes: number;
   nextUnit: { title: [string, string]; href: string } | null;
   topicOfDay: Topic | null;
@@ -74,17 +76,17 @@ export function todayPlan(input: PlanInput): PlanTask[] {
     done: count('unit') > 0 || count('test') > 0,
     href: input.nextUnit?.href ?? '#/path',
   });
-  tasks.push({
-    id: 'review',
-    title:
-      input.dueCards > 0
-        ? [`Ôn ${input.dueCards} thẻ từ đến hạn`, `Review ${input.dueCards} due cards`]
-        : ['Ôn thẻ từ', 'Review cards'],
-    detail:
-      input.dueCards > 0 ? null : ['Không còn thẻ đến hạn hôm nay', 'Nothing due today'],
-    done: input.dueCards === 0,
-    href: '#/words',
-  });
+  if (input.totalCards > 0)
+    tasks.push({
+      id: 'review',
+      title:
+        input.dueCards > 0
+          ? [`Ôn ${input.dueCards} thẻ từ đến hạn`, `Review ${input.dueCards} due cards`]
+          : ['Ôn thẻ từ', 'Review cards'],
+      detail: input.dueCards > 0 ? null : ['Không còn thẻ đến hạn hôm nay', 'Nothing due today'],
+      done: input.dueCards === 0,
+      href: '#/words',
+    });
   if (input.mistakes > 0 || count('mistakes') > 0)
     tasks.push({
       id: 'mistakes',
@@ -111,7 +113,10 @@ export function todayPlan(input: PlanInput): PlanTask[] {
   tasks.push({
     id: 'goal',
     title: [`Đạt ${input.goalXp} XP hôm nay`, `Reach ${input.goalXp} XP today`],
-    detail: [`${Math.min(input.xpToday, input.goalXp)} / ${input.goalXp} XP`, `${Math.min(input.xpToday, input.goalXp)} / ${input.goalXp} XP`],
+    detail: [
+      `${Math.min(input.xpToday, input.goalXp)} / ${input.goalXp} XP`,
+      `${Math.min(input.xpToday, input.goalXp)} / ${input.goalXp} XP`,
+    ],
     done: input.xpToday >= input.goalXp,
     href: '#/path',
   });

@@ -20,6 +20,7 @@ const input = (over: Partial<PlanInput> = {}): PlanInput => ({
   xpToday: 0,
   goalXp: 20,
   dueCards: 3,
+  totalCards: 10,
   mistakes: 0,
   nextUnit: { title: ['Chào hỏi', 'Greetings'], href: '#/unit/en/A1/a1-1' },
   topicOfDay: topic('t1', 'A1', 'HSK 1'),
@@ -50,6 +51,10 @@ describe('todayPlan', () => {
       }),
     );
     expect(later.every((t) => t.done)).toBe(true);
+  });
+
+  it('leaves out review until there are cards', () => {
+    expect(todayPlan(input({ totalCards: 0, dueCards: 0 })).some((t) => t.id === 'review')).toBe(false);
   });
 
   it('adds mistakes only when there are some', () => {

@@ -6,7 +6,7 @@ Hướng dẫn cho Claude Code khi làm việc trong repository này.
 
 Olaa Language: học tiếng Anh, Tây Ban Nha (A1–C2) và tiếng Trung (HSK1–6) cho người Việt — nhánh 01 trong kiến trúc 22 nhánh của Olaa. Kiến trúc, PRD, contract và hạ tầng dùng chung nằm ở repository `olaa-ecosystem/olaa-platform` (ADR-0001). Stack: React 18, Vite 5, TypeScript strict, pnpm 9, Vitest (ADR-0003).
 
-Giao diện đã được gỡ ngày 2026-11-21 để chủ dự án import bộ giao diện mới. Repository hiện chỉ có phần logic, dữ liệu và test. Xem `README.md`.
+Giao diện gỡ ngày 2026-11-21 đã được làm lại ngày 2026-11-24 theo phong cách Olaa Note / Habits (xem mục Giao diện trong `README.md`). Logic thuần nằm trong `src/features`, `src/stores`; màn hình trong `src/pages`.
 
 ## Đọc trước khi làm
 

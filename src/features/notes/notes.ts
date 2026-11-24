@@ -16,7 +16,7 @@ export interface LearningNote {
   id: string;
   createdAt: number;
   lang: CurriculumLang;
-  /** What the note was taken from, e.g. { kind: 'unit', ref: 'en/A1/a1-1' }. */
+  /** What the note was taken from, e.g. { kind: 'grammar', ref: 'en/a1-1' } (language/unit). */
   source: { kind: NoteSourceKind; ref: string; title: string };
   title: string;
   body: string;
@@ -79,7 +79,7 @@ export function createFromSourceCommand(note: LearningNote, userId: string) {
     type: 'takenote.note.create_from_source' as const,
     user_id: userId,
     source_app: 'language' as const,
-    source_ref: `${note.lang}/${note.source.kind}/${note.source.ref}`,
+    source_ref: `${note.source.kind}/${note.source.ref}`,
     title: note.title,
     body: note.body,
     tags: note.tags,
